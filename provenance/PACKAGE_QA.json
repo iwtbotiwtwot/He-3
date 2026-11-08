@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "checked_utc": "2026-11-08T20:54:19.215018+00:00",
+  "manuscript_commit_tested": "b306ee10d8d7de30bad0821b1b5e9c131158f3d3",
+  "pdf": {
+    "path": "paper/He3_Source_Field_Certificates.pdf",
+    "pages": 12,
+    "sha256": "508c4fd8dd0fcbccc41dbe03e79daaf3ad154f8e6c3a05a5b4a0f3939758dd09",
+    "latex_build": "Two successful pdflatex passes; no undefined references, overfull boxes, or LaTeX/package warnings.",
+    "visual_review": "All 12 rendered pages inspected; final changed pages 5 and 12 re-inspected. No clipping, overlap or broken formulas observed."
+  },
+  "portability": {
+    "method": "Fresh local Git clone with --no-hardlinks; checkout and output paths contain spaces; invocation from /tmp.",
+    "replay_status": "PASS",
+    "evidence_files_authenticated": 379,
+    "checks": 640,
+    "controls": 18,
+    "payment_routes": 2,
+    "network_or_model_service_used": false,
+    "summary": "PORTABLE_REPLAY_SUMMARY.json"
+  },
+  "authored_document_links": "PASS",
+  "replay_archive_readbacks": "PASS",
+  "private_key_and_common_token_pattern_scan": "No matches",
+  "scope": "Packaging, presentation and replay of existing results. No new Duck campaign, physical fit or external peer review."
+}
