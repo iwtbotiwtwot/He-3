@@ -1,0 +1,38 @@
+{
+  "files": [
+    {
+      "name": "REPORT.md",
+      "sha256": "67b60388547a1512579fbf60568de484ca9edf6859223633d702519b8b800af8"
+    },
+    {
+      "name": "RESULTS.json",
+      "sha256": "7c39dc47cff2d73d64fadffc4422ba44b65a315e207895aae77ae2df891a88f0"
+    },
+    {
+      "name": "NOTES.md",
+      "sha256": "38c34fe6e1f215f5a2af41e87e9dc4e75cd90cf5d6efcf3eaa8bab623ee44c04"
+    },
+    {
+      "name": "SOURCE_OPERATION_MAP.json",
+      "sha256": "e30235a60920caabe812f3532d2453ef2c16105583db7cf8eae52dee3ef1fb5e"
+    },
+    {
+      "name": "replay.py",
+      "sha256": "900de6fc10f9cda5061ed34f0df39775a18f43f04a69cd8c680ef67e7fbb15b7"
+    },
+    {
+      "name": "NATIVE_REPLAY_COMPARISON.json",
+      "sha256": "1dc341c28e7be2b02f366c51cad13bb2b3da582800cf80635f2bf2967aeff64d"
+    },
+    {
+      "name": "ATTEMPTS.json",
+      "sha256": "90b574b90aeb46007fe1b74502a535d68a0ab24e68647b839ab66e37bd0e3196"
+    },
+    {
+      "name": "CLOSING_REVIEW.json",
+      "sha256": "1beca37ecc1b856483d72c325b4c278b20466ccec9683a011c247a3230add91a"
+    }
+  ],
+  "complete": true,
+  "scope": "Blind B independent calculation, source-bound native execution, engine-free replay and report; no external verification claim."
+}

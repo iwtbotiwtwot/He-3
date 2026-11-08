@@ -1,0 +1,165 @@
+{
+  "prepared_utc": "2026-11-08T15:05:43.341272+00:00",
+  "case": "02_shared_field_covariance",
+  "files": [
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/sources/snapshots/light_source/source_only/HE3_INDEPENDENT_FRAGMENTS.json",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/HE3_INDEPENDENT_FRAGMENTS.json",
+      "sha256": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f",
+      "role": "Raw owning mathematical operand; code/program fields excluded from implementation use."
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/sources/snapshots/light_source/source_only/HE3_PLACEMENT.json",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/HE3_PLACEMENT.json",
+      "sha256": "7580dc810549c9ba5eb18a30ac0ffaf50a010de41fad80c369307bfe88c03865",
+      "role": "Raw owning mathematical operand; code/program fields excluded from implementation use."
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/sources/snapshots/light_source/source_only/HE3_FRAGMENT_SPACE.json",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/HE3_FRAGMENT_SPACE.json",
+      "sha256": "109700aed3eb2f1a6b1345cea90f4e24e8be993484573fa2579338c2e1d15c2c",
+      "role": "Raw owning mathematical operand; code/program fields excluded from implementation use."
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/sources/snapshots/light_source/source_only/COMPLETE_DC_PAIR.json",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/COMPLETE_DC_PAIR.json",
+      "sha256": "afbc60e193b31052399efe61f89a742df78e970f8ca47b1789f53e33f7298d24",
+      "role": "Raw owning mathematical operand; code/program fields excluded from implementation use."
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/sources/snapshots/light_source/source_only/COLOUR_64_CONSTRUCTION_PAYLOAD.json",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/COLOUR_64_CONSTRUCTION_PAYLOAD.json",
+      "sha256": "e51e8826e0570c8041aac43d9ddc7443641e738e67bd5164ff18dbb49da4b6e1",
+      "role": "Raw owning mathematical operand; code/program fields excluded from implementation use."
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/REPORT.md",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/constructor_TWO_REPORT.md",
+      "sha256": "ef77c54bf3e3679f8ec5375b02e65a8cdb285f2e875481f575c53b44b57ab27c",
+      "role": "Prior mathematical claim/proof under test; no previous implementation supplied."
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/DERIVATION_NOTES.md",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/constructor_TWO_DERIVATION.md",
+      "sha256": "12f994df98fc3ba0b6738e1422f6fd23615550a1d57427fd4e1760715e38b044",
+      "role": "Prior mathematical claim/proof under test; no previous implementation supplied."
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_a1_light_sources_20261108/peers/TWO/REPORT.md",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/A1_TWO_REPORT.md",
+      "sha256": "b17a0368d75bdc46aefe7b0e01ea24826735b52ff29dbc27855dff7d6c2552c4",
+      "role": "Prior mathematical claim/proof under test; no previous implementation supplied."
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/MULTI_FIELD_OPERANDS.json",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/MULTI_FIELD_OPERANDS.json",
+      "sha256": "ca85b5045b90e3180ca40e8934d100a665c5b79bbcb91515fc0f0b46f5a33aa7",
+      "role": "Declared witness preparations and comparison claims."
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/gen/TENSOR_TWO_OPERANDS_V3.json",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/TENSOR_TWO_OPERANDS.json",
+      "sha256": "6c5eff0960c861021e790e51f9471ad3c50bf858bb1c5ac788ac04a4c99e452f",
+      "role": "Generated mathematical operands for comparison; rebuild the fibres and projectors from raw source."
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/FOUR/RADIUS_CLOCK_WORKING.md",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/PROFILE_SCOPE.md",
+      "sha256": "687bc5afdfaf65c15e2fd5dc09a38a2c5068b53337e0118c54892a0dc1918fa5",
+      "role": "Profile/clock scope boundary; no new profile is selected."
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/DERIVATION.md",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/HE3_VERIFIED_ACCOUNT.md",
+      "sha256": "9fdd71fba789ac13b596f075acd6f8e818a392bcb550a668ba625ebbc5c6232d",
+      "role": "Existing complete-payment proof scope; its numerical certificate is not transferred."
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/HYPOTHESES.md",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/HE3_HYPOTHESES.md",
+      "sha256": "e7d7de33498115c35782dbdd820dcdca3e50e52ae22cb7b9b1b7493095d68321",
+      "role": "Existing form-domain/moment assumptions and source normalization."
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_MULTI_FIELD_VARIANCE_V1/RESULT.json",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/shared_field_covariance/native_prior/TWO_MULTI_FIELD_VARIANCE_V1/RESULT.json",
+      "sha256": "68a63bfe0c168439582bb8903aacd5c0dc1028970d8e65a1d624256e1a559d38",
+      "role": "Original native receipt retained privately, not a fresh calculation."
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_MULTI_FIELD_VARIANCE_V1/gen6/000_FIELD_CORRELATED_GRAM_V1.output.json",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/shared_field_covariance/native_prior/TWO_MULTI_FIELD_VARIANCE_V1/000_FIELD_CORRELATED_GRAM_V1.output.json",
+      "sha256": "51281bd315205bec3f5cdfcecad3e935553326472dcbe3622ad459aa51427585",
+      "role": "Complete original output retained privately; prior executable implementation is not consumed."
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_MULTI_FIELD_VARIANCE_V1/gen6/000_FIELD_CORRELATED_GRAM_V1.output.json",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/000_FIELD_CORRELATED_GRAM_V1.output.json",
+      "raw_sha256": "51281bd315205bec3f5cdfcecad3e935553326472dcbe3622ad459aa51427585",
+      "snapshot_sha256": "f0530be023e7adb07cc7f7ba575acc8923bd0b067e673f36cd3435e4622f1be9",
+      "role": "Selected verbatim mathematical fields only; no generator/native program.",
+      "selected_fields": [
+        "field",
+        "matrix",
+        "rank"
+      ]
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_MULTI_FIELD_VARIANCE_V1/gen6/001_FIELD_ANTICORRELATED_GRAM_V1.output.json",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/shared_field_covariance/native_prior/TWO_MULTI_FIELD_VARIANCE_V1/001_FIELD_ANTICORRELATED_GRAM_V1.output.json",
+      "sha256": "73b8d0dded8acbf290b8e7187fd5c35d819eb9925f8608ff628a3305748d00a8",
+      "role": "Complete original output retained privately; prior executable implementation is not consumed."
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_MULTI_FIELD_VARIANCE_V1/gen6/001_FIELD_ANTICORRELATED_GRAM_V1.output.json",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/001_FIELD_ANTICORRELATED_GRAM_V1.output.json",
+      "raw_sha256": "73b8d0dded8acbf290b8e7187fd5c35d819eb9925f8608ff628a3305748d00a8",
+      "snapshot_sha256": "365126a3f55f97bc214f05dc1a8fb173b471fd34866076394618111be7f3d54d",
+      "role": "Selected verbatim mathematical fields only; no generator/native program.",
+      "selected_fields": [
+        "field",
+        "matrix",
+        "rank"
+      ]
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_MULTI_FIELD_VARIANCE_V1/gen6/002_FIELD_CURRENT_PLUS_VARIANCE_V1.output.json",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/shared_field_covariance/native_prior/TWO_MULTI_FIELD_VARIANCE_V1/002_FIELD_CURRENT_PLUS_VARIANCE_V1.output.json",
+      "sha256": "411f44acb4005b723c7aa0d907d0ee9a0b0654c4e14685e1fb14daaed8935eb8",
+      "role": "Complete original output retained privately; prior executable implementation is not consumed."
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_MULTI_FIELD_VARIANCE_V1/gen6/002_FIELD_CURRENT_PLUS_VARIANCE_V1.output.json",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/002_FIELD_CURRENT_PLUS_VARIANCE_V1.output.json",
+      "raw_sha256": "411f44acb4005b723c7aa0d907d0ee9a0b0654c4e14685e1fb14daaed8935eb8",
+      "snapshot_sha256": "c02a2b74487d48b0ce356685af7be6fb6186a1864c91ecb1ad259003fc9875f1",
+      "role": "Selected verbatim mathematical fields only; no generator/native program.",
+      "selected_fields": [
+        "field",
+        "matrix",
+        "rank"
+      ]
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_MULTI_FIELD_VARIANCE_V1/gen6/003_FIELD_CURRENT_MINUS_VARIANCE_V1.output.json",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/shared_field_covariance/native_prior/TWO_MULTI_FIELD_VARIANCE_V1/003_FIELD_CURRENT_MINUS_VARIANCE_V1.output.json",
+      "sha256": "c2dfdab37aeecf174d59233a5b72521315a7fc42557f9ac58b51bfb02b9300c4",
+      "role": "Complete original output retained privately; prior executable implementation is not consumed."
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_MULTI_FIELD_VARIANCE_V1/gen6/003_FIELD_CURRENT_MINUS_VARIANCE_V1.output.json",
+      "snapshot": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/003_FIELD_CURRENT_MINUS_VARIANCE_V1.output.json",
+      "raw_sha256": "c2dfdab37aeecf174d59233a5b72521315a7fc42557f9ac58b51bfb02b9300c4",
+      "snapshot_sha256": "a0abab223a0e6541bdabe6efff45255f4b5d20ebe18418d8508721fc1e745197",
+      "role": "Selected verbatim mathematical fields only; no generator/native program.",
+      "selected_fields": [
+        "field",
+        "matrix",
+        "rank"
+      ]
+    }
+  ],
+  "source_campaign": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108",
+  "source_reading_scope": "Completed TWO reports and immutable task outputs; no active THREE scratch or outstanding task is needed or changed.",
+  "old_program_use": "Excluded. Only raw operand fields and mathematical claims/outputs supplied."
+}

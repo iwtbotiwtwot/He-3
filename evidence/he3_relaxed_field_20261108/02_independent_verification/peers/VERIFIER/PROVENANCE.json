@@ -1,0 +1,82 @@
+{
+  "utc": "2026-11-08T14:17:12.580293+00:00",
+  "instruction_scope": "VERIFIER_BRIEF.md and current ironclad AGENTS.md; all writes confined to verifier/; no Git changes by verifier",
+  "classification": "I1 same inherited model, newly authored host exact arithmetic and proof reconstruction; no external verification",
+  "input_custody": "INPUT_VERIFICATION.json",
+  "frozen_input_count": 49,
+  "all_frozen_hashes_matched": true,
+  "script_versions": [
+    {
+      "version": 1,
+      "path": "versions/replay_v1.py",
+      "sha256": "8d4e7eb15b93d7d8dba12106c655b77fe8e04d67bc242c4c20e0116aab168811",
+      "sealed_utc": "2026-11-08T14:04:04.304168+00:00",
+      "launch": "runs/attempt1.launch.json"
+    },
+    {
+      "version": 2,
+      "path": "versions/replay_v2.py",
+      "sha256": "9596443c08686d68cd4a03292ce944d44170d094fb8ca4a1073130bcec06ba2d",
+      "sealed_utc": "2026-11-08T14:04:31.662923+00:00",
+      "launch": "runs/attempt2.launch.json"
+    },
+    {
+      "version": 3,
+      "path": "versions/replay_v3.py",
+      "sha256": "c9039e9c7bc2100b204236dd4233827b2eae81aa4db085f04131362d85e12f39",
+      "sealed_utc": "2026-11-08T14:13:41.797200+00:00",
+      "launch": "runs/attempt3.launch.json"
+    }
+  ],
+  "scientific_routes": {
+    "v1": "No scientific execution: syntax error at parse time.",
+    "v2": "Successful complete direct signed account using supplied numerical retarded lower.",
+    "v3": "Successful weaker universal spectral account kappaStar=3Delta*bU; no numerical retarded lower required."
+  },
+  "primary_result": "runs/attempt3/RESULTS.json",
+  "delivery_result_byte_identical": true,
+  "semantic_source_roles": {
+    "raw_finite_operands": [
+      "sources/light/COLOUR_64_CONSTRUCTION_PAYLOAD.json:data.operators",
+      "sources/light/COMPLETE_DC_PAIR.json",
+      "sources/light/HE3_INDEPENDENT_FRAGMENTS.json",
+      "sources/GEN4/volii_quantum_motion_join1_20261016/source/SOURCE_PACKET.json"
+    ],
+    "trial_and_enclosures": [
+      "sources/TRIAL_FAMILY.json",
+      "sources/GEN4/volii_dressed_reference1_20261016/joint/INTERFACE.json"
+    ],
+    "owning_mathematical_documents": [
+      "sources/GEN4/volii_quantum_motion_join1_20261016/field/DERIVATION.md",
+      "sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_DERIVATION.md",
+      "sources/GEN4/volii_quantum_motion_join1_20261016/source/R2_DERIVATION.md",
+      "sources/GEN4/volii_combined_evaluation1_20261016/spectral/DERIVATION.md",
+      "sources/GEN4/volii_combined_evaluation1_20261016/spectral/CONTROL_DERIVATION.md",
+      "sources/GEN4/volii_dressed_reference1_20261016/joint/DERIVATION.md",
+      "sources/GEN4/volii_dressed_reference1_20261016/threshold/DERIVATION.md",
+      "sources/GEN4/volii_fragment_action1_20261016/joint/DERIVATION.md"
+    ],
+    "prior_proofs_under_test": [
+      "prior/A1/RESEARCH_REPORT.md",
+      "prior/A1/peers/ONE/REPORT.md",
+      "prior/A1/peers/TWO/REPORT.md",
+      "prior/learning_case/DERIVATION.md",
+      "prior/learning_case/REPORT.md",
+      "prior/learning_case/TRANSFER_MAP.md"
+    ],
+    "historical_metadata_only": [
+      "sources/CAPABILITIES_FULL.json",
+      "sources/GEN4/volii_quantum_motion_join1_20261016/RUN_POLICY.json",
+      "sources/GEN4/volii_quantum_motion_join1_20261016/field/R1_VERIFICATION.json",
+      "sources/GEN4/volii_quantum_motion_join1_20261016/field/ADAPTIVE_R1_VERIFICATION.json",
+      "sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_VERIFICATION.json",
+      "sources/GEN4/volii_dressed_reference1_20261016/joint/VERIFICATION.json",
+      "sources/GEN4/volii_combined_evaluation1_20261016/reference/PENCIL_VERIFICATION.json"
+    ],
+    "old_aggregate_not_consumed": "The old paid matrix ACTUAL_RETURN.json was structurally inventoried but no aggregate upper or component subtraction entered replay.py.",
+    "recipe_exclusion": "Payload program field length was structurally inventoried; no program entry was viewed or used. Replays/generators/native recipes from prior A1 or learning A/B were not read or run.",
+    "native_stub_boundary": "Four frozen native_returns files share the same hash and contain only the JSON string Output; they are not numerical integration bodies."
+  },
+  "capability_selection": "Complete frozen capability inventory available; selected host standard-library exact arithmetic per brief. No native engine or timed Duck window.",
+  "outside_sources": "No external mathematical source, internet or historical rollout used. Instruction/skill paths are hashed in INPUT_VERIFICATION.json."
+}

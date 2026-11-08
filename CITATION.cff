@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite this working manuscript and identify the repository commit used for reproduction."
+type: software
+title: "He-3: Exact Source Reduction and Complete Field-Energy Certificates"
+authors:
+  - family-names: Brady
+    given-names: Sean
+version: 0.1.0
+date-released: 2026-11-08
+repository-code: "https://github.com/iwtbotiwtwot/He-3"
+abstract: "Working manuscript and portable exact-arithmetic evidence for a finite ppn source model and a complete conditional variational field-energy certificate."
+preferred-citation:
+  type: unpublished
+  authors:
+    - family-names: Brady
+      given-names: Sean
+  title: "Exact Source Reduction and Complete Field-Energy Certificates for a He-3 Model"
+  year: 2026
+  month: 11
+  date-published: 2026-11-08
+  url: "https://github.com/iwtbotiwtwot/He-3"

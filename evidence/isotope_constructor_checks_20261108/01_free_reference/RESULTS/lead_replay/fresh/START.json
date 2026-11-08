@@ -1,0 +1,20 @@
+{
+  "case": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference",
+  "command": [
+    "peers/VERIFIER/replay.py",
+    "run",
+    "--case",
+    ".",
+    "--registration",
+    "RESULTS/lead_replay/EXECUTION_PREREGISTRATION.json",
+    "--out",
+    "RESULTS/lead_replay/fresh"
+  ],
+  "out": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh",
+  "platform": "Linux-7.0.0-38-generic-x86_64-with-glibc2.39",
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "registration_sealed_utc": "2026-11-08T15:30:24.602794+00:00",
+  "registration_sha256": "d15193174651158f71fef35b0e1bee92a689d5ac2068318cba3a92f05f397bc4",
+  "script_sha256": "9f31c15a382cb7a895d7c2a9b8265bc6a7e20381061b669760ea9b25ce541d73",
+  "started_utc": "2026-11-08T15:30:24.709039+00:00"
+}

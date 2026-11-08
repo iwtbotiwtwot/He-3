@@ -1,0 +1,115 @@
+{
+  "prepared_utc": "2026-11-08T13:55:20.010146+00:00",
+  "predecessor_case": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment",
+  "source_manifests": [
+    "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_a1_light_sources_20261108/SOURCE_MANIFEST.json",
+    "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/FILE_MANIFEST.json"
+  ],
+  "files": [
+    {
+      "origin": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/REPORT.md",
+      "snapshot": "prior/learning_case/REPORT.md",
+      "sha256": "77bfd1e2289e5da7c8fa6d94e7d524c9f2175baa9dc781778fa9289be38d5f32",
+      "role": "Prior mathematical claim/evidence; implementation withheld from new verifier."
+    },
+    {
+      "origin": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/DERIVATION.md",
+      "snapshot": "prior/learning_case/DERIVATION.md",
+      "sha256": "05ecf30fed217a0f179e721a442687df1200851834f817a34ec3da6a7e44482b",
+      "role": "Prior mathematical claim/evidence; implementation withheld from new verifier."
+    },
+    {
+      "origin": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/TRANSFER_MAP.md",
+      "snapshot": "prior/learning_case/TRANSFER_MAP.md",
+      "sha256": "74f45b1973e55e8d02587491614faa022d2bf1f5c93549330346476ed7f441cd",
+      "role": "Prior mathematical claim/evidence; implementation withheld from new verifier."
+    },
+    {
+      "origin": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/CASE.json",
+      "snapshot": "prior/learning_case/CASE.json",
+      "sha256": "6925bb1e5b560b04d0f19669f71002ea688aaf4c12de66ef25340cf076509804",
+      "role": "Prior mathematical claim/evidence; implementation withheld from new verifier."
+    },
+    {
+      "origin": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/MANIFEST.json",
+      "snapshot": "prior/learning_case/MANIFEST.json",
+      "sha256": "50de2d9deb6a0e0b6d9d4c0fce0b6914d6862713fae363c9ab699cb8b81692cc",
+      "role": "Prior mathematical claim/evidence; implementation withheld from new verifier."
+    },
+    {
+      "origin": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/RECURRENCE.json",
+      "snapshot": "prior/learning_case/RESULTS/RECURRENCE.json",
+      "sha256": "4ac67954890aea25ad25460eedc6cacf518df28827c339dc9cab92ce59db37cb",
+      "role": "Prior mathematical claim/evidence; implementation withheld from new verifier."
+    },
+    {
+      "origin": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/COMPARISON.json",
+      "snapshot": "prior/learning_case/RESULTS/COMPARISON.json",
+      "sha256": "0caf94ba7c8c25abb6ab1b6d632004ce94f9bbc186a8e0598a5aa46311f00bca",
+      "role": "Prior mathematical claim/evidence; implementation withheld from new verifier."
+    },
+    {
+      "origin": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_a1_light_sources_20261108/RESEARCH_REPORT.md",
+      "snapshot": "prior/A1/RESEARCH_REPORT.md",
+      "sha256": "e5fd3db1591499e556a01f90a5ec1cf76fd60c7331c1e8e3c807890741156713",
+      "role": "Original finite source, placement and general payment law; no prior code."
+    },
+    {
+      "origin": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_a1_light_sources_20261108/RESULTS_INDEX.md",
+      "snapshot": "prior/A1/RESULTS_INDEX.md",
+      "sha256": "baa5f995f70793a7ef3bb68cdda53d321ee54fccc60591de6c32e643bca8a702",
+      "role": "Original finite source, placement and general payment law; no prior code."
+    },
+    {
+      "origin": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_a1_light_sources_20261108/peers/ONE/REPORT.md",
+      "snapshot": "prior/A1/peers/ONE/REPORT.md",
+      "sha256": "d3e1e5e0b2915c0d5cf77469b5180d867a51ba3df3dbef77a234389f30f08daa",
+      "role": "Original finite source, placement and general payment law; no prior code."
+    },
+    {
+      "origin": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_a1_light_sources_20261108/peers/TWO/REPORT.md",
+      "snapshot": "prior/A1/peers/TWO/REPORT.md",
+      "sha256": "b17a0368d75bdc46aefe7b0e01ea24826735b52ff29dbc27855dff7d6c2552c4",
+      "role": "Original finite source, placement and general payment law; no prior code."
+    }
+  ],
+  "source_copy": {
+    "from_path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources",
+    "rule": "Every source file copied byte for byte.",
+    "files": {
+      "CAPABILITIES_FULL.json": "9f1f09953b0fab71fc3c556d55206b2b16871e2b279dd960f7c5934c06d3274d",
+      "GEN4/duck_gen6_local/runs/volii-missing-pieces-broad-20261016-01/native_returns/broad_atomic_full_translated_tensor_and_Pauli_response.json": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_join_exterior_response_source_algebra.json": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_actual_source_field_static_retarded_UV_join.json": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_full_source_quartic_counterterm.json": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "GEN4/volii_combined_evaluation1_20261016/reference/PENCIL_VERIFICATION.json": "60aa321e5d92820807713ab648a31e4f7663c4fd9c787776c5bac003bbac749f",
+      "GEN4/volii_combined_evaluation1_20261016/spectral/CONTROL_DERIVATION.md": "b4ccad19836a0e6223b87792edfae8b9e07ec29a15703f2e1bff7ad1ea8036f4",
+      "GEN4/volii_combined_evaluation1_20261016/spectral/DERIVATION.md": "755c3ce2b2d800944fb42a196b7b4f0a682a0143bf398c1f32391e6d15a83f36",
+      "GEN4/volii_dressed_reference1_20261016/joint/ACTUAL_RETURN.json": "f9b756af26454d26405a172c4a0c2741208c42b395add2970da4df0b0e462e32",
+      "GEN4/volii_dressed_reference1_20261016/joint/DERIVATION.md": "97685ff69bc6ec8a86bdf375726a77a2edc2aaa30155a0c5ba7484e2403b08c1",
+      "GEN4/volii_dressed_reference1_20261016/joint/INTERFACE.json": "0d879894c145965f62bf3a3f0885e6e916914a54b3bbfdf801a839a25acb2000",
+      "GEN4/volii_dressed_reference1_20261016/joint/VERIFICATION.json": "0c87960f7ff5b27b8df4a3ee5a872eaee2ae950c690bc1ce5a71d8e3fc30c348",
+      "GEN4/volii_dressed_reference1_20261016/threshold/DERIVATION.md": "3682b90b102744356cf9f7b4a5006242081a2e7a594cc3fbabedffb6580204bf",
+      "GEN4/volii_fragment_action1_20261016/joint/DERIVATION.md": "7592b40240ba931cbd1a0f82ce05ecaf141d327a72a09e185d9f14ff073e4735",
+      "GEN4/volii_missing_pieces_broad1_20261016/atomic/RADIAL_SOURCE_PACKET.json": "21e12021f78cc21828e0471051394f0b919c4a6cc5423c33e6ede121b70ea05c",
+      "GEN4/volii_quantum_motion_join1_20261016/RUN_POLICY.json": "fddfbf7187e23468e507e0c9ac4464da7df05cbc213e4b4b2363fdf96c0ed462",
+      "GEN4/volii_quantum_motion_join1_20261016/field/ADAPTIVE_R1_VERIFICATION.json": "e27cb1553a67eb35faa40a64ee504a564a8c58358f8b0d7c6316fbd46e00479c",
+      "GEN4/volii_quantum_motion_join1_20261016/field/DERIVATION.md": "aacc836c34f1058e5cf3875c88ca6c6ef339a9c02c9b10b7759a0298d9ac33a8",
+      "GEN4/volii_quantum_motion_join1_20261016/field/R1_VERIFICATION.json": "5125fd354b93f5b309c525629037196ad70b2024975f5cd09087ce089f8eb246",
+      "GEN4/volii_quantum_motion_join1_20261016/field/R2_DERIVATION.md": "718410fb27377377daa11ff069b1e42872742f4a8977c34ce893ccc6c08f8aed",
+      "GEN4/volii_quantum_motion_join1_20261016/field/R2_SOURCE_PACKET.json": "ed6e9821a606f17370a1b9bbffc3ad025fa5eec5b6afd84b110b9eeea7f9d188",
+      "GEN4/volii_quantum_motion_join1_20261016/field/R2_VERIFICATION.json": "e8ff2d48294e32c4d1fbd8274fa5d96127112c4a3bd5559b42d4b36ca789283e",
+      "GEN4/volii_quantum_motion_join1_20261016/field/SOURCE_PACKET.json": "cc0fc5af06e579f383847abc8fb695f92133d32590742d21c5f05f8cfb8275b5",
+      "GEN4/volii_quantum_motion_join1_20261016/source/R2_DERIVATION.md": "3abc10b97e6fa3661f8f200adfb418528aae0ebb961a84e5d7ec14266150781c",
+      "GEN4/volii_quantum_motion_join1_20261016/source/SOURCE_PACKET.json": "66c8ab84a5f7bc84d487b5463b93a164af6a857cd235da8718a18d2cfc611a14",
+      "TRIAL_FAMILY.json": "bce4669c325d25eb8063202a58ddc2480678bc8025a2f954824ff4b84464b56e",
+      "light/COLOUR_64_CONSTRUCTION_PAYLOAD.json": "e51e8826e0570c8041aac43d9ddc7443641e738e67bd5164ff18dbb49da4b6e1",
+      "light/COMPLETE_DC_PAIR.json": "afbc60e193b31052399efe61f89a742df78e970f8ca47b1789f53e33f7298d24",
+      "light/HE3_FRAGMENT_SPACE.json": "109700aed3eb2f1a6b1345cea90f4e24e8be993484573fa2579338c2e1d15c2c",
+      "light/HE3_INDEPENDENT_FRAGMENTS.json": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f",
+      "light/HE3_PLACEMENT.json": "7580dc810549c9ba5eb18a30ac0ffaf50a010de41fad80c369307bfe88c03865",
+      "light/INDEPENDENT_CONSTANTS.json": "02c6f2f114a4781a70d7d11ca4ae4718a17019b301b648474f9a0974db9efd94"
+    }
+  },
+  "code_independence": "No original A1 or learning A/B executable, generator, native recipe or replay implementation is supplied for use. Prior mathematical claims/reports and raw definitions are supplied."
+}

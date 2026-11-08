@@ -1,0 +1,62 @@
+{
+  "sealed_utc": "2026-11-08T13:55:20.010146+00:00",
+  "kind": "VERIFICATION_EXPECTATIONS_NOT_A_LEARNING_KEY",
+  "basis": "Prior FORCED statements restated independently of their construction. These are falsifiable predictions, not instructions to obtain a result.",
+  "positive_predictions": [
+    {
+      "id": "shared_intervals",
+      "prediction": "A complete upper certifies all four open intervals in CLAIM.json; endpoints are conservative sufficient values, not exact energies."
+    },
+    {
+      "id": "all_controls",
+      "prediction": "Every lighter retained mass/lane row and every positive-gate row is noncertifying for the rebuilt sufficient upper."
+    },
+    {
+      "id": "full_source",
+      "prediction": "Literal source and placement hypotheses hold on full spaces; a full-space derivation recovers the source law and paid account."
+    },
+    {
+      "id": "same_norm",
+      "prediction": "All exact identities share D; any bound of a signed numerator uses the appropriate endpoint of the norm interval."
+    }
+  ],
+  "breaking_controls": [
+    {
+      "id": "drop_incidence_variance",
+      "mutation": "Use scalar p inside the field square and omit p*(1-p)*C_cross at a finite positive conditional r.",
+      "prediction": "FAIL_IDENTITY with a strictly positive omitted term."
+    },
+    {
+      "id": "positive_gate_baseline",
+      "mutation": "Replace intrinsic crossing source by epsilon*P*(I+S12).",
+      "prediction": "The explicit epsilon*p baseline remains; constructed upper has no certifying interval."
+    },
+    {
+      "id": "truncate_placement",
+      "mutation": "Treat the connected J image as invariant under H192.",
+      "prediction": "FAIL_INVARIANCE: the actual complement leakage is nonzero."
+    },
+    {
+      "id": "flip_signed_contact_gram",
+      "mutation": "Reverse one contact-current sign but retain the old signed cross contract.",
+      "prediction": "FAIL_SOURCE_HYPOTHESIS; the old contraction must not be consumed unchanged."
+    },
+    {
+      "id": "wrong_norm_endpoint",
+      "mutation": "For a positive numerator upper divide by Dmax without a justified numerator/norm correlation.",
+      "prediction": "An exact normalized counterexample violates that proposed bound. Retain the negative-numerator sign control too."
+    },
+    {
+      "id": "changed_paid_ledger",
+      "mutation": "Add a positive changed paid term epsilon to the otherwise frozen complete account, leaving the fragment reference fixed.",
+      "prediction": "The constructed intrinsic certificate is lost for this changed account; no actual-energy exclusion follows."
+    },
+    {
+      "id": "beyond_sufficient_interval",
+      "mutation": "Evaluate the rebuilt upper at an explicitly chosen conditional parameter past its isolated zero.",
+      "prediction": "NONCERTIFYING_UPPER; it is not a ground-energy lower or physical parameter selection."
+    }
+  ],
+  "success_standard": "HELD only after a separate derivation, newly authored exact replay, correct hypotheses/reference/signs, all positive predictions checked and each breaking control exhibits the registered failure. Disclose every unexpected outcome.",
+  "independence": "New verifier cannot use prior A1 or learning A/B code, generators, native programs, replay implementation or their executions as its own computation. Same-model separate code is I1; numerical agreement alone is not verification or external review."
+}

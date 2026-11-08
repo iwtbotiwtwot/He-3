@@ -1,0 +1,42 @@
+{
+  "case_id": "he3_relaxed_field_20261108/01_complete_payment",
+  "campaign": "he3_relaxed_field_20261108",
+  "tier": "learning",
+  "constitution_revision": 2,
+  "types": {
+    "EXACT": 1,
+    "IDEA": 1
+  },
+  "credit": {
+    "proposed_by": [
+      "Sean Brady"
+    ],
+    "directed_by": "Sean Brady",
+    "executed_with": [
+      "source-bound native calculations and separately authored replays"
+    ]
+  },
+  "independence": "I0",
+  "reproducibility": "R0",
+  "reviewed_and_approved": false,
+  "withheld": [],
+  "appeal_of": null,
+  "ideas": [
+    {
+      "id": "physical_assignment",
+      "origin": "Complete field payment for the relaxed He-3 trial, following the completed A1 source work.",
+      "statement": "A common unfitted physical source and complete fragment reference.",
+      "status": "Open; this case tests the frozen conditional mathematical account.",
+      "decider": "Actual species/current/action/geometry and atomic-reference assignment."
+    }
+  ],
+  "edges": [],
+  "method": {
+    "instrument": "SLC-GEN5-R1/core0.11.3 direct source-bound native operations and separate Python calculations",
+    "form": "learning",
+    "window_start_utc": "",
+    "window_end_utc": "",
+    "peers": [],
+    "peer_reports": []
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "source_operation_map": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/SOURCE_OPERATION_MAP.json",
+  "source_map_sha256": "d7c375c58cd64a0c0b67231f7d2459c5b540a44bb46db7e2bd3db18cc7246503",
+  "tasks": [
+    {
+      "key": "TWO_MULTI_FIELD_VARIANCE_V1",
+      "status": "COMPLETED",
+      "started_utc": "2026-11-08T14:32:38.733761+00:00",
+      "completed_utc": "2026-11-08T14:32:39.775338+00:00",
+      "receipt": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_MULTI_FIELD_VARIANCE_V1/RESULT.json",
+      "receipt_sha256": "68a63bfe0c168439582bb8903aacd5c0dc1028970d8e65a1d624256e1a559d38",
+      "native_report_calls": 4,
+      "steps": [
+        {
+          "id": "FIELD_CORRELATED_GRAM_V1",
+          "operation": "GEN3_SOURCE_OPERATOR_WORD",
+          "purpose": "Actual normalized full64-source incidence moments for correlated preparation; preserve joint distribution not only equal means",
+          "input": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_MULTI_FIELD_VARIANCE_V1/gen6/000_FIELD_CORRELATED_GRAM_V1.input.json",
+          "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_MULTI_FIELD_VARIANCE_V1/gen6/000_FIELD_CORRELATED_GRAM_V1.output.json",
+          "output_sha256": "51281bd315205bec3f5cdfcecad3e935553326472dcbe3622ad459aa51427585",
+          "checks": [
+            {
+              "passed": true,
+              "predicate": "native_contract"
+            },
+            {
+              "passed": true,
+              "predicate": "native_status"
+            }
+          ]
+        },
+        {
+          "id": "FIELD_ANTICORRELATED_GRAM_V1",
+          "operation": "GEN3_SOURCE_OPERATOR_WORD",
+          "purpose": "Actual normalized full64-source incidence moments for anticorrelated preparation; preserve joint distribution not only equal means",
+          "input": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_MULTI_FIELD_VARIANCE_V1/gen6/001_FIELD_ANTICORRELATED_GRAM_V1.input.json",
+          "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_MULTI_FIELD_VARIANCE_V1/gen6/001_FIELD_ANTICORRELATED_GRAM_V1.output.json",
+          "output_sha256": "73b8d0dded8acbf290b8e7187fd5c35d819eb9925f8608ff628a3305748d00a8",
+          "checks": [
+            {
+              "passed": true,
+              "predicate": "native_contract"
+            },
+            {
+              "passed": true,
+              "predicate": "native_status"
+            }
+          ]
+        },
+        {
+          "id": "FIELD_CURRENT_PLUS_VARIANCE_V1",
+          "operation": "GEN3_SOURCE_OPERATOR_WORD",
+          "purpose": "Complete actual64-colour current coefficient1/4 U^T(D12 plus D23)^2 U/6 for source-correlated covariance; no profile or physical prefactor selected",
+          "input": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_MULTI_FIELD_VARIANCE_V1/gen6/002_FIELD_CURRENT_PLUS_VARIANCE_V1.input.json",
+          "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_MULTI_FIELD_VARIANCE_V1/gen6/002_FIELD_CURRENT_PLUS_VARIANCE_V1.output.json",
+          "output_sha256": "411f44acb4005b723c7aa0d907d0ee9a0b0654c4e14685e1fb14daaed8935eb8",
+          "checks": [
+            {
+              "passed": true,
+              "predicate": "native_contract"
+            },
+            {
+              "passed": true,
+              "predicate": "native_status"
+            }
+          ]
+        },
+        {
+          "id": "FIELD_CURRENT_MINUS_VARIANCE_V1",
+          "operation": "GEN3_SOURCE_OPERATOR_WORD",
+          "purpose": "Complete actual64-colour current coefficient1/4 U^T(D12 minus D23)^2 U/6 for source-correlated covariance; no profile or physical prefactor selected",
+          "input": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_MULTI_FIELD_VARIANCE_V1/gen6/003_FIELD_CURRENT_MINUS_VARIANCE_V1.input.json",
+          "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_MULTI_FIELD_VARIANCE_V1/gen6/003_FIELD_CURRENT_MINUS_VARIANCE_V1.output.json",
+          "output_sha256": "c2dfdab37aeecf174d59233a5b72521315a7fc42557f9ac58b51bfb02b9300c4",
+          "checks": [
+            {
+              "passed": true,
+              "predicate": "native_contract"
+            },
+            {
+              "passed": true,
+              "predicate": "native_status"
+            }
+          ]
+        }
+      ],
+      "error": null,
+      "objective": "Test same-mean different full common-field payment using actual tensor placement and actual colour64 signed currents",
+      "source_files": [
+        {
+          "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/sources/snapshots/light_source/source_only/COLOUR_64_CONSTRUCTION_PAYLOAD.json",
+          "sha256": "e51e8826e0570c8041aac43d9ddc7443641e738e67bd5164ff18dbb49da4b6e1"
+        },
+        {
+          "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/gen/TENSOR_TWO_OPERANDS_V3.json",
+          "sha256": "6c5eff0960c861021e790e51f9471ad3c50bf858bb1c5ac788ac04a4c99e452f"
+        },
+        {
+          "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/gen/LOCAL_CONTROL_OPERANDS.json",
+          "sha256": "3fe388c218b9434f134c214ec49de65c082d8e4e7516251c14309218ef57fe29"
+        },
+        {
+          "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/MULTI_FIELD_OPERANDS.json",
+          "sha256": "ca85b5045b90e3180ca40e8934d100a665c5b79bbcb91515fc0f0b46f5a33aa7"
+        }
+      ]
+    }
+  ],
+  "status": "Original completed Duck evidence supplied for verification; no new native execution."
+}

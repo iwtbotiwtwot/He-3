@@ -1,0 +1,485 @@
+{
+  "J_isometry": true,
+  "all_connected_pairs_distance_two": true,
+  "antisymmetric_secular_weights": [
+    "0",
+    "1/2",
+    "1/2",
+    "0"
+  ],
+  "block_count": 24,
+  "blocks": [
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 0,
+      "selected_sites": [
+        2,
+        4
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 1,
+      "selected_sites": [
+        1,
+        4
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 2,
+      "selected_sites": [
+        1,
+        2
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 3,
+      "selected_sites": [
+        3,
+        5
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 4,
+      "selected_sites": [
+        0,
+        5
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 5,
+      "selected_sites": [
+        0,
+        3
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 6,
+      "selected_sites": [
+        3,
+        6
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 7,
+      "selected_sites": [
+        0,
+        6
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 8,
+      "selected_sites": [
+        0,
+        3
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 9,
+      "selected_sites": [
+        2,
+        7
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 10,
+      "selected_sites": [
+        1,
+        7
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 11,
+      "selected_sites": [
+        1,
+        2
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 12,
+      "selected_sites": [
+        5,
+        6
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 13,
+      "selected_sites": [
+        0,
+        6
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 14,
+      "selected_sites": [
+        0,
+        5
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 15,
+      "selected_sites": [
+        4,
+        7
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 16,
+      "selected_sites": [
+        1,
+        7
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 17,
+      "selected_sites": [
+        1,
+        4
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 18,
+      "selected_sites": [
+        4,
+        7
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 19,
+      "selected_sites": [
+        2,
+        7
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 20,
+      "selected_sites": [
+        2,
+        4
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 21,
+      "selected_sites": [
+        5,
+        6
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 22,
+      "selected_sites": [
+        3,
+        6
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    },
+    {
+      "antisymmetric_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ],
+      "block": 23,
+      "selected_sites": [
+        3,
+        5
+      ],
+      "symmetric_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ]
+    }
+  ],
+  "connected_projector_rank": 48,
+  "dimension": 192,
+  "full192_hopping_equals_24_cube_blocks": true,
+  "full_source_floor": "12",
+  "gap_levels": [
+    "0",
+    "4",
+    "8",
+    "12"
+  ],
+  "symmetric_secular_weights": [
+    "1/4",
+    "1/4",
+    "1/4",
+    "1/4"
+  ]
+}

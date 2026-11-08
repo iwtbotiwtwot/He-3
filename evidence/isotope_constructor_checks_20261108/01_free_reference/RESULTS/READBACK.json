@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "verdict": "HELD",
+  "case": "01_free_reference",
+  "check_count": 247,
+  "controls": 5,
+  "exact_mathematical_readback_matches": true,
+  "fixed_input_count": 17,
+  "script_sha256": "9f31c15a382cb7a895d7c2a9b8265bc6a7e20381061b669760ea9b25ce541d73",
+  "fresh_result_sha256": "7c61702493671a8ddbf00914038a2142f6690143e3b76b558f479bdd8fcb3ef6",
+  "execution_seals_precede_runs": true,
+  "original_deliverable_seal_unchanged": true,
+  "replay_elapsed_seconds": 0.934334,
+  "details": {
+    "free_pair_floor": 0,
+    "adjacent_compression": "12I24",
+    "preparation_expectation": "12*tau",
+    "omitted_complement": 40,
+    "drift_rank": 18,
+    "cyclic_dimensions": [
+      24,
+      42,
+      46,
+      47,
+      47
+    ],
+    "hidden_dimension": 23,
+    "dark_dimension": 17,
+    "resolvent_diagonal_defect": "3064/116025",
+    "nested_dimensions": [
+      512,
+      192,
+      48
+    ],
+    "primary_cyclic_dimension": 376,
+    "primary_floor": 12,
+    "connected_expectation": 18,
+    "documentation_correction": "Append-only clarification: the inherited relaxed-field He3 theorem uses primary192; shared144 is separate. Frozen geometric claim and checks unchanged."
+  },
+  "independence": "I1: same inherited model; separate proof/code; no outside verification",
+  "reproducibility": "R2: new exact finite results and conditional proof replay from the case with standard Python",
+  "checked_utc": "2026-11-08T15:34:51.688401+00:00"
+}

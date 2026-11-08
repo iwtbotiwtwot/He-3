@@ -1,0 +1,70 @@
+{
+  "attempts": [
+    {
+      "started_utc": "2026-11-08T14:04:15.505585+00:00",
+      "command": [
+        "python3",
+        "-I",
+        "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_verification_20261108/verifier/replay.py",
+        "--case",
+        "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification",
+        "--out",
+        "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_verification_20261108/verifier/runs/attempt1"
+      ],
+      "finished_utc": "2026-11-08T14:04:15.577791+00:00",
+      "returncode": 1
+    },
+    {
+      "started_utc": "2026-11-08T14:04:39.188635+00:00",
+      "command": [
+        "python3",
+        "-I",
+        "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_verification_20261108/verifier/replay.py",
+        "--case",
+        "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification",
+        "--out",
+        "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_verification_20261108/verifier/runs/attempt2"
+      ],
+      "finished_utc": "2026-11-08T14:04:39.525786+00:00",
+      "returncode": 0
+    },
+    {
+      "started_utc": "2026-11-08T14:13:53.804341+00:00",
+      "command": [
+        "python3",
+        "-I",
+        "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_verification_20261108/verifier/replay.py",
+        "--case",
+        "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification",
+        "--out",
+        "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_verification_20261108/verifier/runs/attempt3"
+      ],
+      "finished_utc": "2026-11-08T14:13:54.138011+00:00",
+      "returncode": 0
+    }
+  ],
+  "seals": [
+    "EXECUTION_PREREGISTRATION_v1.json",
+    "EXECUTION_PREREGISTRATION_v2.json",
+    "EXECUTION_PREREGISTRATION_v3.json"
+  ],
+  "cli_freshness_check": {
+    "started_utc": "2026-11-08T14:17:12.502312+00:00",
+    "finished_utc": "2026-11-08T14:17:12.579595+00:00",
+    "command": [
+      "python3",
+      "-I",
+      "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_verification_20261108/verifier/replay.py",
+      "--case",
+      "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification",
+      "--out",
+      "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_verification_20261108/verifier/runs/attempt3"
+    ],
+    "returncode": 1,
+    "expected_nonzero": true,
+    "observed_FileExistsError": true,
+    "classification": "EXPECTED_CLI_REFUSAL_BEFORE_SCIENTIFIC_EXECUTION"
+  },
+  "primary_execution": "runs/attempt3/EXECUTION.json",
+  "sharper_execution": "runs/attempt2/EXECUTION.json"
+}

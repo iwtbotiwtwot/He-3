@@ -1,0 +1,17 @@
+{
+  "sealed_utc": "2026-11-08T15:05:43.341272+00:00",
+  "form": "verification",
+  "expected_outcome": null,
+  "question": "# Independent verification: free reference\n\nVerify or break the frozen statement in CLAIM.json and STATEMENT.md from the actual source definitions. Rebuild the proof and exact arithmetic independently of the isotope-constructor/A1/previous CR2 code. Prior mathematical reports and outputs are supplied as claims, not an oracle. Preserve the original full spaces, source ordering, norm, signed terms and reference boundaries. Execute every registered control and report any unexpected outcome. Return HELD, HELD WITH CORRECTION or BROKE with a hypothesis map and an engine-free replay.\n\nWrite execution predictions and script hashes before computing; preserve every failed/corrected version and fresh output. No physical binding fit, source/trial/profile optimization, engine change, manuscript edit, new Duck window, peer messaging, Git write, push or publication is part of the verifier assignment. Director approval stays false. Next: use the actual verdict and limits as inputs to physical bridge/action construction.\n",
+  "claim_sha256": "0929b93c24ad93d382d238d6b600d082f06bf0da95db6a8c121989b913909339",
+  "statement_sha256": "c333946408bf0cc7e3f654e652805510915f7ba25384cb5e3b716ffb3fc64e8a",
+  "predictions_sha256": "de8f3140724056e548e5c0a4b4a10ea0f8c62038d3dd29f90bfc76315bb6ccb5",
+  "controls": [
+    "compressed_floor_as_full_lower",
+    "adjacent_invariance",
+    "omit_complement_response",
+    "all_omitted_addresses_dark",
+    "one_sided_baseline_shift"
+  ],
+  "method": "One fresh separately authored proof/code verifier for this case. Lead outside research, no steering or scratch reads; preserve all outcomes. Standard exact host arithmetic selected; no Duck window."
+}

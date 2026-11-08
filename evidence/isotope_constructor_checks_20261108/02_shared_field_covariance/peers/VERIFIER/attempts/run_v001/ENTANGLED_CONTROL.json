@@ -1,0 +1,41 @@
+{
+  "actual_full_minus_mean": "920192/3",
+  "conditioned_internal_states": [
+    "U[:,0]/sqrt(6)",
+    "U[:,1]/sqrt(6)"
+  ],
+  "conditioned_sector_square": "1841984/3",
+  "factorized_same_marginals_square": "614528",
+  "false_covariance_defect": "-1600/3",
+  "false_product_covariance_rhs": "307264",
+  "joint_current_square": "1841984/3",
+  "joint_factorization_defect": "-1600/3",
+  "means": [
+    "1/2",
+    "1/2"
+  ],
+  "normalized_state": "raw/sqrt(12), photon vacuum; D coefficient reported",
+  "on_sector_current_norms": [
+    "3690368/3",
+    "3683968/3"
+  ],
+  "placement_reduced_purity": "1/2",
+  "raw_norm_squared": 12,
+  "raw_state": "e_0 tensor U[:,0] + e_18 tensor U[:,1] on placement64 tensor colour64",
+  "same_entangled_state_scalar_mean_square": "307264",
+  "sector_labels": [
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      1
+    ]
+  ],
+  "sector_weights": [
+    "1/2",
+    "1/2"
+  ],
+  "two_physical_quadratures": "D and C each give this coefficient on the actual U sectors; sum doubles it"
+}

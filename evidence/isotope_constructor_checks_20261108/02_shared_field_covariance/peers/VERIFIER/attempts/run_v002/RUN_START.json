@@ -1,0 +1,16 @@
+{
+  "case": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance",
+  "command": [
+    "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/shared_field_covariance/verifier/replay.py",
+    "--case",
+    "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance",
+    "--preregistration",
+    "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/shared_field_covariance/verifier/EXECUTION_PREREGISTRATION_V002.json",
+    "--output",
+    "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/shared_field_covariance/verifier/attempts/run_v002"
+  ],
+  "preregistration": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/shared_field_covariance/verifier/EXECUTION_PREREGISTRATION_V002.json",
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "script_sha256": "a81d2356d77a3ab76b6e59a1ed4db18b13fada5eae18441491f0b9b5d00cfedd",
+  "started_utc": "2026-11-08T15:19:52.693409+00:00"
+}

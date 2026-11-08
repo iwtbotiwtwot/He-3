@@ -1,0 +1,254 @@
+{
+  "schema": "CR2_B_NATIVE_REPLAY_READBACK_V1",
+  "status": "PASSED",
+  "scope": "Source matrix equality and exact rational upper-endpoint arithmetic checked against retained native enclosures; same-model separate-code work, not external verification.",
+  "native_execution": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/EXECUTION.json",
+  "native_execution_sha256": "b2f273868a9797f050d7794dc7a6978d28cffe8a6ed00c72b9a37f7d95b67971",
+  "native_CR2_receipt": {
+    "peer": "B",
+    "scope": "CR2_SOURCE_BOUND_CALCULATION_NO_DUCK_WINDOW",
+    "status": "PASSED",
+    "started_utc": "2026-11-08T13:23:27.337248+00:00",
+    "completed_utc": "2026-11-08T13:23:29.295366+00:00",
+    "job": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/peers/B/native_job_03.json",
+    "job_sha256": "c75a155bcb96defe0d80192f6a3e514fad2609bf6082617ef0eba775441a9b89",
+    "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03",
+    "core": "0.11.3",
+    "source_binding": {
+      "kind": "CR2_HE3_RELAXED_COMPLETE_PAYMENT",
+      "case_id": "he3_relaxed_field_20261108/01_complete_payment",
+      "law_namespace": "SAM_land",
+      "frozen_trial_family_sha256": "bce4669c325d25eb8063202a58ddc2480678bc8025a2f954824ff4b84464b56e",
+      "input_custody_sha256": "9b173176140a5f74c0c5c1a56029c22ff5c8061c7ae005936fbd6ca7d363c221",
+      "scope": "Complete retained trial accounting, conditional declared recipient, no fit or physical coefficient assignment",
+      "target_sha256": "19910c82747caf88e1a56bd5e4bc75909282826e969e4ff6eb0ed5f1bf503464",
+      "freeze_sha256": "7bf06f49d2184adf7b5b63c15b8a562edf6d20d9c37c11c32dce4c0dd90da524"
+    },
+    "operations": [
+      "GEN3_SOURCE_OPERATOR_WORD",
+      "GEN3_SOURCE_OPERATOR_WORD",
+      "GEN3_SOURCE_OPERATOR_WORD",
+      "GEN3_SOURCE_OPERATOR_WORD",
+      "GEN3_SOURCE_OPERATOR_WORD",
+      "GEN3_COMPLEX_PRODUCT"
+    ],
+    "error": null
+  },
+  "source_matches": {
+    "Gcross": true,
+    "Gtotal": true,
+    "vacuum_G4": true,
+    "003_positive_swap_contract.output.json": true,
+    "004_trial_source_contract.output.json": true
+  },
+  "all12_rows": [
+    {
+      "row": 0,
+      "all7_exact_replay_values_in_native_enclosures": true
+    },
+    {
+      "row": 1,
+      "all7_exact_replay_values_in_native_enclosures": true
+    },
+    {
+      "row": 2,
+      "all7_exact_replay_values_in_native_enclosures": true
+    },
+    {
+      "row": 3,
+      "all7_exact_replay_values_in_native_enclosures": true
+    },
+    {
+      "row": 4,
+      "all7_exact_replay_values_in_native_enclosures": true
+    },
+    {
+      "row": 5,
+      "all7_exact_replay_values_in_native_enclosures": true
+    },
+    {
+      "row": 6,
+      "all7_exact_replay_values_in_native_enclosures": true
+    },
+    {
+      "row": 7,
+      "all7_exact_replay_values_in_native_enclosures": true
+    },
+    {
+      "row": 8,
+      "all7_exact_replay_values_in_native_enclosures": true
+    },
+    {
+      "row": 9,
+      "all7_exact_replay_values_in_native_enclosures": true
+    },
+    {
+      "row": 10,
+      "all7_exact_replay_values_in_native_enclosures": true
+    },
+    {
+      "row": 11,
+      "all7_exact_replay_values_in_native_enclosures": true
+    }
+  ],
+  "steps": [
+    {
+      "id": "full_cross_gram",
+      "operation": "GEN3_SOURCE_OPERATOR_WORD",
+      "input": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/000_full_cross_gram.input.json",
+      "input_sha256": "42b5e90f4f62294bb6068cf624bfc1742a7e7225918a99406d3e69779aee7c71",
+      "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/000_full_cross_gram.output.json",
+      "output_sha256": "fb9a2ef1cc949f3e401b3d1c658f66994e41418fc741fa2a32a8502509d33391",
+      "checks": [
+        {
+          "passed": true,
+          "predicate": "native_contract"
+        },
+        {
+          "passed": true,
+          "predicate": "native_status"
+        }
+      ]
+    },
+    {
+      "id": "full_total_gram",
+      "operation": "GEN3_SOURCE_OPERATOR_WORD",
+      "input": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/001_full_total_gram.input.json",
+      "input_sha256": "2a67d0af6b4547b873537fac70ee3cc9181bd60f6047bda39904211a6be5d8c1",
+      "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/001_full_total_gram.output.json",
+      "output_sha256": "f35b849ddec0ee84c7077ec421d54aaa514ea8d19ebcfc0d8426703436202b22",
+      "checks": [
+        {
+          "passed": true,
+          "predicate": "native_contract"
+        },
+        {
+          "passed": true,
+          "predicate": "native_status"
+        }
+      ]
+    },
+    {
+      "id": "vacuum_cross_metric",
+      "operation": "GEN3_SOURCE_OPERATOR_WORD",
+      "input": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/002_vacuum_cross_metric.input.json",
+      "input_sha256": "a1df5231038dea2172bb199d45c97fe70bf5d83c548b307dc28ede7a6de9ae80",
+      "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/002_vacuum_cross_metric.output.json",
+      "output_sha256": "4560f7fd6cc74040c7ca4b1ba0ac630c3bffb31d5d642903be202a03c63c5dce",
+      "checks": [
+        {
+          "passed": true,
+          "predicate": "native_contract"
+        },
+        {
+          "passed": true,
+          "path": [
+            "matrix"
+          ],
+          "predicate": "exact_equal",
+          "value": [
+            [
+              "7380736/3",
+              "-71680",
+              "0",
+              "12800/3"
+            ],
+            [
+              "-71680",
+              "7367936/3",
+              "33280/3",
+              "71680"
+            ],
+            [
+              "0",
+              "33280/3",
+              "81664/3",
+              "186368"
+            ],
+            [
+              "12800/3",
+              "71680",
+              "186368",
+              "7294208/3"
+            ]
+          ]
+        },
+        {
+          "passed": true,
+          "predicate": "native_status"
+        }
+      ]
+    },
+    {
+      "id": "positive_swap_contract",
+      "operation": "GEN3_SOURCE_OPERATOR_WORD",
+      "input": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/003_positive_swap_contract.input.json",
+      "input_sha256": "b30272aff88e8515e098e48b30bd37dd8037d2bffd877572466e7116c273064b",
+      "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/003_positive_swap_contract.output.json",
+      "output_sha256": "b80ebf331f863d7c73053ec75e5c7ecf0b3a8f9e849100f2195b989117e31052",
+      "checks": [
+        {
+          "passed": true,
+          "predicate": "native_contract"
+        },
+        {
+          "passed": true,
+          "path": [
+            "rank"
+          ],
+          "predicate": "exact_equal",
+          "value": 0
+        },
+        {
+          "passed": true,
+          "predicate": "native_status"
+        }
+      ]
+    },
+    {
+      "id": "trial_source_contract",
+      "operation": "GEN3_SOURCE_OPERATOR_WORD",
+      "input": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/004_trial_source_contract.input.json",
+      "input_sha256": "ea3652a53863ce39380f749aaf065bf991cf37071049905d8b0922fe9925b271",
+      "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/004_trial_source_contract.output.json",
+      "output_sha256": "8ff2ed26e26b5e9e529d3c2ad86964be3d0166f3011ff22e7c0eee4bfb9a8170",
+      "checks": [
+        {
+          "passed": true,
+          "predicate": "native_contract"
+        },
+        {
+          "passed": true,
+          "path": [
+            "rank"
+          ],
+          "predicate": "exact_equal",
+          "value": 0
+        },
+        {
+          "passed": true,
+          "predicate": "native_status"
+        }
+      ]
+    },
+    {
+      "id": "refined_complete_bound_table",
+      "operation": "GEN3_COMPLEX_PRODUCT",
+      "input": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/005_refined_complete_bound_table.input.json",
+      "input_sha256": "8ab02b531ac6cb09fbbe98e990c13eb220765ddd7efeaefe6cdba83ef91bfbb9",
+      "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/005_refined_complete_bound_table.output.json",
+      "output_sha256": "aa8ac727401fdeacc205fc7309c21be30a4ea58a56dc01a5a8e182c491495a4c",
+      "checks": [
+        {
+          "passed": true,
+          "predicate": "native_contract"
+        },
+        {
+          "passed": true,
+          "predicate": "native_status"
+        }
+      ]
+    }
+  ],
+  "engine_modified": false
+}

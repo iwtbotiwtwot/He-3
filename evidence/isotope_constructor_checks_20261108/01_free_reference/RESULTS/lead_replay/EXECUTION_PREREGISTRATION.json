@@ -1,0 +1,242 @@
+{
+  "case": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference",
+  "custody": {
+    "all_matched": true,
+    "files": [
+      {
+        "expected": "0929b93c24ad93d382d238d6b600d082f06bf0da95db6a8c121989b913909339",
+        "matched": true,
+        "observed": "0929b93c24ad93d382d238d6b600d082f06bf0da95db6a8c121989b913909339",
+        "path": "CLAIM.json"
+      },
+      {
+        "expected": "de8f3140724056e548e5c0a4b4a10ea0f8c62038d3dd29f90bfc76315bb6ccb5",
+        "matched": true,
+        "observed": "de8f3140724056e548e5c0a4b4a10ea0f8c62038d3dd29f90bfc76315bb6ccb5",
+        "path": "PREDICTIONS.json"
+      },
+      {
+        "expected": "cdf80fd57a36da277777abfc5107761a3ac5540938bed0ea306749e817f3ab84",
+        "matched": true,
+        "observed": "cdf80fd57a36da277777abfc5107761a3ac5540938bed0ea306749e817f3ab84",
+        "path": "PREREGISTRATION.json"
+      },
+      {
+        "expected": "e8bde1b5a7d1ac9fc3f21feb65815117a799cb60babd82fa79be6e2c9b01a8c0",
+        "matched": true,
+        "observed": "e8bde1b5a7d1ac9fc3f21feb65815117a799cb60babd82fa79be6e2c9b01a8c0",
+        "path": "RESULTS/INPUT_CUSTODY.json"
+      },
+      {
+        "expected": "c333946408bf0cc7e3f654e652805510915f7ba25384cb5e3b716ffb3fc64e8a",
+        "matched": true,
+        "observed": "c333946408bf0cc7e3f654e652805510915f7ba25384cb5e3b716ffb3fc64e8a",
+        "path": "STATEMENT.md"
+      },
+      {
+        "expected": "41dde3e2cf0bac99e8aa7e4bedb95383d93fbe8de49f88a3cbc8864e7b687817",
+        "matched": true,
+        "observed": "41dde3e2cf0bac99e8aa7e4bedb95383d93fbe8de49f88a3cbc8864e7b687817",
+        "path": "TARGET.md"
+      },
+      {
+        "expected": "b17a0368d75bdc46aefe7b0e01ea24826735b52ff29dbc27855dff7d6c2552c4",
+        "matched": true,
+        "observed": "b17a0368d75bdc46aefe7b0e01ea24826735b52ff29dbc27855dff7d6c2552c4",
+        "path": "prior/A1_TWO_REPORT.md"
+      },
+      {
+        "expected": "8c7a18600f66437d164168744e833ad91366990e018ac476d90e3b584f48c4b6",
+        "matched": true,
+        "observed": "8c7a18600f66437d164168744e833ad91366990e018ac476d90e3b584f48c4b6",
+        "path": "prior/CASE_AT_PREREGISTRATION.json"
+      },
+      {
+        "expected": "ed752763e2bf12a52dc3aedd85bb5e92ff8f2adca8e851c207fcb9e85bff5d03",
+        "matched": true,
+        "observed": "ed752763e2bf12a52dc3aedd85bb5e92ff8f2adca8e851c207fcb9e85bff5d03",
+        "path": "prior/FREE_PAIR_PARENT.json"
+      },
+      {
+        "expected": "836c3ce9c500b88842b469397eca33a0d1ac1b6090b3218d6d843efc8557b0ba",
+        "matched": true,
+        "observed": "836c3ce9c500b88842b469397eca33a0d1ac1b6090b3218d6d843efc8557b0ba",
+        "path": "prior/NATIVE_OPERATION_PROVENANCE.json"
+      },
+      {
+        "expected": "12f994df98fc3ba0b6738e1422f6fd23615550a1d57427fd4e1760715e38b044",
+        "matched": true,
+        "observed": "12f994df98fc3ba0b6738e1422f6fd23615550a1d57427fd4e1760715e38b044",
+        "path": "prior/constructor_TWO_DERIVATION.md"
+      },
+      {
+        "expected": "ef77c54bf3e3679f8ec5375b02e65a8cdb285f2e875481f575c53b44b57ab27c",
+        "matched": true,
+        "observed": "ef77c54bf3e3679f8ec5375b02e65a8cdb285f2e875481f575c53b44b57ab27c",
+        "path": "prior/constructor_TWO_REPORT.md"
+      },
+      {
+        "expected": "76ba477844caece3463d78af41392b150f76aa390495d1a21b59dc809eb7c396",
+        "matched": true,
+        "observed": "76ba477844caece3463d78af41392b150f76aa390495d1a21b59dc809eb7c396",
+        "path": "prior/native_mathematics/TWO_FREE_PAIR_CLOSURE_V1/000_free_pair_closure.output.json"
+      },
+      {
+        "expected": "9d7ac28e3cca1a84e7cd62a912927f72ab2592e5320bb1dda864fc1fffe67a53",
+        "matched": true,
+        "observed": "9d7ac28e3cca1a84e7cd62a912927f72ab2592e5320bb1dda864fc1fffe67a53",
+        "path": "prior/native_mathematics/TWO_FREE_PAIR_PAYMENT_V1/000_FREE_PAIR_FULL_PAYMENT_V1.output.json"
+      },
+      {
+        "expected": "109700aed3eb2f1a6b1345cea90f4e24e8be993484573fa2579338c2e1d15c2c",
+        "matched": true,
+        "observed": "109700aed3eb2f1a6b1345cea90f4e24e8be993484573fa2579338c2e1d15c2c",
+        "path": "sources/light/HE3_FRAGMENT_SPACE.json"
+      },
+      {
+        "expected": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f",
+        "matched": true,
+        "observed": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f",
+        "path": "sources/light/HE3_INDEPENDENT_FRAGMENTS.json"
+      },
+      {
+        "expected": "7580dc810549c9ba5eb18a30ac0ffaf50a010de41fad80c369307bfe88c03865",
+        "matched": true,
+        "observed": "7580dc810549c9ba5eb18a30ac0ffaf50a010de41fad80c369307bfe88c03865",
+        "path": "sources/light/HE3_PLACEMENT.json"
+      }
+    ],
+    "freeze_sha256": "38c2e160ee745e83200e07c223d33d44f98888eadbd77647bc1ac6189ef2b2ad"
+  },
+  "director_approval": false,
+  "external_verification": false,
+  "independence_level": "I1",
+  "method": "Fresh raw-operand reconstruction; exact standard-library arithmetic",
+  "phase": "BEFORE_MATHEMATICAL_EXECUTION",
+  "predictions": {
+    "adjacent": {
+      "compression": "12I",
+      "dimension": 24,
+      "drift_rank": 18,
+      "omitted": 40
+    },
+    "connected": {
+      "compression": "18I",
+      "cost_above_primary_floor": 6,
+      "dimension": 48
+    },
+    "controls": {
+      "adjacent_invariance": "FAIL_INVARIANCE",
+      "all_omitted_addresses_dark": "FAIL_COMPLEMENT_CLASSIFICATION",
+      "compressed_floor_as_full_lower": "FAIL_FULL_SOURCE_LOWER",
+      "omit_complement_response": "FAIL_RESOLVENT",
+      "one_sided_baseline_shift": "FAIL_COMMON_ZERO"
+    },
+    "cyclic_dimensions": [
+      24,
+      42,
+      46,
+      47,
+      47
+    ],
+    "dark_multiplicities": [
+      0,
+      0,
+      3,
+      11,
+      3,
+      0,
+      0
+    ],
+    "dynamic_hidden": 23,
+    "free_pair": {
+      "dimension": 64,
+      "floor": 0,
+      "spectrum": {
+        "0": 1,
+        "12": 20,
+        "16": 15,
+        "20": 6,
+        "24": 1,
+        "4": 6,
+        "8": 15
+      }
+    },
+    "h1": {
+      "dimension": 8,
+      "eigenvalues": [
+        0,
+        4,
+        8,
+        12
+      ],
+      "multiplicities": [
+        1,
+        3,
+        3,
+        1
+      ],
+      "rule": "6I-2A(Q3)"
+    },
+    "invariant_dark": 17,
+    "limits": [
+      "Geometric labelled source only",
+      "tau is a nonnegative common kinetic coefficient when read as a cost",
+      "No physical binding, species Hamiltonian, trial optimization or unit assignment",
+      "Same inherited model and separately authored code: I1, not external verification"
+    ],
+    "primary": {
+      "cyclic_dimension": 376,
+      "dark_dimension": 136,
+      "dimension": 192,
+      "drift_rank": 144,
+      "floor": 12,
+      "multiplicities": [
+        24,
+        72,
+        72,
+        24
+      ],
+      "omitted": 320
+    },
+    "resolvent": {
+      "complement_matrix_positive_after_shift": true,
+      "defect_nonzero": true,
+      "defect_rank": 18,
+      "diagonal_defect_positive": true,
+      "self_energy_rank": 18,
+      "z": 1
+    },
+    "same_cell_fragment_dimension": 144,
+    "spectral_receiving_ranks": [
+      1,
+      6,
+      12,
+      9,
+      12,
+      6,
+      1
+    ],
+    "three_free": {
+      "dimension": 512,
+      "floor": 0,
+      "spectrum": {
+        "0": 1,
+        "12": 84,
+        "16": 126,
+        "20": 126,
+        "24": 84,
+        "28": 36,
+        "32": 9,
+        "36": 1,
+        "4": 9,
+        "8": 36
+      }
+    }
+  },
+  "prior_code_read_or_run": false,
+  "script_name": "replay.py",
+  "script_sha256": "9f31c15a382cb7a895d7c2a9b8265bc6a7e20381061b669760ea9b25ce541d73",
+  "script_version": "independent-free-reference-002",
+  "sealed_utc": "2026-11-08T15:30:24.602794+00:00"
+}

@@ -1,0 +1,6 @@
+{
+  "initial_copy": "Rejected before copying because precreated empty peer directory was opened with exist_ok=False.",
+  "initial_replay_commands": "Both exited2 because scripts were not yet copied; no output created.",
+  "correction": "Confirmed precreated directories empty, copied without replacing files, and reran into fresh outputs.",
+  "scientific_inputs_or_results_changed": false
+}

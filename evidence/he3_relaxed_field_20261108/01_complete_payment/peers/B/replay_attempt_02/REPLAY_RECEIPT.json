@@ -1,0 +1,14 @@
+{
+  "case_freeze_sha256": "7bf06f49d2184adf7b5b63c15b8a562edf6d20d9c37c11c32dce4c0dd90da524",
+  "engine_imports": false,
+  "files": [
+    "RESULTS.json",
+    "SOURCE_CHECKS.json",
+    "PLACEMENT_CHECKS.json",
+    "SOURCE_OPERATORS.json"
+  ],
+  "fresh_output": true,
+  "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/peers/B/replay_attempt_02",
+  "script_sha256": "900de6fc10f9cda5061ed34f0df39775a18f43f04a69cd8c680ef67e7fbb15b7",
+  "standard_library_only": true
+}

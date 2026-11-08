@@ -1,0 +1,50 @@
+{
+  "type": "EXACT",
+  "kind": "VERIFICATION_TARGET",
+  "source": "Isotope-constructor completed TWO report, actual full64 placement and colour operands.",
+  "statement": "For a product placement/internal trial with one shared completed field and normalized common internal chi, the full field minus its scalar-mean replacement equals the full covariance-current-Gram contraction, including both mixed orders. Equal occupancies do not determine that payment.",
+  "identity": "F(A0+sum_i Pi Ai)-F(A0+sum_i pi Ai)=epsilon^2 integral sum_ij(<PiPj>-pi*pj)*<Ai^dagger Aj>/omega",
+  "hypotheses": [
+    "One original shared Fock field, finite moments/common form domain, bounded finite-source displacement maps.",
+    "Placement factor is independent of the normalized complete internal/source/matter/Fock factor chi.",
+    "For the joint-sector version, Pi are commuting projections. Both ordered mixed terms and all complex phases are retained."
+  ],
+  "full_placement_dimension": 64,
+  "full_colour_dimension": 64,
+  "source_frame_gram": "U^T U=6I4",
+  "normalized_placement_norm_squared_before_normalization": 2,
+  "means": [
+    "1/2",
+    "1/2"
+  ],
+  "covariance_correlated": [
+    [
+      "1/4",
+      "1/4"
+    ],
+    [
+      "1/4",
+      "1/4"
+    ]
+  ],
+  "covariance_anticorrelated": [
+    [
+      "1/4",
+      "-1/4"
+    ],
+    [
+      "-1/4",
+      "1/4"
+    ]
+  ],
+  "M_definition": "M=U^T D12^T D12 U/6=U^T D23^T D23 U/6",
+  "signed_cross": "U^T D12^T D23 U/6=-M/2",
+  "correlated_variance_coefficient": "M/4",
+  "anticorrelated_variance_coefficient": "3M/4",
+  "ratio": 3,
+  "ratio_scope": "Exact actual-source D-current coefficient with the declared common equal profile weight. It is not a universal ratio for arbitrary translated profiles or a new complete numerical physical field payment.",
+  "excluded": [
+    "A sum of independently paid He3 scalars as a composite same-field payment.",
+    "Physical current/profile/geometry/energy assignment or field lower-ground evaluation."
+  ]
+}

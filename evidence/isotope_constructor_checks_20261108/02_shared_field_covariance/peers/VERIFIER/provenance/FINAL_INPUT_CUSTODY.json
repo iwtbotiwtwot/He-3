@@ -1,0 +1,315 @@
+{
+  "FREEZE_sha256": "8d48e95e42858c6375f6de7d53412e90736f83537d2d1a9255f834e96eb64124",
+  "all_passed": true,
+  "checked_utc": "2026-11-08T15:26:05.082071+00:00",
+  "custody_snapshot_count": 22,
+  "custody_snapshots": [
+    {
+      "actual_sha256": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f",
+      "expected_sha256": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/HE3_INDEPENDENT_FRAGMENTS.json"
+    },
+    {
+      "actual_sha256": "7580dc810549c9ba5eb18a30ac0ffaf50a010de41fad80c369307bfe88c03865",
+      "expected_sha256": "7580dc810549c9ba5eb18a30ac0ffaf50a010de41fad80c369307bfe88c03865",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/HE3_PLACEMENT.json"
+    },
+    {
+      "actual_sha256": "109700aed3eb2f1a6b1345cea90f4e24e8be993484573fa2579338c2e1d15c2c",
+      "expected_sha256": "109700aed3eb2f1a6b1345cea90f4e24e8be993484573fa2579338c2e1d15c2c",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/HE3_FRAGMENT_SPACE.json"
+    },
+    {
+      "actual_sha256": "afbc60e193b31052399efe61f89a742df78e970f8ca47b1789f53e33f7298d24",
+      "expected_sha256": "afbc60e193b31052399efe61f89a742df78e970f8ca47b1789f53e33f7298d24",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/COMPLETE_DC_PAIR.json"
+    },
+    {
+      "actual_sha256": "e51e8826e0570c8041aac43d9ddc7443641e738e67bd5164ff18dbb49da4b6e1",
+      "expected_sha256": "e51e8826e0570c8041aac43d9ddc7443641e738e67bd5164ff18dbb49da4b6e1",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/COLOUR_64_CONSTRUCTION_PAYLOAD.json"
+    },
+    {
+      "actual_sha256": "ef77c54bf3e3679f8ec5375b02e65a8cdb285f2e875481f575c53b44b57ab27c",
+      "expected_sha256": "ef77c54bf3e3679f8ec5375b02e65a8cdb285f2e875481f575c53b44b57ab27c",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/constructor_TWO_REPORT.md"
+    },
+    {
+      "actual_sha256": "12f994df98fc3ba0b6738e1422f6fd23615550a1d57427fd4e1760715e38b044",
+      "expected_sha256": "12f994df98fc3ba0b6738e1422f6fd23615550a1d57427fd4e1760715e38b044",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/constructor_TWO_DERIVATION.md"
+    },
+    {
+      "actual_sha256": "b17a0368d75bdc46aefe7b0e01ea24826735b52ff29dbc27855dff7d6c2552c4",
+      "expected_sha256": "b17a0368d75bdc46aefe7b0e01ea24826735b52ff29dbc27855dff7d6c2552c4",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/A1_TWO_REPORT.md"
+    },
+    {
+      "actual_sha256": "ca85b5045b90e3180ca40e8934d100a665c5b79bbcb91515fc0f0b46f5a33aa7",
+      "expected_sha256": "ca85b5045b90e3180ca40e8934d100a665c5b79bbcb91515fc0f0b46f5a33aa7",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/MULTI_FIELD_OPERANDS.json"
+    },
+    {
+      "actual_sha256": "6c5eff0960c861021e790e51f9471ad3c50bf858bb1c5ac788ac04a4c99e452f",
+      "expected_sha256": "6c5eff0960c861021e790e51f9471ad3c50bf858bb1c5ac788ac04a4c99e452f",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/TENSOR_TWO_OPERANDS.json"
+    },
+    {
+      "actual_sha256": "687bc5afdfaf65c15e2fd5dc09a38a2c5068b53337e0118c54892a0dc1918fa5",
+      "expected_sha256": "687bc5afdfaf65c15e2fd5dc09a38a2c5068b53337e0118c54892a0dc1918fa5",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/PROFILE_SCOPE.md"
+    },
+    {
+      "actual_sha256": "9fdd71fba789ac13b596f075acd6f8e818a392bcb550a668ba625ebbc5c6232d",
+      "expected_sha256": "9fdd71fba789ac13b596f075acd6f8e818a392bcb550a668ba625ebbc5c6232d",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/HE3_VERIFIED_ACCOUNT.md"
+    },
+    {
+      "actual_sha256": "e7d7de33498115c35782dbdd820dcdca3e50e52ae22cb7b9b1b7493095d68321",
+      "expected_sha256": "e7d7de33498115c35782dbdd820dcdca3e50e52ae22cb7b9b1b7493095d68321",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/HE3_HYPOTHESES.md"
+    },
+    {
+      "actual_sha256": "68a63bfe0c168439582bb8903aacd5c0dc1028970d8e65a1d624256e1a559d38",
+      "expected_sha256": "68a63bfe0c168439582bb8903aacd5c0dc1028970d8e65a1d624256e1a559d38",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/shared_field_covariance/native_prior/TWO_MULTI_FIELD_VARIANCE_V1/RESULT.json"
+    },
+    {
+      "actual_sha256": "51281bd315205bec3f5cdfcecad3e935553326472dcbe3622ad459aa51427585",
+      "expected_sha256": "51281bd315205bec3f5cdfcecad3e935553326472dcbe3622ad459aa51427585",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/shared_field_covariance/native_prior/TWO_MULTI_FIELD_VARIANCE_V1/000_FIELD_CORRELATED_GRAM_V1.output.json"
+    },
+    {
+      "actual_sha256": "f0530be023e7adb07cc7f7ba575acc8923bd0b067e673f36cd3435e4622f1be9",
+      "expected_sha256": "f0530be023e7adb07cc7f7ba575acc8923bd0b067e673f36cd3435e4622f1be9",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/000_FIELD_CORRELATED_GRAM_V1.output.json"
+    },
+    {
+      "actual_sha256": "73b8d0dded8acbf290b8e7187fd5c35d819eb9925f8608ff628a3305748d00a8",
+      "expected_sha256": "73b8d0dded8acbf290b8e7187fd5c35d819eb9925f8608ff628a3305748d00a8",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/shared_field_covariance/native_prior/TWO_MULTI_FIELD_VARIANCE_V1/001_FIELD_ANTICORRELATED_GRAM_V1.output.json"
+    },
+    {
+      "actual_sha256": "365126a3f55f97bc214f05dc1a8fb173b471fd34866076394618111be7f3d54d",
+      "expected_sha256": "365126a3f55f97bc214f05dc1a8fb173b471fd34866076394618111be7f3d54d",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/001_FIELD_ANTICORRELATED_GRAM_V1.output.json"
+    },
+    {
+      "actual_sha256": "411f44acb4005b723c7aa0d907d0ee9a0b0654c4e14685e1fb14daaed8935eb8",
+      "expected_sha256": "411f44acb4005b723c7aa0d907d0ee9a0b0654c4e14685e1fb14daaed8935eb8",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/shared_field_covariance/native_prior/TWO_MULTI_FIELD_VARIANCE_V1/002_FIELD_CURRENT_PLUS_VARIANCE_V1.output.json"
+    },
+    {
+      "actual_sha256": "c02a2b74487d48b0ce356685af7be6fb6186a1864c91ecb1ad259003fc9875f1",
+      "expected_sha256": "c02a2b74487d48b0ce356685af7be6fb6186a1864c91ecb1ad259003fc9875f1",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/002_FIELD_CURRENT_PLUS_VARIANCE_V1.output.json"
+    },
+    {
+      "actual_sha256": "c2dfdab37aeecf174d59233a5b72521315a7fc42557f9ac58b51bfb02b9300c4",
+      "expected_sha256": "c2dfdab37aeecf174d59233a5b72521315a7fc42557f9ac58b51bfb02b9300c4",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/shared_field_covariance/native_prior/TWO_MULTI_FIELD_VARIANCE_V1/003_FIELD_CURRENT_MINUS_VARIANCE_V1.output.json"
+    },
+    {
+      "actual_sha256": "a0abab223a0e6541bdabe6efff45255f4b5d20ebe18418d8508721fc1e745197",
+      "expected_sha256": "a0abab223a0e6541bdabe6efff45255f4b5d20ebe18418d8508721fc1e745197",
+      "method": "hash bytes only; no prior program member parsed",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/003_FIELD_CURRENT_MINUS_VARIANCE_V1.output.json"
+    }
+  ],
+  "fixed_file_count": 25,
+  "fixed_files": [
+    {
+      "actual_sha256": "29608884c569d7d05ab5772e1e0768174579f474b3afcf2d3a4126c6f9e875b1",
+      "expected_sha256": "29608884c569d7d05ab5772e1e0768174579f474b3afcf2d3a4126c6f9e875b1",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/CLAIM.json"
+    },
+    {
+      "actual_sha256": "aa7d47651e3c1c9026bddd6d8bbf5c992626fa6639d039f33d0aa9d884587165",
+      "expected_sha256": "aa7d47651e3c1c9026bddd6d8bbf5c992626fa6639d039f33d0aa9d884587165",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/PREDICTIONS.json"
+    },
+    {
+      "actual_sha256": "a6f08f4155c4da6930f7c4497907649a66345b18f719af84e1794623fe3d73b6",
+      "expected_sha256": "a6f08f4155c4da6930f7c4497907649a66345b18f719af84e1794623fe3d73b6",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/PREREGISTRATION.json"
+    },
+    {
+      "actual_sha256": "a11416233186f1a8f875eb2c0e42a52c84cbf0f62bf506b9ca94a556ff0c173b",
+      "expected_sha256": "a11416233186f1a8f875eb2c0e42a52c84cbf0f62bf506b9ca94a556ff0c173b",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/INPUT_CUSTODY.json"
+    },
+    {
+      "actual_sha256": "654dc2a809b7b9b67df63142c2c744b2733c0bd20838d480901ebd472173b98c",
+      "expected_sha256": "654dc2a809b7b9b67df63142c2c744b2733c0bd20838d480901ebd472173b98c",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/STATEMENT.md"
+    },
+    {
+      "actual_sha256": "f86272566d4ab13419c062d6d3a49565707246b9ade36b06868e9c267185376d",
+      "expected_sha256": "f86272566d4ab13419c062d6d3a49565707246b9ade36b06868e9c267185376d",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/TARGET.md"
+    },
+    {
+      "actual_sha256": "b17a0368d75bdc46aefe7b0e01ea24826735b52ff29dbc27855dff7d6c2552c4",
+      "expected_sha256": "b17a0368d75bdc46aefe7b0e01ea24826735b52ff29dbc27855dff7d6c2552c4",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/A1_TWO_REPORT.md"
+    },
+    {
+      "actual_sha256": "4d9eed9f7ca57f1604b908e2cb6e82dc2d2e5298bf2b740d4294e7f0246ac232",
+      "expected_sha256": "4d9eed9f7ca57f1604b908e2cb6e82dc2d2e5298bf2b740d4294e7f0246ac232",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/CASE_AT_PREREGISTRATION.json"
+    },
+    {
+      "actual_sha256": "e7d7de33498115c35782dbdd820dcdca3e50e52ae22cb7b9b1b7493095d68321",
+      "expected_sha256": "e7d7de33498115c35782dbdd820dcdca3e50e52ae22cb7b9b1b7493095d68321",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/HE3_HYPOTHESES.md"
+    },
+    {
+      "actual_sha256": "9fdd71fba789ac13b596f075acd6f8e818a392bcb550a668ba625ebbc5c6232d",
+      "expected_sha256": "9fdd71fba789ac13b596f075acd6f8e818a392bcb550a668ba625ebbc5c6232d",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/HE3_VERIFIED_ACCOUNT.md"
+    },
+    {
+      "actual_sha256": "9b933fb94a0f488106918fa50d79bf1cd687a3e2e1f701e947deccf8fbc6897e",
+      "expected_sha256": "9b933fb94a0f488106918fa50d79bf1cd687a3e2e1f701e947deccf8fbc6897e",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/NATIVE_OPERATION_PROVENANCE.json"
+    },
+    {
+      "actual_sha256": "687bc5afdfaf65c15e2fd5dc09a38a2c5068b53337e0118c54892a0dc1918fa5",
+      "expected_sha256": "687bc5afdfaf65c15e2fd5dc09a38a2c5068b53337e0118c54892a0dc1918fa5",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/PROFILE_SCOPE.md"
+    },
+    {
+      "actual_sha256": "6c5eff0960c861021e790e51f9471ad3c50bf858bb1c5ac788ac04a4c99e452f",
+      "expected_sha256": "6c5eff0960c861021e790e51f9471ad3c50bf858bb1c5ac788ac04a4c99e452f",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/TENSOR_TWO_OPERANDS.json"
+    },
+    {
+      "actual_sha256": "12f994df98fc3ba0b6738e1422f6fd23615550a1d57427fd4e1760715e38b044",
+      "expected_sha256": "12f994df98fc3ba0b6738e1422f6fd23615550a1d57427fd4e1760715e38b044",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/constructor_TWO_DERIVATION.md"
+    },
+    {
+      "actual_sha256": "ef77c54bf3e3679f8ec5375b02e65a8cdb285f2e875481f575c53b44b57ab27c",
+      "expected_sha256": "ef77c54bf3e3679f8ec5375b02e65a8cdb285f2e875481f575c53b44b57ab27c",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/constructor_TWO_REPORT.md"
+    },
+    {
+      "actual_sha256": "f0530be023e7adb07cc7f7ba575acc8923bd0b067e673f36cd3435e4622f1be9",
+      "expected_sha256": "f0530be023e7adb07cc7f7ba575acc8923bd0b067e673f36cd3435e4622f1be9",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/000_FIELD_CORRELATED_GRAM_V1.output.json"
+    },
+    {
+      "actual_sha256": "365126a3f55f97bc214f05dc1a8fb173b471fd34866076394618111be7f3d54d",
+      "expected_sha256": "365126a3f55f97bc214f05dc1a8fb173b471fd34866076394618111be7f3d54d",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/001_FIELD_ANTICORRELATED_GRAM_V1.output.json"
+    },
+    {
+      "actual_sha256": "c02a2b74487d48b0ce356685af7be6fb6186a1864c91ecb1ad259003fc9875f1",
+      "expected_sha256": "c02a2b74487d48b0ce356685af7be6fb6186a1864c91ecb1ad259003fc9875f1",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/002_FIELD_CURRENT_PLUS_VARIANCE_V1.output.json"
+    },
+    {
+      "actual_sha256": "a0abab223a0e6541bdabe6efff45255f4b5d20ebe18418d8508721fc1e745197",
+      "expected_sha256": "a0abab223a0e6541bdabe6efff45255f4b5d20ebe18418d8508721fc1e745197",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/003_FIELD_CURRENT_MINUS_VARIANCE_V1.output.json"
+    },
+    {
+      "actual_sha256": "ca85b5045b90e3180ca40e8934d100a665c5b79bbcb91515fc0f0b46f5a33aa7",
+      "expected_sha256": "ca85b5045b90e3180ca40e8934d100a665c5b79bbcb91515fc0f0b46f5a33aa7",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/MULTI_FIELD_OPERANDS.json"
+    },
+    {
+      "actual_sha256": "e51e8826e0570c8041aac43d9ddc7443641e738e67bd5164ff18dbb49da4b6e1",
+      "expected_sha256": "e51e8826e0570c8041aac43d9ddc7443641e738e67bd5164ff18dbb49da4b6e1",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/COLOUR_64_CONSTRUCTION_PAYLOAD.json"
+    },
+    {
+      "actual_sha256": "afbc60e193b31052399efe61f89a742df78e970f8ca47b1789f53e33f7298d24",
+      "expected_sha256": "afbc60e193b31052399efe61f89a742df78e970f8ca47b1789f53e33f7298d24",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/COMPLETE_DC_PAIR.json"
+    },
+    {
+      "actual_sha256": "109700aed3eb2f1a6b1345cea90f4e24e8be993484573fa2579338c2e1d15c2c",
+      "expected_sha256": "109700aed3eb2f1a6b1345cea90f4e24e8be993484573fa2579338c2e1d15c2c",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/HE3_FRAGMENT_SPACE.json"
+    },
+    {
+      "actual_sha256": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f",
+      "expected_sha256": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/HE3_INDEPENDENT_FRAGMENTS.json"
+    },
+    {
+      "actual_sha256": "7580dc810549c9ba5eb18a30ac0ffaf50a010de41fad80c369307bfe88c03865",
+      "expected_sha256": "7580dc810549c9ba5eb18a30ac0ffaf50a010de41fad80c369307bfe88c03865",
+      "passed": true,
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/HE3_PLACEMENT.json"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+# Full free parent and retained preparation
+
+Independently verify or break CLAIM.json from raw source operands and mathematical definitions. Prior reports and native mathematical outputs supply the claims under test; prior code is excluded.
+
+Reconstruct h1 from the actual cube/event rule, the complete two-factor free Hamiltonian, and the actual adjacent ordered-pair injection. Derive the retained pair addresses from the original independent-cell source tuples, rather than trusting a generated injection. Establish the whole free spectrum/floor, isometry, compression, true drift, receiving cyclic closure and invariant dark sector. Distinguish all omitted addresses from the invariant dark subspace; preserve norm, energy and complement response.
+
+Reconstruct the nested three-free to primary192 compression in the actual tuple order. Audit the subsequent connected48 injection and its separate prepared expectation. Keep independent-cell equal local digits legal. The uncompressed source need not be allocated as a dense matrix if every entry and complete tensor/spectral identity is established analytically and replayably. State exactly which source directions and multiplicities remain.
+
+Prove the preparation expectation12*tau for normalized adjacent-supported pair preparations against the geometric free floor0. Do not promote it into a lower bound on all full-source preparations. Derive a common-reference ledger explaining how the earlier preparation changes an all-free comparison, and list the additional same-Hamiltonian hypotheses needed before adding species, field, recoil, electrons, gates or physical energy units. The existing He3 theorem retains its named fragment chart; do not silently replace it with an all-free physical reference.
+
+Controls must expose a false compressed free lower, false invariance, lost complement resolvent/self-energy, deletion of dynamically hidden directions as dark, and a one-sided baseline shift. At least one nonzero exact full-versus-compressed resolvent defect must be retained. Neither a new trial optimization nor a physical tau/radius assignment is requested. Return HELD, HELD WITH CORRECTION or BROKE with a hypothesis map, meaningful controls and a newly authored standard-library exact replay.

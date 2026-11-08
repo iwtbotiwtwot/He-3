@@ -1,0 +1,52 @@
+{
+  "arithmetic_output_floats": [],
+  "brief_unchanged": true,
+  "checked_utc": "2026-11-08T15:27:24.195186+00:00",
+  "execution_order": [
+    {
+      "preregistration_precedes_execution": true,
+      "preregistration_sealed_utc": "2026-11-08T15:17:44.227463+00:00",
+      "run_started_utc": "2026-11-08T15:17:51.193656+00:00",
+      "script_hash_chain_matches": true,
+      "verdict": "HELD",
+      "version": "001"
+    },
+    {
+      "preregistration_precedes_execution": true,
+      "preregistration_sealed_utc": "2026-11-08T15:19:46.084908+00:00",
+      "run_started_utc": "2026-11-08T15:19:52.693409+00:00",
+      "script_hash_chain_matches": true,
+      "verdict": "HELD",
+      "version": "002"
+    }
+  ],
+  "final_replay_equals_preserved_v002": true,
+  "instructions_unchanged": true,
+  "required_files": {
+    "HYPOTHESES.md": {
+      "bytes": 5755,
+      "exists": true,
+      "sha256": "b089435dbe605a56c38b9838dc63114f651a19e0387de97b20d151ecdb0354fc"
+    },
+    "NOTES.md": {
+      "bytes": 6084,
+      "exists": true,
+      "sha256": "13f9e573b8f69bf3505c0bfad0251d23bc3f16c905953adbc50e5608dbe7ead6"
+    },
+    "REPORT.md": {
+      "bytes": 19640,
+      "exists": true,
+      "sha256": "de5bd8cfb82ea44012231d9eb17bda24a56ed5c103ff868b33eb34bfe2911c28"
+    },
+    "RESULTS.json": {
+      "bytes": 5288,
+      "exists": true,
+      "sha256": "75c3b49bb89427085c51ecf0b594decad6ab9b38d51b5cc325d513f7843522ea"
+    },
+    "replay.py": {
+      "bytes": 34495,
+      "exists": true,
+      "sha256": "a81d2356d77a3ab76b6e59a1ed4db18b13fada5eae18441491f0b9b5d00cfedd"
+    }
+  }
+}

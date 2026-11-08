@@ -1,0 +1,1904 @@
+{
+  "schema": "HE3_SCIENTIFIC_EVIDENCE_SNAPSHOT_V1",
+  "created_utc": "2026-11-08T20:41:22.848817+00:00",
+  "description": "Verbatim public scientific replay cases and selected campaign proofs. Original sealed files are unchanged. Relative origin paths describe provenance and are not runtime dependencies.",
+  "files": {
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/CAPSULE_DELIVERY.json": {
+      "sha256": "f2aa094798239e0f50e5bd4ce063fa6e9820e83e8b98f40336d762d402f5ac78",
+      "bytes": 929,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/CAPSULE_DELIVERY.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/CASE.json": {
+      "sha256": "6925bb1e5b560b04d0f19669f71002ea688aaf4c12de66ef25340cf076509804",
+      "bytes": 2054,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/CASE.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/DERIVATION.md": {
+      "sha256": "05ecf30fed217a0f179e721a442687df1200851834f817a34ec3da6a7e44482b",
+      "bytes": 6716,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/DERIVATION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/FREEZE.json": {
+      "sha256": "7bf06f49d2184adf7b5b63c15b8a562edf6d20d9c37c11c32dce4c0dd90da524",
+      "bytes": 5419,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/FREEZE.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/MANIFEST.json": {
+      "sha256": "50de2d9deb6a0e0b6d9d4c0fce0b6914d6862713fae363c9ab699cb8b81692cc",
+      "bytes": 12542,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/MANIFEST.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/PREREGISTRATION.json": {
+      "sha256": "7e79f79f269ecf19f580fc750539b844ec7160b4936d165810d6cfdfc15648b0",
+      "bytes": 23832,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/PREREGISTRATION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/REPORT.md": {
+      "sha256": "77bfd1e2289e5da7c8fa6d94e7d524c9f2175baa9dc781778fa9289be38d5f32",
+      "bytes": 6372,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/REPORT.md"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/REPRODUCE.md": {
+      "sha256": "3129c32eb71c19259dac971815bbe64ddec2b42f5f7975d8ffe1f7173d53c1da",
+      "bytes": 2207,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/REPRODUCE.md"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/CAPSULE_FILE_INDEX.json": {
+      "sha256": "44b8209ea60bd9d828d5e528a6da552e69ad77bbf84ba1c66e98ba4dc7a8e09e",
+      "bytes": 357058,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/CAPSULE_FILE_INDEX.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/COMPARISON.json": {
+      "sha256": "0caf94ba7c8c25abb6ab1b6d632004ce94f9bbc186a8e0598a5aa46311f00bca",
+      "bytes": 20875,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/COMPARISON.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/EXECUTION_AUDIT.json": {
+      "sha256": "ce6a39d5ae5b97d2ea545d0a573397058d67b1ba13f8e34f5633b89299e900b2",
+      "bytes": 5816,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/EXECUTION_AUDIT.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/INPUT_CUSTODY.json": {
+      "sha256": "9b173176140a5f74c0c5c1a56029c22ff5c8061c7ae005936fbd6ca7d363c221",
+      "bytes": 20663,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/INPUT_CUSTODY.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/LEAD_PREPARATION_CORRECTION.json": {
+      "sha256": "769362af789bcb5869c35eb85f1273f3cc377e2ad5c6ce5227ca65cef5c0df61",
+      "bytes": 391,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/LEAD_PREPARATION_CORRECTION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/PORTABLE_COMPARISON.json": {
+      "sha256": "55c20abb412548c67f350a5cdca0276ed76fbd97c18f621e6249d470f900ac70",
+      "bytes": 21307,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/PORTABLE_COMPARISON.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/RECURRENCE.json": {
+      "sha256": "4ac67954890aea25ad25460eedc6cacf518df28827c339dc9cab92ce59db37cb",
+      "bytes": 2522,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/RECURRENCE.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/lead_replay/A/PAYMENT_TABLE.json": {
+      "sha256": "67bda6a780a01c688b691f5d7fb3bb21454cf9b6dd9748014962f614549d1056",
+      "bytes": 28300,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/lead_replay/A/PAYMENT_TABLE.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/lead_replay/A/RESULTS.json": {
+      "sha256": "fda8bf9a456bdb482ea91b5594f8b81eb5acd6ae37361e8615e49dfd6f704966",
+      "bytes": 89485,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/lead_replay/A/RESULTS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/lead_replay/A/SOURCE_REPLAY.json": {
+      "sha256": "b05c33f4889a57930654567124ce3646aadfa52c1c452cba2e7112b9b9b6d0c3",
+      "bytes": 144998,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/lead_replay/A/SOURCE_REPLAY.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/lead_replay/A/SUMMARY.json": {
+      "sha256": "88fbbd56ceb4fbcdf1840c5f0d0507107a55bb16daad9651d596774222aca48d",
+      "bytes": 2880,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/lead_replay/A/SUMMARY.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/lead_replay/B/PLACEMENT_CHECKS.json": {
+      "sha256": "ff4aa65e0108a428a0e9adf0cd5ad262a0669c110afcaf921b1c1ac304bc4c51",
+      "bytes": 7195,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/lead_replay/B/PLACEMENT_CHECKS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/lead_replay/B/REPLAY_RECEIPT.json": {
+      "sha256": "754c7264c179d32d6899a64a2216232b66a508eaa9cea03e372013f9d32838c4",
+      "bytes": 532,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/lead_replay/B/REPLAY_RECEIPT.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/lead_replay/B/RESULTS.json": {
+      "sha256": "38e3a26f9b5593a5e58adfc1767931d4f53547581344bdb9c306f80c93c51bf5",
+      "bytes": 150666,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/lead_replay/B/RESULTS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/lead_replay/B/SOURCE_CHECKS.json": {
+      "sha256": "4369fc7f7496007e5205fdb3228bd081afa0ef69c8674f2b8233d7bee964c617",
+      "bytes": 516,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/lead_replay/B/SOURCE_CHECKS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/lead_replay/B/SOURCE_OPERATORS.json": {
+      "sha256": "5a63301b6a3411c97eb357aa293b8ddf3a1b1ffea8fa147abbf4314908e6803a",
+      "bytes": 96920,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/lead_replay/B/SOURCE_OPERATORS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/native_receipts/A/attempt_001/CR2_EXECUTION_RECEIPT.json": {
+      "sha256": "1a27c262d2487f02b79641eac5948b396f4554b33b8cdfd4ad5ead6a49eafada",
+      "bytes": 1539,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/native_receipts/A/attempt_001/CR2_EXECUTION_RECEIPT.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/native_receipts/A/attempt_002/CR2_EXECUTION_RECEIPT.json": {
+      "sha256": "7d197201e882b6d9565c228863acfbbcb0a35a1419d2a800dfa1a12bc857023c",
+      "bytes": 1308,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/native_receipts/A/attempt_002/CR2_EXECUTION_RECEIPT.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/native_receipts/A/attempt_003/CR2_EXECUTION_RECEIPT.json": {
+      "sha256": "7738072504a6926f7b31fe2294faef122ecfee4e97bc08d1f2bd71ab6e17b6e5",
+      "bytes": 1374,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/native_receipts/A/attempt_003/CR2_EXECUTION_RECEIPT.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/native_receipts/B/attempt_01/CR2_EXECUTION_RECEIPT.json": {
+      "sha256": "2ec7dc07afdd516e15d0bccc3db5cef2306c068a0298cb0ed71d593ab426d30e",
+      "bytes": 1560,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/native_receipts/B/attempt_01/CR2_EXECUTION_RECEIPT.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/native_receipts/B/attempt_02/CR2_EXECUTION_RECEIPT.json": {
+      "sha256": "5f8cbceeeb74ff141bf1bfb3bf956b6fb28f45cd6d55afb59e5cbcf3c830dabb",
+      "bytes": 1466,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/native_receipts/B/attempt_02/CR2_EXECUTION_RECEIPT.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/RESULTS/native_receipts/B/attempt_03/CR2_EXECUTION_RECEIPT.json": {
+      "sha256": "73384becef4d30340b0cd2d6c60ea109a51043ef6614d2e24bdeffacdb90ac14",
+      "bytes": 1466,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/native_receipts/B/attempt_03/CR2_EXECUTION_RECEIPT.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/TARGET.md": {
+      "sha256": "19910c82747caf88e1a56bd5e4bc75909282826e969e4ff6eb0ed5f1bf503464",
+      "bytes": 2064,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/TARGET.md"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/TRANSFER_MAP.md": {
+      "sha256": "74f45b1973e55e8d02587491614faa022d2bf1f5c93549330346476ed7f441cd",
+      "bytes": 1513,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/TRANSFER_MAP.md"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/FINAL_QA.json": {
+      "sha256": "a67a9c40f7010e4dc01da58351c198e2b2465b5ec0b8ed700b74e70cb792218d",
+      "bytes": 1114,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/FINAL_QA.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/NATIVE_COLUMNS_002.json": {
+      "sha256": "c922abaa4ddd89ca88497dcd8679a36e7ae2f6daa2d5bc9f479b2cbdf10a1a05",
+      "bytes": 166,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/NATIVE_COLUMNS_002.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/NOTES.md": {
+      "sha256": "0eb6f64ef03071e013963ad401e61bc788840656135315c7bf22e21ccb2137c3",
+      "bytes": 4361,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/NOTES.md"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/REPORT.md": {
+      "sha256": "aafcb6b2a528c970af2460e15403e6e4a5a48c9959e90f7d155a0e9768cabe51",
+      "bytes": 16670,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/REPORT.md"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/RESULTS.json": {
+      "sha256": "ff19f16a5b8f3cec992c9391e690ede3f0d1102213cb7e47a8a963a0518da799",
+      "bytes": 98711,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/RESULTS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/SOURCE_OPERATION_MAP.json": {
+      "sha256": "5bad386d40a0601f0dfad2ff67c90ee223800ee9eb32ec4a00316a834646b1fc",
+      "bytes": 123242,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/SOURCE_OPERATION_MAP.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay.py": {
+      "sha256": "f12995c08e3946a1f3970a1e1a37ac59c185324af16181ccc0d6ef0d33dc8b14",
+      "bytes": 13763,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay.py"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_001/PAYMENT_TABLE.json": {
+      "sha256": "67bda6a780a01c688b691f5d7fb3bb21454cf9b6dd9748014962f614549d1056",
+      "bytes": 28300,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_001/PAYMENT_TABLE.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_001/RESULTS.json": {
+      "sha256": "78b96423458b0065e7dc6a6e9f02a03865843af956db34769b176502ccafb413",
+      "bytes": 92195,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_001/RESULTS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_001/SOURCE_REPLAY.json": {
+      "sha256": "b05c33f4889a57930654567124ce3646aadfa52c1c452cba2e7112b9b9b6d0c3",
+      "bytes": 144998,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_001/SOURCE_REPLAY.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_001/SUMMARY.json": {
+      "sha256": "30d305976e8fe06af14c1de57c125eb71f8fd9ff649d46649dbb26a560cadf2f",
+      "bytes": 2880,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_001/SUMMARY.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_002/PAYMENT_TABLE.json": {
+      "sha256": "67bda6a780a01c688b691f5d7fb3bb21454cf9b6dd9748014962f614549d1056",
+      "bytes": 28300,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_002/PAYMENT_TABLE.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_002/RESULTS.json": {
+      "sha256": "fd1d2e760f60f1c565ae49aa0daf42b9c5816fa2fa94bfe1a3ad8c132f279a90",
+      "bytes": 93476,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_002/RESULTS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_002/SOURCE_REPLAY.json": {
+      "sha256": "b05c33f4889a57930654567124ce3646aadfa52c1c452cba2e7112b9b9b6d0c3",
+      "bytes": 144998,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_002/SOURCE_REPLAY.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_002/SUMMARY.json": {
+      "sha256": "88fbbd56ceb4fbcdf1840c5f0d0507107a55bb16daad9651d596774222aca48d",
+      "bytes": 2880,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_002/SUMMARY.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_003_engine_free/PAYMENT_TABLE.json": {
+      "sha256": "67bda6a780a01c688b691f5d7fb3bb21454cf9b6dd9748014962f614549d1056",
+      "bytes": 28300,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_003_engine_free/PAYMENT_TABLE.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_003_engine_free/RESULTS.json": {
+      "sha256": "fda8bf9a456bdb482ea91b5594f8b81eb5acd6ae37361e8615e49dfd6f704966",
+      "bytes": 89485,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_003_engine_free/RESULTS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_003_engine_free/SOURCE_REPLAY.json": {
+      "sha256": "b05c33f4889a57930654567124ce3646aadfa52c1c452cba2e7112b9b9b6d0c3",
+      "bytes": 144998,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_003_engine_free/SOURCE_REPLAY.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_003_engine_free/SUMMARY.json": {
+      "sha256": "88fbbd56ceb4fbcdf1840c5f0d0507107a55bb16daad9651d596774222aca48d",
+      "bytes": 2880,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_003_engine_free/SUMMARY.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_v001.py": {
+      "sha256": "3680cec3e6d776e6a427b1703f55aed212bc47f096670b008afce0490d6b06b3",
+      "bytes": 13259,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/A/replay_v001.py"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/B/ATTEMPTS.json": {
+      "sha256": "90b574b90aeb46007fe1b74502a535d68a0ab24e68647b839ab66e37bd0e3196",
+      "bytes": 3366,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/B/ATTEMPTS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/B/CLOSING_REVIEW.json": {
+      "sha256": "1beca37ecc1b856483d72c325b4c278b20466ccec9683a011c247a3230add91a",
+      "bytes": 1505,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/B/CLOSING_REVIEW.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/B/DELIVERY_MANIFEST.json": {
+      "sha256": "d75f552816dd7c6b1ed0237b32c4fc56ab2b59b03cb7fe7a4d7db993808854c4",
+      "bytes": 1217,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/B/DELIVERY_MANIFEST.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/B/NATIVE_REPLAY_COMPARISON.json": {
+      "sha256": "1dc341c28e7be2b02f366c51cad13bb2b3da582800cf80635f2bf2967aeff64d",
+      "bytes": 9177,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/B/NATIVE_REPLAY_COMPARISON.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/B/NOTES.md": {
+      "sha256": "38c34fe6e1f215f5a2af41e87e9dc4e75cd90cf5d6efcf3eaa8bab623ee44c04",
+      "bytes": 4039,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/B/NOTES.md"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/B/OPERATOR_NORM_HOST_DERIVATION.json": {
+      "sha256": "b619337d55277831be11139d0fbbf137bcf9235e5e69bf05a192499ea33c0372",
+      "bytes": 2458,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/B/OPERATOR_NORM_HOST_DERIVATION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/B/REPORT.md": {
+      "sha256": "67b60388547a1512579fbf60568de484ca9edf6859223633d702519b8b800af8",
+      "bytes": 12561,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/B/REPORT.md"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/B/RESULTS.json": {
+      "sha256": "7c39dc47cff2d73d64fadffc4422ba44b65a315e207895aae77ae2df891a88f0",
+      "bytes": 151358,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/B/RESULTS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/B/SOURCE_OPERATION_MAP.json": {
+      "sha256": "e30235a60920caabe812f3532d2453ef2c16105583db7cf8eae52dee3ef1fb5e",
+      "bytes": 30802,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/B/SOURCE_OPERATION_MAP.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/B/replay.py": {
+      "sha256": "900de6fc10f9cda5061ed34f0df39775a18f43f04a69cd8c680ef67e7fbb15b7",
+      "bytes": 16345,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/B/replay.py"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/B/replay_attempt_01_syntax_failure.py": {
+      "sha256": "18e80d78a96aa3fa335dbf998e05b02f88961c283a8a4ba5b22856ce65479671",
+      "bytes": 16025,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/B/replay_attempt_01_syntax_failure.py"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/B/replay_attempt_02/PLACEMENT_CHECKS.json": {
+      "sha256": "ff4aa65e0108a428a0e9adf0cd5ad262a0669c110afcaf921b1c1ac304bc4c51",
+      "bytes": 7195,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/B/replay_attempt_02/PLACEMENT_CHECKS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/B/replay_attempt_02/REPLAY_RECEIPT.json": {
+      "sha256": "38fe557bd3f8738a21fa4a3940a1f59c564075e6b06b4470f1afc419fb2ee663",
+      "bytes": 516,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/B/replay_attempt_02/REPLAY_RECEIPT.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/B/replay_attempt_02/RESULTS.json": {
+      "sha256": "38e3a26f9b5593a5e58adfc1767931d4f53547581344bdb9c306f80c93c51bf5",
+      "bytes": 150666,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/B/replay_attempt_02/RESULTS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/B/replay_attempt_02/SOURCE_CHECKS.json": {
+      "sha256": "4369fc7f7496007e5205fdb3228bd081afa0ef69c8674f2b8233d7bee964c617",
+      "bytes": 516,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/B/replay_attempt_02/SOURCE_CHECKS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/B/replay_attempt_02/SOURCE_OPERATORS.json": {
+      "sha256": "5a63301b6a3411c97eb357aa293b8ddf3a1b1ffea8fa147abbf4314908e6803a",
+      "bytes": 96920,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/B/replay_attempt_02/SOURCE_OPERATORS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/peers/B/verify_native.py": {
+      "sha256": "64b0db64713dd23b583f6c7a733cb6b39da8e2a61542f39e3ce1a4511bef552f",
+      "bytes": 3306,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/peers/B/verify_native.py"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/prior/CASE_AT_PREREGISTRATION.json": {
+      "sha256": "6fca7cb7c2a876b666af64365f40ac28d5ca1fd26bd6a07d7c189d2ff201f358",
+      "bytes": 1243,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/prior/CASE_AT_PREREGISTRATION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/scripts/compare_replays.py": {
+      "sha256": "3bb6742065bbb22a712af7ca2158f15a9492db90da6df5da9978378d9594efcb",
+      "bytes": 6093,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/scripts/compare_replays.py"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/scripts/compare_replays_v001.py": {
+      "sha256": "69648421c4fc67fc043c4797f2aea90dfdb9c992a4b82bfca1808598f9fd34f1",
+      "bytes": 6051,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/scripts/compare_replays_v001.py"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/CAPABILITIES_FULL.json": {
+      "sha256": "9f1f09953b0fab71fc3c556d55206b2b16871e2b279dd960f7c5934c06d3274d",
+      "bytes": 55667,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/CAPABILITIES_FULL.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/duck_gen6_local/runs/volii-missing-pieces-broad-20261016-01/native_returns/broad_atomic_full_translated_tensor_and_Pauli_response.json": {
+      "sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "bytes": 9,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/duck_gen6_local/runs/volii-missing-pieces-broad-20261016-01/native_returns/broad_atomic_full_translated_tensor_and_Pauli_response.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_join_exterior_response_source_algebra.json": {
+      "sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "bytes": 9,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_join_exterior_response_source_algebra.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_actual_source_field_static_retarded_UV_join.json": {
+      "sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "bytes": 9,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_actual_source_field_static_retarded_UV_join.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_full_source_quartic_counterterm.json": {
+      "sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "bytes": 9,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_full_source_quartic_counterterm.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_combined_evaluation1_20261016/reference/PENCIL_VERIFICATION.json": {
+      "sha256": "60aa321e5d92820807713ab648a31e4f7663c4fd9c787776c5bac003bbac749f",
+      "bytes": 9644,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_combined_evaluation1_20261016/reference/PENCIL_VERIFICATION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_combined_evaluation1_20261016/spectral/CONTROL_DERIVATION.md": {
+      "sha256": "b4ccad19836a0e6223b87792edfae8b9e07ec29a15703f2e1bff7ad1ea8036f4",
+      "bytes": 5456,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_combined_evaluation1_20261016/spectral/CONTROL_DERIVATION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_combined_evaluation1_20261016/spectral/DERIVATION.md": {
+      "sha256": "755c3ce2b2d800944fb42a196b7b4f0a682a0143bf398c1f32391e6d15a83f36",
+      "bytes": 4237,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_combined_evaluation1_20261016/spectral/DERIVATION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_dressed_reference1_20261016/joint/ACTUAL_RETURN.json": {
+      "sha256": "f9b756af26454d26405a172c4a0c2741208c42b395add2970da4df0b0e462e32",
+      "bytes": 56601,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_dressed_reference1_20261016/joint/ACTUAL_RETURN.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_dressed_reference1_20261016/joint/DERIVATION.md": {
+      "sha256": "97685ff69bc6ec8a86bdf375726a77a2edc2aaa30155a0c5ba7484e2403b08c1",
+      "bytes": 3921,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_dressed_reference1_20261016/joint/DERIVATION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_dressed_reference1_20261016/joint/INTERFACE.json": {
+      "sha256": "0d879894c145965f62bf3a3f0885e6e916914a54b3bbfdf801a839a25acb2000",
+      "bytes": 10936,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_dressed_reference1_20261016/joint/INTERFACE.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_dressed_reference1_20261016/joint/VERIFICATION.json": {
+      "sha256": "0c87960f7ff5b27b8df4a3ee5a872eaee2ae950c690bc1ce5a71d8e3fc30c348",
+      "bytes": 64451,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_dressed_reference1_20261016/joint/VERIFICATION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_dressed_reference1_20261016/threshold/DERIVATION.md": {
+      "sha256": "3682b90b102744356cf9f7b4a5006242081a2e7a594cc3fbabedffb6580204bf",
+      "bytes": 7148,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_dressed_reference1_20261016/threshold/DERIVATION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_fragment_action1_20261016/joint/DERIVATION.md": {
+      "sha256": "7592b40240ba931cbd1a0f82ce05ecaf141d327a72a09e185d9f14ff073e4735",
+      "bytes": 11227,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_fragment_action1_20261016/joint/DERIVATION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_missing_pieces_broad1_20261016/atomic/RADIAL_SOURCE_PACKET.json": {
+      "sha256": "21e12021f78cc21828e0471051394f0b919c4a6cc5423c33e6ede121b70ea05c",
+      "bytes": 1969,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_missing_pieces_broad1_20261016/atomic/RADIAL_SOURCE_PACKET.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/RUN_POLICY.json": {
+      "sha256": "fddfbf7187e23468e507e0c9ac4464da7df05cbc213e4b4b2363fdf96c0ed462",
+      "bytes": 653,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/RUN_POLICY.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/ADAPTIVE_R1_VERIFICATION.json": {
+      "sha256": "e27cb1553a67eb35faa40a64ee504a564a8c58358f8b0d7c6316fbd46e00479c",
+      "bytes": 50282,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/ADAPTIVE_R1_VERIFICATION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/DERIVATION.md": {
+      "sha256": "aacc836c34f1058e5cf3875c88ca6c6ef339a9c02c9b10b7759a0298d9ac33a8",
+      "bytes": 5987,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/DERIVATION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/R1_VERIFICATION.json": {
+      "sha256": "5125fd354b93f5b309c525629037196ad70b2024975f5cd09087ce089f8eb246",
+      "bytes": 139635,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/R1_VERIFICATION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_DERIVATION.md": {
+      "sha256": "718410fb27377377daa11ff069b1e42872742f4a8977c34ce893ccc6c08f8aed",
+      "bytes": 4494,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_DERIVATION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_SOURCE_PACKET.json": {
+      "sha256": "ed6e9821a606f17370a1b9bbffc3ad025fa5eec5b6afd84b110b9eeea7f9d188",
+      "bytes": 2958,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_SOURCE_PACKET.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_VERIFICATION.json": {
+      "sha256": "e8ff2d48294e32c4d1fbd8274fa5d96127112c4a3bd5559b42d4b36ca789283e",
+      "bytes": 125643,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_VERIFICATION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/SOURCE_PACKET.json": {
+      "sha256": "cc0fc5af06e579f383847abc8fb695f92133d32590742d21c5f05f8cfb8275b5",
+      "bytes": 2016,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/SOURCE_PACKET.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/source/R2_DERIVATION.md": {
+      "sha256": "3abc10b97e6fa3661f8f200adfb418528aae0ebb961a84e5d7ec14266150781c",
+      "bytes": 3166,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/source/R2_DERIVATION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/source/SOURCE_PACKET.json": {
+      "sha256": "66c8ab84a5f7bc84d487b5463b93a164af6a857cd235da8718a18d2cfc611a14",
+      "bytes": 10175,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/source/SOURCE_PACKET.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/TRIAL_FAMILY.json": {
+      "sha256": "bce4669c325d25eb8063202a58ddc2480678bc8025a2f954824ff4b84464b56e",
+      "bytes": 13082,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/TRIAL_FAMILY.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/light/COLOUR_64_CONSTRUCTION_PAYLOAD.json": {
+      "sha256": "e51e8826e0570c8041aac43d9ddc7443641e738e67bd5164ff18dbb49da4b6e1",
+      "bytes": 37769,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/light/COLOUR_64_CONSTRUCTION_PAYLOAD.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/light/COMPLETE_DC_PAIR.json": {
+      "sha256": "afbc60e193b31052399efe61f89a742df78e970f8ca47b1789f53e33f7298d24",
+      "bytes": 61003,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/light/COMPLETE_DC_PAIR.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/light/HE3_FRAGMENT_SPACE.json": {
+      "sha256": "109700aed3eb2f1a6b1345cea90f4e24e8be993484573fa2579338c2e1d15c2c",
+      "bytes": 344417,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/light/HE3_FRAGMENT_SPACE.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/light/HE3_INDEPENDENT_FRAGMENTS.json": {
+      "sha256": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f",
+      "bytes": 579810,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/light/HE3_INDEPENDENT_FRAGMENTS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/light/HE3_PLACEMENT.json": {
+      "sha256": "7580dc810549c9ba5eb18a30ac0ffaf50a010de41fad80c369307bfe88c03865",
+      "bytes": 205718,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/light/HE3_PLACEMENT.json"
+    },
+    "evidence/he3_relaxed_field_20261108/01_complete_payment/sources/light/INDEPENDENT_CONSTANTS.json": {
+      "sha256": "02c6f2f114a4781a70d7d11ca4ae4718a17019b301b648474f9a0974db9efd94",
+      "bytes": 863,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/light/INDEPENDENT_CONSTANTS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/CAPSULE_DELIVERY.json": {
+      "sha256": "af3f00fc827f80e629b329e054bba385b808b14e869d84aeba295566908ca1a4",
+      "bytes": 944,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/CAPSULE_DELIVERY.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/CASE.json": {
+      "sha256": "4fcdb87b2c024f56e8f72c4ffff2b1ead095b33991f4be2e197c32d7c5653a49",
+      "bytes": 2828,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/CASE.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/CLAIM.json": {
+      "sha256": "e885f8f5d565393a05c229ec8b796e5fe47dddc457e10471e77dec394c5efa81",
+      "bytes": 1856,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/CLAIM.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/DERIVATION.md": {
+      "sha256": "9fdd71fba789ac13b596f075acd6f8e818a392bcb550a668ba625ebbc5c6232d",
+      "bytes": 4216,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/DERIVATION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/FREEZE.json": {
+      "sha256": "f6a7ccb330c7eb0f761388b5fed752de2ad2190f95d8cead41424440710a062d",
+      "bytes": 6644,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/FREEZE.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/MANIFEST.json": {
+      "sha256": "1abf0dd65a84081231b84ec05343f700cb8bfe8f9b29fa3e760e79c80e10cce7",
+      "bytes": 12878,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/MANIFEST.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/PREDICTIONS.json": {
+      "sha256": "23dd53faa26c76c48c20e9c36ecd363c0b117624c4c015e153586a42a1bc48e4",
+      "bytes": 3427,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/PREDICTIONS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/PREREGISTRATION.json": {
+      "sha256": "c8cf668f930044040ed5b1773c3d8c8364af3379d309c847d051ce1d969ed393",
+      "bytes": 2254,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/PREREGISTRATION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/REPORT.md": {
+      "sha256": "6b08918eade1736c56d896865626585ec24f0a8da79e619c7d03c4a0c5e198e8",
+      "bytes": 5920,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/REPORT.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/REPRODUCE.md": {
+      "sha256": "8e05f22c859885a6a5d512c8426bcfd4f8067bd45826b598e9d283089d4a9302",
+      "bytes": 2154,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/REPRODUCE.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/RESULTS/CAPSULE_FILE_INDEX.json": {
+      "sha256": "6a36b6eb814c213f019b5f3da04c15775d12409878a205dec3d2cdb45e3cef07",
+      "bytes": 20970,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/RESULTS/CAPSULE_FILE_INDEX.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/RESULTS/INPUT_CUSTODY.json": {
+      "sha256": "4c78b8b55abf9066e79768d570b175ddc1113d20feb4d469e04fd48eb5b4d317",
+      "bytes": 9642,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/RESULTS/INPUT_CUSTODY.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/RESULTS/READBACK.json": {
+      "sha256": "885f8c44a2c7484b27e8283572da756a4b70138b42349a1ca2b9da37a4f9b14e",
+      "bytes": 23087,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/RESULTS/READBACK.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/RESULTS/lead_replay/fresh/EXECUTION.json": {
+      "sha256": "ff84dfa3c054b5709f002c77fcd14ef3bc57b0db06ba5efc67a3629584e82b4c",
+      "bytes": 787,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/RESULTS/lead_replay/fresh/EXECUTION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/RESULTS/lead_replay/fresh/RESULTS.json": {
+      "sha256": "9d005db41bef5a089b1741b2c3ddd9e4dcd9d179ad2d23018a7a206ea8a2c611",
+      "bytes": 160300,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/RESULTS/lead_replay/fresh/RESULTS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/STATEMENT.md": {
+      "sha256": "f64ed1058e159063a097e6754d9806151c9c61203a28a378aa448c937da944d5",
+      "bytes": 3183,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/STATEMENT.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/TARGET.md": {
+      "sha256": "bf5bf7d2c645bf9c88d24111d2df115fd3b72d5486231e40fe704a6e74bdce03",
+      "bytes": 1278,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/TARGET.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/TRANSFER_MAP.md": {
+      "sha256": "183e3adf969e32d2aa0a146a89d1576b50de904fecb69225d63ebfdaa13eee79",
+      "bytes": 1281,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/TRANSFER_MAP.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/DELIVERY_MANIFEST.json": {
+      "sha256": "90c274d4458d8d01e96966d013aefef056080da4c72ecf588265dd3d6e48aa73",
+      "bytes": 5098,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/DELIVERY_MANIFEST.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/DERIVATION_BEFORE_EXECUTION.md": {
+      "sha256": "906319145b9bec2470482768a8400b6b665612635d94d04a6314f4f6f329204d",
+      "bytes": 5313,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/DERIVATION_BEFORE_EXECUTION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/EXECUTION_PREREGISTRATION_v1.json": {
+      "sha256": "a65901ca07153e8a12fd90ae37c3e35294ae75716c3e8106f3430065498e4a22",
+      "bytes": 3657,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/EXECUTION_PREREGISTRATION_v1.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/EXECUTION_PREREGISTRATION_v2.json": {
+      "sha256": "9eb7ae54ee867e94d696f87a892656c15decae5b6d6670b8e48ef4941d7106c5",
+      "bytes": 3912,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/EXECUTION_PREREGISTRATION_v2.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/EXECUTION_PREREGISTRATION_v3.json": {
+      "sha256": "bd0dc854484bb78394c8caaf1bbd605e181aefa99fd507afed38e62099c4c902",
+      "bytes": 4527,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/EXECUTION_PREREGISTRATION_v3.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/EXECUTION_RECORDS.json": {
+      "sha256": "a689dedaee5c94457d0583b39c8c0baf223f92c568826f2e0e990a46b4d8ba58",
+      "bytes": 2930,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/EXECUTION_RECORDS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/HYPOTHESES.md": {
+      "sha256": "e7d7de33498115c35782dbdd820dcdca3e50e52ae22cb7b9b1b7493095d68321",
+      "bytes": 7352,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/HYPOTHESES.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/INPUT_VERIFICATION.json": {
+      "sha256": "2d6c5a36b0ea6040a0fc16aa94328abacb1f0ea7621aca3877b4df37cc7bd2a3",
+      "bytes": 14619,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/INPUT_VERIFICATION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/NOTES.md": {
+      "sha256": "319c500c34bf63bf787acb96f33bb74cf0a8dbbe816d737c3e80e015aa163db3",
+      "bytes": 2510,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/NOTES.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/OPERATIONAL_FAILURES.json": {
+      "sha256": "e43e552b3a7ab8f32b1433aefd6216ce1a471a3a30a5d3820ae09c952137a726",
+      "bytes": 933,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/OPERATIONAL_FAILURES.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/PROVENANCE.json": {
+      "sha256": "10a981ad576ba5045c5235e434a4673a4b3daa150c39fa193ae9d6f1cf21845f",
+      "bytes": 4537,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/PROVENANCE.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/REPORT.md": {
+      "sha256": "9adaf8de05ad27b217e13ddb002d62fb368eea91c40fbe7d8c25a075e4c24d85",
+      "bytes": 21301,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/REPORT.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/RESULTS.json": {
+      "sha256": "9d005db41bef5a089b1741b2c3ddd9e4dcd9d179ad2d23018a7a206ea8a2c611",
+      "bytes": 160300,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/RESULTS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/replay.py": {
+      "sha256": "c9039e9c7bc2100b204236dd4233827b2eae81aa4db085f04131362d85e12f39",
+      "bytes": 21964,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/replay.py"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt1.launch.json": {
+      "sha256": "bbefb0862ae390b64215bcfe0e96af61502552fbf87ab199ba1d34574355b8ea",
+      "bytes": 573,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt1.launch.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt1.stderr.txt": {
+      "sha256": "4254d0b3d157ee37ece00053460a4b8311943a00fef98557777b19c62f06c3ed",
+      "bytes": 392,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt1.stderr.txt"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt1.stdout.txt": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt1.stdout.txt"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt2/EXECUTION.json": {
+      "sha256": "f8c0972d9a13fb36a2609829b4aa374c12f85ba06024d9dff184c0b7ed771f35",
+      "bytes": 1061,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt2/EXECUTION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt2/RESULTS.json": {
+      "sha256": "cf9547bdcec2d5a4608e240118e93ec254c49048b64e6144fe14d3d405a82857",
+      "bytes": 157494,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt2/RESULTS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt2.launch.json": {
+      "sha256": "e4207ef6a4c3d76f46041a4fd19ea43cc04aa02d087c5fc9387abdcae06605e0",
+      "bytes": 573,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt2.launch.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt2.stderr.txt": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt2.stderr.txt"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt2.stdout.txt": {
+      "sha256": "4cce51c1ac6026b4323c9fb18f5fcbadf907ae21329ccd515813502258aaeca0",
+      "bytes": 103,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt2.stdout.txt"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt3/EXECUTION.json": {
+      "sha256": "c817c6380db25c1f169e3f04bc07b8d97fb0f5d82939fe8441ad0789b6ca1ad3",
+      "bytes": 1062,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt3/EXECUTION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt3/RESULTS.json": {
+      "sha256": "9d005db41bef5a089b1741b2c3ddd9e4dcd9d179ad2d23018a7a206ea8a2c611",
+      "bytes": 160300,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt3/RESULTS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt3.launch.json": {
+      "sha256": "57008315ee435181625fbe6db1e531c408917844aebe55f371799cb2c52db50b",
+      "bytes": 573,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt3.launch.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt3.stderr.txt": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt3.stderr.txt"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt3.stdout.txt": {
+      "sha256": "4cce51c1ac6026b4323c9fb18f5fcbadf907ae21329ccd515813502258aaeca0",
+      "bytes": 103,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/attempt3.stdout.txt"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/existing_output_refusal.json": {
+      "sha256": "e5c30dd39ec84a796880842439a840a4756e03607e091b674372330690121492",
+      "bytes": 709,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/existing_output_refusal.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/existing_output_refusal.stderr.txt": {
+      "sha256": "eea66952dda16bd0c677c7cd6cec9a61aefcdb7e79421b695e8710237a4078d1",
+      "bytes": 636,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/existing_output_refusal.stderr.txt"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/existing_output_refusal.stdout.txt": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/runs/existing_output_refusal.stdout.txt"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/versions/HYPOTHESES_before_universal_route.md": {
+      "sha256": "5ae0a9c66eb1c0a5e6014461cd82829c00b4c9f7e959abae2dedb52dcfb953fd",
+      "bytes": 7025,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/versions/HYPOTHESES_before_universal_route.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/versions/REPORT_before_universal_route.md": {
+      "sha256": "36798a8e32ad4dc5e286199f28d1c2f841189a72df958656dc96575b08f8a907",
+      "bytes": 18367,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/versions/REPORT_before_universal_route.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/versions/replay_v1.py": {
+      "sha256": "8d4e7eb15b93d7d8dba12106c655b77fe8e04d67bc242c4c20e0116aab168811",
+      "bytes": 21391,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/versions/replay_v1.py"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/versions/replay_v2.py": {
+      "sha256": "9596443c08686d68cd4a03292ce944d44170d094fb8ca4a1073130bcec06ba2d",
+      "bytes": 21390,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/versions/replay_v2.py"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/versions/replay_v3.py": {
+      "sha256": "c9039e9c7bc2100b204236dd4233827b2eae81aa4db085f04131362d85e12f39",
+      "bytes": 21964,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/versions/replay_v3.py"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/prior/A1/RESEARCH_REPORT.md": {
+      "sha256": "e5fd3db1591499e556a01f90a5ec1cf76fd60c7331c1e8e3c807890741156713",
+      "bytes": 17233,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/prior/A1/RESEARCH_REPORT.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/prior/A1/RESULTS_INDEX.md": {
+      "sha256": "baa5f995f70793a7ef3bb68cdda53d321ee54fccc60591de6c32e643bca8a702",
+      "bytes": 3150,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/prior/A1/RESULTS_INDEX.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/prior/A1/peers/ONE/REPORT.md": {
+      "sha256": "d3e1e5e0b2915c0d5cf77469b5180d867a51ba3df3dbef77a234389f30f08daa",
+      "bytes": 17695,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/prior/A1/peers/ONE/REPORT.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/prior/A1/peers/TWO/REPORT.md": {
+      "sha256": "b17a0368d75bdc46aefe7b0e01ea24826735b52ff29dbc27855dff7d6c2552c4",
+      "bytes": 22022,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/prior/A1/peers/TWO/REPORT.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/prior/CASE_AT_PREREGISTRATION.json": {
+      "sha256": "047c2299b3a63da487c4f87fdae452a155a028f5621cafe1c7ec062b3bb854e8",
+      "bytes": 911,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/prior/CASE_AT_PREREGISTRATION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/prior/learning_case/CASE.json": {
+      "sha256": "6925bb1e5b560b04d0f19669f71002ea688aaf4c12de66ef25340cf076509804",
+      "bytes": 2054,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/prior/learning_case/CASE.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/prior/learning_case/DERIVATION.md": {
+      "sha256": "05ecf30fed217a0f179e721a442687df1200851834f817a34ec3da6a7e44482b",
+      "bytes": 6716,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/prior/learning_case/DERIVATION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/prior/learning_case/MANIFEST.json": {
+      "sha256": "50de2d9deb6a0e0b6d9d4c0fce0b6914d6862713fae363c9ab699cb8b81692cc",
+      "bytes": 12542,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/prior/learning_case/MANIFEST.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/prior/learning_case/REPORT.md": {
+      "sha256": "77bfd1e2289e5da7c8fa6d94e7d524c9f2175baa9dc781778fa9289be38d5f32",
+      "bytes": 6372,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/prior/learning_case/REPORT.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/prior/learning_case/RESULTS/COMPARISON.json": {
+      "sha256": "0caf94ba7c8c25abb6ab1b6d632004ce94f9bbc186a8e0598a5aa46311f00bca",
+      "bytes": 20875,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/prior/learning_case/RESULTS/COMPARISON.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/prior/learning_case/RESULTS/RECURRENCE.json": {
+      "sha256": "4ac67954890aea25ad25460eedc6cacf518df28827c339dc9cab92ce59db37cb",
+      "bytes": 2522,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/prior/learning_case/RESULTS/RECURRENCE.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/prior/learning_case/TRANSFER_MAP.md": {
+      "sha256": "74f45b1973e55e8d02587491614faa022d2bf1f5c93549330346476ed7f441cd",
+      "bytes": 1513,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/prior/learning_case/TRANSFER_MAP.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/scripts/recover_native_results.py": {
+      "sha256": "6bb3df5e535cab4a4188214b56fdf87ee38c294bb92f92ecc126905f8fb39e74",
+      "bytes": 3364,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/scripts/recover_native_results.py"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/scripts/verify_readback.py": {
+      "sha256": "f88c92918861c5533f9f16dcbde2a0356a9754e4a7c71bb943dbe6e0588fefec",
+      "bytes": 4406,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/scripts/verify_readback.py"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/CAPABILITIES_FULL.json": {
+      "sha256": "9f1f09953b0fab71fc3c556d55206b2b16871e2b279dd960f7c5934c06d3274d",
+      "bytes": 55667,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/CAPABILITIES_FULL.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/duck_gen6_local/runs/volii-missing-pieces-broad-20261016-01/native_returns/broad_atomic_full_translated_tensor_and_Pauli_response.json": {
+      "sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "bytes": 9,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/duck_gen6_local/runs/volii-missing-pieces-broad-20261016-01/native_returns/broad_atomic_full_translated_tensor_and_Pauli_response.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_join_exterior_response_source_algebra.json": {
+      "sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "bytes": 9,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_join_exterior_response_source_algebra.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_actual_source_field_static_retarded_UV_join.json": {
+      "sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "bytes": 9,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_actual_source_field_static_retarded_UV_join.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_full_source_quartic_counterterm.json": {
+      "sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "bytes": 9,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_full_source_quartic_counterterm.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_combined_evaluation1_20261016/reference/PENCIL_VERIFICATION.json": {
+      "sha256": "60aa321e5d92820807713ab648a31e4f7663c4fd9c787776c5bac003bbac749f",
+      "bytes": 9644,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_combined_evaluation1_20261016/reference/PENCIL_VERIFICATION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_combined_evaluation1_20261016/spectral/CONTROL_DERIVATION.md": {
+      "sha256": "b4ccad19836a0e6223b87792edfae8b9e07ec29a15703f2e1bff7ad1ea8036f4",
+      "bytes": 5456,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_combined_evaluation1_20261016/spectral/CONTROL_DERIVATION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_combined_evaluation1_20261016/spectral/DERIVATION.md": {
+      "sha256": "755c3ce2b2d800944fb42a196b7b4f0a682a0143bf398c1f32391e6d15a83f36",
+      "bytes": 4237,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_combined_evaluation1_20261016/spectral/DERIVATION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_dressed_reference1_20261016/joint/ACTUAL_RETURN.json": {
+      "sha256": "f9b756af26454d26405a172c4a0c2741208c42b395add2970da4df0b0e462e32",
+      "bytes": 56601,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_dressed_reference1_20261016/joint/ACTUAL_RETURN.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_dressed_reference1_20261016/joint/DERIVATION.md": {
+      "sha256": "97685ff69bc6ec8a86bdf375726a77a2edc2aaa30155a0c5ba7484e2403b08c1",
+      "bytes": 3921,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_dressed_reference1_20261016/joint/DERIVATION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_dressed_reference1_20261016/joint/INTERFACE.json": {
+      "sha256": "0d879894c145965f62bf3a3f0885e6e916914a54b3bbfdf801a839a25acb2000",
+      "bytes": 10936,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_dressed_reference1_20261016/joint/INTERFACE.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_dressed_reference1_20261016/joint/VERIFICATION.json": {
+      "sha256": "0c87960f7ff5b27b8df4a3ee5a872eaee2ae950c690bc1ce5a71d8e3fc30c348",
+      "bytes": 64451,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_dressed_reference1_20261016/joint/VERIFICATION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_dressed_reference1_20261016/threshold/DERIVATION.md": {
+      "sha256": "3682b90b102744356cf9f7b4a5006242081a2e7a594cc3fbabedffb6580204bf",
+      "bytes": 7148,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_dressed_reference1_20261016/threshold/DERIVATION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_fragment_action1_20261016/joint/DERIVATION.md": {
+      "sha256": "7592b40240ba931cbd1a0f82ce05ecaf141d327a72a09e185d9f14ff073e4735",
+      "bytes": 11227,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_fragment_action1_20261016/joint/DERIVATION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_missing_pieces_broad1_20261016/atomic/RADIAL_SOURCE_PACKET.json": {
+      "sha256": "21e12021f78cc21828e0471051394f0b919c4a6cc5423c33e6ede121b70ea05c",
+      "bytes": 1969,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_missing_pieces_broad1_20261016/atomic/RADIAL_SOURCE_PACKET.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/RUN_POLICY.json": {
+      "sha256": "fddfbf7187e23468e507e0c9ac4464da7df05cbc213e4b4b2363fdf96c0ed462",
+      "bytes": 653,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/RUN_POLICY.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/field/ADAPTIVE_R1_VERIFICATION.json": {
+      "sha256": "e27cb1553a67eb35faa40a64ee504a564a8c58358f8b0d7c6316fbd46e00479c",
+      "bytes": 50282,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/field/ADAPTIVE_R1_VERIFICATION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/field/DERIVATION.md": {
+      "sha256": "aacc836c34f1058e5cf3875c88ca6c6ef339a9c02c9b10b7759a0298d9ac33a8",
+      "bytes": 5987,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/field/DERIVATION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/field/R1_VERIFICATION.json": {
+      "sha256": "5125fd354b93f5b309c525629037196ad70b2024975f5cd09087ce089f8eb246",
+      "bytes": 139635,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/field/R1_VERIFICATION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_DERIVATION.md": {
+      "sha256": "718410fb27377377daa11ff069b1e42872742f4a8977c34ce893ccc6c08f8aed",
+      "bytes": 4494,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_DERIVATION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_SOURCE_PACKET.json": {
+      "sha256": "ed6e9821a606f17370a1b9bbffc3ad025fa5eec5b6afd84b110b9eeea7f9d188",
+      "bytes": 2958,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_SOURCE_PACKET.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_VERIFICATION.json": {
+      "sha256": "e8ff2d48294e32c4d1fbd8274fa5d96127112c4a3bd5559b42d4b36ca789283e",
+      "bytes": 125643,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_VERIFICATION.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/field/SOURCE_PACKET.json": {
+      "sha256": "cc0fc5af06e579f383847abc8fb695f92133d32590742d21c5f05f8cfb8275b5",
+      "bytes": 2016,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/field/SOURCE_PACKET.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/source/R2_DERIVATION.md": {
+      "sha256": "3abc10b97e6fa3661f8f200adfb418528aae0ebb961a84e5d7ec14266150781c",
+      "bytes": 3166,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/source/R2_DERIVATION.md"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/source/SOURCE_PACKET.json": {
+      "sha256": "66c8ab84a5f7bc84d487b5463b93a164af6a857cd235da8718a18d2cfc611a14",
+      "bytes": 10175,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/GEN4/volii_quantum_motion_join1_20261016/source/SOURCE_PACKET.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/TRIAL_FAMILY.json": {
+      "sha256": "bce4669c325d25eb8063202a58ddc2480678bc8025a2f954824ff4b84464b56e",
+      "bytes": 13082,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/TRIAL_FAMILY.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/light/COLOUR_64_CONSTRUCTION_PAYLOAD.json": {
+      "sha256": "e51e8826e0570c8041aac43d9ddc7443641e738e67bd5164ff18dbb49da4b6e1",
+      "bytes": 37769,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/light/COLOUR_64_CONSTRUCTION_PAYLOAD.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/light/COMPLETE_DC_PAIR.json": {
+      "sha256": "afbc60e193b31052399efe61f89a742df78e970f8ca47b1789f53e33f7298d24",
+      "bytes": 61003,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/light/COMPLETE_DC_PAIR.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/light/HE3_FRAGMENT_SPACE.json": {
+      "sha256": "109700aed3eb2f1a6b1345cea90f4e24e8be993484573fa2579338c2e1d15c2c",
+      "bytes": 344417,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/light/HE3_FRAGMENT_SPACE.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/light/HE3_INDEPENDENT_FRAGMENTS.json": {
+      "sha256": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f",
+      "bytes": 579810,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/light/HE3_INDEPENDENT_FRAGMENTS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/light/HE3_PLACEMENT.json": {
+      "sha256": "7580dc810549c9ba5eb18a30ac0ffaf50a010de41fad80c369307bfe88c03865",
+      "bytes": 205718,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/light/HE3_PLACEMENT.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/sources/light/INDEPENDENT_CONSTANTS.json": {
+      "sha256": "02c6f2f114a4781a70d7d11ca4ae4718a17019b301b648474f9a0974db9efd94",
+      "bytes": 863,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/sources/light/INDEPENDENT_CONSTANTS.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/supplemental_sources/recovered_native_results/EXTRACTION_RECEIPT.json": {
+      "sha256": "94db84cd95fb1bfe0ec5e4d2b729ac68622edf4025f63749cabe947cb2ca8f95",
+      "bytes": 5063,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/supplemental_sources/recovered_native_results/EXTRACTION_RECEIPT.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/supplemental_sources/recovered_native_results/broad_atomic_full_translated_tensor_and_Pauli_response.json": {
+      "sha256": "a86d01e79db43298d3cae817ea70ef3574f845ad16a01c0c470b88f9c4442128",
+      "bytes": 7632,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/supplemental_sources/recovered_native_results/broad_atomic_full_translated_tensor_and_Pauli_response.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/supplemental_sources/recovered_native_results/quantum_join_exterior_response_source_algebra.json": {
+      "sha256": "cc41a54371511d0ebd90bf01f906c693a228524d92631f46442d69835907a799",
+      "bytes": 966,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/supplemental_sources/recovered_native_results/quantum_join_exterior_response_source_algebra.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/supplemental_sources/recovered_native_results/quantum_motion_actual_source_field_static_retarded_UV_join.json": {
+      "sha256": "c4382521a026c72b1330a2166c10feeb1de29a3db9d12db7762d9982b87e200a",
+      "bytes": 9173,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/supplemental_sources/recovered_native_results/quantum_motion_actual_source_field_static_retarded_UV_join.json"
+    },
+    "evidence/he3_relaxed_field_20261108/02_independent_verification/supplemental_sources/recovered_native_results/quantum_motion_full_source_quartic_counterterm.json": {
+      "sha256": "f1ce9a1295ff705447bd4e47fdf24fe591d88be4c1a70474f4722e957a44a400",
+      "bytes": 23569,
+      "origin": "Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/supplemental_sources/recovered_native_results/quantum_motion_full_source_quartic_counterterm.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/CAPSULE_DELIVERY.json": {
+      "sha256": "85eaac265339460881cf6e71bacbc47aed9baaa842c49f8f43881ccb93cf0ed7",
+      "bytes": 887,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/CAPSULE_DELIVERY.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/CASE.json": {
+      "sha256": "63024ff154a92561dacbd9fdac8f70e4ae7a3f814410f0a5626309a3f7a47e07",
+      "bytes": 2535,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/CASE.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/CLAIM.json": {
+      "sha256": "0929b93c24ad93d382d238d6b600d082f06bf0da95db6a8c121989b913909339",
+      "bytes": 1469,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/CLAIM.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/DERIVATION.md": {
+      "sha256": "bc1f4d708e0de23cec782f87055b22cb73fee38bf6eab9ef65356759029286c3",
+      "bytes": 2338,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/DERIVATION.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/FREEZE.json": {
+      "sha256": "38c2e160ee745e83200e07c223d33d44f98888eadbd77647bc1ac6189ef2b2ad",
+      "bytes": 2024,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/FREEZE.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/MANIFEST.json": {
+      "sha256": "97d38f6ec260e215a33e1da768c97a137cc13aeb62eda89f53a11bde5ea05b12",
+      "bytes": 9310,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/MANIFEST.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/PREDICTIONS.json": {
+      "sha256": "de8f3140724056e548e5c0a4b4a10ea0f8c62038d3dd29f90bfc76315bb6ccb5",
+      "bytes": 3403,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/PREDICTIONS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/PREREGISTRATION.json": {
+      "sha256": "cdf80fd57a36da277777abfc5107761a3ac5540938bed0ea306749e817f3ab84",
+      "bytes": 1817,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/PREREGISTRATION.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/REPORT.md": {
+      "sha256": "09eead2163f67207539a3221f051ff1d77c2398210c32cf4f40db309ea42f6a6",
+      "bytes": 4513,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/REPORT.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/REPRODUCE.md": {
+      "sha256": "8f8dd3b1f4d07d6ede61616d3f462539bdc6a4d3122b071b139dea46075e0ed6",
+      "bytes": 1739,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/REPRODUCE.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/RESULTS/CAPSULE_FILE_INDEX.json": {
+      "sha256": "3bf122d8d3cfb27e2e322ee3378449e0c2a40c45b3f2fbba879d501fec101e3e",
+      "bytes": 34041,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/RESULTS/CAPSULE_FILE_INDEX.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/RESULTS/INPUT_CUSTODY.json": {
+      "sha256": "e8bde1b5a7d1ac9fc3f21feb65815117a799cb60babd82fa79be6e2c9b01a8c0",
+      "bytes": 8051,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/RESULTS/INPUT_CUSTODY.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/RESULTS/READBACK.json": {
+      "sha256": "a15fbc20ecbe46f3c2d830d619de7178dfbb3af7dd5c40645f1069e918f1fb24",
+      "bytes": 1462,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/RESULTS/READBACK.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/EXECUTION_PREREGISTRATION.json": {
+      "sha256": "d15193174651158f71fef35b0e1bee92a689d5ac2068318cba3a92f05f397bc4",
+      "bytes": 7806,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/EXECUTION_PREREGISTRATION.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/REQUEST.json": {
+      "sha256": "0d763993935b224bbf36d5563394bf7bbf7ec3e69f630fb46572bc9168d6cad9",
+      "bytes": 296,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/REQUEST.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/CHECKS.json": {
+      "sha256": "dfc4742b40032688b943ed570a0b0299c261c8accd04a44599bddb8a0a276be2",
+      "bytes": 15768,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/CHECKS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/COMPLETE.json": {
+      "sha256": "ca8cea72efd6c41cdb2142e0031ae2101e19cfeeb3d7f7f36afccd8e50f34887",
+      "bytes": 190,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/COMPLETE.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/CYCLIC_AND_DARK_CERTIFICATES.json": {
+      "sha256": "d603f45cbe5f2477559a569ecf4a8e3acf1b67bc19b8e8336d52db69e0fc935e",
+      "bytes": 53033,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/CYCLIC_AND_DARK_CERTIFICATES.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/INPUT_AUTHENTICATION.json": {
+      "sha256": "7b5d9d5827ad7eefba58c41be000d647c3cd9e0080b965dfabb4ec471f1e5f87",
+      "bytes": 4522,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/INPUT_AUTHENTICATION.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/NESTED_MATRICES.json": {
+      "sha256": "b5a6526ede241ee648d283fe2ae94da026e847e338c9a648ba467688cea2a60e",
+      "bytes": 975593,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/NESTED_MATRICES.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/OUTPUT_SEAL.json": {
+      "sha256": "c4563d7679bd09b8faa0373a8f69b70226a47ce5075f70c5f8913e5a03b51e14",
+      "bytes": 912,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/OUTPUT_SEAL.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/PAIR_MATRICES.json": {
+      "sha256": "76b75c7da1c44850dc13abeb2c276529066a62d883de3f6b495e088b13d7be5f",
+      "bytes": 90806,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/PAIR_MATRICES.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/RESOLVENT.json": {
+      "sha256": "34f13d501a269a100e39a7098bb8663ef11a4be329f92cae794bd98bcc28e31a",
+      "bytes": 113227,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/RESOLVENT.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/RESULTS.json": {
+      "sha256": "7c61702493671a8ddbf00914038a2142f6690143e3b76b558f479bdd8fcb3ef6",
+      "bytes": 8520,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/RESULTS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/START.json": {
+      "sha256": "4867953ea6d01a9fe6277d8e77af3baa2b8165d6d140492615812b8c7905bf61",
+      "bytes": 920,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/RESULTS/lead_replay/fresh/START.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/STATEMENT.md": {
+      "sha256": "c333946408bf0cc7e3f654e652805510915f7ba25384cb5e3b716ffb3fc64e8a",
+      "bytes": 2261,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/STATEMENT.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/TARGET.md": {
+      "sha256": "41dde3e2cf0bac99e8aa7e4bedb95383d93fbe8de49f88a3cbc8864e7b687817",
+      "bytes": 1021,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/TARGET.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/TRANSFER_MAP.md": {
+      "sha256": "3233b0cfb0cb4da1a552f57b960dc209021aa94768eeb46e6a0f67cf30bdb658",
+      "bytes": 1051,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/TRANSFER_MAP.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/ATTEMPT_LEDGER.json": {
+      "sha256": "33e368fbbece675e16adc7695dde893c2fb2bfefe715afe04f9573764954dce7",
+      "bytes": 2600,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/ATTEMPT_LEDGER.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/DERIVATION.md": {
+      "sha256": "d80707c9f3c4fee50213273c3dfe5b9182c80059f1a4b7a3b55eddc7e79ae1c8",
+      "bytes": 13887,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/DERIVATION.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/HYPOTHESES.md": {
+      "sha256": "3ad6518b8e147da34042bcf075f91d40c3cb537f1516ab0415379b7ecea3185f",
+      "bytes": 5406,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/HYPOTHESES.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/NOTES.md": {
+      "sha256": "c4cc933c4f333051a105ee8b6e3f9004d8cd64b26618c92939cb321e941bcd05",
+      "bytes": 3896,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/NOTES.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/REPORT.md": {
+      "sha256": "9dcc010cd40ee8976886ca8c8e6f1c8195a0f5d7402d5766095005d1a2a651ba",
+      "bytes": 6408,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/REPORT.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/RESULTS.json": {
+      "sha256": "7c61702493671a8ddbf00914038a2142f6690143e3b76b558f479bdd8fcb3ef6",
+      "bytes": 8520,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/RESULTS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/SCOPE_CLARIFICATION.md": {
+      "sha256": "0579d2185f073640129716e1f7d728e2a8957089481b25be08bab6cf65471bf5",
+      "bytes": 5264,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/SCOPE_CLARIFICATION.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/SEAL.json": {
+      "sha256": "54647f7c3093ddded653744d0e4752e81f19c17bf27694f580dc215554ffc07f",
+      "bytes": 4090,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/SEAL.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/SOURCE_REFERENCE_AUDIT.json": {
+      "sha256": "2c304c335ccb35fa7fa4489907f3c23c14c54bae947e0ff8e760efadfbd506be",
+      "bytes": 2977,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/SOURCE_REFERENCE_AUDIT.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_001/EXECUTION_PREREGISTRATION.json": {
+      "sha256": "2218f0e36e440b8be45cafc9b36b42855facc3a1acea8711016dd4e617450706",
+      "bytes": 7806,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_001/EXECUTION_PREREGISTRATION.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_001/output/FAILED.json": {
+      "sha256": "c30c46885535ec0f553b9d66a69529757b9e103f0fb9268838e545d8be04e9c6",
+      "bytes": 1147,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_001/output/FAILED.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_001/output/INPUT_AUTHENTICATION.json": {
+      "sha256": "7b5d9d5827ad7eefba58c41be000d647c3cd9e0080b965dfabb4ec471f1e5f87",
+      "bytes": 4522,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_001/output/INPUT_AUTHENTICATION.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_001/output/OUTPUT_SEAL.json": {
+      "sha256": "503b120a9dbd6cc15cb455605023a498e9b08fb7a2c8170b08cc76d573beb0c0",
+      "bytes": 346,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_001/output/OUTPUT_SEAL.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_001/output/START.json": {
+      "sha256": "c3a3252e18c228456425c526644d0abe79da1007cfa87a6c299f7a0fd5b9cfd5",
+      "bytes": 1249,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_001/output/START.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_001/replay.py": {
+      "sha256": "2b12a273110c786727ccc4c7d1314f6aba970a0c37d3c08d628adb526dc0c210",
+      "bytes": 32841,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_001/replay.py"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_001/stderr.log": {
+      "sha256": "07fe078b3289a342929106521255fff5f0b9a7ef9fc69034c64b9f2a984b3c3c",
+      "bytes": 984,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_001/stderr.log"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_001/stdout.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_001/stdout.log"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/EXECUTION_PREREGISTRATION.json": {
+      "sha256": "a333904cbe51489b129d30b8f0107516a82a453993429b7694554c22070faf9f",
+      "bytes": 7806,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/EXECUTION_PREREGISTRATION.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/CHECKS.json": {
+      "sha256": "dfc4742b40032688b943ed570a0b0299c261c8accd04a44599bddb8a0a276be2",
+      "bytes": 15768,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/CHECKS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/COMPLETE.json": {
+      "sha256": "94e4a5a3a682f129ce6c9ed0f50441a07209b1bb5e00f0d0a28e179e605aeed3",
+      "bytes": 190,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/COMPLETE.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/CYCLIC_AND_DARK_CERTIFICATES.json": {
+      "sha256": "d603f45cbe5f2477559a569ecf4a8e3acf1b67bc19b8e8336d52db69e0fc935e",
+      "bytes": 53033,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/CYCLIC_AND_DARK_CERTIFICATES.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/INPUT_AUTHENTICATION.json": {
+      "sha256": "7b5d9d5827ad7eefba58c41be000d647c3cd9e0080b965dfabb4ec471f1e5f87",
+      "bytes": 4522,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/INPUT_AUTHENTICATION.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/NESTED_MATRICES.json": {
+      "sha256": "b5a6526ede241ee648d283fe2ae94da026e847e338c9a648ba467688cea2a60e",
+      "bytes": 975593,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/NESTED_MATRICES.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/OUTPUT_SEAL.json": {
+      "sha256": "7db375651442e0626087c6b38f1c7d70699a5cde9042388a403b5d8f8701bf2c",
+      "bytes": 912,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/OUTPUT_SEAL.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/PAIR_MATRICES.json": {
+      "sha256": "76b75c7da1c44850dc13abeb2c276529066a62d883de3f6b495e088b13d7be5f",
+      "bytes": 90806,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/PAIR_MATRICES.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/RESOLVENT.json": {
+      "sha256": "34f13d501a269a100e39a7098bb8663ef11a4be329f92cae794bd98bcc28e31a",
+      "bytes": 113227,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/RESOLVENT.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/RESULTS.json": {
+      "sha256": "7c61702493671a8ddbf00914038a2142f6690143e3b76b558f479bdd8fcb3ef6",
+      "bytes": 8520,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/RESULTS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/START.json": {
+      "sha256": "90e5967aa8ea0f3d18ac23e646b372838c976c2110fd7a599154fa0fb55d951b",
+      "bytes": 1249,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/output/START.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/replay.py": {
+      "sha256": "9f31c15a382cb7a895d7c2a9b8265bc6a7e20381061b669760ea9b25ce541d73",
+      "bytes": 32888,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/replay.py"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/stderr.log": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/stderr.log"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/stdout.log": {
+      "sha256": "62bc555d69cc95af408553d57a8e54647c9923dc12b783c968aa69288375a01c",
+      "bytes": 281,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/attempts/attempt_002/stdout.log"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/provenance/AUTHORSHIP.md": {
+      "sha256": "6f9c0e4986c8352d791a705c0ee63748a1a99819251c9f1b4f8622122001ea3c",
+      "bytes": 1268,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/provenance/AUTHORSHIP.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/provenance/CONTEXT_HASHES.json": {
+      "sha256": "714fd6e2d93e0790e19db06b36bb167010c593c22504959289617157ebc90f10",
+      "bytes": 654,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/provenance/CONTEXT_HASHES.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/provenance/CUSTODY_SNAPSHOT_AUTHENTICATION.json": {
+      "sha256": "10228c8db2264d0f2a69e609d4668f7c67a30be35960f4a7a92131e6df75a895",
+      "bytes": 6110,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/provenance/CUSTODY_SNAPSHOT_AUTHENTICATION.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/provenance/DELIVERY_CHECK.json": {
+      "sha256": "36f13bb7655770fee6d0408e8e5a478e763f5acdda3983fc0eb14479866dd228",
+      "bytes": 1454,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/provenance/DELIVERY_CHECK.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/provenance/INPUT_AUTHENTICATION.json": {
+      "sha256": "7b5d9d5827ad7eefba58c41be000d647c3cd9e0080b965dfabb4ec471f1e5f87",
+      "bytes": 4522,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/provenance/INPUT_AUTHENTICATION.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/provenance/SOURCE_FIELD_SELECTION.json": {
+      "sha256": "4599cda654d3463a6b16eb773d2c177b456926b53796fa57c6005410ba805f75",
+      "bytes": 691,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/provenance/SOURCE_FIELD_SELECTION.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/replay.py": {
+      "sha256": "9f31c15a382cb7a895d7c2a9b8265bc6a7e20381061b669760ea9b25ce541d73",
+      "bytes": 32888,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/peers/VERIFIER/replay.py"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/prior/A1_TWO_REPORT.md": {
+      "sha256": "b17a0368d75bdc46aefe7b0e01ea24826735b52ff29dbc27855dff7d6c2552c4",
+      "bytes": 22022,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/prior/A1_TWO_REPORT.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/prior/CASE_AT_PREREGISTRATION.json": {
+      "sha256": "8c7a18600f66437d164168744e833ad91366990e018ac476d90e3b584f48c4b6",
+      "bytes": 842,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/prior/CASE_AT_PREREGISTRATION.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/prior/FREE_PAIR_PARENT.json": {
+      "sha256": "ed752763e2bf12a52dc3aedd85bb5e92ff8f2adca8e851c207fcb9e85bff5d03",
+      "bytes": 54031,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/prior/FREE_PAIR_PARENT.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/prior/NATIVE_OPERATION_PROVENANCE.json": {
+      "sha256": "836c3ce9c500b88842b469397eca33a0d1ac1b6090b3218d6d843efc8557b0ba",
+      "bytes": 4658,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/prior/NATIVE_OPERATION_PROVENANCE.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/prior/constructor_TWO_DERIVATION.md": {
+      "sha256": "12f994df98fc3ba0b6738e1422f6fd23615550a1d57427fd4e1760715e38b044",
+      "bytes": 12000,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/prior/constructor_TWO_DERIVATION.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/prior/constructor_TWO_REPORT.md": {
+      "sha256": "ef77c54bf3e3679f8ec5375b02e65a8cdb285f2e875481f575c53b44b57ab27c",
+      "bytes": 18479,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/prior/constructor_TWO_REPORT.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/prior/native_mathematics/TWO_FREE_PAIR_CLOSURE_V1/000_free_pair_closure.output.json": {
+      "sha256": "76ba477844caece3463d78af41392b150f76aa390495d1a21b59dc809eb7c396",
+      "bytes": 34220,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/prior/native_mathematics/TWO_FREE_PAIR_CLOSURE_V1/000_free_pair_closure.output.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/prior/native_mathematics/TWO_FREE_PAIR_PAYMENT_V1/000_FREE_PAIR_FULL_PAYMENT_V1.output.json": {
+      "sha256": "9d7ac28e3cca1a84e7cd62a912927f72ab2592e5320bb1dda864fc1fffe67a53",
+      "bytes": 6719,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/prior/native_mathematics/TWO_FREE_PAIR_PAYMENT_V1/000_FREE_PAIR_FULL_PAYMENT_V1.output.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/scripts/verify_readback.py": {
+      "sha256": "d05f0c9877973e0ecae5750d77fe4adf4b9d730271a6ce4be52065c8199c82cb",
+      "bytes": 7449,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/scripts/verify_readback.py"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/sources/light/HE3_FRAGMENT_SPACE.json": {
+      "sha256": "109700aed3eb2f1a6b1345cea90f4e24e8be993484573fa2579338c2e1d15c2c",
+      "bytes": 344417,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/sources/light/HE3_FRAGMENT_SPACE.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/sources/light/HE3_INDEPENDENT_FRAGMENTS.json": {
+      "sha256": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f",
+      "bytes": 579810,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/sources/light/HE3_INDEPENDENT_FRAGMENTS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/sources/light/HE3_PLACEMENT.json": {
+      "sha256": "7580dc810549c9ba5eb18a30ac0ffaf50a010de41fad80c369307bfe88c03865",
+      "bytes": 205718,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/sources/light/HE3_PLACEMENT.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/supplemental_sources/inherited_he3/CLAIM.json": {
+      "sha256": "e885f8f5d565393a05c229ec8b796e5fe47dddc457e10471e77dec394c5efa81",
+      "bytes": 1856,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/supplemental_sources/inherited_he3/CLAIM.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/01_free_reference/supplemental_sources/inherited_he3/DERIVATION.md": {
+      "sha256": "9fdd71fba789ac13b596f075acd6f8e818a392bcb550a668ba625ebbc5c6232d",
+      "bytes": 4216,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/supplemental_sources/inherited_he3/DERIVATION.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/CAPSULE_DELIVERY.json": {
+      "sha256": "85eaac265339460881cf6e71bacbc47aed9baaa842c49f8f43881ccb93cf0ed7",
+      "bytes": 887,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/CAPSULE_DELIVERY.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/CASE.json": {
+      "sha256": "40709f11ae340f584186b9a42c6982935f6e7f5eaaf39e62a33808ddb8e5359c",
+      "bytes": 2328,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/CASE.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/CLAIM.json": {
+      "sha256": "29608884c569d7d05ab5772e1e0768174579f474b3afcf2d3a4126c6f9e875b1",
+      "bytes": 2003,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/CLAIM.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/DERIVATION.md": {
+      "sha256": "7a1dc6ed1a147078e1e179edc1c031e58423f21329982a4006693ec3a24f320d",
+      "bytes": 2334,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/DERIVATION.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/FREEZE.json": {
+      "sha256": "8d48e95e42858c6375f6de7d53412e90736f83537d2d1a9255f834e96eb64124",
+      "bytes": 3041,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/FREEZE.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/MANIFEST.json": {
+      "sha256": "53bf972ad9369600557fd3ce1181e4ee9e67566aca434da7bf94630e377c01b3",
+      "bytes": 9993,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/MANIFEST.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/PREDICTIONS.json": {
+      "sha256": "aa7d47651e3c1c9026bddd6d8bbf5c992626fa6639d039f33d0aa9d884587165",
+      "bytes": 4330,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/PREDICTIONS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/PREREGISTRATION.json": {
+      "sha256": "a6f08f4155c4da6930f7c4497907649a66345b18f719af84e1794623fe3d73b6",
+      "bytes": 1854,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/PREREGISTRATION.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/REPORT.md": {
+      "sha256": "eb82ad3d99ef453c1def02a4ab237a587bacbc06581421e2a9d278326330185c",
+      "bytes": 4714,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/REPORT.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/REPRODUCE.md": {
+      "sha256": "69377f10c588c7125f9d95ece8475c1720f69d1b41311b3995c308f193d8a569",
+      "bytes": 1599,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/REPRODUCE.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/CAPSULE_FILE_INDEX.json": {
+      "sha256": "3bf122d8d3cfb27e2e322ee3378449e0c2a40c45b3f2fbba879d501fec101e3e",
+      "bytes": 34041,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/CAPSULE_FILE_INDEX.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/INPUT_CUSTODY.json": {
+      "sha256": "a11416233186f1a8f875eb2c0e42a52c84cbf0f62bf506b9ca94a556ff0c173b",
+      "bytes": 13836,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/INPUT_CUSTODY.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/READBACK.json": {
+      "sha256": "4bc47542d27ad8638c203d33d7417982ec2bfb032f8d0296e52e2c2b3b79a051",
+      "bytes": 1585,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/READBACK.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/REQUEST.json": {
+      "sha256": "61305a0b66ba273b4f0c5bea9c23c8fabdbafdd3e412bf1bae349d9a19c25725",
+      "bytes": 296,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/REQUEST.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/CHECKS.json": {
+      "sha256": "4a7acb4366b1539dfa30b19bf6e4569df4b832ce7358dec23efeac683ff0b255",
+      "bytes": 4503027,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/CHECKS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/COLOUR_OPERANDS.json": {
+      "sha256": "63a4efb0caca49b089afdd90bff6471168f6d89d9c73ecec50e6da43def05932",
+      "bytes": 1388201,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/COLOUR_OPERANDS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/CONTROLS.json": {
+      "sha256": "889e17de68bc9734d105f928b46fe26c2cc21cbeee7df773ac286a006043f382",
+      "bytes": 14657,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/CONTROLS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/ENTANGLED_CONTROL.json": {
+      "sha256": "d745ef07f09499950dcbcd61fefd42ea1de82a32a9e6df505b5d03e686568c77",
+      "bytes": 1016,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/ENTANGLED_CONTROL.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/FIELD_COEFFICIENTS.json": {
+      "sha256": "d4d310af8ad7f1c94f291317bc0fd6502771c91debf0d098c1aee880de9198ca",
+      "bytes": 9422,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/FIELD_COEFFICIENTS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/INPUT_AUTHENTICATION.json": {
+      "sha256": "03d8ba949db60e91c28737632d177ada9fe4d6b0d6846d8f552b18e431251cc2",
+      "bytes": 7271,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/INPUT_AUTHENTICATION.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/PLACEMENT_OPERANDS.json": {
+      "sha256": "c09ab6b11855992f64eb74fb81010d4a5b81e579bb33a912c07dbcf26f7bbbe1",
+      "bytes": 623053,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/PLACEMENT_OPERANDS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/RESULTS.json": {
+      "sha256": "da850ca7164b27d8c1ee3621a0e744beb963e7d2f279e9381d407492c6d449cd",
+      "bytes": 2073,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/RESULTS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/RUN_START.json": {
+      "sha256": "86bf8519e4425580cf0a4dd1a7973d06865db714b36436881f41fb4ffd1c2ab9",
+      "bytes": 750,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/RUN_START.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/RUN_STATUS.json": {
+      "sha256": "e8523f61917a0d9102a229b931612b810f5d0dd26ba744a16cd75b0b2a2745bf",
+      "bytes": 152,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/RESULTS/lead_replay/fresh/RUN_STATUS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/STATEMENT.md": {
+      "sha256": "654dc2a809b7b9b67df63142c2c744b2733c0bd20838d480901ebd472173b98c",
+      "bytes": 2492,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/STATEMENT.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/TARGET.md": {
+      "sha256": "f86272566d4ab13419c062d6d3a49565707246b9ade36b06868e9c267185376d",
+      "bytes": 1030,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/TARGET.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/TRANSFER_MAP.md": {
+      "sha256": "d4bc34c693fc0ab402765925370c61e2e3f26927456b55ecbbcad9e3b94d6ef4",
+      "bytes": 1060,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/TRANSFER_MAP.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/EXECUTION_PREREGISTRATION_V001.json": {
+      "sha256": "3cb6d6d0989c105c89781dcb98fc1b8b89754f3e1e68a04b50dda8a2fc9240b0",
+      "bytes": 6643,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/EXECUTION_PREREGISTRATION_V001.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/EXECUTION_PREREGISTRATION_V002.json": {
+      "sha256": "a233550b6eb40e3e6ccfb90797f5a817c1f9ac7f6ec83cb21878eab58c30b469",
+      "bytes": 7284,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/EXECUTION_PREREGISTRATION_V002.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/FINAL_SEAL.json": {
+      "sha256": "b50ceee7f82a7f743ea0e744fa11cdea43f5ef345037e48dacece6e7f072c849",
+      "bytes": 4286,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/FINAL_SEAL.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/HYPOTHESES.md": {
+      "sha256": "b089435dbe605a56c38b9838dc63114f651a19e0387de97b20d151ecdb0354fc",
+      "bytes": 5755,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/HYPOTHESES.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/NOTES.md": {
+      "sha256": "13f9e573b8f69bf3505c0bfad0251d23bc3f16c905953adbc50e5608dbe7ead6",
+      "bytes": 6084,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/NOTES.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/REPORT.md": {
+      "sha256": "de5bd8cfb82ea44012231d9eb17bda24a56ed5c103ff868b33eb34bfe2911c28",
+      "bytes": 19640,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/REPORT.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/RESULTS.json": {
+      "sha256": "75c3b49bb89427085c51ecf0b594decad6ab9b38d51b5cc325d513f7843522ea",
+      "bytes": 5288,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/RESULTS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/CLI_EXISTING_OUTPUT_REFUSAL.json": {
+      "sha256": "840f95fd7c365b062670cb89dfc3587ac93dea582b41470369e362e57cfca8f7",
+      "bytes": 1053,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/CLI_EXISTING_OUTPUT_REFUSAL.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/PREFLIGHT_FAILURE_000.json": {
+      "sha256": "9ed1c440d50c871278279bc3c5b5363fe85acc33a7254b7686b0459c3fbe8ddb",
+      "bytes": 386,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/PREFLIGHT_FAILURE_000.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/replay_v000_unexecuted.py": {
+      "sha256": "cb14677b8c4ce0de15fa0d2a2b2cd65c5fe90dcc3fa8db89e1f233e8f8ac1296",
+      "bytes": 33216,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/replay_v000_unexecuted.py"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/replay_v001.py": {
+      "sha256": "103f5175558b3249d8037a7f1bf07df7c4be2993d8278c41b30c74a2d5f89f9e",
+      "bytes": 33399,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/replay_v001.py"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/replay_v002.py": {
+      "sha256": "a81d2356d77a3ab76b6e59a1ed4db18b13fada5eae18441491f0b9b5d00cfedd",
+      "bytes": 34495,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/replay_v002.py"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/CHECKS.json": {
+      "sha256": "eef90859b0f0e5c947b0a231be35edf4213bb370c7362ee69fe5850b58762bee",
+      "bytes": 3969904,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/CHECKS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/COLOUR_OPERANDS.json": {
+      "sha256": "fe87633bffa4188d373a64d8f03f6bba65aadc05bb03d3b091030e6c0a07f436",
+      "bytes": 1383248,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/COLOUR_OPERANDS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/CONSOLE.json": {
+      "sha256": "aee85a06c6ccb97620811534495768594a912832d0cbe5b7dd0e4c66f7f8e992",
+      "bytes": 188,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/CONSOLE.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/CONTROLS.json": {
+      "sha256": "889e17de68bc9734d105f928b46fe26c2cc21cbeee7df773ac286a006043f382",
+      "bytes": 14657,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/CONTROLS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/ENTANGLED_CONTROL.json": {
+      "sha256": "d745ef07f09499950dcbcd61fefd42ea1de82a32a9e6df505b5d03e686568c77",
+      "bytes": 1016,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/ENTANGLED_CONTROL.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/FIELD_COEFFICIENTS.json": {
+      "sha256": "d4d310af8ad7f1c94f291317bc0fd6502771c91debf0d098c1aee880de9198ca",
+      "bytes": 9422,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/FIELD_COEFFICIENTS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/INPUT_AUTHENTICATION.json": {
+      "sha256": "aa86db78a15c4c11e3f1ecb187112e4e59aaa400691ab7de54620b49142a7754",
+      "bytes": 7271,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/INPUT_AUTHENTICATION.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/PLACEMENT_OPERANDS.json": {
+      "sha256": "c09ab6b11855992f64eb74fb81010d4a5b81e579bb33a912c07dbcf26f7bbbe1",
+      "bytes": 623053,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/PLACEMENT_OPERANDS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/RESULTS.json": {
+      "sha256": "aba9d2482e58cc6a4b96f3ecc89cc38a0f3d8d1ee9134011c11f652c961dd59f",
+      "bytes": 2071,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/RESULTS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/RUN_START.json": {
+      "sha256": "a4eba73b8d16408c60430d5d6dec6591aaaeee45578ba84b7a0215007fbd1ce0",
+      "bytes": 1187,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/RUN_START.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/RUN_STATUS.json": {
+      "sha256": "01c1a14a6ea41b717eab83f47a2b127a78d6ff517118f26cd6599fc925da3088",
+      "bytes": 150,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v001/RUN_STATUS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/CHECKS.json": {
+      "sha256": "4a7acb4366b1539dfa30b19bf6e4569df4b832ce7358dec23efeac683ff0b255",
+      "bytes": 4503027,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/CHECKS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/COLOUR_OPERANDS.json": {
+      "sha256": "63a4efb0caca49b089afdd90bff6471168f6d89d9c73ecec50e6da43def05932",
+      "bytes": 1388201,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/COLOUR_OPERANDS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/CONSOLE.json": {
+      "sha256": "43a67f1dd17ff866707aa5f391ecf596e1d203c80dfe8a7cda11693ff4eeed30",
+      "bytes": 190,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/CONSOLE.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/CONTROLS.json": {
+      "sha256": "889e17de68bc9734d105f928b46fe26c2cc21cbeee7df773ac286a006043f382",
+      "bytes": 14657,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/CONTROLS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/ENTANGLED_CONTROL.json": {
+      "sha256": "d745ef07f09499950dcbcd61fefd42ea1de82a32a9e6df505b5d03e686568c77",
+      "bytes": 1016,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/ENTANGLED_CONTROL.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/FIELD_COEFFICIENTS.json": {
+      "sha256": "d4d310af8ad7f1c94f291317bc0fd6502771c91debf0d098c1aee880de9198ca",
+      "bytes": 9422,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/FIELD_COEFFICIENTS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/INPUT_AUTHENTICATION.json": {
+      "sha256": "d12c5e13601c520460be60357f5a873119793d199a78cd4162f8613aec3a01c5",
+      "bytes": 7271,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/INPUT_AUTHENTICATION.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/PLACEMENT_OPERANDS.json": {
+      "sha256": "c09ab6b11855992f64eb74fb81010d4a5b81e579bb33a912c07dbcf26f7bbbe1",
+      "bytes": 623053,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/PLACEMENT_OPERANDS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/RESULTS.json": {
+      "sha256": "9280648b5155a8dd425116e90553eb3daeb6e9bba4007f0eb495d49af9dc621e",
+      "bytes": 2073,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/RESULTS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/RUN_START.json": {
+      "sha256": "f2bc97f2c0de57b411882c6c5e2014eb62f19fc37d925129fb43a5c2eb646c72",
+      "bytes": 1187,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/RUN_START.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/RUN_STATUS.json": {
+      "sha256": "721c9fd5818885e10a192e5489e5dfb6ebe2167b68a2c702c3956a16340e01ca",
+      "bytes": 152,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/attempts/run_v002/RUN_STATUS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/provenance/FINAL_ARTIFACT_AUDIT.json": {
+      "sha256": "6eabafff8dbf4e21d355cc6188c1c02791b82e3b3fdc4bbdf15ee786679af89f",
+      "bytes": 1588,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/provenance/FINAL_ARTIFACT_AUDIT.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/provenance/FINAL_INPUT_CUSTODY.json": {
+      "sha256": "204bc3836647df13e8c65b3fed60f1d110c6aa088549f089118dbd2f3be6f2ce",
+      "bytes": 20799,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/provenance/FINAL_INPUT_CUSTODY.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/provenance/INITIAL_SEAL.json": {
+      "sha256": "fa2864baae98e95ecd963b7be010e2d402cb1526cde3d94d3e074a069a993082",
+      "bytes": 550,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/provenance/INITIAL_SEAL.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/provenance/authenticate_custody.py": {
+      "sha256": "42b5561f363d105829b75c37d60214d4fde6e29f2761e42ddafd7450afd794a8",
+      "bytes": 1937,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/provenance/authenticate_custody.py"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/replay.py": {
+      "sha256": "a81d2356d77a3ab76b6e59a1ed4db18b13fada5eae18441491f0b9b5d00cfedd",
+      "bytes": 34495,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/peers/VERIFIER/replay.py"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/A1_TWO_REPORT.md": {
+      "sha256": "b17a0368d75bdc46aefe7b0e01ea24826735b52ff29dbc27855dff7d6c2552c4",
+      "bytes": 22022,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/A1_TWO_REPORT.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/CASE_AT_PREREGISTRATION.json": {
+      "sha256": "4d9eed9f7ca57f1604b908e2cb6e82dc2d2e5298bf2b740d4294e7f0246ac232",
+      "bytes": 851,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/CASE_AT_PREREGISTRATION.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/HE3_HYPOTHESES.md": {
+      "sha256": "e7d7de33498115c35782dbdd820dcdca3e50e52ae22cb7b9b1b7493095d68321",
+      "bytes": 7352,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/HE3_HYPOTHESES.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/HE3_VERIFIED_ACCOUNT.md": {
+      "sha256": "9fdd71fba789ac13b596f075acd6f8e818a392bcb550a668ba625ebbc5c6232d",
+      "bytes": 4216,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/HE3_VERIFIED_ACCOUNT.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/NATIVE_OPERATION_PROVENANCE.json": {
+      "sha256": "9b933fb94a0f488106918fa50d79bf1cd687a3e2e1f701e947deccf8fbc6897e",
+      "bytes": 6389,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/NATIVE_OPERATION_PROVENANCE.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/PROFILE_SCOPE.md": {
+      "sha256": "687bc5afdfaf65c15e2fd5dc09a38a2c5068b53337e0118c54892a0dc1918fa5",
+      "bytes": 2903,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/PROFILE_SCOPE.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/TENSOR_TWO_OPERANDS.json": {
+      "sha256": "6c5eff0960c861021e790e51f9471ad3c50bf858bb1c5ac788ac04a4c99e452f",
+      "bytes": 42383,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/TENSOR_TWO_OPERANDS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/constructor_TWO_DERIVATION.md": {
+      "sha256": "12f994df98fc3ba0b6738e1422f6fd23615550a1d57427fd4e1760715e38b044",
+      "bytes": 12000,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/constructor_TWO_DERIVATION.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/constructor_TWO_REPORT.md": {
+      "sha256": "ef77c54bf3e3679f8ec5375b02e65a8cdb285f2e875481f575c53b44b57ab27c",
+      "bytes": 18479,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/constructor_TWO_REPORT.md"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/000_FIELD_CORRELATED_GRAM_V1.output.json": {
+      "sha256": "f0530be023e7adb07cc7f7ba575acc8923bd0b067e673f36cd3435e4622f1be9",
+      "bytes": 221,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/000_FIELD_CORRELATED_GRAM_V1.output.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/001_FIELD_ANTICORRELATED_GRAM_V1.output.json": {
+      "sha256": "365126a3f55f97bc214f05dc1a8fb173b471fd34866076394618111be7f3d54d",
+      "bytes": 217,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/001_FIELD_ANTICORRELATED_GRAM_V1.output.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/002_FIELD_CURRENT_PLUS_VARIANCE_V1.output.json": {
+      "sha256": "c02a2b74487d48b0ce356685af7be6fb6186a1864c91ecb1ad259003fc9875f1",
+      "bytes": 363,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/002_FIELD_CURRENT_PLUS_VARIANCE_V1.output.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/003_FIELD_CURRENT_MINUS_VARIANCE_V1.output.json": {
+      "sha256": "a0abab223a0e6541bdabe6efff45255f4b5d20ebe18418d8508721fc1e745197",
+      "bytes": 351,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/prior/native_mathematics/TWO_MULTI_FIELD_VARIANCE_V1/003_FIELD_CURRENT_MINUS_VARIANCE_V1.output.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/scripts/verify_readback.py": {
+      "sha256": "d05f0c9877973e0ecae5750d77fe4adf4b9d730271a6ce4be52065c8199c82cb",
+      "bytes": 7449,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/scripts/verify_readback.py"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/MULTI_FIELD_OPERANDS.json": {
+      "sha256": "ca85b5045b90e3180ca40e8934d100a665c5b79bbcb91515fc0f0b46f5a33aa7",
+      "bytes": 1920,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/MULTI_FIELD_OPERANDS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/COLOUR_64_CONSTRUCTION_PAYLOAD.json": {
+      "sha256": "e51e8826e0570c8041aac43d9ddc7443641e738e67bd5164ff18dbb49da4b6e1",
+      "bytes": 37769,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/COLOUR_64_CONSTRUCTION_PAYLOAD.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/COMPLETE_DC_PAIR.json": {
+      "sha256": "afbc60e193b31052399efe61f89a742df78e970f8ca47b1789f53e33f7298d24",
+      "bytes": 61003,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/COMPLETE_DC_PAIR.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/HE3_FRAGMENT_SPACE.json": {
+      "sha256": "109700aed3eb2f1a6b1345cea90f4e24e8be993484573fa2579338c2e1d15c2c",
+      "bytes": 344417,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/HE3_FRAGMENT_SPACE.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/HE3_INDEPENDENT_FRAGMENTS.json": {
+      "sha256": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f",
+      "bytes": 579810,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/HE3_INDEPENDENT_FRAGMENTS.json"
+    },
+    "evidence/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/HE3_PLACEMENT.json": {
+      "sha256": "7580dc810549c9ba5eb18a30ac0ffaf50a010de41fad80c369307bfe88c03865",
+      "bytes": 205718,
+      "origin": "Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance/sources/light/HE3_PLACEMENT.json"
+    },
+    "evidence/context/a1/RESEARCH_REPORT.md": {
+      "sha256": "e5fd3db1591499e556a01f90a5ec1cf76fd60c7331c1e8e3c807890741156713",
+      "bytes": 17233,
+      "origin": "ironclad/campaigns/volii_a1_light_sources_20261108/RESEARCH_REPORT.md"
+    },
+    "evidence/context/a1/TWO_REPORT.md": {
+      "sha256": "b17a0368d75bdc46aefe7b0e01ea24826735b52ff29dbc27855dff7d6c2552c4",
+      "bytes": 22022,
+      "origin": "ironclad/campaigns/volii_a1_light_sources_20261108/peers/TWO/REPORT.md"
+    },
+    "evidence/context/a1/ONE_REPORT.md": {
+      "sha256": "d3e1e5e0b2915c0d5cf77469b5180d867a51ba3df3dbef77a234389f30f08daa",
+      "bytes": 17695,
+      "origin": "ironclad/campaigns/volii_a1_light_sources_20261108/peers/ONE/REPORT.md"
+    },
+    "evidence/context/constructor/RESEARCH_REPORT.md": {
+      "sha256": "f1cc5bcc346e01ab7497798f6856d87e9ed22e796152a667458be442c53b0b9c",
+      "bytes": 22168,
+      "origin": "ironclad/campaigns/volii_isotope_constructor_20261108/RESEARCH_REPORT.md"
+    },
+    "evidence/context/constructor/TWO_REPORT.md": {
+      "sha256": "ef77c54bf3e3679f8ec5375b02e65a8cdb285f2e875481f575c53b44b57ab27c",
+      "bytes": 18479,
+      "origin": "ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/REPORT.md"
+    }
+  },
+  "file_count": 379,
+  "bytes": 32330910
+}

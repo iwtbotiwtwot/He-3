@@ -1,0 +1,33 @@
+{
+  "case_id": "he3_relaxed_field_20261108/02_independent_verification",
+  "campaign": "he3_relaxed_field_20261108",
+  "tier": "verification",
+  "constitution_revision": 2,
+  "types": {
+    "EXACT": 1
+  },
+  "credit": {
+    "proposed_by": [
+      "Sean Brady"
+    ],
+    "directed_by": "Sean Brady",
+    "executed_with": [
+      "New source-first proof audit and separately authored exact-rational verification"
+    ]
+  },
+  "independence": "I0",
+  "reproducibility": "R0",
+  "reviewed_and_approved": false,
+  "withheld": [],
+  "appeal_of": null,
+  "verifies": "he3_relaxed_field_20261108/01_complete_payment",
+  "method": {
+    "instrument": "Plain Python standard-library exact reconstruction; analytical quadratic-form proof audit",
+    "form": "verification",
+    "window_start_utc": "2026-11-08T13:55:20.010146+00:00",
+    "window_end_utc": "",
+    "peers": [],
+    "peer_reports": []
+  },
+  "edges": []
+}

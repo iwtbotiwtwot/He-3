@@ -1,0 +1,129 @@
+{
+  "status": "PASS",
+  "case_freeze_sha256": "7bf06f49d2184adf7b5b63c15b8a562edf6d20d9c37c11c32dce4c0dd90da524",
+  "fixed_input_count": 36,
+  "original_preparation_seal_unchanged": true,
+  "peer_deliverables_copied_verbatim": {
+    "peers/A/REPORT.md": "aafcb6b2a528c970af2460e15403e6e4a5a48c9959e90f7d155a0e9768cabe51",
+    "peers/A/NOTES.md": "0eb6f64ef03071e013963ad401e61bc788840656135315c7bf22e21ccb2137c3",
+    "peers/A/RESULTS.json": "ff19f16a5b8f3cec992c9391e690ede3f0d1102213cb7e47a8a963a0518da799",
+    "peers/A/SOURCE_OPERATION_MAP.json": "5bad386d40a0601f0dfad2ff67c90ee223800ee9eb32ec4a00316a834646b1fc",
+    "peers/A/replay.py": "f12995c08e3946a1f3970a1e1a37ac59c185324af16181ccc0d6ef0d33dc8b14",
+    "peers/B/REPORT.md": "67b60388547a1512579fbf60568de484ca9edf6859223633d702519b8b800af8",
+    "peers/B/NOTES.md": "38c34fe6e1f215f5a2af41e87e9dc4e75cd90cf5d6efcf3eaa8bab623ee44c04",
+    "peers/B/RESULTS.json": "7c39dc47cff2d73d64fadffc4422ba44b65a315e207895aae77ae2df891a88f0",
+    "peers/B/SOURCE_OPERATION_MAP.json": "e30235a60920caabe812f3532d2453ef2c16105583db7cf8eae52dee3ef1fb5e",
+    "peers/B/replay.py": "900de6fc10f9cda5061ed34f0df39775a18f43f04a69cd8c680ef67e7fbb15b7"
+  },
+  "native_attempts": [
+    {
+      "path": "native/A/attempt_001/CR2_EXECUTION_RECEIPT.json",
+      "sha256": "1a27c262d2487f02b79641eac5948b396f4554b33b8cdfd4ad5ead6a49eafada",
+      "status": "PASSED",
+      "started_utc": "2026-11-08T13:19:44.784400+00:00",
+      "completed_utc": "2026-11-08T13:19:48.689532+00:00",
+      "operations": [
+        "GEN3_SOURCE_OPERATOR_WORD",
+        "GEN3_SOURCE_OPERATOR_WORD",
+        "GEN3_SOURCE_OPERATOR_WORD",
+        "GEN3_SOURCE_OPERATOR_WORD",
+        "GEN3_SOURCE_OPERATOR_WORD",
+        "GEN3_SOURCE_OPERATOR_WORD",
+        "GEN3_SOURCE_OPERATOR_WORD",
+        "GEN3_SOURCE_OPERATOR_WORD"
+      ],
+      "error": null
+    },
+    {
+      "path": "native/A/attempt_002/CR2_EXECUTION_RECEIPT.json",
+      "sha256": "7d197201e882b6d9565c228863acfbbcb0a35a1419d2a800dfa1a12bc857023c",
+      "status": "PASSED",
+      "started_utc": "2026-11-08T13:21:53.407229+00:00",
+      "completed_utc": "2026-11-08T13:21:54.601072+00:00",
+      "operations": [
+        "GEN3_SOURCE_OPERATOR_WORD"
+      ],
+      "error": null
+    },
+    {
+      "path": "native/A/attempt_003/CR2_EXECUTION_RECEIPT.json",
+      "sha256": "7738072504a6926f7b31fe2294faef122ecfee4e97bc08d1f2bd71ab6e17b6e5",
+      "status": "PASSED",
+      "started_utc": "2026-11-08T13:26:33.623198+00:00",
+      "completed_utc": "2026-11-08T13:26:35.783530+00:00",
+      "operations": [
+        "GEN3_SOURCE_OPERATOR_WORD",
+        "GEN3_SOURCE_OPERATOR_WORD",
+        "GEN3_SOURCE_OPERATOR_WORD"
+      ],
+      "error": null
+    },
+    {
+      "path": "native/B/attempt_01/CR2_EXECUTION_RECEIPT.json",
+      "sha256": "2ec7dc07afdd516e15d0bccc3db5cef2306c068a0298cb0ed71d593ab426d30e",
+      "status": "FAILED",
+      "started_utc": "2026-11-08T13:20:33.377167+00:00",
+      "completed_utc": "2026-11-08T13:20:34.109905+00:00",
+      "operations": [],
+      "error": {
+        "type": "ValueError",
+        "message": "Ordered word fields differ from selected step",
+        "step": {
+          "id": "full_cross_gram",
+          "operation": "GEN3_SOURCE_OPERATOR_WORD",
+          "input": "000_full_cross_gram.input.json",
+          "output": "000_full_cross_gram.output.json"
+        }
+      }
+    },
+    {
+      "path": "native/B/attempt_02/CR2_EXECUTION_RECEIPT.json",
+      "sha256": "5f8cbceeeb74ff141bf1bfb3bf956b6fb28f45cd6d55afb59e5cbcf3c830dabb",
+      "status": "PASSED",
+      "started_utc": "2026-11-08T13:20:49.535243+00:00",
+      "completed_utc": "2026-11-08T13:20:51.474082+00:00",
+      "operations": [
+        "GEN3_SOURCE_OPERATOR_WORD",
+        "GEN3_SOURCE_OPERATOR_WORD",
+        "GEN3_SOURCE_OPERATOR_WORD",
+        "GEN3_SOURCE_OPERATOR_WORD",
+        "GEN3_SOURCE_OPERATOR_WORD",
+        "GEN3_COMPLEX_PRODUCT"
+      ],
+      "error": null
+    },
+    {
+      "path": "native/B/attempt_03/CR2_EXECUTION_RECEIPT.json",
+      "sha256": "73384becef4d30340b0cd2d6c60ea109a51043ef6614d2e24bdeffacdb90ac14",
+      "status": "PASSED",
+      "started_utc": "2026-11-08T13:23:27.337248+00:00",
+      "completed_utc": "2026-11-08T13:23:29.295366+00:00",
+      "operations": [
+        "GEN3_SOURCE_OPERATOR_WORD",
+        "GEN3_SOURCE_OPERATOR_WORD",
+        "GEN3_SOURCE_OPERATOR_WORD",
+        "GEN3_SOURCE_OPERATOR_WORD",
+        "GEN3_SOURCE_OPERATOR_WORD",
+        "GEN3_COMPLEX_PRODUCT"
+      ],
+      "error": null
+    }
+  ],
+  "successful_operations": 24,
+  "successful_attempts": 5,
+  "failed_attempts": 1,
+  "operation_types": [
+    "GEN3_COMPLEX_PRODUCT",
+    "GEN3_SOURCE_OPERATOR_WORD"
+  ],
+  "duck_windows": 0,
+  "models": "Same parent model and effort inherited by both learners; no explicit model override.",
+  "blindness": "Lead sent no scientific messages and read neither learner scratch until both completed.",
+  "lead_replay": "Both exact rational replays ran successfully with python3 -I -B from public frozen inputs.",
+  "replay_comparison": "RESULTS/COMPARISON.json; portable comparison also passed with an output outside the case.",
+  "scope": "R2 concerns new bounds and exact finite calculations from supplied inherited continuum enclosures; these old enclosures are not recomputed integrations.",
+  "lead_corrections": [
+    "Initial copy rejected precreated empty peer directories; no file copied. Two dependent replay commands then exited2 before output creation. Copy corrected with explicit emptiness checks.",
+    "First comparison completed arithmetic but failed at relative-path provenance formatting before output creation; script preserved as scripts/compare_replays_v001.py. Absolute resolution corrected it; final script also accepts output outside the case."
+  ]
+}

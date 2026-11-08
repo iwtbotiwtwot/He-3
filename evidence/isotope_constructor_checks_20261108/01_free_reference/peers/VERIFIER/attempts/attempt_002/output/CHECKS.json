@@ -1,0 +1,990 @@
+[
+  {
+    "id": "event_one_cube_bit_0",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_1",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_2",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_3",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_4",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_5",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_6",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_7",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_8",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_9",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_10",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_11",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_12",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_13",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_14",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_15",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_16",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_17",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_18",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_19",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_20",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_21",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_22",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_23",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_24",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_25",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_26",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_27",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_28",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_29",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_30",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_31",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_32",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_33",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_34",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_35",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_36",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_37",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_38",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_39",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_40",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_41",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_42",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_43",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_44",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_45",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_46",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_47",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_48",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_49",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_50",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_51",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_52",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_53",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_54",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_55",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_56",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_57",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_58",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_59",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_60",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_61",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_62",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_63",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_64",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_65",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_66",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_67",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_68",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_69",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_70",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_71",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_72",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_73",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_74",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_75",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_76",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_77",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_78",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_79",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_80",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_81",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_82",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_83",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_84",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_85",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_86",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_87",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_88",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_89",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_90",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_91",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_92",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_93",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_94",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_95",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_96",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_97",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_98",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_99",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_100",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_101",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_102",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_103",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_104",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_105",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_106",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_107",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_108",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_109",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_110",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_111",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_112",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_113",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_114",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_115",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_116",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_117",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_118",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_119",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_120",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_121",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_122",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_123",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_124",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_125",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_126",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_127",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_128",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_129",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_130",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_131",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_132",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_133",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_134",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_135",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_136",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_137",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_138",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_139",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_140",
+    "passed": true
+  },
+  {
+    "id": "event_one_cube_bit_141",
+    "passed": true
+  },
+  {
+    "id": "event_frame_rule_142",
+    "passed": true
+  },
+  {
+    "id": "event_chirality_143",
+    "passed": true
+  },
+  {
+    "id": "all_48_events",
+    "passed": true
+  },
+  {
+    "id": "two_events_per_oriented_cube_edge",
+    "passed": true
+  },
+  {
+    "id": "six_events_at_every_site",
+    "passed": true
+  },
+  {
+    "id": "h1_self_adjoint",
+    "passed": true
+  },
+  {
+    "id": "h1_walsh_orthogonality",
+    "passed": true
+  },
+  {
+    "id": "h1_complete_eigenbasis",
+    "passed": true
+  },
+  {
+    "id": "pair_order_from_original_tuples",
+    "passed": true
+  },
+  {
+    "id": "all_oriented_adjacent_pairs",
+    "passed": true
+  },
+  {
+    "id": "primary_actual_order",
+    "passed": true
+  },
+  {
+    "id": "cell_labels",
+    "passed": true
+  },
+  {
+    "id": "partition_slots",
+    "passed": true
+  },
+  {
+    "id": "adjacent_isometry",
+    "passed": true
+  },
+  {
+    "id": "pair_equals_complete_Q6_laplacian",
+    "passed": true
+  },
+  {
+    "id": "actual_compression_12I",
+    "passed": true
+  },
+  {
+    "id": "true_drift_rank_18",
+    "passed": true
+  },
+  {
+    "id": "pair_walsh_orthogonality",
+    "passed": true
+  },
+  {
+    "id": "pair_complete_eigenbasis",
+    "passed": true
+  },
+  {
+    "id": "whole_pair_spectrum",
+    "passed": true
+  },
+  {
+    "id": "full_ground_normalization",
+    "passed": true
+  },
+  {
+    "id": "full_ground_energy_zero",
+    "passed": true
+  },
+  {
+    "id": "cyclic_dimensions",
+    "passed": true
+  },
+  {
+    "id": "cyclic_closure_invariant",
+    "passed": true
+  },
+  {
+    "id": "dark_zero_on_retained_0",
+    "passed": true
+  },
+  {
+    "id": "dark_exact_eigenvector_0",
+    "passed": true
+  },
+  {
+    "id": "dark_zero_on_retained_1",
+    "passed": true
+  },
+  {
+    "id": "dark_exact_eigenvector_1",
+    "passed": true
+  },
+  {
+    "id": "dark_zero_on_retained_2",
+    "passed": true
+  },
+  {
+    "id": "dark_exact_eigenvector_2",
+    "passed": true
+  },
+  {
+    "id": "dark_zero_on_retained_3",
+    "passed": true
+  },
+  {
+    "id": "dark_exact_eigenvector_3",
+    "passed": true
+  },
+  {
+    "id": "dark_zero_on_retained_4",
+    "passed": true
+  },
+  {
+    "id": "dark_exact_eigenvector_4",
+    "passed": true
+  },
+  {
+    "id": "dark_zero_on_retained_5",
+    "passed": true
+  },
+  {
+    "id": "dark_exact_eigenvector_5",
+    "passed": true
+  },
+  {
+    "id": "dark_zero_on_retained_6",
+    "passed": true
+  },
+  {
+    "id": "dark_exact_eigenvector_6",
+    "passed": true
+  },
+  {
+    "id": "dark_zero_on_retained_7",
+    "passed": true
+  },
+  {
+    "id": "dark_exact_eigenvector_7",
+    "passed": true
+  },
+  {
+    "id": "dark_zero_on_retained_8",
+    "passed": true
+  },
+  {
+    "id": "dark_exact_eigenvector_8",
+    "passed": true
+  },
+  {
+    "id": "dark_zero_on_retained_9",
+    "passed": true
+  },
+  {
+    "id": "dark_exact_eigenvector_9",
+    "passed": true
+  },
+  {
+    "id": "dark_zero_on_retained_10",
+    "passed": true
+  },
+  {
+    "id": "dark_exact_eigenvector_10",
+    "passed": true
+  },
+  {
+    "id": "dark_zero_on_retained_11",
+    "passed": true
+  },
+  {
+    "id": "dark_exact_eigenvector_11",
+    "passed": true
+  },
+  {
+    "id": "dark_zero_on_retained_12",
+    "passed": true
+  },
+  {
+    "id": "dark_exact_eigenvector_12",
+    "passed": true
+  },
+  {
+    "id": "dark_zero_on_retained_13",
+    "passed": true
+  },
+  {
+    "id": "dark_exact_eigenvector_13",
+    "passed": true
+  },
+  {
+    "id": "dark_zero_on_retained_14",
+    "passed": true
+  },
+  {
+    "id": "dark_exact_eigenvector_14",
+    "passed": true
+  },
+  {
+    "id": "dark_zero_on_retained_15",
+    "passed": true
+  },
+  {
+    "id": "dark_exact_eigenvector_15",
+    "passed": true
+  },
+  {
+    "id": "dark_zero_on_retained_16",
+    "passed": true
+  },
+  {
+    "id": "dark_exact_eigenvector_16",
+    "passed": true
+  },
+  {
+    "id": "spectral_receiving_ranks",
+    "passed": true
+  },
+  {
+    "id": "dark_basis_17_independent",
+    "passed": true
+  },
+  {
+    "id": "spectral_and_krylov_dimensions_agree",
+    "passed": true
+  },
+  {
+    "id": "dark_is_orthogonal_to_cyclic",
+    "passed": true
+  },
+  {
+    "id": "complement_inverse_exact",
+    "passed": true
+  },
+  {
+    "id": "full_resolvent_solve",
+    "passed": true
+  },
+  {
+    "id": "schur_equals_full_restricted_resolvent",
+    "passed": true
+  },
+  {
+    "id": "self_energy_rank",
+    "passed": true
+  },
+  {
+    "id": "resolvent_defect_rank",
+    "passed": true
+  },
+  {
+    "id": "nonzero_positive_defect",
+    "passed": true
+  },
+  {
+    "id": "nonzero_complement_response",
+    "passed": true
+  },
+  {
+    "id": "complement_response_formula",
+    "passed": true
+  },
+  {
+    "id": "all_512_squared_entries_tensor_identity",
+    "passed": true
+  },
+  {
+    "id": "three_free_complete_eigenidentity",
+    "passed": true
+  },
+  {
+    "id": "three_free_spectrum",
+    "passed": true
+  },
+  {
+    "id": "raw_primary_codes",
+    "passed": true
+  },
+  {
+    "id": "primary_injection_isometry",
+    "passed": true
+  },
+  {
+    "id": "primary_exact_tensor_compression",
+    "passed": true
+  },
+  {
+    "id": "primary_raw_operator_match",
+    "passed": true
+  },
+  {
+    "id": "independent_equal_digits_retained",
+    "passed": true
+  },
+  {
+    "id": "primary_floor_frame_gram",
+    "passed": true
+  },
+  {
+    "id": "primary_floor_frame_eigenvalue",
+    "passed": true
+  },
+  {
+    "id": "primary_raw_adjacency",
+    "passed": true
+  },
+  {
+    "id": "primary_complete_boundary",
+    "passed": true
+  },
+  {
+    "id": "primary_collision_potential",
+    "passed": true
+  },
+  {
+    "id": "primary_forbidden_target_codes",
+    "passed": true
+  },
+  {
+    "id": "seed_edge_identities",
+    "passed": true
+  },
+  {
+    "id": "connected_from_seed_constraints",
+    "passed": true
+  },
+  {
+    "id": "connected_source_codes",
+    "passed": true
+  },
+  {
+    "id": "connected_raw_receiving_map",
+    "passed": true
+  },
+  {
+    "id": "connected_isometry",
+    "passed": true
+  },
+  {
+    "id": "connected_compression_18I",
+    "passed": true
+  },
+  {
+    "id": "connected_noninvariance",
+    "passed": true
+  },
+  {
+    "id": "fragment_chart_original_order",
+    "passed": true
+  },
+  {
+    "id": "fragment_chart_codes",
+    "passed": true
+  },
+  {
+    "id": "fragment_raw_operator_match",
+    "passed": true
+  },
+  {
+    "id": "fragment_raw_adjacency",
+    "passed": true
+  },
+  {
+    "id": "fragment_complete_boundary",
+    "passed": true
+  },
+  {
+    "id": "fragment_collision_potential",
+    "passed": true
+  },
+  {
+    "id": "fragment_forbidden_targets",
+    "passed": true
+  },
+  {
+    "id": "fragment_connected_map",
+    "passed": true
+  },
+  {
+    "id": "fragment_connected_compression",
+    "passed": true
+  },
+  {
+    "id": "common_shift_preserves_every_difference",
+    "passed": true
+  },
+  {
+    "id": "one_sided_shift_changes_free_comparison",
+    "passed": true
+  },
+  {
+    "id": "one_sided_adjacent_shift_changes_free_comparison",
+    "passed": true
+  },
+  {
+    "id": "all_registered_controls_rejected_mutations",
+    "passed": true
+  },
+  {
+    "id": "nested_dark_multiplicities",
+    "passed": true
+  }
+]

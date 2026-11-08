@@ -1,0 +1,155 @@
+{
+  "schema": "FULL_FOUR_OFFSET_EXACT_RITZ_AND_MASSIVE_FIELD_ACCOUNT_V1",
+  "shape": [
+    43,
+    40
+  ],
+  "layout": [
+    {
+      "name": "Metric",
+      "row": 0,
+      "rows": 8,
+      "cols": 16,
+      "blocks": [
+        "Norm00",
+        "Norm11"
+      ]
+    },
+    {
+      "name": "HamiltonianBareJQ",
+      "row": 8,
+      "rows": 8,
+      "cols": 40,
+      "blocks": [
+        "HJ00",
+        "HJ11",
+        "HQ00",
+        "HQ11",
+        "HY00"
+      ]
+    },
+    {
+      "name": "HamiltonianRemaining",
+      "row": 16,
+      "rows": 8,
+      "cols": 40,
+      "blocks": [
+        "HY11",
+        "VacCT",
+        "Drive",
+        "OneExcitation",
+        "OneCTBound"
+      ]
+    },
+    {
+      "name": "EvenCommutators",
+      "row": 24,
+      "rows": 4,
+      "cols": 12,
+      "blocks": [
+        "CommJ",
+        "CommQ",
+        "CommY"
+      ]
+    },
+    {
+      "name": "FixedAmplitudeFold",
+      "row": 28,
+      "rows": 4,
+      "cols": 40,
+      "blocks": [
+        "I4",
+        "G4",
+        "HJ",
+        "HJG",
+        "HQ",
+        "HQG",
+        "HY",
+        "HYG",
+        "G4",
+        "TwoTG"
+      ]
+    },
+    {
+      "name": "MassiveNumerator",
+      "row": 32,
+      "rows": 4,
+      "cols": 12,
+      "blocks": [
+        "I4",
+        "ThreeG",
+        "ThreeG"
+      ]
+    },
+    {
+      "name": "FoldDefect",
+      "row": 36,
+      "rows": 4,
+      "cols": 4,
+      "blocks": [
+        "FoldPaidDefect"
+      ]
+    },
+    {
+      "name": "MomentIdentity",
+      "row": 40,
+      "rows": 3,
+      "cols": 5,
+      "blocks": [
+        "CTnum",
+        "Pnum",
+        "DeltaNnum",
+        "Mnum",
+        "MomentDef"
+      ]
+    }
+  ],
+  "trial_frame": "(T0,T1),eachfourprepcoordinates;T1hasnoepsilonprefactor",
+  "metric_monomials": [
+    "1",
+    "n"
+  ],
+  "Hbare_monomials": [
+    "epsilon*j",
+    "epsilon*j*n",
+    "epsilon*mu",
+    "epsilon*mu*n",
+    "epsilon*nu"
+  ],
+  "Hremaining_monomials": [
+    "epsilon*nu*n",
+    "epsilon\u00b2*c",
+    "epsilon*q",
+    "q",
+    "epsilon\u00b2*mu0*n"
+  ],
+  "fixed_fold_monomials": [
+    "1",
+    "epsilon\u00b2*n",
+    "epsilon*j",
+    "epsilon\u00b3*j*n",
+    "epsilon*mu",
+    "epsilon\u00b3*mu*n",
+    "epsilon*nu",
+    "epsilon\u00b3*nu*n",
+    "epsilon\u00b2*p",
+    "epsilon\u2074*mu0*n"
+  ],
+  "massive_numerator_monomials": [
+    "K_packet",
+    "epsilon\u00b2*b*K_packet",
+    "epsilon\u00b2*v_gamma*mu0"
+  ],
+  "source_trace": "176996352",
+  "moment_polynomial_basis": [
+    "omega\u00b2",
+    "omega*Delta",
+    "Delta\u00b2"
+  ],
+  "complete_field": "Allfrequency,helicity,CT,sourcecomplementretained",
+  "gap": "3epsilon*j certifiedeachcontact;j>0",
+  "norm": "n>0,G4positivedefinite;zero_normdirectionsremovedifn0",
+  "free_ground_reference": "UNPAID_NOT_IDENTIFIED_WITH_PREPARED_SOURCE",
+  "moving_scope": "Exactfixedcenterpencil;fullmassiveformcoarsepacketboundretainsphotonCOM;positiondependentgap/gateextraaccountnotdropped",
+  "C13_used": false
+}

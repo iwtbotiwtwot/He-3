@@ -1,0 +1,18 @@
+{
+  "started_utc": "2026-11-08T14:18:50.026763+00:00",
+  "script": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/peers/VERIFIER/replay.py",
+  "script_sha256": "c9039e9c7bc2100b204236dd4233827b2eae81aa4db085f04131362d85e12f39",
+  "argv": [
+    "peers/VERIFIER/replay.py",
+    "--case",
+    ".",
+    "--out",
+    "RESULTS/lead_replay/fresh"
+  ],
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "platform": "Linux-7.0.0-38-generic-x86_64-with-glibc2.39",
+  "case": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification",
+  "status": "PASS",
+  "finished_utc": "2026-11-08T14:18:50.347604+00:00",
+  "elapsed_seconds": 0.3208407169440761
+}

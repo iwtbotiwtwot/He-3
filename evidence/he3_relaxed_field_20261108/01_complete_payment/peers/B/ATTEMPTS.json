@@ -1,0 +1,69 @@
+{
+  "schema": "CR2_B_ATTEMPTS_V1",
+  "attempts": [
+    {
+      "kind": "native",
+      "attempt": 1,
+      "status": "FAILED",
+      "receipt": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_01/CR2_EXECUTION_RECEIPT.json",
+      "job": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/peers/B/native_job_01.json",
+      "job_sha256": "20465aa9980dda314faf46da34660ae46a089374c462d93169b2be01ad570a17",
+      "error": {
+        "type": "ValueError",
+        "message": "Ordered word fields differ from selected step",
+        "step": {
+          "id": "full_cross_gram",
+          "operation": "GEN3_SOURCE_OPERATOR_WORD",
+          "input": "000_full_cross_gram.input.json",
+          "output": "000_full_cross_gram.output.json"
+        }
+      }
+    },
+    {
+      "kind": "native",
+      "attempt": 2,
+      "status": "PASSED",
+      "receipt": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_02/CR2_EXECUTION_RECEIPT.json",
+      "job": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/peers/B/native_job_02.json",
+      "job_sha256": "537d378682b7f8c68bb91e033a5393997b59b369d75afe3504240fe702117fe1",
+      "error": null
+    },
+    {
+      "kind": "native",
+      "attempt": 3,
+      "status": "PASSED",
+      "receipt": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/CR2_EXECUTION_RECEIPT.json",
+      "job": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/peers/B/native_job_03.json",
+      "job_sha256": "c75a155bcb96defe0d80192f6a3e514fad2609bf6082617ef0eba775441a9b89",
+      "error": null
+    },
+    {
+      "kind": "host_shell",
+      "status": "FAILED",
+      "exact_error": "/bin/bash: line 1: python: command not found",
+      "correction": "Use the supplied pinned .venv/bin/python; no interpreter or package installed."
+    },
+    {
+      "kind": "engine_free_replay",
+      "attempt": 1,
+      "status": "SYNTAX_FAILURE_BEFORE_OUTPUT",
+      "preserved_script": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/peers/B/replay_attempt_01_syntax_failure.py",
+      "sha256": "18e80d78a96aa3fa335dbf998e05b02f88961c283a8a4ba5b22856ce65479671",
+      "exact_error": "SyntaxError: invalid syntax at malformed projector generator assertion.",
+      "correction": "Use all(...) over actual8x8 projector identity; preserve original script. Sparse zero-skipping matrix orchestration added without changing the mathematics."
+    },
+    {
+      "kind": "engine_free_replay",
+      "attempt": 2,
+      "status": "PASSED",
+      "script": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/peers/B/replay.py",
+      "sha256": "900de6fc10f9cda5061ed34f0df39775a18f43f04a69cd8c680ef67e7fbb15b7",
+      "receipt": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/peers/B/replay_attempt_02/REPLAY_RECEIPT.json"
+    },
+    {
+      "kind": "native_replay_readback",
+      "status": "PASSED",
+      "receipt": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/peers/B/NATIVE_REPLAY_COMPARISON.json"
+    }
+  ]
+}

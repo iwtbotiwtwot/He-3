@@ -1,0 +1,48 @@
+{
+  "type": "EXACT",
+  "source_case": "he3_relaxed_field_20261108/01_complete_payment",
+  "source_manifest_sha256": "50de2d9deb6a0e0b6d9d4c0fce0b6914d6862713fae363c9ab699cb8b81692cc",
+  "statement": "For the frozen complete intrinsic product family and zero changed ledger, a rigorously complete variational upper is below the stated whole-field fragment lower on every listed open tau interval, with no source/trial/profile/mass optimization.",
+  "intervals": [
+    {
+      "lane": 0,
+      "mR": "1000000",
+      "tau_ceiling": "2.52988E-7",
+      "tau_lower": "0",
+      "endpoints_exclusive": true
+    },
+    {
+      "lane": 1,
+      "mR": "1000000",
+      "tau_ceiling": "1.46665E-7",
+      "tau_lower": "0",
+      "endpoints_exclusive": true
+    },
+    {
+      "lane": 2,
+      "mR": "1000000",
+      "tau_ceiling": "1.48282E-7",
+      "tau_lower": "0",
+      "endpoints_exclusive": true
+    },
+    {
+      "lane": 3,
+      "mR": "1000000",
+      "tau_ceiling": "1.50142E-7",
+      "tau_lower": "0",
+      "endpoints_exclusive": true
+    }
+  ],
+  "controls": "The constructed complete uppers are noncertifying for all eight lighter rows and all positive crossing-gate rows. This is not an actual-energy lower or an exclusion of better uppers.",
+  "supporting_claims": [
+    "Same normalized full-field/crossing self-CT bounds exist on the actual original chi.",
+    "P-conditioned field is the projector mixture with nonzero p*(1-p)*C_cross variance.",
+    "Full-source positive swap decomposition licenses signed old-account transfer.",
+    "Exact finite-source family and common fragment lower remain valid with full complements."
+  ],
+  "excluded": [
+    "Exact trial energy or exact continuum F_full/C_cross values.",
+    "Any isotope/current/action/ruler or physical tau assignment.",
+    "External human or different-model verification."
+  ]
+}

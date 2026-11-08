@@ -1,0 +1,321 @@
+{
+  "utc": "2026-11-08T13:56:59.713845+00:00",
+  "case": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification",
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "platform": "Linux-7.0.0-38-generic-x86_64-with-glibc2.39",
+  "frozen_inputs": [
+    {
+      "path": "CLAIM.json",
+      "expected": "e885f8f5d565393a05c229ec8b796e5fe47dddc457e10471e77dec394c5efa81",
+      "actual": "e885f8f5d565393a05c229ec8b796e5fe47dddc457e10471e77dec394c5efa81",
+      "ok": true
+    },
+    {
+      "path": "PREDICTIONS.json",
+      "expected": "23dd53faa26c76c48c20e9c36ecd363c0b117624c4c015e153586a42a1bc48e4",
+      "actual": "23dd53faa26c76c48c20e9c36ecd363c0b117624c4c015e153586a42a1bc48e4",
+      "ok": true
+    },
+    {
+      "path": "PREREGISTRATION.json",
+      "expected": "c8cf668f930044040ed5b1773c3d8c8364af3379d309c847d051ce1d969ed393",
+      "actual": "c8cf668f930044040ed5b1773c3d8c8364af3379d309c847d051ce1d969ed393",
+      "ok": true
+    },
+    {
+      "path": "RESULTS/INPUT_CUSTODY.json",
+      "expected": "4c78b8b55abf9066e79768d570b175ddc1113d20feb4d469e04fd48eb5b4d317",
+      "actual": "4c78b8b55abf9066e79768d570b175ddc1113d20feb4d469e04fd48eb5b4d317",
+      "ok": true
+    },
+    {
+      "path": "STATEMENT.md",
+      "expected": "f64ed1058e159063a097e6754d9806151c9c61203a28a378aa448c937da944d5",
+      "actual": "f64ed1058e159063a097e6754d9806151c9c61203a28a378aa448c937da944d5",
+      "ok": true
+    },
+    {
+      "path": "TARGET.md",
+      "expected": "bf5bf7d2c645bf9c88d24111d2df115fd3b72d5486231e40fe704a6e74bdce03",
+      "actual": "bf5bf7d2c645bf9c88d24111d2df115fd3b72d5486231e40fe704a6e74bdce03",
+      "ok": true
+    },
+    {
+      "path": "prior/A1/RESEARCH_REPORT.md",
+      "expected": "e5fd3db1591499e556a01f90a5ec1cf76fd60c7331c1e8e3c807890741156713",
+      "actual": "e5fd3db1591499e556a01f90a5ec1cf76fd60c7331c1e8e3c807890741156713",
+      "ok": true
+    },
+    {
+      "path": "prior/A1/RESULTS_INDEX.md",
+      "expected": "baa5f995f70793a7ef3bb68cdda53d321ee54fccc60591de6c32e643bca8a702",
+      "actual": "baa5f995f70793a7ef3bb68cdda53d321ee54fccc60591de6c32e643bca8a702",
+      "ok": true
+    },
+    {
+      "path": "prior/A1/peers/ONE/REPORT.md",
+      "expected": "d3e1e5e0b2915c0d5cf77469b5180d867a51ba3df3dbef77a234389f30f08daa",
+      "actual": "d3e1e5e0b2915c0d5cf77469b5180d867a51ba3df3dbef77a234389f30f08daa",
+      "ok": true
+    },
+    {
+      "path": "prior/A1/peers/TWO/REPORT.md",
+      "expected": "b17a0368d75bdc46aefe7b0e01ea24826735b52ff29dbc27855dff7d6c2552c4",
+      "actual": "b17a0368d75bdc46aefe7b0e01ea24826735b52ff29dbc27855dff7d6c2552c4",
+      "ok": true
+    },
+    {
+      "path": "prior/CASE_AT_PREREGISTRATION.json",
+      "expected": "047c2299b3a63da487c4f87fdae452a155a028f5621cafe1c7ec062b3bb854e8",
+      "actual": "047c2299b3a63da487c4f87fdae452a155a028f5621cafe1c7ec062b3bb854e8",
+      "ok": true
+    },
+    {
+      "path": "prior/learning_case/DERIVATION.md",
+      "expected": "05ecf30fed217a0f179e721a442687df1200851834f817a34ec3da6a7e44482b",
+      "actual": "05ecf30fed217a0f179e721a442687df1200851834f817a34ec3da6a7e44482b",
+      "ok": true
+    },
+    {
+      "path": "prior/learning_case/MANIFEST.json",
+      "expected": "50de2d9deb6a0e0b6d9d4c0fce0b6914d6862713fae363c9ab699cb8b81692cc",
+      "actual": "50de2d9deb6a0e0b6d9d4c0fce0b6914d6862713fae363c9ab699cb8b81692cc",
+      "ok": true
+    },
+    {
+      "path": "prior/learning_case/REPORT.md",
+      "expected": "77bfd1e2289e5da7c8fa6d94e7d524c9f2175baa9dc781778fa9289be38d5f32",
+      "actual": "77bfd1e2289e5da7c8fa6d94e7d524c9f2175baa9dc781778fa9289be38d5f32",
+      "ok": true
+    },
+    {
+      "path": "prior/learning_case/RESULTS/COMPARISON.json",
+      "expected": "0caf94ba7c8c25abb6ab1b6d632004ce94f9bbc186a8e0598a5aa46311f00bca",
+      "actual": "0caf94ba7c8c25abb6ab1b6d632004ce94f9bbc186a8e0598a5aa46311f00bca",
+      "ok": true
+    },
+    {
+      "path": "prior/learning_case/RESULTS/RECURRENCE.json",
+      "expected": "4ac67954890aea25ad25460eedc6cacf518df28827c339dc9cab92ce59db37cb",
+      "actual": "4ac67954890aea25ad25460eedc6cacf518df28827c339dc9cab92ce59db37cb",
+      "ok": true
+    },
+    {
+      "path": "prior/learning_case/TRANSFER_MAP.md",
+      "expected": "74f45b1973e55e8d02587491614faa022d2bf1f5c93549330346476ed7f441cd",
+      "actual": "74f45b1973e55e8d02587491614faa022d2bf1f5c93549330346476ed7f441cd",
+      "ok": true
+    },
+    {
+      "path": "sources/CAPABILITIES_FULL.json",
+      "expected": "9f1f09953b0fab71fc3c556d55206b2b16871e2b279dd960f7c5934c06d3274d",
+      "actual": "9f1f09953b0fab71fc3c556d55206b2b16871e2b279dd960f7c5934c06d3274d",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/duck_gen6_local/runs/volii-missing-pieces-broad-20261016-01/native_returns/broad_atomic_full_translated_tensor_and_Pauli_response.json",
+      "expected": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "actual": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_join_exterior_response_source_algebra.json",
+      "expected": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "actual": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_actual_source_field_static_retarded_UV_join.json",
+      "expected": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "actual": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_full_source_quartic_counterterm.json",
+      "expected": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "actual": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_combined_evaluation1_20261016/reference/PENCIL_VERIFICATION.json",
+      "expected": "60aa321e5d92820807713ab648a31e4f7663c4fd9c787776c5bac003bbac749f",
+      "actual": "60aa321e5d92820807713ab648a31e4f7663c4fd9c787776c5bac003bbac749f",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_combined_evaluation1_20261016/spectral/CONTROL_DERIVATION.md",
+      "expected": "b4ccad19836a0e6223b87792edfae8b9e07ec29a15703f2e1bff7ad1ea8036f4",
+      "actual": "b4ccad19836a0e6223b87792edfae8b9e07ec29a15703f2e1bff7ad1ea8036f4",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_combined_evaluation1_20261016/spectral/DERIVATION.md",
+      "expected": "755c3ce2b2d800944fb42a196b7b4f0a682a0143bf398c1f32391e6d15a83f36",
+      "actual": "755c3ce2b2d800944fb42a196b7b4f0a682a0143bf398c1f32391e6d15a83f36",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_dressed_reference1_20261016/joint/ACTUAL_RETURN.json",
+      "expected": "f9b756af26454d26405a172c4a0c2741208c42b395add2970da4df0b0e462e32",
+      "actual": "f9b756af26454d26405a172c4a0c2741208c42b395add2970da4df0b0e462e32",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_dressed_reference1_20261016/joint/DERIVATION.md",
+      "expected": "97685ff69bc6ec8a86bdf375726a77a2edc2aaa30155a0c5ba7484e2403b08c1",
+      "actual": "97685ff69bc6ec8a86bdf375726a77a2edc2aaa30155a0c5ba7484e2403b08c1",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_dressed_reference1_20261016/joint/INTERFACE.json",
+      "expected": "0d879894c145965f62bf3a3f0885e6e916914a54b3bbfdf801a839a25acb2000",
+      "actual": "0d879894c145965f62bf3a3f0885e6e916914a54b3bbfdf801a839a25acb2000",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_dressed_reference1_20261016/joint/VERIFICATION.json",
+      "expected": "0c87960f7ff5b27b8df4a3ee5a872eaee2ae950c690bc1ce5a71d8e3fc30c348",
+      "actual": "0c87960f7ff5b27b8df4a3ee5a872eaee2ae950c690bc1ce5a71d8e3fc30c348",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_dressed_reference1_20261016/threshold/DERIVATION.md",
+      "expected": "3682b90b102744356cf9f7b4a5006242081a2e7a594cc3fbabedffb6580204bf",
+      "actual": "3682b90b102744356cf9f7b4a5006242081a2e7a594cc3fbabedffb6580204bf",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_fragment_action1_20261016/joint/DERIVATION.md",
+      "expected": "7592b40240ba931cbd1a0f82ce05ecaf141d327a72a09e185d9f14ff073e4735",
+      "actual": "7592b40240ba931cbd1a0f82ce05ecaf141d327a72a09e185d9f14ff073e4735",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_missing_pieces_broad1_20261016/atomic/RADIAL_SOURCE_PACKET.json",
+      "expected": "21e12021f78cc21828e0471051394f0b919c4a6cc5423c33e6ede121b70ea05c",
+      "actual": "21e12021f78cc21828e0471051394f0b919c4a6cc5423c33e6ede121b70ea05c",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/RUN_POLICY.json",
+      "expected": "fddfbf7187e23468e507e0c9ac4464da7df05cbc213e4b4b2363fdf96c0ed462",
+      "actual": "fddfbf7187e23468e507e0c9ac4464da7df05cbc213e4b4b2363fdf96c0ed462",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/field/ADAPTIVE_R1_VERIFICATION.json",
+      "expected": "e27cb1553a67eb35faa40a64ee504a564a8c58358f8b0d7c6316fbd46e00479c",
+      "actual": "e27cb1553a67eb35faa40a64ee504a564a8c58358f8b0d7c6316fbd46e00479c",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/field/DERIVATION.md",
+      "expected": "aacc836c34f1058e5cf3875c88ca6c6ef339a9c02c9b10b7759a0298d9ac33a8",
+      "actual": "aacc836c34f1058e5cf3875c88ca6c6ef339a9c02c9b10b7759a0298d9ac33a8",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/field/R1_VERIFICATION.json",
+      "expected": "5125fd354b93f5b309c525629037196ad70b2024975f5cd09087ce089f8eb246",
+      "actual": "5125fd354b93f5b309c525629037196ad70b2024975f5cd09087ce089f8eb246",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_DERIVATION.md",
+      "expected": "718410fb27377377daa11ff069b1e42872742f4a8977c34ce893ccc6c08f8aed",
+      "actual": "718410fb27377377daa11ff069b1e42872742f4a8977c34ce893ccc6c08f8aed",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_SOURCE_PACKET.json",
+      "expected": "ed6e9821a606f17370a1b9bbffc3ad025fa5eec5b6afd84b110b9eeea7f9d188",
+      "actual": "ed6e9821a606f17370a1b9bbffc3ad025fa5eec5b6afd84b110b9eeea7f9d188",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_VERIFICATION.json",
+      "expected": "e8ff2d48294e32c4d1fbd8274fa5d96127112c4a3bd5559b42d4b36ca789283e",
+      "actual": "e8ff2d48294e32c4d1fbd8274fa5d96127112c4a3bd5559b42d4b36ca789283e",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/field/SOURCE_PACKET.json",
+      "expected": "cc0fc5af06e579f383847abc8fb695f92133d32590742d21c5f05f8cfb8275b5",
+      "actual": "cc0fc5af06e579f383847abc8fb695f92133d32590742d21c5f05f8cfb8275b5",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/source/R2_DERIVATION.md",
+      "expected": "3abc10b97e6fa3661f8f200adfb418528aae0ebb961a84e5d7ec14266150781c",
+      "actual": "3abc10b97e6fa3661f8f200adfb418528aae0ebb961a84e5d7ec14266150781c",
+      "ok": true
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/source/SOURCE_PACKET.json",
+      "expected": "66c8ab84a5f7bc84d487b5463b93a164af6a857cd235da8718a18d2cfc611a14",
+      "actual": "66c8ab84a5f7bc84d487b5463b93a164af6a857cd235da8718a18d2cfc611a14",
+      "ok": true
+    },
+    {
+      "path": "sources/TRIAL_FAMILY.json",
+      "expected": "bce4669c325d25eb8063202a58ddc2480678bc8025a2f954824ff4b84464b56e",
+      "actual": "bce4669c325d25eb8063202a58ddc2480678bc8025a2f954824ff4b84464b56e",
+      "ok": true
+    },
+    {
+      "path": "sources/light/COLOUR_64_CONSTRUCTION_PAYLOAD.json",
+      "expected": "e51e8826e0570c8041aac43d9ddc7443641e738e67bd5164ff18dbb49da4b6e1",
+      "actual": "e51e8826e0570c8041aac43d9ddc7443641e738e67bd5164ff18dbb49da4b6e1",
+      "ok": true
+    },
+    {
+      "path": "sources/light/COMPLETE_DC_PAIR.json",
+      "expected": "afbc60e193b31052399efe61f89a742df78e970f8ca47b1789f53e33f7298d24",
+      "actual": "afbc60e193b31052399efe61f89a742df78e970f8ca47b1789f53e33f7298d24",
+      "ok": true
+    },
+    {
+      "path": "sources/light/HE3_FRAGMENT_SPACE.json",
+      "expected": "109700aed3eb2f1a6b1345cea90f4e24e8be993484573fa2579338c2e1d15c2c",
+      "actual": "109700aed3eb2f1a6b1345cea90f4e24e8be993484573fa2579338c2e1d15c2c",
+      "ok": true
+    },
+    {
+      "path": "sources/light/HE3_INDEPENDENT_FRAGMENTS.json",
+      "expected": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f",
+      "actual": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f",
+      "ok": true
+    },
+    {
+      "path": "sources/light/HE3_PLACEMENT.json",
+      "expected": "7580dc810549c9ba5eb18a30ac0ffaf50a010de41fad80c369307bfe88c03865",
+      "actual": "7580dc810549c9ba5eb18a30ac0ffaf50a010de41fad80c369307bfe88c03865",
+      "ok": true
+    },
+    {
+      "path": "sources/light/INDEPENDENT_CONSTANTS.json",
+      "expected": "02c6f2f114a4781a70d7d11ca4ae4718a17019b301b648474f9a0974db9efd94",
+      "actual": "02c6f2f114a4781a70d7d11ca4ae4718a17019b301b648474f9a0974db9efd94",
+      "ok": true
+    }
+  ],
+  "all_ok": true,
+  "extra_instructions": [
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/FREEZE.json",
+      "sha256": "f6a7ccb330c7eb0f761388b5fed752de2ad2190f95d8cead41424440710a062d"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/AGENTS.md",
+      "sha256": "505e893c11eb7778be900e7c3396a782b12ff9d1ac36d9f9fb61dfff9b0216dc"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_verification_20261108/VERIFIER_BRIEF.md",
+      "sha256": "960dd3dd5e272d70a400d313e4027816babba5b5fde6fbc272ac38a095d504f3"
+    },
+    {
+      "path": "/home/lilhelper/.agents/skills/sam-research/SKILL.md",
+      "sha256": "69a87800280e6cf92f92b30d04ffdf7b326de80bc6fc8bb681a7dc00e6141a9c"
+    }
+  ]
+}

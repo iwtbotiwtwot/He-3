@@ -1,0 +1,247 @@
+{
+  "schema": "CR2_FROZEN_INPUT_CUSTODY_V1",
+  "files": [
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/duck_gen6_local/runs/volii-missing-pieces-broad-20261016-01/native_returns/broad_atomic_full_translated_tensor_and_Pauli_response.json",
+      "original_sha256": "b992a9f7680cb08bf09e7a336bc8680bbf2669c9c0fe22b03bd13ec335a1ffda",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/duck_gen6_local/runs/volii-missing-pieces-broad-20261016-01/native_returns/broad_atomic_full_translated_tensor_and_Pauli_response.json",
+      "snapshot": "sources/GEN4/duck_gen6_local/runs/volii-missing-pieces-broad-20261016-01/native_returns/broad_atomic_full_translated_tensor_and_Pauli_response.json",
+      "snapshot_sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "extraction": "verbatim mathematical output object through retained result/returned/output wrappers; engine implementation metadata retained privately"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_join_exterior_response_source_algebra.json",
+      "original_sha256": "0daaff5004a2b9b36b0739ee3bfc8f66b46fc3c293fa74905afc2a30d899cf9a",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_join_exterior_response_source_algebra.json",
+      "snapshot": "sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_join_exterior_response_source_algebra.json",
+      "snapshot_sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "extraction": "verbatim mathematical output object through retained result/returned/output wrappers; engine implementation metadata retained privately"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_actual_source_field_static_retarded_UV_join.json",
+      "original_sha256": "8c54e0489d3be317c5974eadf9d97f8200202bc2fc2edfa215f1788a9ed65fdd",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_actual_source_field_static_retarded_UV_join.json",
+      "snapshot": "sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_actual_source_field_static_retarded_UV_join.json",
+      "snapshot_sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "extraction": "verbatim mathematical output object through retained result/returned/output wrappers; engine implementation metadata retained privately"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_full_source_quartic_counterterm.json",
+      "original_sha256": "e12b0dab99a12c1fa02c575d940285cd5e2e759e5750a93fad1b2507f1d651a3",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_full_source_quartic_counterterm.json",
+      "snapshot": "sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_full_source_quartic_counterterm.json",
+      "snapshot_sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "extraction": "verbatim mathematical output object through retained result/returned/output wrappers; engine implementation metadata retained privately"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_combined_evaluation1_20261016/reference/PENCIL_VERIFICATION.json",
+      "original_sha256": "60aa321e5d92820807713ab648a31e4f7663c4fd9c787776c5bac003bbac749f",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_combined_evaluation1_20261016/reference/PENCIL_VERIFICATION.json",
+      "snapshot": "sources/GEN4/volii_combined_evaluation1_20261016/reference/PENCIL_VERIFICATION.json",
+      "snapshot_sha256": "60aa321e5d92820807713ab648a31e4f7663c4fd9c787776c5bac003bbac749f",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_combined_evaluation1_20261016/spectral/CONTROL_DERIVATION.md",
+      "original_sha256": "b4ccad19836a0e6223b87792edfae8b9e07ec29a15703f2e1bff7ad1ea8036f4",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_combined_evaluation1_20261016/spectral/CONTROL_DERIVATION.md",
+      "snapshot": "sources/GEN4/volii_combined_evaluation1_20261016/spectral/CONTROL_DERIVATION.md",
+      "snapshot_sha256": "b4ccad19836a0e6223b87792edfae8b9e07ec29a15703f2e1bff7ad1ea8036f4",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_combined_evaluation1_20261016/spectral/DERIVATION.md",
+      "original_sha256": "755c3ce2b2d800944fb42a196b7b4f0a682a0143bf398c1f32391e6d15a83f36",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_combined_evaluation1_20261016/spectral/DERIVATION.md",
+      "snapshot": "sources/GEN4/volii_combined_evaluation1_20261016/spectral/DERIVATION.md",
+      "snapshot_sha256": "755c3ce2b2d800944fb42a196b7b4f0a682a0143bf398c1f32391e6d15a83f36",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_dressed_reference1_20261016/joint/ACTUAL_RETURN.json",
+      "original_sha256": "ca9679c1c06fe40d9624503a88034548615166f8432058a7a10c6b3b25f91454",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_dressed_reference1_20261016/joint/ACTUAL_RETURN.json",
+      "snapshot": "sources/GEN4/volii_dressed_reference1_20261016/joint/ACTUAL_RETURN.json",
+      "snapshot_sha256": "f9b756af26454d26405a172c4a0c2741208c42b395add2970da4df0b0e462e32",
+      "extraction": "verbatim mathematical output object through retained result/returned/output wrappers; engine implementation metadata retained privately"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_dressed_reference1_20261016/joint/DERIVATION.md",
+      "original_sha256": "97685ff69bc6ec8a86bdf375726a77a2edc2aaa30155a0c5ba7484e2403b08c1",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_dressed_reference1_20261016/joint/DERIVATION.md",
+      "snapshot": "sources/GEN4/volii_dressed_reference1_20261016/joint/DERIVATION.md",
+      "snapshot_sha256": "97685ff69bc6ec8a86bdf375726a77a2edc2aaa30155a0c5ba7484e2403b08c1",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_dressed_reference1_20261016/joint/INTERFACE.json",
+      "original_sha256": "0d879894c145965f62bf3a3f0885e6e916914a54b3bbfdf801a839a25acb2000",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_dressed_reference1_20261016/joint/INTERFACE.json",
+      "snapshot": "sources/GEN4/volii_dressed_reference1_20261016/joint/INTERFACE.json",
+      "snapshot_sha256": "0d879894c145965f62bf3a3f0885e6e916914a54b3bbfdf801a839a25acb2000",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_dressed_reference1_20261016/joint/VERIFICATION.json",
+      "original_sha256": "0c87960f7ff5b27b8df4a3ee5a872eaee2ae950c690bc1ce5a71d8e3fc30c348",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_dressed_reference1_20261016/joint/VERIFICATION.json",
+      "snapshot": "sources/GEN4/volii_dressed_reference1_20261016/joint/VERIFICATION.json",
+      "snapshot_sha256": "0c87960f7ff5b27b8df4a3ee5a872eaee2ae950c690bc1ce5a71d8e3fc30c348",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_dressed_reference1_20261016/threshold/DERIVATION.md",
+      "original_sha256": "3682b90b102744356cf9f7b4a5006242081a2e7a594cc3fbabedffb6580204bf",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_dressed_reference1_20261016/threshold/DERIVATION.md",
+      "snapshot": "sources/GEN4/volii_dressed_reference1_20261016/threshold/DERIVATION.md",
+      "snapshot_sha256": "3682b90b102744356cf9f7b4a5006242081a2e7a594cc3fbabedffb6580204bf",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_fragment_action1_20261016/joint/DERIVATION.md",
+      "original_sha256": "7592b40240ba931cbd1a0f82ce05ecaf141d327a72a09e185d9f14ff073e4735",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_fragment_action1_20261016/joint/DERIVATION.md",
+      "snapshot": "sources/GEN4/volii_fragment_action1_20261016/joint/DERIVATION.md",
+      "snapshot_sha256": "7592b40240ba931cbd1a0f82ce05ecaf141d327a72a09e185d9f14ff073e4735",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_missing_pieces_broad1_20261016/atomic/RADIAL_SOURCE_PACKET.json",
+      "original_sha256": "21e12021f78cc21828e0471051394f0b919c4a6cc5423c33e6ede121b70ea05c",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_missing_pieces_broad1_20261016/atomic/RADIAL_SOURCE_PACKET.json",
+      "snapshot": "sources/GEN4/volii_missing_pieces_broad1_20261016/atomic/RADIAL_SOURCE_PACKET.json",
+      "snapshot_sha256": "21e12021f78cc21828e0471051394f0b919c4a6cc5423c33e6ede121b70ea05c",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_quantum_motion_join1_20261016/RUN_POLICY.json",
+      "original_sha256": "fddfbf7187e23468e507e0c9ac4464da7df05cbc213e4b4b2363fdf96c0ed462",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_quantum_motion_join1_20261016/RUN_POLICY.json",
+      "snapshot": "sources/GEN4/volii_quantum_motion_join1_20261016/RUN_POLICY.json",
+      "snapshot_sha256": "fddfbf7187e23468e507e0c9ac4464da7df05cbc213e4b4b2363fdf96c0ed462",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_quantum_motion_join1_20261016/field/ADAPTIVE_R1_VERIFICATION.json",
+      "original_sha256": "e27cb1553a67eb35faa40a64ee504a564a8c58358f8b0d7c6316fbd46e00479c",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_quantum_motion_join1_20261016/field/ADAPTIVE_R1_VERIFICATION.json",
+      "snapshot": "sources/GEN4/volii_quantum_motion_join1_20261016/field/ADAPTIVE_R1_VERIFICATION.json",
+      "snapshot_sha256": "e27cb1553a67eb35faa40a64ee504a564a8c58358f8b0d7c6316fbd46e00479c",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_quantum_motion_join1_20261016/field/DERIVATION.md",
+      "original_sha256": "aacc836c34f1058e5cf3875c88ca6c6ef339a9c02c9b10b7759a0298d9ac33a8",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_quantum_motion_join1_20261016/field/DERIVATION.md",
+      "snapshot": "sources/GEN4/volii_quantum_motion_join1_20261016/field/DERIVATION.md",
+      "snapshot_sha256": "aacc836c34f1058e5cf3875c88ca6c6ef339a9c02c9b10b7759a0298d9ac33a8",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_quantum_motion_join1_20261016/field/R1_VERIFICATION.json",
+      "original_sha256": "5125fd354b93f5b309c525629037196ad70b2024975f5cd09087ce089f8eb246",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_quantum_motion_join1_20261016/field/R1_VERIFICATION.json",
+      "snapshot": "sources/GEN4/volii_quantum_motion_join1_20261016/field/R1_VERIFICATION.json",
+      "snapshot_sha256": "5125fd354b93f5b309c525629037196ad70b2024975f5cd09087ce089f8eb246",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_quantum_motion_join1_20261016/field/R2_DERIVATION.md",
+      "original_sha256": "718410fb27377377daa11ff069b1e42872742f4a8977c34ce893ccc6c08f8aed",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_quantum_motion_join1_20261016/field/R2_DERIVATION.md",
+      "snapshot": "sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_DERIVATION.md",
+      "snapshot_sha256": "718410fb27377377daa11ff069b1e42872742f4a8977c34ce893ccc6c08f8aed",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_quantum_motion_join1_20261016/field/R2_SOURCE_PACKET.json",
+      "original_sha256": "ed6e9821a606f17370a1b9bbffc3ad025fa5eec5b6afd84b110b9eeea7f9d188",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_quantum_motion_join1_20261016/field/R2_SOURCE_PACKET.json",
+      "snapshot": "sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_SOURCE_PACKET.json",
+      "snapshot_sha256": "ed6e9821a606f17370a1b9bbffc3ad025fa5eec5b6afd84b110b9eeea7f9d188",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_quantum_motion_join1_20261016/field/R2_VERIFICATION.json",
+      "original_sha256": "e8ff2d48294e32c4d1fbd8274fa5d96127112c4a3bd5559b42d4b36ca789283e",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_quantum_motion_join1_20261016/field/R2_VERIFICATION.json",
+      "snapshot": "sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_VERIFICATION.json",
+      "snapshot_sha256": "e8ff2d48294e32c4d1fbd8274fa5d96127112c4a3bd5559b42d4b36ca789283e",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_quantum_motion_join1_20261016/field/SOURCE_PACKET.json",
+      "original_sha256": "cc0fc5af06e579f383847abc8fb695f92133d32590742d21c5f05f8cfb8275b5",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_quantum_motion_join1_20261016/field/SOURCE_PACKET.json",
+      "snapshot": "sources/GEN4/volii_quantum_motion_join1_20261016/field/SOURCE_PACKET.json",
+      "snapshot_sha256": "cc0fc5af06e579f383847abc8fb695f92133d32590742d21c5f05f8cfb8275b5",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_quantum_motion_join1_20261016/source/R2_DERIVATION.md",
+      "original_sha256": "3abc10b97e6fa3661f8f200adfb418528aae0ebb961a84e5d7ec14266150781c",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_quantum_motion_join1_20261016/source/R2_DERIVATION.md",
+      "snapshot": "sources/GEN4/volii_quantum_motion_join1_20261016/source/R2_DERIVATION.md",
+      "snapshot_sha256": "3abc10b97e6fa3661f8f200adfb418528aae0ebb961a84e5d7ec14266150781c",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/SAM_Research_Project/GEN4/volii_quantum_motion_join1_20261016/source/SOURCE_PACKET.json",
+      "original_sha256": "66c8ab84a5f7bc84d487b5463b93a164af6a857cd235da8718a18d2cfc611a14",
+      "raw_private_snapshot": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/volii_quantum_motion_join1_20261016/source/SOURCE_PACKET.json",
+      "snapshot": "sources/GEN4/volii_quantum_motion_join1_20261016/source/SOURCE_PACKET.json",
+      "snapshot_sha256": "66c8ab84a5f7bc84d487b5463b93a164af6a857cd235da8718a18d2cfc611a14",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_a1_light_sources_20261108/sources/snapshots/light_source/source_only/COLOUR_64_CONSTRUCTION_PAYLOAD.json",
+      "original_sha256": "e51e8826e0570c8041aac43d9ddc7443641e738e67bd5164ff18dbb49da4b6e1",
+      "snapshot": "sources/light/COLOUR_64_CONSTRUCTION_PAYLOAD.json",
+      "snapshot_sha256": "e51e8826e0570c8041aac43d9ddc7443641e738e67bd5164ff18dbb49da4b6e1",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_a1_light_sources_20261108/sources/snapshots/light_source/source_only/COMPLETE_DC_PAIR.json",
+      "original_sha256": "afbc60e193b31052399efe61f89a742df78e970f8ca47b1789f53e33f7298d24",
+      "snapshot": "sources/light/COMPLETE_DC_PAIR.json",
+      "snapshot_sha256": "afbc60e193b31052399efe61f89a742df78e970f8ca47b1789f53e33f7298d24",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_a1_light_sources_20261108/sources/snapshots/light_source/source_only/HE3_FRAGMENT_SPACE.json",
+      "original_sha256": "109700aed3eb2f1a6b1345cea90f4e24e8be993484573fa2579338c2e1d15c2c",
+      "snapshot": "sources/light/HE3_FRAGMENT_SPACE.json",
+      "snapshot_sha256": "109700aed3eb2f1a6b1345cea90f4e24e8be993484573fa2579338c2e1d15c2c",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_a1_light_sources_20261108/sources/snapshots/light_source/source_only/HE3_INDEPENDENT_FRAGMENTS.json",
+      "original_sha256": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f",
+      "snapshot": "sources/light/HE3_INDEPENDENT_FRAGMENTS.json",
+      "snapshot_sha256": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_a1_light_sources_20261108/sources/snapshots/light_source/source_only/HE3_PLACEMENT.json",
+      "original_sha256": "7580dc810549c9ba5eb18a30ac0ffaf50a010de41fad80c369307bfe88c03865",
+      "snapshot": "sources/light/HE3_PLACEMENT.json",
+      "snapshot_sha256": "7580dc810549c9ba5eb18a30ac0ffaf50a010de41fad80c369307bfe88c03865",
+      "extraction": "verbatim file"
+    },
+    {
+      "original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_a1_light_sources_20261108/sources/snapshots/light_source/source_only/INDEPENDENT_CONSTANTS.json",
+      "original_sha256": "02c6f2f114a4781a70d7d11ca4ae4718a17019b301b648474f9a0974db9efd94",
+      "snapshot": "sources/light/INDEPENDENT_CONSTANTS.json",
+      "snapshot_sha256": "02c6f2f114a4781a70d7d11ca4ae4718a17019b301b648474f9a0974db9efd94",
+      "extraction": "verbatim file"
+    }
+  ],
+  "source_dimensions": {
+    "paired": 16,
+    "colour": 64,
+    "primary": 192,
+    "connected": 48,
+    "complement": 144
+  },
+  "frozen_controls": 12
+}

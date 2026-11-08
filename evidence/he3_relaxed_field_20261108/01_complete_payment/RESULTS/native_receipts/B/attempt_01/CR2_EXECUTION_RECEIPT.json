@@ -1,0 +1,32 @@
+{
+  "peer": "B",
+  "scope": "CR2_SOURCE_BOUND_CALCULATION_NO_DUCK_WINDOW",
+  "status": "FAILED",
+  "started_utc": "2026-11-08T13:20:33.377167+00:00",
+  "completed_utc": "2026-11-08T13:20:34.109905+00:00",
+  "job": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/peers/B/native_job_01.json",
+  "job_sha256": "20465aa9980dda314faf46da34660ae46a089374c462d93169b2be01ad570a17",
+  "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_01",
+  "core": "0.11.3",
+  "source_binding": {
+    "kind": "CR2_HE3_RELAXED_COMPLETE_PAYMENT",
+    "case_id": "he3_relaxed_field_20261108/01_complete_payment",
+    "law_namespace": "SAM_land",
+    "frozen_trial_family_sha256": "bce4669c325d25eb8063202a58ddc2480678bc8025a2f954824ff4b84464b56e",
+    "input_custody_sha256": "9b173176140a5f74c0c5c1a56029c22ff5c8061c7ae005936fbd6ca7d363c221",
+    "scope": "Complete retained trial accounting, conditional declared recipient, no fit or physical coefficient assignment",
+    "target_sha256": "19910c82747caf88e1a56bd5e4bc75909282826e969e4ff6eb0ed5f1bf503464",
+    "freeze_sha256": "7bf06f49d2184adf7b5b63c15b8a562edf6d20d9c37c11c32dce4c0dd90da524"
+  },
+  "operations": [],
+  "error": {
+    "type": "ValueError",
+    "message": "Ordered word fields differ from selected step",
+    "step": {
+      "id": "full_cross_gram",
+      "operation": "GEN3_SOURCE_OPERATOR_WORD",
+      "input": "000_full_cross_gram.input.json",
+      "output": "000_full_cross_gram.output.json"
+    }
+  }
+}

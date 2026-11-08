@@ -1,0 +1,495 @@
+\documentclass[11pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb,amsthm,mathtools}
+\usepackage{booktabs,array,longtable}
+\usepackage{microtype}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=blue!45!black,citecolor=blue!45!black,urlcolor=blue!45!black,pdftitle={Exact Source Reduction and Complete Field-Energy Certificates for a He-3 Model},pdfauthor={Sean Brady}}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{lemma}[theorem]{Lemma}
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{remark}[theorem]{Remark}
+\newcommand{\HH}{\mathcal H}
+\newcommand{\FF}{\mathcal F}
+\newcommand{\Id}{\mathrm I}
+\newcommand{\Tr}{\operatorname{Tr}}
+\newcommand{\Cov}{\operatorname{Cov}}
+\newcommand{\ran}{\operatorname{ran}}
+\newcommand{\rank}{\operatorname{rank}}
+\newcommand{\eps}{\varepsilon}
+\newcommand{\dd}{\mathrm d}
+\newcommand{\repo}{\url{https://github.com/iwtbotiwtwot/He-3}}
+\setlength{\emergencystretch}{2em}
+\setlist{itemsep=3pt,topsep=5pt}
+\title{Exact Source Reduction and Complete\ Field-Energy Certificates for a He-3 Model}
+\author{Sean Brady}
+\date{8 November 2026}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+We study a finite ppn source model coupled to a completed bosonic field form and a declared matter, recoil and localized-gate account. The placement space has dimension 192 and the internal source has dimension 64. Its complete intrinsic ground energy is $12\tau-g-\delta$, where $\delta$ is the unique positive root of an explicit four-pole secular equation. The receiving space has dimension 48; its exact dynamics retain 96 additional cyclic directions and 48 invariant dark directions. For a product placement/field trial, replacing an incidence projector by its mean omits a strictly positive variance contribution. Retaining that contribution, the original signed current Gram and all specified energy terms yields a complete sufficient gap $A_i+B_i(1-p)-\delta$. Under stated sharp-profile moment and complete gate premises, exact rational witnesses and monotonicity establish four nonempty parameter intervals below the declared whole-field fragment lower. A further free-reference theorem identifies the earlier preparation complement, and a shared-field theorem gives the ordered covariance payment required for composition. The accompanying package reproduces two payment constructions and three verification cases using standard-library Python, including 640 recorded checks and 18 controls. The results provide an explicit, reproducible source-to-energy construction with its parameter and reference dependencies stated throughout.
+\end{abstract}
+
+\section{Introduction}
+
+A reduced source description can be sufficient for a present observation while failing to preserve future response or energy. In a binding comparison, the distinction becomes consequential: removing a complementary source direction, replacing a fluctuating incidence by its mean, or shifting only one reference can change the sign of a proposed energy difference. An explicit construction should carry these operations through the same norm and Hamiltonian before using a variational bound.
+
+This paper develops that account for the He-3 ppn source construction of the Substrate Accumulation Model (SAM). The finite part consists of a placement space, a three-factor internal space, and two exchange contacts. The field part is a completed square on the full Fock space, with a fixed sharp radial profile and translated transverse-traceless (TT) angular response. A frozen normalized trial then permits a complete sufficient energy comparison. The ppn designation specifies the source roles; the mathematical results below require the operators and reference stated here.
+
+The contributions form one chain. First, the full placement source admits an explicit receiving resolvent and an exact ground-state law. Second, the relaxed placement ground can be combined with a fixed dressed trial without losing the incidence variance or changing its normalization. Third, a universal spectral bound supplies four rationally certified parameter intervals. Fourth, the complete free source and shared-field composition reveal the additional terms needed when this construction is embedded into a larger model. The retained campaign reports and executable source files are mapped in Appendix~\ref{app:map}.
+
+Projection and effective-operator methods have an established role in nuclear and spectral theory, beginning with the Feshbach formulation~\cite{feshbach}; a modern treatment gives explicit eigenvalue estimates through the Feshbach--Schur map~\cite{dss}. The present contribution is the explicit source-specific reduction, complete energy account and accompanying certificates. Work on field-coupled Hamiltonians also distinguishes a ground energy from a binding comparison and from existence of a ground eigenvector~\cite{gll,lieb_loss}. We use those distinctions directly. The finite four-colour factor below is a specified internal mathematical space. Its dimension alone does not identify it with the spin-isospin symmetry used in three-nucleon effective field theory~\cite{vanasse}.
+
+\paragraph{Meaning of a certificate.}
+Let $L_{\rm frag}$ be a proved lower bound for the declared fragment Hamiltonian, and let $\Psi$ be an admissible normalized trial for the interacting Hamiltonian. A \emph{variational binding certificate relative to that fragment} means
+\begin{equation}\label{eq:meaning}
+ \langle\Psi,H_{\rm tot}\Psi\rangle<L_{\rm frag}
+ \leq\inf\sigma(H_{\rm frag}).
+\end{equation}
+It establishes an energy separation. Identifying the essential spectrum of $H_{\rm tot}$, proving existence of a full-Fock ground eigenvector, and assigning physical isotope parameters are separate statements. The finite ground-state theorem in Section~\ref{sec:ground} is unconditional within its defined finite model; the complete certificate in Section~\ref{sec:certificate} uses the explicitly listed moment and gate hypotheses.
+
+\section{The complete finite source}\label{sec:source}
+
+\subsection{Placement and receiving map}
+
+Let $A_\square$ be the adjacency matrix of the three-dimensional binary cube, indexed by $\{0,1\}^3$. The primary placement Hamiltonian and its space are
+\begin{equation}\label{eq:H192}
+ \HH_p=\bigoplus_{a=1}^{24}\mathbb C^8,\qquad
+ H_p=\bigoplus_{a=1}^{24}(18\Id_8-2A_\square).
+\end{equation}
+The 24 labels are retained oriented pair preparations. The third source address runs independently over all eight cube sites. Equal local digits in the two independent cells remain legal addresses.
+
+In each block, the receiving injection selects two cube vertices at Hamming distance two. By a cube symmetry they may be represented as $000$ and $011$. Their literal ordering is retained in the supplied matrix $J:\mathbb C^{48}\to\HH_p$. Thus
+\begin{equation}\label{eq:compression}
+ J^*J=\Id_{48},\qquad P=JJ^*,\qquad
+ J^*H_pJ=18\Id_{48},\qquad
+ J^*H_p(\Id-P)H_pJ=
+ \bigoplus_{a=1}^{24}\begin{pmatrix}12&8\\8&12\end{pmatrix}.
+\end{equation}
+In particular the receiving space is not invariant. The literal leakage has rank 48.
+
+The cube Walsh modes have energies $12+4k$, $k=0,1,2,3$, with multiplicities $1,3,3,1$. For the normalized sum and difference of the two receiving vertices, the spectral weights are
+\begin{equation}\label{eq:weights}
+ w_+=(1/4,1/4,1/4,1/4),\qquad
+ w_-=(0,1/2,1/2,0).
+\end{equation}
+Each block therefore has a receiving-cyclic subspace of dimension six and two orthogonal invariant dark directions. Across all blocks, the decomposition is
+\begin{equation}\label{eq:dimensions}
+ 192=48\ \text{receiving}+96\ \text{dynamically hidden}
+       +48\ \text{invariant dark}.
+\end{equation}
+The last directions retain their energies 16 and 20. They carry no receiving amplitude but remain part of the complete norm and energy.
+
+\subsection{Internal source and current metric}
+
+The internal space is $\HH_c=(\mathbb C^4)^{\otimes3}$, in literal order $a+4b+16c$. Let $S_{12},S_{23},S_{13}$ interchange the corresponding factors. The four-dimensional antisymmetric space $\bigwedge^3\mathbb C^4$ has a supplied frame $U$ satisfying
+\begin{equation}\label{eq:colour}
+ U^*U=6\Id_4,\qquad S_{ij}U=-U.
+\end{equation}
+The frame metric must be included before contracting source currents. The real symmetric current quadrature $D$ and real antisymmetric quadrature $R=C/i$ are supplied as literal 16-state operators and embedded in contacts 12 and 23. On the antisymmetric frame, their actual current images obey
+\begin{equation}\label{eq:current}
+ \frac{(D_{12}U)^*(D_{12}U)}6=
+ \frac{(D_{23}U)^*(D_{23}U)}6=\frac{G_4}{2},\qquad
+ \frac{(D_{12}U)^*(D_{23}U)}6=-\frac{G_4}{4}.
+\end{equation}
+Both quadratures are retained; their relation on this frame is $R_{ij}U=D_{ij}U$. The positive matrix $G_4$ is printed in Appendix~\ref{app:constants}. Its four eigenlanes are labelled by the frozen source record. The full self-current forms have trace
+\begin{equation}\label{eq:trace}
+ T=\Tr(G_c+G_i)=176996352,\qquad
+ G_c=D_{12}^*D_{12}+R_{12}^*R_{12},
+\end{equation}
+with the analogous definition of $G_i$ on contact 23. These forms are calculated on the complete 64-state source, after forming the current images. Compressing the currents to the antisymmetric floor before squaring would lose the excited-source contribution.
+
+\section{Exact receiving dynamics and intrinsic ground}\label{sec:ground}
+
+\subsection{Resolvent and complementary memory}
+
+For $z>0$, the symmetric and antisymmetric entries of the receiving resolvent of $\tau H_p$ are
+\begin{equation}\label{eq:resolvent}
+ r_+(z)=\frac14\sum_{k=0}^3\frac1{z+(12+4k)\tau},\qquad
+ r_-(z)=\frac12\left(\frac1{z+16\tau}+\frac1{z+20\tau}\right).
+\end{equation}
+They follow directly from~\eqref{eq:weights}; the literal full192 inverse gives the same compressed entries. For a general block decomposition $H$ with $Q=\Id-P$, the receiving resolvent is
+\begin{equation}\label{eq:schur}
+ P(z+H)^{-1}P=
+ \left[z+PHP-PHQ(z+QHQ)^{-1}QHP\right]^{-1}_{\ran P}.
+\end{equation}
+Equation~\eqref{eq:compression} makes the self-energy nonzero in the present source.
+
+The same complement appears in time evolution. If $v=P\psi$ and $w=Q\psi$, eliminating $w$ from $i\dot\psi=H\psi$ gives
+\begin{align}\label{eq:memory}
+ i\dot v(t)={}&PHPv(t)+PHQe^{-itQHQ}w(0)\notag\\
+ &-i\int_0^t PHQe^{-i(t-s)QHQ}QHPv(s)\,\dd s.
+\end{align}
+An initial hidden preparation thus contributes an inhomogeneous term as well as a memory kernel. Actual normalized source preparations with the same receiving vector can have different full energies and receiving derivatives. One retained pair has energies $402/25$ and $498/25$ in the dimensionless source chart.
+
+\subsection{The full-parent ground law}
+
+For $\tau,g>0$, define the intrinsic finite Hamiltonian on $\HH_p\otimes\HH_c$ by
+\begin{equation}\label{eq:intrinsic}
+ H_{\rm intr}=\tau H_p\otimes\Id_{64}
+       +g\Id_{192}\otimes S_{23}+gP\otimes S_{12}.
+\end{equation}
+
+\begin{theorem}[Exact finite ground]\label{thm:ground}
+The ground energy of~\eqref{eq:intrinsic} is
+\begin{equation}\label{eq:ground}
+ E_0=12\tau-g-\delta,
+ \qquad \frac g4\sum_{k=0}^3\frac1{\delta+4k\tau}=1,
+ \qquad \frac g4<\delta<g.
+\end{equation}
+The positive root $\delta$ is unique. Its ground placement occupancy satisfies
+\begin{equation}\label{eq:formation}
+ p=\langle P\rangle=\partial_g\delta,
+ \qquad \tau(\langle H_p\rangle-12)=gp-\delta\geq0.
+\end{equation}
+\end{theorem}
+
+\begin{proof}
+Because $S_{ij}\geq-\Id$ and $P\geq0$, the finite Hamiltonian is bounded below by $(\tau H_p-gP-g\Id)\otimes\Id$. The antisymmetric internal frame saturates both swap bounds simultaneously, so the lower is attained on its tensor product with a placement ground.
+
+In one cube block, the Birman--Schwinger matrix of $\tau H_p-gP$ has the two receiving eigenchannels in~\eqref{eq:weights}. At $E=12\tau-\delta$, its symmetric channel is $(g/4)\sum_k(\delta+4k\tau)^{-1}$. The symmetric resolvent exceeds the antisymmetric one by
+\begin{equation}\label{eq:resdifference}
+ \frac{16\tau^2(\delta+6\tau)}
+ {\delta(\delta+4\tau)(\delta+8\tau)(\delta+12\tau)}>0.
+\end{equation}
+The lowest eigenvalue therefore comes from the symmetric channel. Its secular function decreases continuously from infinity to zero as $\delta$ increases from zero to infinity. Evaluating it at $g/4$ and $g$ proves the strict root bounds. Uncoupled dark directions stay above this eigenvalue. The 24 equivalent blocks may make the ground degenerate; uniqueness here refers to the positive secular root.
+
+Hellmann--Feynman differentiation on the common lowest branch yields $p=\partial_g\delta$. Taking the expectation of $\tau H_p-gP$ gives~\eqref{eq:formation}; the nonnegative sign follows from $H_p\geq12\Id$.
+\end{proof}
+
+Clearing denominators gives the equivalent polynomial
+\begin{align}\label{eq:quartic}
+0={}&\delta^4+(24\tau-g)\delta^3+(176\tau^2-18g\tau)\delta^2\notag\\
+ &+(384\tau^3-88g\tau^2)\delta-96g\tau^3.
+\end{align}
+The positive crossing implementation $gP\otimes(\Id+S_{12})$ is a different operator. Its complete intrinsic floor is $12\tau-g$: the added term is nonnegative and vanishes on the antisymmetric internal source. Its identity baseline must therefore be retained in any comparison with~\eqref{eq:intrinsic}.
+
+\section{The complete field and normalized trial}\label{sec:field}
+
+\subsection{Field form and source profile}
+
+The field Hamiltonian is specified as a positive completed square. Absorb the frequency weight into an annihilation map $B$ and let $D(A)$ denote its source displacement. On their common form domain,
+\begin{equation}\label{eq:fieldform}
+ \mathfrak f_A[\chi]=\|B\chi+D(A)\chi\|_{\mathfrak h}^2.
+\end{equation}
+The direct-integral space $\mathfrak h$ includes all frequencies, physical helicities, matter variables and complete source/Fock images. This notation fixes the full self and ordered mixed counterterms as part of the square. Photon energy occurs once.
+
+In the retained speed-one chart the radial profile is
+\begin{equation}\label{eq:profile}
+ |h_R(\omega)|^2=\frac{2\omega j_2(\omega R)^2}{(4/5)\pi},\qquad\omega>0.
+\end{equation}
+We use the declared moment identities
+\begin{equation}\label{eq:moments}
+ \mu_0=\int_0^\infty\frac{|h_R|^2}{\omega}\dd\omega=\frac1{4R},\quad
+ b=\int_0^\infty\frac{|h_R|^2}{\omega^2}\dd\omega=\frac5{24\pi},\quad
+ b_3=\int_0^\infty\frac{|h_R|^2}{\omega^3}\dd\omega=\frac R{42}.
+\end{equation}
+These are explicit inherited premises of the complete certificate. The replay authenticates their operands and uses rational bounds; it does not freshly evaluate these integrals.
+
+For two translated centres, the normalized TT cross channels have the form $A_m(z)=\int_0^1t_m(u)\cos(zu)\dd u$, where
+\begin{align}\label{eq:tt}
+ t_+=t_\times&=\frac5{16}(1+6u^2+u^4),\notag\\
+ t_{xz}=t_{yz}&=\frac54(1-u^4),\qquad
+ t_{q_0}=\frac{15}{8}(1-u^2)^2.
+\end{align}
+All weights are nonnegative and integrate to one. Consequently $|A_m(z)|\leq1$, and the complete two-centre mode Gram $\left(\begin{smallmatrix}\Id&A\\A&\Id\end{smallmatrix}\right)$ is positive and bounded by $2\Id$. The declared homogeneous Cartesian TT translation is part of this model's receiving law.
+
+\subsection{The frozen trial and its domain}
+
+For the complete certificate, fix
+\begin{equation}\label{eq:fixed}
+ \eps=1/573049,\quad g=\eps,\quad R=\ell=1,\quad
+ \Delta=3\eps,\quad b_U=5/72,\quad\gamma=10^{-7}.
+\end{equation}
+Let $v_i\in\mathbb C^4$ be a normalized eigenvector of $G_4$ with eigenvalue $\lambda_i$, and put $u_i=Uv_i/\sqrt6\in\HH_c$. The retained internal/matter/field factor is
+\begin{equation}\label{eq:trial}
+ \chi_i=\frac{T_{0,i}+\eps T_{1,i}}{\sqrt{D_i}},\qquad
+ T_{0,i}=u_i\otimes|0\rangle,\qquad
+ D_i=1+\eps^2n_i\lambda_i,
+ \quad 0\leq n_i\leq3b_U.
+\end{equation}
+The normalized Gaussian matter packet and independent normal-EDGE factor are understood in both terms. The one-boson component has the original amplitude $-h_R(\omega)(\omega+\Delta)^{-1}$ multiplying the complete translated contact-current image. The internal operator $H_{\rm ex}=S_{12}+S_{23}+S_{13}$ obeys
+\begin{equation}\label{eq:gapimages}
+ H_{\rm ex}U=-3U,\qquad H_{\rm ex}D_{12}U=H_{\rm ex}D_{23}U=0.
+\end{equation}
+Thus $\Delta$ belongs to the original current images. It is not assigned as a universal gap of the new placement recipient.
+
+The full trial is $\Psi_{\tau,i}=\phi_\tau\otimes\chi_i$, where $\phi_\tau$ is a normalized full192 ground of $\tau H_p-\eps P$. A zero-plus-one-boson trial is evaluated in the full Fock Hamiltonian; its use does not truncate that Hamiltonian. The complete norm $D_i$ is common to every source, field and motion expectation.
+
+Finite source currents and the finite inverse-first moment make the displacement map bounded. Adding it to the closed annihilation map preserves the field form domain. The finite moments in~\eqref{eq:moments}, together with the massive bound below and the declared complete gate form bound, place this trial in the required intersection of domains. The sharp profile's divergent dressed nonrelativistic quadratic-momentum moment is not used.
+
+\subsection{Incidence variance and source promotion}
+
+\begin{proposition}[Complete incidence account]\label{prop:variance}
+On a normalized product placement/internal trial, with $P^2=P$ and $p=\langle P\rangle$, write $A=A_i+PA_c$. Then
+\begin{align}\label{eq:variance}
+ F_P&=pF_{\rm full}+(1-p)F_i\notag\\
+ &=F(A_i+pA_c)+p(1-p)C_c,
+ \qquad C_c=\|D(A_c)\chi\|^2.
+\end{align}
+Here all field terms use the same normalized $\chi$, and
+\begin{equation}\label{eq:residualbound}
+ F_i-F_{\rm full}\leq C_c+2\sqrt{F_{\rm full}C_c}.
+\end{equation}
+\end{proposition}
+\begin{proof}
+Set $X=B\chi+D(A_i)\chi$ and $Y=D(A_c)\chi$. Expansion of the full square gives $\|X\|^2+2p\Re\langle X,Y\rangle+p\|Y\|^2$. Expansion at mean incidence gives the same expression with $p^2\|Y\|^2$. Their difference is~\eqref{eq:variance}. Also $F_i=\|(X+Y)-Y\|^2$, so Cauchy--Schwarz yields~\eqref{eq:residualbound}.
+\end{proof}
+
+The source change is controlled before transferring the old dressed trial. On the full colour space, including arbitrary ancillary factors,
+\begin{equation}\label{eq:promotion}
+ H_{\rm ex}+3\Id-\left[(\Id+S_{23})+p(\Id+S_{12})\right]
+ =(1-p)(\Id+S_{12})+(\Id+S_{13})\geq0.
+\end{equation}
+This retains all source intermediates. It gives a promotion allowance $\Delta\eps^2n_i\lambda_i/D_i$, which cancels the corresponding signed denominator term in the complete field account.
+
+If a numerator bound is positive, a lower norm endpoint gives a valid upper after division. If it is negative, the upper norm endpoint is required. These choices are made before simplifying the account. An already normalized upper is never divided by the norm again.
+
+\section{Complete conditional energy certificate}\label{sec:certificate}
+
+\subsection{Universal field and massive bounds}
+
+Let $c$ be the vacuum counterterm coefficient and $q$ the full virtual response; set $\kappa=c-q$. The exact normalized field identities on the retained trial are
+\begin{align}\label{eq:exactfield}
+ D_iF_{\rm full}&=\eps^2\lambda_i(\kappa-\Delta n_i)+\eps^4 C_{1,\rm full},\notag\\
+ D_iF_i&=\eps^2\lambda_i(\mu_0-\Delta n_i)+\eps^4 C_{1,i}.
+\end{align}
+The positive mode Gram and~\eqref{eq:trace} bound either one-boson counterterm by $2\mu_0Tn_i\lambda_i$. The normalized angular weights retain $0\leq2-A\leq3$, giving
+\begin{equation}\label{eq:kappastar}
+ 0\leq\kappa\leq\kappa_*=3\Delta b_U=\frac5{4584392}<\mu_0.
+\end{equation}
+This bound uses the whole frequency range and does not require the historical numerical retarded-cross lower. That lower remains in the earlier, sharper payment construction.
+
+For completeness, bounds on the same trial give
+\begin{align}\label{eq:separatefield}
+ F_{\rm full}&\leq3\eps^2\Delta^2b_3\lambda_{i,U}
+                 +6\eps^4\mu_0Tb_U\lambda_{i,U},\notag\\
+ \frac{\eps^2\mu_0\lambda_{i,L}}{1+3\eps^2b_U\lambda_{i,U}}
+ &\leq C_c\leq\eps^2\mu_0\lambda_{i,U}(1+3\eps^2b_UT).
+\end{align}
+In particular $C_c>0$. The variance term in~\eqref{eq:variance} is therefore strictly positive when $0<p<1$.
+
+The massive recoil bound retains the entire low-frequency head and infinite tail. For $x=2m$ in the three retained mass cases, an elementary majorant is
+\begin{equation}\label{eq:massive}
+ M_m\leq\frac56\left[
+ \frac{\log x+91/4+1/1350}{x}-\frac3{x^2}-\frac5{2x^3}
+ -\frac3{2x^4}-\frac9{20x^5}\right].
+\end{equation}
+It follows by using $T_m(\omega)\leq\min\{\omega^2/(2m),\omega\}$, $|j_2(x)|\leq x^2/15$ below one and $|j_2(x)|\leq x^{-1}+3x^{-2}+3x^{-3}$ above one. The exact replay encloses the logarithm by a 192-term atanh expansion with binary range reduction and its explicit positive tail. The momentum-fibre shift includes photon centre-of-mass transfer. No high-frequency region is discarded.
+
+The complete localized-gate numerator is assumed bounded by
+\begin{equation}\label{eq:gate}
+ \gamma\left[4\chi_U+\frac{45}{2}\eps^2b_U\lambda_{i,U}\right],
+\end{equation}
+on the unchanged independent normal-EDGE trial. Its mean is $1/2$ and its total variance is two. The scalar $\chi_U$, given in Appendix~\ref{app:constants}, is part of the inherited complete gate inequality. The scalar overlap by itself is not a derivation of~\eqref{eq:gate}.
+
+\subsection{A complete sufficient gap}
+
+Let $K=3/(4m)$ and let $M_U$ be the rational massive upper verified from~\eqref{eq:massive}. Define
+\begin{align}\label{eq:AB}
+ A_i={}&K+3\eps^2b_UK\lambda_{i,U}
+       +\eps^2\kappa_*\lambda_{i,U}+3\eps^2M_U\lambda_{i,U}\notag\\
+       &+6\eps^4\mu_0Tb_U\lambda_{i,U}
+       +4\gamma\chi_U+\frac{45}{2}\gamma\eps^2b_U\lambda_{i,U},\notag\\
+ B_i={}&\eps^2\lambda_{i,U}(\mu_0-\kappa_*)>0.
+\end{align}
+The seven terms in $A_i$ respectively pay the packet kinetic energy, dressed packet kinetic energy, signed source/field response, massive photon recoil, full one-boson source counterterm, normal-vacuum gate and dressed correlated gate.
+
+The declared connector-absent fragment has whole-field lower
+\begin{equation}\label{eq:fraglower}
+ L_{\rm frag}=12\tau-\eps+L_{\rm common}.
+\end{equation}
+Indeed, $H_p\geq12\Id$, $S_{23}\geq-\Id$, and its complete field, massive and declared excitation/gate forms are nonnegative. The frozen comparison has $L_{\rm common}=0$ and zero changed preparation/work/electronic ledger. The lower is not an assertion that every fragment contribution is simultaneously minimized.
+
+\begin{theorem}[Complete sufficient certificate]\label{thm:certificate}
+For the source, trial, common reference and moment/gate hypotheses above,
+\begin{equation}\label{eq:gap}
+ \langle\Psi_{\tau,i},H_{\rm tot}\Psi_{\tau,i}\rangle-L_{\rm frag}
+ \leq f_i(\tau):=A_i+B_i(1-p(\tau))-\delta(\tau,\eps).
+\end{equation}
+At $mR=10^6$, $f_i(\tau)<0$ throughout each of the four open intervals in Table~\ref{tab:intervals}.
+\end{theorem}
+
+\begin{proof}
+Mix~\eqref{eq:exactfield} with weights $p$ and $1-p$. Add the full-source promotion bound from~\eqref{eq:promotion}. The $\Delta n_i$ terms cancel with their signs preserved. The remaining source/field numerator is bounded by
+\[
+ \eps^2\lambda_i[p\kappa+(1-p)\mu_0]
+      +2\eps^4\mu_0Tn_i\lambda_i.
+\]
+Apply~\eqref{eq:kappastar}, $n_i\leq3b_U$ and the outward lane endpoint. These remaining upper numerators are nonnegative, so $D_i\geq1$ can now be used. Add the complete kinetic, massive and gate allowances to obtain $A_i+B_i(1-p)$.
+
+The placement formation and intrinsic crossing baseline combine as
+$(\eps p-\delta)-\eps p=-\delta$, using~\eqref{eq:formation}. Subtracting~\eqref{eq:fraglower} proves~\eqref{eq:gap}. The whole-interval sign follows from the monotonicity and rational witnesses below.
+\end{proof}
+
+\begin{table}[ht]
+\centering
+\caption{Certified sufficient intervals at $mR=10^6$. Endpoints are exact rational model parameters. They are conservative ceilings, not trial energies or physically selected couplings.}\label{tab:intervals}
+\begin{tabular}{@{}cll@{}}\toprule
+Lane $i$ & Exact upper endpoint $\bar\tau_i$ & Certified open interval\\\midrule
+0 & $63247/250000000000$ & $0<\tau<2.52988\times10^{-7}$\\
+1 & $29333/200000000000$ & $0<\tau<1.46665\times10^{-7}$\\
+2 & $74141/500000000000$ & $0<\tau<1.48282\times10^{-7}$\\
+3 & $75071/500000000000$ & $0<\tau<1.50142\times10^{-7}$\\\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Why the intervals are proved, rather than sampled}
+
+Put $r=\tau/\delta$, $a_k=(1+4kr)^{-1}$ and $S_j=\sum_{k=0}^3a_k^j$. The secular equation becomes
+\begin{equation}\label{eq:parameter}
+ \delta=\frac{\eps S_1}{4},\qquad
+ \tau=\frac{\eps rS_1}{4},\qquad
+ p=\frac{S_1^2}{4S_2},\qquad
+ \frac{\dd\tau}{\dd r}=\frac{\eps S_2}{4}>0.
+\end{equation}
+For $r>0$, $\delta$ decreases, and
+\begin{equation}\label{eq:pmonotone}
+ \frac{p'}p=\frac2r\left(\frac{S_2}{S_1}-\frac{S_3}{S_2}\right)<0,
+\end{equation}
+since $S_2^2<S_1S_3$. Therefore $f_i$ increases strictly with $\tau$. On each heavy lane its exact limit at zero is negative and its limit at infinity is positive, yielding a unique zero of this sufficient upper. Rational bisection brackets that zero. For each claimed ceiling, a separate rational $r$ bracket encloses its preimage and has $f_i<0$ at the upper bracket. Monotonicity proves the entire interval in Table~\ref{tab:intervals}.
+
+Two earlier constructions reached the same conservative intervals through different bounds. One keeps the signed source/field cancellation; the other sharpens full-source row-sum counterterm bounds and applies~\eqref{eq:residualbound}. Their zeros differ because their upper functions differ. The independent verification presented here uses the universal $\kappa_*$ account and retains the original common ceilings.
+
+All eight lighter mass/lane cases at $mR=100$ and $1000$ have $A_i-\eps>0$ already at $r=0$. Their increasing sufficient uppers do not certify. Adding the positive crossing identity baseline gives
+\begin{equation}\label{eq:positivegate}
+ f_{i,+}(\tau)=A_i+B_i(1-p)+\eps p-\delta\geq A_i>0.
+\end{equation}
+This is a statement about the constructed upper, not an exclusion of a different trial. The distinct localized $\gamma$ gate in~\eqref{eq:gate} remains paid in both cases.
+
+\section{The complete free reference}\label{sec:free}
+
+There is an earlier source behind the prepared primary192 fragment. Define the free cube Laplacian $L=6\Id_8-2A_\square$. The complete pair source is
+\begin{equation}\label{eq:freepair}
+ L_2=L\otimes\Id_8+\Id_8\otimes L
+ \quad\hbox{on }\mathbb C^{64},\qquad \inf\sigma(L_2)=0.
+\end{equation}
+The adjacent oriented-pair template selects 24 coordinates. A one-site cube move leaves this adjacent subset, so its compression is $12\Id_{24}$, with a 40-dimensional omitted complement.
+
+\begin{proposition}[Free-template account]\label{prop:free}
+The adjacent template is noninvariant, with drift rank 18. Its cyclic dimensions are $24,42,46,47,47$, leaving 23 dynamically hidden and 17 invariant dark directions. At $z=1$, the retained diagonal resolvent defect is $3064/116025>0$. Tensoring with the full singleton gives the nested source dimensions
+\begin{equation}\label{eq:nested}
+ 512\ \text{complete three-free}\ \longrightarrow\
+ 192\ \text{primary prepared}\ \longrightarrow\
+ 48\ \text{connected receiving}.
+\end{equation}
+The primary cyclic space in the full three-free source has dimension $8\cdot47=376$, with 184 dynamically hidden and 136 invariant dark directions relative to that primary receiver.
+\end{proposition}
+
+The proposition is established by the literal free-pair operator, rational subspace closure, exact Schur solves and the tensor identity. The unchanged verifier reconstructs each operand, the closure and the displayed resolvent witness. Its proof and complete matrices are retained with the paper.
+
+A normalized adjacent-supported preparation has geometric expectation $12\tau$ above the free pair floor; the connected preparation adds another $6\tau$ above the primary floor. A common shift by $-12\tau$ shifts both complete endpoints and changes no difference. Subtracting it from only the prepared endpoint would change the comparison. Consequently Theorem~\ref{thm:certificate} retains its declared primary192 whole-field fragment lower; it is not reassigned to the complete three-free geometric source by notation. The separate shared144 construction also keeps its own floor and response.
+
+\section{Composition in one shared field}\label{sec:covariance}
+
+Consider a normalized product of a placement state $\phi$ and a complete internal/matter/Fock state $\chi$, with self-adjoint bounded incidences $P_j$ and displaced source currents $A_j$. Write $p_j=\langle P_j\rangle_\phi$. Expanding the one complete field square gives
+\begin{theorem}[Ordered covariance payment]\label{thm:covariance}
+The difference between the complete shared-field energy and its mean-incidence replacement is
+\begin{equation}\label{eq:covariance}
+ \eps^2\int\frac1\omega
+ \sum_{ij}\left(\langle P_iP_j\rangle_\phi-p_ip_j\right)
+ \langle A_i^*A_j\rangle_\chi\,\dd\omega\geq0,
+\end{equation}
+with all mode indices and both ordered mixed terms included. The formula also holds for bounded noncommuting incidences on a product state, using the ordered covariance as written.
+\end{theorem}
+\begin{proof}
+The terms involving the common annihilation map cancel after subtraction, as do the mean-linear displacement terms. The remainder is the squared norm of $\sum_j(P_j-p_j)\phi\otimes D(A_j)\chi$, integrated with the retained positive mode measure. Expanding this norm yields~\eqref{eq:covariance}. It also proves nonnegativity without assigning a separate sign to a mixed entry.
+\end{proof}
+
+For the actual two-contact source, let $M=G_4/2$. Equation~\eqref{eq:current} gives self-Grams $M$ and cross-Gram $-M/2$. Two normalized placement preparations have $p_1=p_2=1/2$ but offdiagonal covariance $+1/4$ or $-1/4$. Under the declared common equal scalar profile, their D-current variance coefficients are respectively
+\begin{equation}\label{eq:factor3}
+ \frac M4\quad\hbox{and}\quad\frac{3M}4.
+\end{equation}
+Both physical quadratures double both coefficients under that same profile contract. With separable scalar D profiles, positivity of the profile Gram gives the wider ratio interval $[1/3,3]$; aligned, orthogonal and opposite profiles give $3,1,1/3$. Thus equal individual occupancies do not determine the shared-field payment.
+
+For an entangled placement/internal state, a product of the two marginals is generally invalid. If the incidences commute, their joint spectral projections determine subnormalized conditional internal density matrices; the energy is evaluated separately on those sectors and summed. Degenerate sectors may have mixed conditional states. The retained exact entangled control has joint-minus-product defect $-1600/3$, with zero residual under the conditioned account. Deleting one complex ordered mixed term gives the nonzero imaginary defect $-i\,461296/3$. These are concrete source witnesses to the terms in~\eqref{eq:covariance}.
+
+\section{Reproducibility and controls}\label{sec:repro}
+
+The repository accompanying this draft is \repo. Its root command is
+\begin{center}\texttt{python3 -I -B reproduce.py}\end{center}
+It authenticates all retained evidence by SHA-256, runs the unchanged mathematical scripts with explicit relocated case paths, and compares fresh results with the sealed references. Only Python's standard library is required. Logs and fresh outputs go to a new directory, preserving every original result. A separate command builds this paper with a local TeX installation.
+
+\begin{table}[ht]
+\centering
+\caption{Recorded verification checks and registered controls. The two earlier payment reconstructions are reproduced separately and are not added to these counts.}\label{tab:checks}
+\begin{tabular}{@{}lrr@{}}\toprule
+Case & Checks & Controls\\\midrule
+Complete He-3 payment verification &285&7\\
+Complete free reference &247&5\\
+Shared-field covariance &108&6\\\midrule
+Total &640&18\\\bottomrule
+\end{tabular}
+\end{table}
+
+The complete-payment controls test omitted incidence variance, the positive crossing baseline, false placement invariance, a flipped current sign, incorrect norm endpoints, a changed paid ledger and parameters beyond the sufficient interval. The free-reference controls test a false free lower, false adjacent invariance, omitted self-energy, confusion of omitted and dark directions, and a one-sided baseline shift. The covariance controls test omitted or diagonalized covariance, wrong source normalization, an independent-field substitution, entangled factorization and a missing ordered complex term.
+
+Exact rational signs determine the certificate endpoints. The He-3 and free-reference mathematical result files reproduce byte-for-byte. The covariance readback compares all mathematical content and source/control files while allowing its execution timestamp to differ. Different scripts' path and execution metadata are kept distinct from mathematical equality.
+
+The evidence retains initial failures and corrections. In particular, the free-reference proof has an append-only correction identifying the inherited He-3 theorem with primary192, rather than shared144. Four historical native-return extracts containing a label instead of matrices remain in their original sealed inputs, accompanied by a separately hashed recovery supplement. That supplement was added after the independent computation and was not a scientific input to it.
+
+AI-assisted research agents were used in the underlying campaigns for argument development, program construction and checks, and in assembling this manuscript. The separate verification implementations reconstruct the proofs and arithmetic from the same inherited model. Their agreement and control outcomes are reported as project verification, without implying external peer review. All source origins, script hashes, retained attempts and hypothesis maps are available in the repository.
+
+\section{Discussion}
+
+The construction connects three kinds of information that a reduced energy calculation must preserve. The receiving resolvent records how unobserved placement directions return to the source. The completed field square records how fluctuating incidences and signed current correlations contribute to the same normalized trial. The reference theorem records the preparation energy and complements that precede the chosen fragment chart. Together they produce a concrete variational certificate with checkable hypotheses and reproducible arithmetic.
+
+The exact finite law is useful because it replaces the fixed connected-supported formation cost with a relaxed source family while retaining the identity $\tau(\langle H_p\rangle-12)=gp-\delta$. The field certificate then establishes that the specified complete payments fit inside the resulting lowering on nonempty intervals. The universal $\kappa_*$ bound strengthens the dependency structure of that certificate by removing the numerical retarded-cross lower from its primary proof.
+
+The free-reference and covariance results identify what must accompany further composition: one common Hamiltonian and energy zero, all reached complementary directions, one shared field square, and the appropriate joint incidence/current state. These formulas provide a reusable starting point for extending the source model. The four-colour antisymmetric saturation and two-address cube reduction are proved for the stated light source; a larger source must supply its own corresponding operators and spectral account.
+
+The next physical assignments are the species-to-current map, action and coupling normalization, a physical $\tau$ relation, geometry, and matched atomic/electronic endpoints. The present parameter intervals are useful mathematical statements before those assignments are made. The inherited sharp moments and complete correlated gate inequality remain explicit premises that can be certified separately without changing the finite spectral or covariance theorems.
+
+\appendix
+\section{Explicit constants and lane data}\label{app:constants}
+
+The actual physical current Gram is
+\begin{equation}\label{eq:G4}
+ G_4=\frac13\begin{pmatrix}
+ 7380736&-215040&0&12800\\
+ -215040&7367936&33280&215040\\
+ 0&33280&81664&559104\\
+ 12800&215040&559104&7294208
+ \end{pmatrix}.
+\end{equation}
+Its characteristic polynomial, with leading coefficient one, is
+\begin{align}\label{eq:charpoly}
+  &t^4-7374848t^3+\frac{163354428440576}{9}t^2\notag\\
+ &\qquad-\frac{134861316301424427008}{9}t
+ +\frac{15352328916359602153455616}{81}.
+\end{align}
+An exact Sturm calculation isolates all four positive roots in the supplied rational intervals. Lane labels follow the frozen input order, not a newly sorted order. The full endpoints are retained in \texttt{sources/TRIAL\_FAMILY.json} in the payment and verification cases.
+
+The inherited gate-overlap upper is the exact rational
+\begin{equation}\label{eq:chi}
+ \chi_U=\frac{2660660123492169228254295847549305313762717}
+ {9515881064012130156417499791360000000000000}.
+\end{equation}
+The source trace is $T=176996352$, $\mu_0=1/4$, $b_U=5/72$, $b_3=1/42$ and $\gamma=1/10000000$. Exact $A_i,B_i$, massive bounds, complete norm intervals and endpoint witnesses are written in the verification's \texttt{RESULTS.json}. Printing a decimal approximation is never needed to decide their signs.
+
+\section{Evidence and proof map}\label{app:map}
+
+The directory \texttt{evidence/context/a1/} retains the A1 report and detailed source proofs. The four executable cases are:
+\begin{enumerate}\raggedright
+ \item \texttt{he3\_relaxed\_field\_20261108/01\_complete\_payment}: the two payment proofs, unchanged scripts, source freezes and exact comparison.
+ \item \texttt{he3\_relaxed\_field\_20261108/02\_independent\_verification}: the universal-bound proof, hypothesis map, 285-check replay and seven controls.
+ \item \texttt{isotope\_constructor\_checks\_20261108/01\_free\_reference}: the complete free-pair source, cyclic/complement proof, 247-check replay and scope correction.
+ \item \texttt{isotope\_constructor\_checks\_20261108/02\_shared\_field\_covariance}: the full ordered Gram, product and entangled proofs, and 108-check replay.
+\end{enumerate}
+These paths are relative to \texttt{evidence/}. The root documentation gives direct links. The original historical case language is preserved byte-for-byte; theorem statements in this paper use the final corrected scope. The repository's evidence manifest records relative source origins, sizes and hashes, while the fresh replay summary reports the executed checks.
+
+\begin{thebibliography}{9}
+\bibitem{feshbach} H. Feshbach, ``Unified theory of nuclear reactions,'' \emph{Annals of Physics} \textbf{5} (1958), 357--390. \href{https://doi.org/10.1016/0003-4916(58)90007-1}{doi:10.1016/0003-4916(58)90007-1}.
+\bibitem{dss} G. Dusson, I. M. Sigal and B. Stamm, ``The Feshbach--Schur map and perturbation theory,'' 2021. \href{https://arxiv.org/abs/2105.02058}{arXiv:2105.02058}.
+\bibitem{gll} M. Griesemer, E. H. Lieb and M. Loss, ``Ground states in non-relativistic quantum electrodynamics,'' 2001. \href{https://arxiv.org/abs/math-ph/0007014}{arXiv:math-ph/0007014}.
+\bibitem{lieb_loss} E. H. Lieb and M. Loss, ``A bound on binding energies and mass renormalization in models of quantum electrodynamics,'' 2001. \href{https://arxiv.org/abs/math-ph/0110027}{arXiv:math-ph/0110027}.
+\bibitem{vanasse} J. Vanasse and D. R. Phillips, ``Three-nucleon bound states and the Wigner-SU(4) limit,'' \emph{Few-Body Systems} \textbf{58} (2017). \href{https://doi.org/10.1007/s00601-016-1173-2}{doi:10.1007/s00601-016-1173-2}; \href{https://arxiv.org/abs/1607.08585}{arXiv:1607.08585}.
+\end{thebibliography}
+\end{document}

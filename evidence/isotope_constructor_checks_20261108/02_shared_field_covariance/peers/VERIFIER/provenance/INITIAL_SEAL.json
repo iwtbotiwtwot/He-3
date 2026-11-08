@@ -1,0 +1,9 @@
+{
+  "AGENTS_sha256": "505e893c11eb7778be900e7c3396a782b12ff9d1ac36d9f9fb61dfff9b0216dc",
+  "FREEZE_sha256": "8d48e95e42858c6375f6de7d53412e90736f83537d2d1a9255f834e96eb64124",
+  "VERIFIER_BRIEF_sha256": "309955564ba733c82e82ce0f746cc64e7d07ce0ce924ea8efae19a208f4ca1ce",
+  "execution_not_started": true,
+  "preregistration_v001_sha256": "3cb6d6d0989c105c89781dcb98fc1b8b89754f3e1e68a04b50dda8a2fc9240b0",
+  "replay_v001_sha256": "103f5175558b3249d8037a7f1bf07df7c4be2993d8278c41b30c74a2d5f89f9e",
+  "sealed_utc": "2026-11-08T15:17:44.227463+00:00"
+}

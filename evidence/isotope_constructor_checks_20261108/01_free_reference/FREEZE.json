@@ -1,0 +1,26 @@
+{
+  "sealed_utc": "2026-11-08T15:05:43.341272+00:00",
+  "files": {
+    "CLAIM.json": "0929b93c24ad93d382d238d6b600d082f06bf0da95db6a8c121989b913909339",
+    "PREDICTIONS.json": "de8f3140724056e548e5c0a4b4a10ea0f8c62038d3dd29f90bfc76315bb6ccb5",
+    "PREREGISTRATION.json": "cdf80fd57a36da277777abfc5107761a3ac5540938bed0ea306749e817f3ab84",
+    "RESULTS/INPUT_CUSTODY.json": "e8bde1b5a7d1ac9fc3f21feb65815117a799cb60babd82fa79be6e2c9b01a8c0",
+    "STATEMENT.md": "c333946408bf0cc7e3f654e652805510915f7ba25384cb5e3b716ffb3fc64e8a",
+    "TARGET.md": "41dde3e2cf0bac99e8aa7e4bedb95383d93fbe8de49f88a3cbc8864e7b687817",
+    "prior/A1_TWO_REPORT.md": "b17a0368d75bdc46aefe7b0e01ea24826735b52ff29dbc27855dff7d6c2552c4",
+    "prior/CASE_AT_PREREGISTRATION.json": "8c7a18600f66437d164168744e833ad91366990e018ac476d90e3b584f48c4b6",
+    "prior/FREE_PAIR_PARENT.json": "ed752763e2bf12a52dc3aedd85bb5e92ff8f2adca8e851c207fcb9e85bff5d03",
+    "prior/NATIVE_OPERATION_PROVENANCE.json": "836c3ce9c500b88842b469397eca33a0d1ac1b6090b3218d6d843efc8557b0ba",
+    "prior/constructor_TWO_DERIVATION.md": "12f994df98fc3ba0b6738e1422f6fd23615550a1d57427fd4e1760715e38b044",
+    "prior/constructor_TWO_REPORT.md": "ef77c54bf3e3679f8ec5375b02e65a8cdb285f2e875481f575c53b44b57ab27c",
+    "prior/native_mathematics/TWO_FREE_PAIR_CLOSURE_V1/000_free_pair_closure.output.json": "76ba477844caece3463d78af41392b150f76aa390495d1a21b59dc809eb7c396",
+    "prior/native_mathematics/TWO_FREE_PAIR_PAYMENT_V1/000_FREE_PAIR_FULL_PAYMENT_V1.output.json": "9d7ac28e3cca1a84e7cd62a912927f72ab2592e5320bb1dda864fc1fffe67a53",
+    "sources/light/HE3_FRAGMENT_SPACE.json": "109700aed3eb2f1a6b1345cea90f4e24e8be993484573fa2579338c2e1d15c2c",
+    "sources/light/HE3_INDEPENDENT_FRAGMENTS.json": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f",
+    "sources/light/HE3_PLACEMENT.json": "7580dc810549c9ba5eb18a30ac0ffaf50a010de41fad80c369307bfe88c03865"
+  },
+  "finalizable_metadata": [
+    "CASE.json"
+  ],
+  "preregistration_before_execution": true
+}

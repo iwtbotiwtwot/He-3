@@ -1,0 +1,94 @@
+{
+  "schema": "FREQUENCY_RESOLVED_TRANSLATED_TENSOR_FIELD_V1",
+  "shape": [
+    48,
+    40
+  ],
+  "layout": [
+    {
+      "name": "ActualMoments",
+      "row": 0,
+      "rows": 5,
+      "cols": 3
+    },
+    {
+      "name": "MomentGram",
+      "row": 5,
+      "rows": 3,
+      "cols": 3
+    },
+    {
+      "name": "MomentDefect",
+      "row": 8,
+      "rows": 3,
+      "cols": 3
+    },
+    {
+      "name": "LegDefect",
+      "row": 11,
+      "rows": 3,
+      "cols": 3
+    },
+    {
+      "name": "Weights",
+      "row": 14,
+      "rows": 5,
+      "cols": 3
+    },
+    {
+      "name": "FrequencyCoefficients",
+      "row": 19,
+      "rows": 5,
+      "cols": 3
+    },
+    {
+      "name": "AllSpectralCoefficients",
+      "row": 24,
+      "rows": 10,
+      "cols": 40
+    },
+    {
+      "name": "AllSourceCoefficients",
+      "row": 34,
+      "rows": 4,
+      "cols": 16
+    },
+    {
+      "name": "AllParityCoefficients",
+      "row": 38,
+      "rows": 10,
+      "cols": 30
+    }
+  ],
+  "source_channels": [
+    "D12_plus",
+    "C12_cross",
+    "D23_plus",
+    "C23_cross"
+  ],
+  "all_tensor_modes": [
+    "plus",
+    "cross",
+    "xz",
+    "yz",
+    "q0"
+  ],
+  "frequency_coordinate": "z=omega*d",
+  "field_coefficients": [
+    "Self",
+    "j0(z)",
+    "j2(z)",
+    "j4(z)"
+  ],
+  "counterterm_weight": "|h|\u00b2/omega",
+  "virtual_weight": "|h|\u00b2/(omega+Delta)",
+  "paid_weight": "|h|\u00b2/omega*Delta/(omega+Delta)",
+  "actual_source_gap": "ADOPTONLYAFTERcontactintertwinerreturn;previoussum3epsilon*jnotassumedindividual",
+  "new_translation_extension": true,
+  "new_source_to_STF_incidence": "Commonframeplus/crossatcenters\u00b1dez/2;notmeasuredspeciesdictionary",
+  "original_radial_profile": "2omega*j2(omegaR)^2/(kappa*pi),kappa4/5",
+  "retarded_exact_representation": "beta*integral exp(-beta*s)*(Poisson_s*H)(t)ds",
+  "positive_frequency_moments": "UVdivergent;noTaylorintegration",
+  "source_free_reference": "ownactualgap/source/radius/profile;notfixedjunlessdeclaredcontrol",
+  "C13_used": false
+}

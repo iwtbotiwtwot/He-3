@@ -1,0 +1,503 @@
+{
+  "schema": "CR2_B_SOURCE_OPERATION_MAP_V1",
+  "source_binding": {
+    "kind": "CR2_HE3_RELAXED_COMPLETE_PAYMENT",
+    "case_id": "he3_relaxed_field_20261108/01_complete_payment",
+    "law_namespace": "SAM_land",
+    "frozen_trial_family_sha256": "bce4669c325d25eb8063202a58ddc2480678bc8025a2f954824ff4b84464b56e",
+    "input_custody_sha256": "9b173176140a5f74c0c5c1a56029c22ff5c8061c7ae005936fbd6ca7d363c221",
+    "scope": "Complete retained trial accounting, conditional declared recipient, no fit or physical coefficient assignment",
+    "target_sha256": "19910c82747caf88e1a56bd5e4bc75909282826e969e4ff6eb0ed5f1bf503464",
+    "freeze_sha256": "7bf06f49d2184adf7b5b63c15b8a562edf6d20d9c37c11c32dce4c0dd90da524"
+  },
+  "native_menu": {
+    "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/CAPABILITIES_FULL.json",
+    "sha256": "9f1f09953b0fab71fc3c556d55206b2b16871e2b279dd960f7c5934c06d3274d",
+    "selection_record": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/peers/B/NATIVE_SELECTION_02.json",
+    "all_operations_consulted": true
+  },
+  "contracts": [
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/contracts/FULL_SOURCE.md",
+      "sha256": "d71b39f81017b8db0cdc584d8cc1c9727e394e1d88ec465d6beae251fd1cc61f"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/contracts/MODULAR.md",
+      "sha256": "1ac2d769cafc6af0f8cfe33e9324712d5abb271b7eaafa169e8108437cd557b8"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/contracts/METHOD_CONTRACT.md",
+      "sha256": "f87b25f65c599991965339d31d0787acc95abcb861d0139a1731b598b40f9a3e"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/contracts/SOURCE_OPERATORS.md",
+      "sha256": "8b5dab137c5a2c88305423634834c4ededfd1292201fcca30c081cc410a45f1d"
+    }
+  ],
+  "public_frozen_sources": [
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/TARGET.md",
+      "sha256": "19910c82747caf88e1a56bd5e4bc75909282826e969e4ff6eb0ed5f1bf503464"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/PREREGISTRATION.json",
+      "sha256": "7e79f79f269ecf19f580fc750539b844ec7160b4936d165810d6cfdfc15648b0"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/RESULTS/INPUT_CUSTODY.json",
+      "sha256": "9b173176140a5f74c0c5c1a56029c22ff5c8061c7ae005936fbd6ca7d363c221"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/TRIAL_FAMILY.json",
+      "sha256": "bce4669c325d25eb8063202a58ddc2480678bc8025a2f954824ff4b84464b56e"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/CAPABILITIES_FULL.json",
+      "sha256": "9f1f09953b0fab71fc3c556d55206b2b16871e2b279dd960f7c5934c06d3274d"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/light/HE3_FRAGMENT_SPACE.json",
+      "sha256": "109700aed3eb2f1a6b1345cea90f4e24e8be993484573fa2579338c2e1d15c2c"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/light/COMPLETE_DC_PAIR.json",
+      "sha256": "afbc60e193b31052399efe61f89a742df78e970f8ca47b1789f53e33f7298d24"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/light/HE3_PLACEMENT.json",
+      "sha256": "7580dc810549c9ba5eb18a30ac0ffaf50a010de41fad80c369307bfe88c03865"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/light/INDEPENDENT_CONSTANTS.json",
+      "sha256": "02c6f2f114a4781a70d7d11ca4ae4718a17019b301b648474f9a0974db9efd94"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/light/HE3_INDEPENDENT_FRAGMENTS.json",
+      "sha256": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/light/COLOUR_64_CONSTRUCTION_PAYLOAD.json",
+      "sha256": "e51e8826e0570c8041aac43d9ddc7443641e738e67bd5164ff18dbb49da4b6e1"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/RUN_POLICY.json",
+      "sha256": "fddfbf7187e23468e507e0c9ac4464da7df05cbc213e4b4b2363fdf96c0ed462"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_dressed_reference1_20261016/joint/INTERFACE.json",
+      "sha256": "0d879894c145965f62bf3a3f0885e6e916914a54b3bbfdf801a839a25acb2000"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_dressed_reference1_20261016/joint/ACTUAL_RETURN.json",
+      "sha256": "f9b756af26454d26405a172c4a0c2741208c42b395add2970da4df0b0e462e32"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_dressed_reference1_20261016/joint/VERIFICATION.json",
+      "sha256": "0c87960f7ff5b27b8df4a3ee5a872eaee2ae950c690bc1ce5a71d8e3fc30c348"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_dressed_reference1_20261016/joint/DERIVATION.md",
+      "sha256": "97685ff69bc6ec8a86bdf375726a77a2edc2aaa30155a0c5ba7484e2403b08c1"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_dressed_reference1_20261016/threshold/DERIVATION.md",
+      "sha256": "3682b90b102744356cf9f7b4a5006242081a2e7a594cc3fbabedffb6580204bf"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/source/R2_DERIVATION.md",
+      "sha256": "3abc10b97e6fa3661f8f200adfb418528aae0ebb961a84e5d7ec14266150781c"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/source/SOURCE_PACKET.json",
+      "sha256": "66c8ab84a5f7bc84d487b5463b93a164af6a857cd235da8718a18d2cfc611a14"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_DERIVATION.md",
+      "sha256": "718410fb27377377daa11ff069b1e42872742f4a8977c34ce893ccc6c08f8aed"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/SOURCE_PACKET.json",
+      "sha256": "cc0fc5af06e579f383847abc8fb695f92133d32590742d21c5f05f8cfb8275b5"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/R1_VERIFICATION.json",
+      "sha256": "5125fd354b93f5b309c525629037196ad70b2024975f5cd09087ce089f8eb246"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/ADAPTIVE_R1_VERIFICATION.json",
+      "sha256": "e27cb1553a67eb35faa40a64ee504a564a8c58358f8b0d7c6316fbd46e00479c"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_VERIFICATION.json",
+      "sha256": "e8ff2d48294e32c4d1fbd8274fa5d96127112c4a3bd5559b42d4b36ca789283e"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/DERIVATION.md",
+      "sha256": "aacc836c34f1058e5cf3875c88ca6c6ef339a9c02c9b10b7759a0298d9ac33a8"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_SOURCE_PACKET.json",
+      "sha256": "ed6e9821a606f17370a1b9bbffc3ad025fa5eec5b6afd84b110b9eeea7f9d188"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_fragment_action1_20261016/joint/DERIVATION.md",
+      "sha256": "7592b40240ba931cbd1a0f82ce05ecaf141d327a72a09e185d9f14ff073e4735"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_missing_pieces_broad1_20261016/atomic/RADIAL_SOURCE_PACKET.json",
+      "sha256": "21e12021f78cc21828e0471051394f0b919c4a6cc5423c33e6ede121b70ea05c"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_combined_evaluation1_20261016/spectral/DERIVATION.md",
+      "sha256": "755c3ce2b2d800944fb42a196b7b4f0a682a0143bf398c1f32391e6d15a83f36"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_combined_evaluation1_20261016/spectral/CONTROL_DERIVATION.md",
+      "sha256": "b4ccad19836a0e6223b87792edfae8b9e07ec29a15703f2e1bff7ad1ea8036f4"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_combined_evaluation1_20261016/reference/PENCIL_VERIFICATION.json",
+      "sha256": "60aa321e5d92820807713ab648a31e4f7663c4fd9c787776c5bac003bbac749f"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_actual_source_field_static_retarded_UV_join.json",
+      "sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_full_source_quartic_counterterm.json",
+      "sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_join_exterior_response_source_algebra.json",
+      "sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/duck_gen6_local/runs/volii-missing-pieces-broad-20261016-01/native_returns/broad_atomic_full_translated_tensor_and_Pauli_response.json",
+      "sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/prior/CASE_AT_PREREGISTRATION.json",
+      "sha256": "6fca7cb7c2a876b666af64365f40ac28d5ca1fd26bd6a07d7c189d2ff201f358"
+    }
+  ],
+  "full_source_metric_provenance": {
+    "source_packet": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment/sources/GEN4/volii_quantum_motion_join1_20261016/source/SOURCE_PACKET.json",
+    "source_packet_sha256": "66c8ab84a5f7bc84d487b5463b93a164af6a857cd235da8718a18d2cfc611a14",
+    "U": "actual64x4 U with U^T U=6I; all original source coordinates retained",
+    "G4": [
+      [
+        "7380736/3",
+        "-71680",
+        "0",
+        "12800/3"
+      ],
+      [
+        "-71680",
+        "7367936/3",
+        "33280/3",
+        "71680"
+      ],
+      [
+        "0",
+        "33280/3",
+        "81664/3",
+        "186368"
+      ],
+      [
+        "12800/3",
+        "71680",
+        "186368",
+        "7294208/3"
+      ]
+    ],
+    "original_source_references": {
+      "CURRENT_REVISION/engines/SLC/SOURCE_OPERATORS.md": "8b5dab137c5a2c88305423634834c4ededfd1292201fcca30c081cc410a45f1d",
+      "GEN4/duck_gen6_local/runs/volii-missing-pieces-broad-20261016-01/native_returns/broad_dc_exterior_exact_excitation_gap.json": "987d58c5a128b19a51d562a2430bc755190a110eee9115c06142ab69e90d2768",
+      "GEN4/duck_gen6_local/runs/volii-missing-pieces-broad-20261016-01/native_returns/broad_exterior_full_shared_current_gram.json": "f5b1159dd4b4af1ecffccbc706ad94feac93ba785af62eb1a3210c5e9474937c",
+      "GEN4/duck_gen6_local/runs/volii-missing-pieces-broad-20261016-01/native_returns/broad_exterior_quantum_response_source_algebra.json": "84fc812b7213646b54cada7836182f0c365c7973bfcb22efbb4e1a177186c5fe",
+      "GEN4/duck_gen6_local/runs/volii-missing-pieces-broad-20261016-01/native_returns/broad_original_bare_exchange_family_exterior.json": "64eddee18e48f9f7e3dcc913146b30950176e4af1df4c042b079ba0e7b04fd27",
+      "GEN4/spin_interaction_metric1/PHYSICAL_INTERFACE.json": "3828bebae9454475d8660ee29dedf3028dc98e08ab819c66941f119bf718bc43",
+      "GEN4/volii_dc_exchange1/CONTRACT.json": "0c5080a967dfc73c2ed41476cdff01a64ab2b7fdb93373ef2cc38ed5e36086c0",
+      "GEN4/volii_dc_exchange1/CORE.json": "afbc60e193b31052399efe61f89a742df78e970f8ca47b1789f53e33f7298d24",
+      "GEN4/volii_dc_exchange1/DERIVATION.md": "b613e88f4cc269139b8a06b046ac6401777fa84890e34faa4db047a0fde8ad2a",
+      "GEN4/volii_dc_exchange1/run.py": "28d624b2dacbb2ac862db3bbd45e67ac2181c374ad250a6b766010cffd9570eb",
+      "GEN4/volii_missing_pieces_broad1_20261016/source/FINAL_INCIDENTS.json": "8759327ac7d362d88e767c3890f572e351e58a8058c01e144f4b16bde738b9b3",
+      "GEN4/volii_missing_pieces_broad1_20261016/source/R2_ADAPTIVE_VERIFICATION.json": "f88687b757afebe3c2f481c4490589f18b15b0aaf9702e45dfae9fa99aeca864",
+      "GEN4/volii_missing_pieces_broad1_20261016/source/R2_GAP_TASKS.json": "d6c9ab74e3fabc62ba0def3b488cfa4b963971d1699092b141b3b9c56b3a476e",
+      "GEN4/volii_missing_pieces_broad1_20261016/source/R2_SOURCE_ALGEBRA_TASKS.json": "01c9f187a03c28a9c4fa185e03775f531daa89799fdebbd81a1e7029279572e9",
+      "GEN4/volii_missing_pieces_broad1_20261016/source/R2_SOURCE_PACKET.json": "37204d9ecd8045af370bca4daabe2f7352d443917cf8114660cf83839847a222",
+      "GEN4/volii_missing_pieces_broad1_20261016/source/R2_TASKS.json": "e9210049c9565fef69a07533574ac555ffdc9c26af1fe78d91e665fc915ddd92",
+      "GEN4/volii_quantum_motion_join1_20261016/RUN_POLICY.json": "fddfbf7187e23468e507e0c9ac4464da7df05cbc213e4b4b2363fdf96c0ed462",
+      "GEN4/volii_quantum_motion_join1_20261016/TARGET.md": "506cc30f5e8fe70a05f46e4591c9e06ca8a9178592901e25132c517d8b43ae01",
+      "GEN4/volii_quantum_motion_join1_20261016/source/DERIVATION.md": "511e55cfc83194e25561350904595b9332d097e1521bf4a2b0bfee40685a0673",
+      "GEN4/volii_quantum_motion_join1_20261016/source/build_r1.py": "5a4f297a96c76c92f43dcbcc1c9e1f1a153534f56b687877e0eaa3855859ae2b"
+    },
+    "colour_payload_source_references": {
+      "ATOM3D/campaigns/ATOM3D_A2_HYDROGEN_LADDER/stages/A2H3_A2HE3/freeze_a3_pair.py": "e13582331451d321a9f0091be19828a4919e39a79d839036d20b49172ba563a7",
+      "ATOM3D/campaigns/ATOM3D_A2_HYDROGEN_LADDER/stages/A2H3_A2HE3/release/A3_PAIR_RESULT.md": "aec2fb44c729536a930b5e20506aa51833d640318bdc968ff5e314270006af33",
+      "GEN4/volii_dc_exchange1/CORE.json": "afbc60e193b31052399efe61f89a742df78e970f8ca47b1789f53e33f7298d24",
+      "GEN4/volii_dc_exchange1/DERIVATION.md": "b613e88f4cc269139b8a06b046ac6401777fa84890e34faa4db047a0fde8ad2a",
+      "GEN4/volii_dc_exchange1/HISTORY_RESPONSES.json": "57ca7c2ecd797798515c6abfb189c8171b5033b347fc9d7ee9a5669508b2546d",
+      "GEN4/volii_dc_exchange1/SOURCE_RESPONSES.json": "0f13d7d83ea3508f2abbfbd955537fa777745b4bfc014647bc3772dfcd5ef088",
+      "GEN4/volii_dressed_reference1_20261016/source/ALGEBRA_INPUT_v2.json": "c2a0fa4de12db1898e40f376bce7e0957c21a6a0ca1ceca79be04f1a6241bbe3",
+      "GEN4/volii_fragment_action1_20261016/channels/DERIVATION.md": "5616441f2b0bcb9fc3e71b8ead56791a5360449bf30d56990c9b4ab2091f9e28",
+      "GEN4/volii_fragment_action1_20261016/channels/prepare.py": "5a0493b466adb8b20b93a7d5d1de545db22991fdb8a619740ca9165e21d6bf4e",
+      "GEN4/volii_fragment_action1_20261016/channels/prepare_basis_correction.py": "f9bca31a914a7f590d45b6c97a3677a52f0c0f5f678d20e9e8dabf5927882494",
+      "GEN4/volii_fragment_action1_20261016/channels/prepare_gap_correction.py": "0bd578b7d952c4a099f5a7f3178ca3b327bef747e867912110c34fd85abe3519",
+      "GEN4/volii_neutron_cell1/norm_control/CONTRACT.md": "44abbfa2ea48c57b8c549328069bc04d8c9f5c94ca442d235ecf52d5a738df9a",
+      "GEN4/volii_neutron_cell1/run.py": "8bc391959fe4c8d2502a30d1972b81aaa2b57a9c813dcc1321403d015db95988",
+      "SAM_REVIEW/campaigns/GEN3_TEMPLATE_GENERATOR4/INPUT.json": "e0ed4de59c5ba930cf379fa63cb61d0ec4cf094b7bd8326c0bd8a1b98daf61c9"
+    },
+    "complete_matrices": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/peers/B/replay_attempt_02/SOURCE_OPERATORS.json"
+  },
+  "native_execution": {
+    "helper": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native_execute.py",
+    "interpreter": "/home/lilhelper/SAM_Research_Overflow/ironclad-235-source-clock-20261105T181633Z/.venv/bin/python",
+    "core": "0.11.3",
+    "SLC": "SLC-GEN5-R1",
+    "receipt": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/CR2_EXECUTION_RECEIPT.json",
+    "execution": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/EXECUTION.json",
+    "job": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/peers/B/native_job_03.json",
+    "job_sha256": "c75a155bcb96defe0d80192f6a3e514fad2609bf6082617ef0eba775441a9b89",
+    "operations": [
+      {
+        "id": "full_cross_gram",
+        "operation": "GEN3_SOURCE_OPERATOR_WORD",
+        "input": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/000_full_cross_gram.input.json",
+        "input_sha256": "42b5e90f4f62294bb6068cf624bfc1742a7e7225918a99406d3e69779aee7c71",
+        "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/000_full_cross_gram.output.json",
+        "output_sha256": "fb9a2ef1cc949f3e401b3d1c658f66994e41418fc741fa2a32a8502509d33391",
+        "checks": [
+          {
+            "passed": true,
+            "predicate": "native_contract"
+          },
+          {
+            "passed": true,
+            "predicate": "native_status"
+          }
+        ]
+      },
+      {
+        "id": "full_total_gram",
+        "operation": "GEN3_SOURCE_OPERATOR_WORD",
+        "input": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/001_full_total_gram.input.json",
+        "input_sha256": "2a67d0af6b4547b873537fac70ee3cc9181bd60f6047bda39904211a6be5d8c1",
+        "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/001_full_total_gram.output.json",
+        "output_sha256": "f35b849ddec0ee84c7077ec421d54aaa514ea8d19ebcfc0d8426703436202b22",
+        "checks": [
+          {
+            "passed": true,
+            "predicate": "native_contract"
+          },
+          {
+            "passed": true,
+            "predicate": "native_status"
+          }
+        ]
+      },
+      {
+        "id": "vacuum_cross_metric",
+        "operation": "GEN3_SOURCE_OPERATOR_WORD",
+        "input": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/002_vacuum_cross_metric.input.json",
+        "input_sha256": "a1df5231038dea2172bb199d45c97fe70bf5d83c548b307dc28ede7a6de9ae80",
+        "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/002_vacuum_cross_metric.output.json",
+        "output_sha256": "4560f7fd6cc74040c7ca4b1ba0ac630c3bffb31d5d642903be202a03c63c5dce",
+        "checks": [
+          {
+            "passed": true,
+            "predicate": "native_contract"
+          },
+          {
+            "passed": true,
+            "path": [
+              "matrix"
+            ],
+            "predicate": "exact_equal",
+            "value": [
+              [
+                "7380736/3",
+                "-71680",
+                "0",
+                "12800/3"
+              ],
+              [
+                "-71680",
+                "7367936/3",
+                "33280/3",
+                "71680"
+              ],
+              [
+                "0",
+                "33280/3",
+                "81664/3",
+                "186368"
+              ],
+              [
+                "12800/3",
+                "71680",
+                "186368",
+                "7294208/3"
+              ]
+            ]
+          },
+          {
+            "passed": true,
+            "predicate": "native_status"
+          }
+        ]
+      },
+      {
+        "id": "positive_swap_contract",
+        "operation": "GEN3_SOURCE_OPERATOR_WORD",
+        "input": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/003_positive_swap_contract.input.json",
+        "input_sha256": "b30272aff88e8515e098e48b30bd37dd8037d2bffd877572466e7116c273064b",
+        "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/003_positive_swap_contract.output.json",
+        "output_sha256": "b80ebf331f863d7c73053ec75e5c7ecf0b3a8f9e849100f2195b989117e31052",
+        "checks": [
+          {
+            "passed": true,
+            "predicate": "native_contract"
+          },
+          {
+            "passed": true,
+            "path": [
+              "rank"
+            ],
+            "predicate": "exact_equal",
+            "value": 0
+          },
+          {
+            "passed": true,
+            "predicate": "native_status"
+          }
+        ]
+      },
+      {
+        "id": "trial_source_contract",
+        "operation": "GEN3_SOURCE_OPERATOR_WORD",
+        "input": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/004_trial_source_contract.input.json",
+        "input_sha256": "ea3652a53863ce39380f749aaf065bf991cf37071049905d8b0922fe9925b271",
+        "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/004_trial_source_contract.output.json",
+        "output_sha256": "8ff2ed26e26b5e9e529d3c2ad86964be3d0166f3011ff22e7c0eee4bfb9a8170",
+        "checks": [
+          {
+            "passed": true,
+            "predicate": "native_contract"
+          },
+          {
+            "passed": true,
+            "path": [
+              "rank"
+            ],
+            "predicate": "exact_equal",
+            "value": 0
+          },
+          {
+            "passed": true,
+            "predicate": "native_status"
+          }
+        ]
+      },
+      {
+        "id": "refined_complete_bound_table",
+        "operation": "GEN3_COMPLEX_PRODUCT",
+        "input": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/005_refined_complete_bound_table.input.json",
+        "input_sha256": "8ab02b531ac6cb09fbbe98e990c13eb220765ddd7efeaefe6cdba83ef91bfbb9",
+        "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/native/B/attempt_03/005_refined_complete_bound_table.output.json",
+        "output_sha256": "aa8ac727401fdeacc205fc7309c21be30a4ea58a56dc01a5a8e182c491495a4c",
+        "checks": [
+          {
+            "passed": true,
+            "predicate": "native_contract"
+          },
+          {
+            "passed": true,
+            "predicate": "native_status"
+          }
+        ]
+      }
+    ]
+  },
+  "operation_interpretations": {
+    "full_cross_gram": {
+      "operands": "Actual D16,R16,I4 lifted to the original64 source order.",
+      "mathematics": "Gcross=D12^T D12+R12^T R12; complete physical-helicity quadratic self metric.",
+      "role": "C_cross vacuum piece and complete-operator bound on its dressed piece; never the old total quartic CT column."
+    },
+    "full_total_gram": {
+      "operands": "Same actual current operators at both contacts.",
+      "mathematics": "Gtotal=Gcross+Ginternal, full64 positive Gram.",
+      "role": "Complete quartic CT bound on the unchanged one-boson component, retaining every channel/source direction."
+    },
+    "vacuum_cross_metric": {
+      "operands": "Actual U and full Gcross.",
+      "mathematics": "U^T Gcross U/6=G4 exactly.",
+      "role": "Correct normalized crossing vacuum metric for each eigenlane."
+    },
+    "positive_swap_contract": {
+      "operands": "Actual Pa16 and complete tensor swaps S12,S23,S13.",
+      "mathematics": "Zero Gram of symmetry/involution defects on full64.",
+      "role": "I+S12 and I+S13 are positive, establishing the signed source-promotion decomposition before use of any aggregate bound."
+    },
+    "trial_source_contract": {
+      "operands": "Actual U,D/R current lifts, Hex and frozen G4.",
+      "mathematics": "Zero Gram of norm, original floor, common contact gap, both physical-helicity, both self metric and signed cross-Gram defects.",
+      "role": "Validates common D, residual-square profile bound and unaltered source/eigenlane transfer."
+    },
+    "refined_complete_bound_table": {
+      "operands": "All12 frozen g intervals, mass majorants, packet kinetic, kernel lower return, normal EDGE gate upper, and full64 host-derived row-sum operator bounds.",
+      "mathematics": "Certified12x5 times5x7 interval product.",
+      "role": "Returns original paid upper, tighter complete paid upper, separate F_full/C_cross uppers, Dmax and two controls. Exact replay upper endpoints lie in every native enclosure."
+    }
+  },
+  "host_analytical_derivations": [
+    {
+      "name": "Full-source norm inequality",
+      "inputs": [
+        "native full Gcross",
+        "native full Gtotal"
+      ],
+      "method": "For each real self-adjoint positive Gram, operator norm <= max_i sum_j abs(Gij). Exact rational row sums are reported separately from native execution.",
+      "results": {
+        "Gcross_norm_upper": "4504704",
+        "Gcross_trace": "88498176",
+        "Gtotal_norm_upper": "9009408",
+        "Gtotal_trace": "176996352",
+        "method": "Complete real positive Gram matrices; exact maximum absolute row sum bounds self-adjoint operator norm."
+      }
+    },
+    {
+      "name": "Full field residual square",
+      "method": "Apply (a+epsilon h A_full/omega) to the original full0+1-boson trial. Orthogonal photon sectors yield epsilon^2*g*(k_paid-Delta*n)+epsilon^4*C1, all divided by D. Use full inverse moment b3 and complete CT operator norm.",
+      "output": "F_full upper in all12 rows."
+    },
+    {
+      "name": "Quadratic crossing self CT",
+      "method": "Vacuum expectation epsilon^2*mu0*g plus dressed expectation bounded by epsilon^4*mu0*Lcross*n*g, divided by the same D.",
+      "output": "C_cross bounds in all12 rows."
+    },
+    {
+      "name": "Projector variance and mixed square",
+      "method": "Exact p F_full+(1-p)F_internal identity, equivalently scalar-mean square plus p(1-p)C_cross. Cauchy bounds the actual signed mixed contraction; its sign is never invented.",
+      "output": "Q_extra=C_upper+2*sqrt(F_upper*C_upper), with a retained exact rational square-root enclosure."
+    },
+    {
+      "name": "Conditional finite-source family",
+      "method": "Source-only full192 verification; supplied secular equation reparameterized by r=tau/delta; exact rational monotone bisection.",
+      "output": "All12 conditional interval statements and exact threshold brackets."
+    }
+  ],
+  "replay": {
+    "script": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/peers/B/replay.py",
+    "sha256": "900de6fc10f9cda5061ed34f0df39775a18f43f04a69cd8c680ef67e7fbb15b7",
+    "dependencies": "Python standard library only",
+    "public_input_only": true,
+    "command": "<python> -B /home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/peers/B/replay.py --case /home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment --output <fresh-output-directory>",
+    "retained_output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/peers/B/replay_attempt_02",
+    "comparison": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/peers/B/NATIVE_REPLAY_COMPARISON.json",
+    "same_model_separate_code_not_external_verification": true
+  },
+  "generic_adapter_metadata_note": "EXECUTION.json contains generic adapter labels such as host_domain_arithmetic=false and POST_DUCK_ENGINEERING_QUALIFICATION. Here the CR2 helper receipt correctly identifies no Duck window. Exact coefficient preparation, norm inequalities and replay are host analytical work; the native claim is only the explicitly listed source words and certified matrix products.",
+  "closing_review": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/peers/B/CLOSING_REVIEW.json"
+}

@@ -1,0 +1,50 @@
+{
+  "sealed_utc": "2026-11-08T14:04:04.304168+00:00",
+  "phase": "BEFORE_FIRST_SCIENTIFIC_EXECUTION",
+  "attempt": 1,
+  "scripts": {
+    "replay.py": "8d4e7eb15b93d7d8dba12106c655b77fe8e04d67bc242c4c20e0116aab168811",
+    "DERIVATION_BEFORE_EXECUTION.md": "906319145b9bec2470482768a8400b6b665612635d94d04a6314f4f6f329204d"
+  },
+  "command": "python3 -I replay.py --case /home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification --out runs/attempt1",
+  "predictions": {
+    "verdict": "HELD conditional on audited inherited continuum and gate enclosures; do not force this outcome",
+    "finite_source": [
+      "All full64 swaps are symmetric involutions and common U floor frame",
+      "Literal current Grams have equal self and signed mixed -G4/4; their Hex image eigenvalue is zero",
+      "Full-source promotion identity holds on both affine p endpoints",
+      "Full192 consists of 24 cube blocks, actual J isometric, leakage rank48, squared leakage blocks [[12,8],[8,12]]",
+      "Walsh receiving weights recover the exact unique positive delta secular law without truncation"
+    ],
+    "scalars": [
+      "Raw G4 has exactly one eigenvalue in each of the four frozen rational intervals",
+      "Reconstructed trace176996352 and kernel2Delta*b-Fcross_lower equal the supplied coefficients",
+      "Exact log-series rederivation of the whole-head/tail massive majorant is at most each supplied upper",
+      "All seven reconstructed account components positive; no signed-norm reversal or second normalization"
+    ],
+    "intervals": [
+      "The direct sufficient bound certifies all four heavy CLAIM ceilings by rational upper signs, with unique zeros strictly above ceilings",
+      "All eight lighter rows have A-epsilon>0 and are noncertifying for all tau>0",
+      "All twelve positive-gate rows and +epsilon-changed-paid-ledger rows have positive constructed gaps"
+    ],
+    "breaking_controls": {
+      "drop_incidence_variance": "At r=1, p(1-p)*Ccross has a strictly positive rational lower on every actual chi",
+      "positive_gate_baseline": "Retained epsilon*p gives gap>=A>0; no constructed gate certificate",
+      "truncate_placement": "Literal (I-JJ^T)HJ has rank48 and nonzero actual Gram",
+      "flip_signed_contact_gram": "Flip both quadratures of contact12, old signed mixed Gram residual becomes G4/2 and cannot be consumed unchanged",
+      "wrong_norm_endpoint": "Exact auxiliary normalized two-level trial with epsilon amplitude violates positive numerator/Dmax; preserve corresponding negative numerator signs",
+      "changed_paid_ledger": "Adding epsilon with reference fixed makes gap>=A>0",
+      "beyond_sufficient_interval": "At registered conditional r=1 all four heavy sufficient gaps positive and tau beyond isolated zero"
+    }
+  },
+  "intended_checks": [
+    "Verify49 frozen hashes again in executable",
+    "Rebuild raw finite matrices and spectral isolation by exact rational arithmetic",
+    "Independently reconstruct one complete signed sufficient bound rather than consume old aggregate uppers",
+    "Exact bisection of monotone gaps and tau-to-r ceiling brackets; no float sign inference",
+    "Full-form proof and inherited operand/hypothesis audit in REPORT/HYPOTHESES",
+    "Retain initial/corrected code and every failed output; no old implementation reads or executions"
+  ],
+  "independence": "I1 same inherited model, separately authored host implementation, not external verification",
+  "source_policy": "Only frozen case data. Payload data.operators consumed, program/output ignored; prior learner result implementations excluded."
+}

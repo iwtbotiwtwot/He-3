@@ -1,0 +1,57 @@
+{
+  "case_id": "he3_relaxed_field_20261108/01_complete_payment",
+  "campaign": "he3_relaxed_field_20261108",
+  "tier": "learning",
+  "constitution_revision": 2,
+  "types": {
+    "EXACT": 9
+  },
+  "credit": {
+    "proposed_by": [
+      "Sean Brady"
+    ],
+    "directed_by": "Sean Brady",
+    "executed_with": [
+      "source-bound native calculations and separately authored replays"
+    ]
+  },
+  "independence": "I1",
+  "reproducibility": "R2",
+  "reviewed_and_approved": false,
+  "withheld": [
+    "withheld/he3_relaxed_field_cr2_20261108.tar.gz"
+  ],
+  "appeal_of": null,
+  "edges": [
+    {
+      "type": "USES",
+      "from_type": "EXACT",
+      "to_type": "EXACT",
+      "source": "frozen_GEN4_trial_and_enclosures",
+      "target": "conditional_complete_payment",
+      "source_file": "TRANSFER_MAP.md",
+      "numerical_coefficients_transferred": true
+    }
+  ],
+  "method": {
+    "instrument": "SLC-GEN5-R1/core0.11.3 direct source-bound native operations and separate Python calculations",
+    "form": "learning",
+    "window_start_utc": "2026-11-08T13:12:22.320072+00:00",
+    "window_end_utc": "2026-11-08T13:46:18.671600+00:00",
+    "peers": [
+      "A",
+      "B"
+    ],
+    "peer_reports": [
+      "peers/A/REPORT.md",
+      "peers/B/REPORT.md"
+    ],
+    "time_semantics": "Recorded envelope from sealed preregistration through finalization; not a paid or timed Duck window.",
+    "model_configuration": "Same parent model/effort inherited by both; no explicit model override. Exact model identifier was not captured.",
+    "independence_scope": "Blind separate code by two instances of the same model; compare only after both complete.",
+    "reproducibility_scope": "Python standard-library engine-free reconstruction of new finite calculations and bounds from frozen supplied historical continuum enclosures.",
+    "native_execution": "24 successful operations in five successful attempts; one retained pre-arithmetic failure; direct qualified core with exact source binding.",
+    "duck_windows": 0
+  },
+  "history_entry": "H002906"
+}

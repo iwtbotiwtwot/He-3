@@ -1,0 +1,17 @@
+{
+  "recorded_utc": "2026-11-08T15:18:53.874297+00:00",
+  "context_files": [
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/AGENTS.md",
+      "sha256": "505e893c11eb7778be900e7c3396a782b12ff9d1ac36d9f9fb61dfff9b0216dc"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/free_reference/VERIFIER_BRIEF.md",
+      "sha256": "d7330241a518ced92f76d6c6e44efb88e8e38d461d4b0762eb75d97243836d82"
+    },
+    {
+      "path": "/home/lilhelper/.agents/skills/sam-research/SKILL.md",
+      "sha256": "69a87800280e6cf92f92b30d04ffdf7b326de80bc6fc8bb681a7dc00e6141a9c"
+    }
+  ]
+}

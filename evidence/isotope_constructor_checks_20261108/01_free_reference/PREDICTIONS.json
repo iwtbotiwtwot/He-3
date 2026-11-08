@@ -1,0 +1,65 @@
+{
+  "sealed_utc": "2026-11-08T15:05:43.341272+00:00",
+  "form": "verification",
+  "kind": "FALSIFIABLE_PREDICTIONS_FROM_PRIOR_CLAIMS",
+  "positive_predictions": {
+    "type": "EXACT",
+    "kind": "VERIFICATION_TARGET",
+    "source": "Isotope-constructor completed TWO report and original source definitions.",
+    "statement": "The retained adjacent H2 template is a noninvariant compression of an earlier complete geometric free pair. Its normalized supported preparations pay12*tau against that parent floor; all complement and reference costs must travel before an all-free comparison.",
+    "h1": "6I8-2A_cube",
+    "free_pair": "h1 tensor I8+I8 tensor h1",
+    "free_pair_dimension": 64,
+    "free_pair_floor": 0,
+    "adjacent_dimension": 24,
+    "compressed_pair": "12I24",
+    "omitted_complement": 40,
+    "true_drift_rank": 18,
+    "cyclic_dimensions": [
+      24,
+      42,
+      46,
+      47
+    ],
+    "dynamically_hidden": 23,
+    "invariant_dark": 17,
+    "three_free_dimension": 512,
+    "primary_dimension": 192,
+    "earlier_omitted_addresses": 320,
+    "primary_floor": 12,
+    "connected_dimension": 48,
+    "connected_compression": "18I48",
+    "additional_connected_preparation_cost": "6*tau relative to primary floor",
+    "reference_scope": "Geometric species-independent source law. No physical proton/neutron/atom Hamiltonian or binding energy is assigned by these floors.",
+    "comparison_scope": "A compression upper or floor is not a lower for the unreduced source. Common energy shifts act on every endpoint and preserve energy differences. Conditional transfer to additional source/field/electron terms needs one declared common Hamiltonian and metric."
+  },
+  "breaking_controls": [
+    {
+      "id": "compressed_floor_as_full_lower",
+      "mutation": "Use12I24 as a full-source lower for the free pair.",
+      "prediction": "FAIL_FULL_SOURCE_LOWER: an exact normalized full free preparation has energy below12."
+    },
+    {
+      "id": "adjacent_invariance",
+      "mutation": "Replace the full dynamics by the adjacent compression with no complement.",
+      "prediction": "FAIL_INVARIANCE: nonzero actual leakage/true drift."
+    },
+    {
+      "id": "omit_complement_response",
+      "mutation": "Replace J*(H+zI)^-1J by (J*HJ+zI)^-1 at an explicitly registered positive z.",
+      "prediction": "FAIL_RESOLVENT: exact nonzero matrix defect and lost self-energy."
+    },
+    {
+      "id": "all_omitted_addresses_dark",
+      "mutation": "Declare the entire40-address omitted complement invariant dark.",
+      "prediction": "FAIL_COMPLEMENT_CLASSIFICATION: cyclic closure has23 dynamically hidden directions and only17 invariant dark."
+    },
+    {
+      "id": "one_sided_baseline_shift",
+      "mutation": "Subtract the template12*tau baseline on only one endpoint of a common reference comparison.",
+      "prediction": "FAIL_COMMON_ZERO: exact endpoint differences change; a common shift of all endpoints leaves them invariant."
+    }
+  ],
+  "outcome_rule": "HELD requires a separate proof, new executable reconstruction, exact witnesses and all controls as registered. HELD WITH CORRECTION or BROKE is retained plainly when warranted. Do not force expectations to hold.",
+  "independence": "Fresh context and newly authored code; same inherited model gives I1, not external verification. No prior executable/generator/replay/native program is read or run."
+}

@@ -1,0 +1,19 @@
+{
+  "checked_utc": "2026-11-08T15:26:32.960753+00:00",
+  "command": [
+    "python3",
+    "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/shared_field_covariance/verifier/replay.py",
+    "--case",
+    "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/02_shared_field_covariance",
+    "--preregistration",
+    "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/shared_field_covariance/verifier/EXECUTION_PREREGISTRATION_V002.json",
+    "--output",
+    "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/shared_field_covariance/verifier/attempts/run_v002"
+  ],
+  "existing_run_bytes_unchanged": true,
+  "exit_code": 2,
+  "expected_refusal": true,
+  "mathematical_execution": false,
+  "stderr": "usage: replay.py [-h] --case CASE --preregistration PREREGISTRATION --output\n                 OUTPUT\nreplay.py: error: --output must be a fresh, nonexistent directory\n",
+  "stdout": ""
+}

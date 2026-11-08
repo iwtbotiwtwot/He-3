@@ -1,0 +1,58 @@
+{
+  "status": "PASS",
+  "recovered_utc": "2026-11-08T14:20:24.820109+00:00",
+  "records": [
+    {
+      "raw_original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/duck_gen6_local/runs/volii-missing-pieces-broad-20261016-01/native_returns/broad_atomic_full_translated_tensor_and_Pauli_response.json",
+      "raw_sha256": "b992a9f7680cb08bf09e7a336bc8680bbf2669c9c0fe22b03bd13ec335a1ffda",
+      "preparation_seal_sha256": "9fa9d16cfa7d08c85230d10b044c1c48ab227181f81a48a1497c0e39cc5e3711",
+      "prior_frozen_extract": "sources/GEN4/duck_gen6_local/runs/volii-missing-pieces-broad-20261016-01/native_returns/broad_atomic_full_translated_tensor_and_Pauli_response.json",
+      "prior_frozen_sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "prior_extract_type": "str",
+      "cause": "The old extractor descended into the output label after reaching the returned result dictionary.",
+      "corrected_file": "broad_atomic_full_translated_tensor_and_Pauli_response.json",
+      "extraction": "Verbatim returned.field/matrix/rank values; no numerical changes or execution.",
+      "corrected_sha256": "a86d01e79db43298d3cae817ea70ef3574f845ad16a01c0c470b88f9c4442128"
+    },
+    {
+      "raw_original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_join_exterior_response_source_algebra.json",
+      "raw_sha256": "0daaff5004a2b9b36b0739ee3bfc8f66b46fc3c293fa74905afc2a30d899cf9a",
+      "preparation_seal_sha256": "9fa9d16cfa7d08c85230d10b044c1c48ab227181f81a48a1497c0e39cc5e3711",
+      "prior_frozen_extract": "sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_join_exterior_response_source_algebra.json",
+      "prior_frozen_sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "prior_extract_type": "str",
+      "cause": "The old extractor descended into the output label after reaching the returned result dictionary.",
+      "corrected_file": "quantum_join_exterior_response_source_algebra.json",
+      "extraction": "Verbatim returned.field/matrix/rank values; no numerical changes or execution.",
+      "corrected_sha256": "cc41a54371511d0ebd90bf01f906c693a228524d92631f46442d69835907a799"
+    },
+    {
+      "raw_original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_actual_source_field_static_retarded_UV_join.json",
+      "raw_sha256": "8c54e0489d3be317c5974eadf9d97f8200202bc2fc2edfa215f1788a9ed65fdd",
+      "preparation_seal_sha256": "9fa9d16cfa7d08c85230d10b044c1c48ab227181f81a48a1497c0e39cc5e3711",
+      "prior_frozen_extract": "sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_actual_source_field_static_retarded_UV_join.json",
+      "prior_frozen_sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "prior_extract_type": "str",
+      "cause": "The old extractor descended into the output label after reaching the returned result dictionary.",
+      "corrected_file": "quantum_motion_actual_source_field_static_retarded_UV_join.json",
+      "extraction": "Verbatim returned.field/matrix/rank values; no numerical changes or execution.",
+      "corrected_sha256": "c4382521a026c72b1330a2166c10feeb1de29a3db9d12db7762d9982b87e200a"
+    },
+    {
+      "raw_original": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108/sources_raw/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_full_source_quartic_counterterm.json",
+      "raw_sha256": "e12b0dab99a12c1fa02c575d940285cd5e2e759e5750a93fad1b2507f1d651a3",
+      "preparation_seal_sha256": "9fa9d16cfa7d08c85230d10b044c1c48ab227181f81a48a1497c0e39cc5e3711",
+      "prior_frozen_extract": "sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_full_source_quartic_counterterm.json",
+      "prior_frozen_sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6",
+      "prior_extract_type": "str",
+      "cause": "The old extractor descended into the output label after reaching the returned result dictionary.",
+      "corrected_file": "quantum_motion_full_source_quartic_counterterm.json",
+      "extraction": "Verbatim returned.field/matrix/rank values; no numerical changes or execution.",
+      "corrected_sha256": "f1ce9a1295ff705447bd4e47fdf24fe591d88be4c1a70474f4722e957a44a400"
+    }
+  ],
+  "files_recovered": 4,
+  "timing": "Post-verifier custody supplement; not a scientific input to the sealed independent computation.",
+  "scientific_effect": "None. Shared theorem and HELD verdict are unchanged; moment and complete gate inequalities remain explicit inherited premises.",
+  "original_frozen_packets_unchanged": true
+}

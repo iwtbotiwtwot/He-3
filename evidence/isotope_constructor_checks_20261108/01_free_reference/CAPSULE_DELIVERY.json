@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "created_utc": "2026-11-08T15:38:14.350591+00:00",
+  "capsule": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108",
+  "archive": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108.tar.gz",
+  "archive_sha256": "0854ad39dd3352a3d1b076c856d30e892a90daa286e2cff5e1a4f3cc91ae7150",
+  "archive_bytes": 669096,
+  "archive_file_count": 190,
+  "source_bytes": 25108381,
+  "file_manifest_sha256": "260c51edf68be7ca4c006d3ef883eee5a32d5fb34a2be132e892a9cec14f6040",
+  "archive_readback": "Every file read and SHA256 checked; original size/mtime unchanged; originals retained.",
+  "cases": [
+    "01_free_reference",
+    "02_shared_field_covariance"
+  ],
+  "withheld_reason": "Complete private preparation, original native traces and run custody. New engine-free proof/code is in each case."
+}

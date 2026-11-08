@@ -1,0 +1,68 @@
+{
+  "case_id": "isotope_constructor_checks_20261108/02_shared_field_covariance",
+  "campaign": "isotope_constructor_checks_20261108",
+  "tier": "verification",
+  "constitution_revision": 2,
+  "types": {
+    "EXACT": 9
+  },
+  "credit": {
+    "proposed_by": [
+      "Sean Brady"
+    ],
+    "directed_by": "Sean Brady",
+    "executed_with": [
+      "Fresh proof reconstruction and independently authored exact host code"
+    ]
+  },
+  "independence": "I1",
+  "reproducibility": "R2",
+  "reviewed_and_approved": false,
+  "withheld": [
+    "withheld/isotope_constructor_cr2_20261108.tar.gz"
+  ],
+  "appeal_of": null,
+  "method": {
+    "instrument": "Python standard-library exact reconstruction and analytical quadratic-form/source proof",
+    "form": "verification",
+    "window_start_utc": "2026-11-08T15:05:43.341272+00:00",
+    "window_end_utc": "2026-11-08T15:42:17.259504+00:00",
+    "peers": [
+      "VERIFIER"
+    ],
+    "peer_reports": [
+      "peers/VERIFIER/REPORT.md"
+    ],
+    "time_semantics": "Preregistration-to-finalization envelope; no timed Duck window.",
+    "model_configuration": "Fresh context, same parent model/effort inherited; no override. Exact model ID not captured.",
+    "independence_scope": "New source-first proof and separate code, prior implementations excluded; no external verification.",
+    "reproducibility_scope": "New exact finite calculations and conditional proof replay from public case using Python standard library.",
+    "checks_passed": 108,
+    "breaking_controls": 6,
+    "lead_readback": "RESULTS/READBACK.json",
+    "fresh_replay_seconds": 1.393352,
+    "duck_windows": 0
+  },
+  "edges": [
+    {
+      "type": "USES",
+      "from_type": "EXACT",
+      "to_type": "EXACT",
+      "source": "volii_isotope_constructor_20261108_completed_source_claims",
+      "target": "isotope_constructor_checks_20261108/02_shared_field_covariance",
+      "source_file": "TRANSFER_MAP.md",
+      "numerical_coefficients_transferred": true
+    },
+    {
+      "type": "DERIVES",
+      "from_type": "EXACT",
+      "to_type": "EXACT",
+      "source": "frozen_raw_source_and_declared_form_hypotheses",
+      "target": "verified_shared_field_covariance",
+      "source_file": "DERIVATION.md"
+    }
+  ],
+  "verdict": "HELD",
+  "history_entry": "H002915",
+  "hypotheses": "peers/VERIFIER/HYPOTHESES.md"
+}

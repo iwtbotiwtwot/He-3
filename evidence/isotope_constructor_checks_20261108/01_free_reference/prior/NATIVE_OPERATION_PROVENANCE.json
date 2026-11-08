@@ -1,0 +1,85 @@
+{
+  "source_operation_map": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/SOURCE_OPERATION_MAP.json",
+  "source_map_sha256": "d7c375c58cd64a0c0b67231f7d2459c5b540a44bb46db7e2bd3db18cc7246503",
+  "tasks": [
+    {
+      "key": "TWO_FREE_PAIR_CLOSURE_V1",
+      "status": "COMPLETED",
+      "started_utc": "2026-11-08T14:41:01.825190+00:00",
+      "completed_utc": "2026-11-08T14:41:02.644538+00:00",
+      "receipt": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_FREE_PAIR_CLOSURE_V1/RESULT.json",
+      "receipt_sha256": "7eb7b9db9056fb19913e844c048ba1655aeefb6885f7844cf790ba641ba9a4bb",
+      "native_report_calls": 1,
+      "steps": [
+        {
+          "id": "free_pair_closure",
+          "operation": "GEN3_SOURCE_SUBSPACE",
+          "purpose": "Complete free64 pair source closure from retained adjacent24 source, accounting for every earlier preparation-complement direction and ground overlap",
+          "input": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_FREE_PAIR_CLOSURE_V1/gen6/000_free_pair_closure.input.json",
+          "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_FREE_PAIR_CLOSURE_V1/gen6/000_free_pair_closure.output.json",
+          "output_sha256": "95f9bf914bf1d2aa18482200ce7917c90e06e90ffa5ca2a6f45d7ee667d2670d",
+          "checks": [
+            {
+              "passed": true,
+              "predicate": "native_contract"
+            },
+            {
+              "passed": true,
+              "predicate": "native_status"
+            }
+          ]
+        }
+      ],
+      "error": null,
+      "objective": "Finish nested source-complement recovery before common all-free reference; exact64 pair source",
+      "source_files": [
+        {
+          "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/FREE_PAIR_PARENT.json",
+          "sha256": "ed752763e2bf12a52dc3aedd85bb5e92ff8f2adca8e851c207fcb9e85bff5d03"
+        }
+      ]
+    },
+    {
+      "key": "TWO_FREE_PAIR_PAYMENT_V1",
+      "status": "COMPLETED",
+      "started_utc": "2026-11-08T14:40:14.942500+00:00",
+      "completed_utc": "2026-11-08T14:40:15.694846+00:00",
+      "receipt": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_FREE_PAIR_PAYMENT_V1/RESULT.json",
+      "receipt_sha256": "6f6ff949dc7e818cff0752fb6c38a0d29b86af20a6ed63db9f20f179e7776a1d",
+      "native_report_calls": 1,
+      "steps": [
+        {
+          "id": "FREE_PAIR_FULL_PAYMENT_V1",
+          "operation": "GEN3_SOURCE_OPERATOR_WORD",
+          "purpose": "New free64 nucleon-pair parent from actual h1 events; quantify full complement omitted by retained adjacent24 H2 template. Free floor0 vs compressed12 preserved.",
+          "input": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_FREE_PAIR_PAYMENT_V1/gen6/000_FREE_PAIR_FULL_PAYMENT_V1.input.json",
+          "output": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/native_receipts/TWO_FREE_PAIR_PAYMENT_V1/gen6/000_FREE_PAIR_FULL_PAYMENT_V1.output.json",
+          "output_sha256": "e67cc62da7c3d2d74b76567fddcd45b328a4e232b999c3dd7d34526cf67e7d07",
+          "checks": [
+            {
+              "passed": true,
+              "predicate": "native_contract"
+            },
+            {
+              "passed": true,
+              "predicate": "native_status"
+            }
+          ]
+        }
+      ],
+      "error": null,
+      "objective": "Expose the all-free parent and omitted preparation payment before tensor composition of retained H2/H3/He3 templates",
+      "source_files": [
+        {
+          "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/sources/snapshots/light_source/source_only/HE3_INDEPENDENT_FRAGMENTS.json",
+          "sha256": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f"
+        },
+        {
+          "path": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/volii_isotope_constructor_20261108/peers/TWO/FREE_PAIR_PARENT.json",
+          "sha256": "ed752763e2bf12a52dc3aedd85bb5e92ff8f2adca8e851c207fcb9e85bff5d03"
+        }
+      ]
+    }
+  ],
+  "status": "Original completed Duck evidence supplied for verification; no new native execution."
+}

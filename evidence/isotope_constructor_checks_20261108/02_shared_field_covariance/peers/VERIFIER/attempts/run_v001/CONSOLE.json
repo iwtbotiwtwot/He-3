@@ -1,0 +1,6 @@
+{
+  "exit_code": 0,
+  "stdout": "{\"checks_passed\": 97, \"checks_total\": 97, \"failed_check_ids\": [], \"verdict\": \"HELD\"}\n",
+  "stderr": "",
+  "wall_seconds_observed": 0.80423702
+}

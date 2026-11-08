@@ -1,0 +1,78 @@
+{
+  "recorded_utc": "2026-11-08T15:31:02.032466+00:00",
+  "audit_kind": "APPEND_ONLY_COMPLETED_SOURCE_REFERENCE_AUDIT",
+  "finding": "CORRECTION_REQUIRED_IN_SEALED_PROSE_ATTRIBUTION",
+  "incorrect_attribution": "Inherited complete-payment relaxed-field He3 theorem associated with shared144 all-distinct chart",
+  "correct_source": "Full primary192 independent-cell placement source",
+  "correct_fragment_lower": "12*tau - epsilon + Lcommon; Lcommon=0 only in the frozen unchanged-ledger chart",
+  "shared144_status": "Separate source; not the inherited theorem fragment reference",
+  "correction_locations": [
+    {
+      "file": "REPORT.md",
+      "lines": [
+        31
+      ]
+    },
+    {
+      "file": "DERIVATION.md",
+      "section": "7",
+      "lines": [
+        162
+      ]
+    },
+    {
+      "file": "HYPOTHESES.md",
+      "hypothesis": "H10",
+      "lines": [
+        16,
+        36
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/CLAIM.json",
+      "sha256": "e885f8f5d565393a05c229ec8b796e5fe47dddc457e10471e77dec394c5efa81",
+      "lines": [
+        "5",
+        "37-46"
+      ],
+      "role": "Owning complete-payment verification statement and scope"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification/DERIVATION.md",
+      "sha256": "9fdd71fba789ac13b596f075acd6f8e818a392bcb550a668ba625ebbc5c6232d",
+      "lines": [
+        "45-59"
+      ],
+      "role": "Owning full-placement construction and whole-field fragment lower"
+    },
+    {
+      "path": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference/prior/A1_TWO_REPORT.md",
+      "sha256": "b17a0368d75bdc46aefe7b0e01ea24826735b52ff29dbc27855dff7d6c2552c4",
+      "lines": [
+        "9-19",
+        "110-118",
+        "151-185",
+        "215-226"
+      ],
+      "role": "Frozen mathematical distinction between primary192 and shared144; intrinsic and paid fragment references"
+    }
+  ],
+  "A1_source_matches_free_reference_freeze": true,
+  "frozen_free_reference_claim_requires_correction": false,
+  "exact_checks_require_correction": false,
+  "exact_checks_count": 247,
+  "frozen_free_reference_mathematical_verdict": "HELD",
+  "He3_theorem_reproved": false,
+  "new_mathematical_execution": false,
+  "code_changes": false,
+  "old_implementation_logic_read": false,
+  "new_window": false,
+  "original_seal_sha256": "54647f7c3093ddded653744d0e4752e81f19c17bf27694f580dc215554ffc07f",
+  "original_seal_unchanged": true,
+  "all_original_35_sealed_files_unchanged": true,
+  "clarification_file": "SCOPE_CLARIFICATION.md",
+  "clarification_sha256": "0579d2185f073640129716e1f7d728e2a8957089481b25be08bab6cf65471bf5",
+  "seal_scope": "This audit and clarification are append-only additions outside the unchanged original seal."
+}

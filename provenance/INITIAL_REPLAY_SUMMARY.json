@@ -1,0 +1,76 @@
+{
+  "status": "PASS",
+  "started_utc": "2026-11-08T20:44:09.108349+00:00",
+  "finished_utc": "2026-11-08T20:44:12.710236+00:00",
+  "elapsed_seconds": 3.6018719798885286,
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "evidence_files_authenticated": 379,
+  "verification_checks": {
+    "he3_payment": 285,
+    "free_reference": 247,
+    "shared_field_covariance": 108
+  },
+  "total_recorded_verification_checks": 640,
+  "registered_verification_controls": 18,
+  "blind_payment_routes": 2,
+  "certified_rows": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "all_twelve_mass_lane_rows_retained": true,
+  "executions": [
+    {
+      "label": "payment_A",
+      "exit_code": 0,
+      "log": "payment_A.log"
+    },
+    {
+      "label": "payment_B",
+      "exit_code": 0,
+      "log": "payment_B.log"
+    },
+    {
+      "label": "payment_comparison",
+      "exit_code": 0,
+      "log": "payment_comparison.log"
+    },
+    {
+      "label": "he3_verification",
+      "exit_code": 0,
+      "log": "he3_verification.log"
+    },
+    {
+      "label": "he3_readback",
+      "exit_code": 0,
+      "log": "he3_readback.log"
+    },
+    {
+      "label": "free_preregistration",
+      "exit_code": 0,
+      "log": "free_preregistration.log"
+    },
+    {
+      "label": "free_reference",
+      "exit_code": 0,
+      "log": "free_reference.log"
+    },
+    {
+      "label": "free_readback",
+      "exit_code": 0,
+      "log": "free_readback.log"
+    },
+    {
+      "label": "covariance",
+      "exit_code": 0,
+      "log": "covariance.log"
+    },
+    {
+      "label": "covariance_readback",
+      "exit_code": 0,
+      "log": "covariance_readback.log"
+    }
+  ],
+  "scope": "Portable replay of retained exact algebra and conditional variational bounds; historical profile-moment and complete gate premises remain explicit. No Duck or model service used."
+}

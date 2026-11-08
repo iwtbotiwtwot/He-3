@@ -1,0 +1,5 @@
+# Independent verification: shared field covariance
+
+Verify or break the frozen statement in CLAIM.json and STATEMENT.md from the actual source definitions. Rebuild the proof and exact arithmetic independently of the isotope-constructor/A1/previous CR2 code. Prior mathematical reports and outputs are supplied as claims, not an oracle. Preserve the original full spaces, source ordering, norm, signed terms and reference boundaries. Execute every registered control and report any unexpected outcome. Return HELD, HELD WITH CORRECTION or BROKE with a hypothesis map and an engine-free replay.
+
+Write execution predictions and script hashes before computing; preserve every failed/corrected version and fresh output. No physical binding fit, source/trial/profile optimization, engine change, manuscript edit, new Duck window, peer messaging, Git write, push or publication is part of the verifier assignment. Director approval stays false. Next: use the actual verdict and limits as inputs to physical bridge/action construction.

@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "created_utc": "2026-11-08T13:45:00.962507+00:00",
+  "capsule": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108",
+  "archive": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_cr2_20261108.tar.gz",
+  "archive_sha256": "9455c60e8e4817a75986134513634d30059aca3e8d61650eae22543c36453d26",
+  "archive_bytes": 2331919,
+  "archive_file_count": 1388,
+  "source_bytes": 60211257,
+  "file_manifest_sha256": "a90a9d380eb872afd5658ca3ef442b677095381a2fb9f734c72124f685ba3ebd",
+  "archive_readback": "Every file read and SHA256 checked, original file size/mtime unchanged; originals retained.",
+  "public_case": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/01_complete_payment",
+  "withheld_reason": "Native recipes, engine traces and full private run custody; replay requires only public case inputs."
+}

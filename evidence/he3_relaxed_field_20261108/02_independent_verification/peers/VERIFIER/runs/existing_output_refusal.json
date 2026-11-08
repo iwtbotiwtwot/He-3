@@ -1,0 +1,17 @@
+{
+  "started_utc": "2026-11-08T14:17:12.502312+00:00",
+  "finished_utc": "2026-11-08T14:17:12.579595+00:00",
+  "command": [
+    "python3",
+    "-I",
+    "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_verification_20261108/verifier/replay.py",
+    "--case",
+    "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification",
+    "--out",
+    "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_verification_20261108/verifier/runs/attempt3"
+  ],
+  "returncode": 1,
+  "expected_nonzero": true,
+  "observed_FileExistsError": true,
+  "classification": "EXPECTED_CLI_REFUSAL_BEFORE_SCIENTIFIC_EXECUTION"
+}

@@ -1,0 +1,18 @@
+{
+  "started_utc": "2026-11-08T14:04:39.215649+00:00",
+  "script": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_verification_20261108/verifier/replay.py",
+  "script_sha256": "9596443c08686d68cd4a03292ce944d44170d094fb8ca4a1073130bcec06ba2d",
+  "argv": [
+    "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_verification_20261108/verifier/replay.py",
+    "--case",
+    "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification",
+    "--out",
+    "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_verification_20261108/verifier/runs/attempt2"
+  ],
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "platform": "Linux-7.0.0-38-generic-x86_64-with-glibc2.39",
+  "case": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification",
+  "status": "PASS",
+  "finished_utc": "2026-11-08T14:04:39.519887+00:00",
+  "elapsed_seconds": 0.3042306930292398
+}

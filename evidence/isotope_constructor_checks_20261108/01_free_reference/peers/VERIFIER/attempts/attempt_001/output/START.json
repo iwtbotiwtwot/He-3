@@ -1,0 +1,18 @@
+{
+  "case": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/isotope_constructor_checks_20261108/01_free_reference",
+  "command": [
+    "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/free_reference/verifier/attempts/attempt_001/replay.py",
+    "run",
+    "--registration",
+    "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/free_reference/verifier/attempts/attempt_001/EXECUTION_PREREGISTRATION.json",
+    "--out",
+    "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/free_reference/verifier/attempts/attempt_001/output"
+  ],
+  "out": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/free_reference/verifier/attempts/attempt_001/output",
+  "platform": "Linux-7.0.0-38-generic-x86_64-with-glibc2.39",
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "registration_sealed_utc": "2026-11-08T15:14:51.760546+00:00",
+  "registration_sha256": "2218f0e36e440b8be45cafc9b36b42855facc3a1acea8711016dd4e617450706",
+  "script_sha256": "2b12a273110c786727ccc4c7d1314f6aba970a0c37d3c08d628adb526dc0c210",
+  "started_utc": "2026-11-08T15:15:00.280679+00:00"
+}

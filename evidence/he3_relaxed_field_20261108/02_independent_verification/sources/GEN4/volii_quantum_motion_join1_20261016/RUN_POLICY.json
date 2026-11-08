@@ -1,0 +1,24 @@
+{
+  "parent_history": "H002658",
+  "round_seconds": 180,
+  "rounds": 2,
+  "controllers": 6,
+  "helpers": 3,
+  "research_mode": "research",
+  "search_workers": [
+    "LH_01",
+    "LH_02",
+    "LH_03"
+  ],
+  "full_available_research_web": true,
+  "thematic_source_filter": false,
+  "global_host_lock": false,
+  "own_core_locks_only": true,
+  "C13_withheld": true,
+  "automatic_repeat": false,
+  "automatic_third_round": false,
+  "round_two_selector": "CODEX_CURRENT_SESSION",
+  "local_memory_gib": 2,
+  "helper_memory_gib": 1,
+  "scope": "Authorized recommendation: joint source-field-relative motion; physical mappings symbolic unless source-assigned"
+}

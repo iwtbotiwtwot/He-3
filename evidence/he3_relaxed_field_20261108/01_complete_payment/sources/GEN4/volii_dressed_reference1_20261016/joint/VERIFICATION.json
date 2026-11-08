@@ -1,0 +1,2342 @@
+{
+  "schema": "VOLII_ACTUAL_CROSS_COMPLETE_PAID_JOIN_VERIFICATION_V1",
+  "status": "PASS",
+  "scientific_checks": 496,
+  "metadata_checks": 20,
+  "native_return_sha256": "ca9679c1c06fe40d9624503a88034548615166f8432058a7a10c6b3b25f91454",
+  "rows": [
+    {
+      "row": 0,
+      "mR": "100",
+      "lane": 0,
+      "full_paid_numerator_interval": [
+        "10704536977600406973442874707025901150231719/1427247692705959881058285969449495136382746624",
+        "10704536977600406973442874707025903251225615/1427247692705959881058285969449495136382746624"
+      ],
+      "full_paid_energy_upper_relative_bare": "10704536977600406973442874707025903251225615/1427247692705959881058285969449495136382746624",
+      "full_paid_energy_upper_display": 0.007500125614009834,
+      "normalization": "Dmin=1 because numerator upper positive",
+      "free_bracket_relative_bare": [
+        "0",
+        "19568391537710714746299347926107557939/1427247692705959881058285969449495136382746624"
+      ],
+      "free_upper_display": 1.3710578505550384e-08,
+      "connected_cross_numerator_interval": [
+        "-5150094869417527564303279495104220499/5986310706507378352962293074805895248510699696029696",
+        "-5150094869417527564303279494553785007/5986310706507378352962293074805895248510699696029696"
+      ],
+      "classification": "POSITIVE_COMPLETE_TRIAL_UPPER;NO_BELOW_THRESHOLD_CERTIFICATE;ACTUAL_ORDER_UNRESOLVED"
+    },
+    {
+      "row": 1,
+      "mR": "100",
+      "lane": 1,
+      "full_paid_numerator_interval": [
+        "334638308814956520909641260289288310449903/44601490397061246283071436545296723011960832",
+        "2677106470519652167277130082314307008847699/356811923176489970264571492362373784095686656"
+      ],
+      "full_paid_energy_upper_relative_bare": "2677106470519652167277130082314307008847699/356811923176489970264571492362373784095686656",
+      "full_paid_energy_upper_display": 0.007502850371946439,
+      "normalization": "Dmin=1 because numerator upper positive",
+      "free_bracket_relative_bare": [
+        "0",
+        "19568391537710714746299347926107557939/1427247692705959881058285969449495136382746624"
+      ],
+      "free_upper_display": 1.3710578505550384e-08,
+      "connected_cross_numerator_interval": [
+        "-511998558633961679492989948315184318817/2993155353253689176481146537402947624255349848014848",
+        "-1023997117267923358985979896629818202141/5986310706507378352962293074805895248510699696029696"
+      ],
+      "classification": "POSITIVE_COMPLETE_TRIAL_UPPER;NO_BELOW_THRESHOLD_CERTIFICATE;ACTUAL_ORDER_UNRESOLVED"
+    },
+    {
+      "row": 2,
+      "mR": "100",
+      "lane": 2,
+      "full_paid_numerator_interval": [
+        "10708277203213809992735581587590136885935281/1427247692705959881058285969449495136382746624",
+        "10708277203213809992735581587590138986929177/1427247692705959881058285969449495136382746624"
+      ],
+      "full_paid_energy_upper_relative_bare": "10708277203213809992735581587590138986929177/1427247692705959881058285969449495136382746624",
+      "full_paid_energy_upper_display": 0.007502746200213979,
+      "normalization": "Dmin=1 because numerator upper positive",
+      "free_bracket_relative_bare": [
+        "0",
+        "19568391537710714746299347926107557939/1427247692705959881058285969449495136382746624"
+      ],
+      "free_upper_display": 1.3710578505550384e-08,
+      "connected_cross_numerator_interval": [
+        "-3940180045858614993410328774438454215799/23945242826029513411849172299223580994042798784118784",
+        "-3940180045858614993410328774436252473831/23945242826029513411849172299223580994042798784118784"
+      ],
+      "classification": "POSITIVE_COMPLETE_TRIAL_UPPER;NO_BELOW_THRESHOLD_CERTIFICATE;ACTUAL_ORDER_UNRESOLVED"
+    },
+    {
+      "row": 3,
+      "mR": "100",
+      "lane": 3,
+      "full_paid_numerator_interval": [
+        "10708113303042147425668284180925920366748707/1427247692705959881058285969449495136382746624",
+        "10708113303042147425668284180925922467742603/1427247692705959881058285969449495136382746624"
+      ],
+      "full_paid_energy_upper_relative_bare": "10708113303042147425668284180925922467742603/1427247692705959881058285969449495136382746624",
+      "full_paid_energy_upper_display": 0.007502631363684553,
+      "normalization": "Dmin=1 because numerator upper positive",
+      "free_bracket_relative_bare": [
+        "0",
+        "19568391537710714746299347926107557939/1427247692705959881058285969449495136382746624"
+      ],
+      "free_upper_display": 1.3710578505550384e-08,
+      "connected_cross_numerator_interval": [
+        "-29440784472388174670048407115447620885/187072209578355573530071658587684226515959365500928",
+        "-235526275779105397360387256923443358207/1496577676626844588240573268701473812127674924007424"
+      ],
+      "classification": "POSITIVE_COMPLETE_TRIAL_UPPER;NO_BELOW_THRESHOLD_CERTIFICATE;ACTUAL_ORDER_UNRESOLVED"
+    },
+    {
+      "row": 4,
+      "mR": "1000",
+      "lane": 0,
+      "full_paid_numerator_interval": [
+        "8564780195201011919736438634977833752219295/11417981541647679048466287755595961091061972992",
+        "8564780195201011919736438634977835573692995/11417981541647679048466287755595961091061972992"
+      ],
+      "full_paid_energy_upper_relative_bare": "8564780195201011919736438634977835573692995/11417981541647679048466287755595961091061972992",
+      "full_paid_energy_upper_display": 0.0007501133334259241,
+      "normalization": "Dmin=1 because numerator upper positive",
+      "free_bracket_relative_bare": [
+        "0",
+        "2119479789392817174352838289734658465/1427247692705959881058285969449495136382746624"
+      ],
+      "free_upper_display": 1.4850118870218207e-09,
+      "connected_cross_numerator_interval": [
+        "-5150094869417527564303279495104220499/5986310706507378352962293074805895248510699696029696",
+        "-5150094869417527564303279494553785007/5986310706507378352962293074805895248510699696029696"
+      ],
+      "classification": "POSITIVE_COMPLETE_TRIAL_UPPER;NO_BELOW_THRESHOLD_CERTIFICATE;ACTUAL_ORDER_UNRESOLVED"
+    },
+    {
+      "row": 5,
+      "mR": "1000",
+      "lane": 1,
+      "full_paid_numerator_interval": [
+        "8568151708998078100210540917965287850655153/11417981541647679048466287755595961091061972992",
+        "8568151708998078100210540917965289672128853/11417981541647679048466287755595961091061972992"
+      ],
+      "full_paid_energy_upper_relative_bare": "8568151708998078100210540917965289672128853/11417981541647679048466287755595961091061972992",
+      "full_paid_energy_upper_display": 0.0007504086144950665,
+      "normalization": "Dmin=1 because numerator upper positive",
+      "free_bracket_relative_bare": [
+        "0",
+        "2119479789392817174352838289734658465/1427247692705959881058285969449495136382746624"
+      ],
+      "free_upper_display": 1.4850118870218207e-09,
+      "connected_cross_numerator_interval": [
+        "-511998558633961679492989948315184318817/2993155353253689176481146537402947624255349848014848",
+        "-1023997117267923358985979896629818202141/5986310706507378352962293074805895248510699696029696"
+      ],
+      "classification": "POSITIVE_COMPLETE_TRIAL_UPPER;NO_BELOW_THRESHOLD_CERTIFICATE;ACTUAL_ORDER_UNRESOLVED"
+    },
+    {
+      "row": 6,
+      "mR": "1000",
+      "lane": 2,
+      "full_paid_numerator_interval": [
+        "1071002851347934417587706750042168884775287/1427247692705959881058285969449495136382746624",
+        "2142005702695868835175413500084338224918999/2854495385411919762116571938898990272765493248"
+      ],
+      "full_paid_energy_upper_relative_bare": "2142005702695868835175413500084338224918999/2854495385411919762116571938898990272765493248",
+      "full_paid_energy_upper_display": 0.0007503973254406805,
+      "normalization": "Dmin=1 because numerator upper positive",
+      "free_bracket_relative_bare": [
+        "0",
+        "2119479789392817174352838289734658465/1427247692705959881058285969449495136382746624"
+      ],
+      "free_upper_display": 1.4850118870218207e-09,
+      "connected_cross_numerator_interval": [
+        "-3940180045858614993410328774438454215799/23945242826029513411849172299223580994042798784118784",
+        "-3940180045858614993410328774436252473831/23945242826029513411849172299223580994042798784118784"
+      ],
+      "classification": "POSITIVE_COMPLETE_TRIAL_UPPER;NO_BELOW_THRESHOLD_CERTIFICATE;ACTUAL_ORDER_UNRESOLVED"
+    },
+    {
+      "row": 7,
+      "mR": "1000",
+      "lane": 3,
+      "full_paid_numerator_interval": [
+        "8567880716347060335381752223031360653275139/11417981541647679048466287755595961091061972992",
+        "8567880716347060335381752223031362474748839/11417981541647679048466287755595961091061972992"
+      ],
+      "full_paid_energy_upper_relative_bare": "8567880716347060335381752223031362474748839/11417981541647679048466287755595961091061972992",
+      "full_paid_energy_upper_display": 0.0007503848806459594,
+      "normalization": "Dmin=1 because numerator upper positive",
+      "free_bracket_relative_bare": [
+        "0",
+        "2119479789392817174352838289734658465/1427247692705959881058285969449495136382746624"
+      ],
+      "free_upper_display": 1.4850118870218207e-09,
+      "connected_cross_numerator_interval": [
+        "-29440784472388174670048407115447620885/187072209578355573530071658587684226515959365500928",
+        "-235526275779105397360387256923443358207/1496577676626844588240573268701473812127674924007424"
+      ],
+      "classification": "POSITIVE_COMPLETE_TRIAL_UPPER;NO_BELOW_THRESHOLD_CERTIFICATE;ACTUAL_ORDER_UNRESOLVED"
+    },
+    {
+      "row": 8,
+      "mR": "1000000",
+      "lane": 0,
+      "full_paid_numerator_interval": [
+        "10076701741709212312427005244648906048946791/11692013098647223345629478661730264157247460343808",
+        "10076701741709212312427005244648911122748991/11692013098647223345629478661730264157247460343808"
+      ],
+      "full_paid_energy_upper_relative_bare": "10076701741709212312427005244648911122748991/11692013098647223345629478661730264157247460343808",
+      "full_paid_energy_upper_display": 8.618448898996783e-07,
+      "normalization": "Dmin=1 because numerator upper positive",
+      "free_bracket_relative_bare": [
+        "0",
+        "15098960736503446962121530877499765569/5846006549323611672814739330865132078623730171904"
+      ],
+      "free_upper_display": 2.582782042598021e-12,
+      "connected_cross_numerator_interval": [
+        "-5150094869417527564303279495104220499/5986310706507378352962293074805895248510699696029696",
+        "-5150094869417527564303279494553785007/5986310706507378352962293074805895248510699696029696"
+      ],
+      "classification": "POSITIVE_COMPLETE_TRIAL_UPPER;NO_BELOW_THRESHOLD_CERTIFICATE;ACTUAL_ORDER_UNRESOLVED"
+    },
+    {
+      "row": 9,
+      "mR": "1000000",
+      "lane": 1,
+      "full_paid_numerator_interval": [
+        "10086089285995981395120483893364373927056529/11692013098647223345629478661730264157247460343808",
+        "10086089285995981395120483893364379000858737/11692013098647223345629478661730264157247460343808"
+      ],
+      "full_paid_energy_upper_relative_bare": "10086089285995981395120483893364379000858737/11692013098647223345629478661730264157247460343808",
+      "full_paid_energy_upper_display": 8.626477922063696e-07,
+      "normalization": "Dmin=1 because numerator upper positive",
+      "free_bracket_relative_bare": [
+        "0",
+        "15098960736503446962121530877499765569/5846006549323611672814739330865132078623730171904"
+      ],
+      "free_upper_display": 2.582782042598021e-12,
+      "connected_cross_numerator_interval": [
+        "-511998558633961679492989948315184318817/2993155353253689176481146537402947624255349848014848",
+        "-1023997117267923358985979896629818202141/5986310706507378352962293074805895248510699696029696"
+      ],
+      "classification": "POSITIVE_COMPLETE_TRIAL_UPPER;NO_BELOW_THRESHOLD_CERTIFICATE;ACTUAL_ORDER_UNRESOLVED"
+    },
+    {
+      "row": 10,
+      "mR": "1000000",
+      "lane": 2,
+      "full_paid_numerator_interval": [
+        "5042865192790917272676673083039522634458683/5846006549323611672814739330865132078623730171904",
+        "5042865192790917272676673083039525171359783/5846006549323611672814739330865132078623730171904"
+      ],
+      "full_paid_energy_upper_relative_bare": "5042865192790917272676673083039525171359783/5846006549323611672814739330865132078623730171904",
+      "full_paid_energy_upper_display": 8.626170960028058e-07,
+      "normalization": "Dmin=1 because numerator upper positive",
+      "free_bracket_relative_bare": [
+        "0",
+        "15098960736503446962121530877499765569/5846006549323611672814739330865132078623730171904"
+      ],
+      "free_upper_display": 2.582782042598021e-12,
+      "connected_cross_numerator_interval": [
+        "-3940180045858614993410328774438454215799/23945242826029513411849172299223580994042798784118784",
+        "-3940180045858614993410328774436252473831/23945242826029513411849172299223580994042798784118784"
+      ],
+      "classification": "POSITIVE_COMPLETE_TRIAL_UPPER;NO_BELOW_THRESHOLD_CERTIFICATE;ACTUAL_ORDER_UNRESOLVED"
+    },
+    {
+      "row": 11,
+      "mR": "1000000",
+      "lane": 3,
+      "full_paid_numerator_interval": [
+        "2521333685498526366420713357326226302179101/2923003274661805836407369665432566039311865085952",
+        "2521333685498526366420713357326227570629651/2923003274661805836407369665432566039311865085952"
+      ],
+      "full_paid_energy_upper_relative_bare": "2521333685498526366420713357326227570629651/2923003274661805836407369665432566039311865085952",
+      "full_paid_energy_upper_display": 8.62583257211796e-07,
+      "normalization": "Dmin=1 because numerator upper positive",
+      "free_bracket_relative_bare": [
+        "0",
+        "15098960736503446962121530877499765569/5846006549323611672814739330865132078623730171904"
+      ],
+      "free_upper_display": 2.582782042598021e-12,
+      "connected_cross_numerator_interval": [
+        "-29440784472388174670048407115447620885/187072209578355573530071658587684226515959365500928",
+        "-235526275779105397360387256923443358207/1496577676626844588240573268701473812127674924007424"
+      ],
+      "classification": "POSITIVE_COMPLETE_TRIAL_UPPER;NO_BELOW_THRESHOLD_CERTIFICATE;ACTUAL_ORDER_UNRESOLVED"
+    }
+  ],
+  "checks": [
+    {
+      "check": "actual d0 Gaussian cross lower strictly positive",
+      "passed": true
+    },
+    {
+      "check": "safe full paid kernel upper positive",
+      "passed": true
+    },
+    {
+      "check": "actual cross improves previous uniform paid kernel upper",
+      "passed": true
+    },
+    {
+      "check": "actual correlated normal gate upper positive",
+      "passed": true
+    },
+    {
+      "check": "row0 col0 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col0 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col0 real payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col1 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col1 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col1 real payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col2 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col2 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col2 real payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col3 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col3 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col3 real payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col4 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col4 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col4 real payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col5 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col5 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col5 real payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col6 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col6 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col6 real payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col7 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col7 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col7 real payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col8 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col8 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col8 real payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col9 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col9 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col9 real payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col10 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col10 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col10 real payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col11 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col11 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row0 col11 real payment",
+      "passed": true
+    },
+    {
+      "check": "row0 source g positive",
+      "passed": true
+    },
+    {
+      "check": "row0 positive numerator uses Dmin1",
+      "passed": true
+    },
+    {
+      "check": "row0 complete positive norm upper",
+      "passed": true
+    },
+    {
+      "check": "row0 finite upper function above free bracket upper",
+      "passed": true
+    },
+    {
+      "check": "row0 actual retarded cross lowers complete numerator",
+      "passed": true
+    },
+    {
+      "check": "row1 col0 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col0 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col0 real payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col1 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col1 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col1 real payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col2 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col2 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col2 real payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col3 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col3 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col3 real payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col4 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col4 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col4 real payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col5 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col5 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col5 real payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col6 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col6 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col6 real payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col7 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col7 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col7 real payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col8 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col8 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col8 real payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col9 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col9 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col9 real payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col10 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col10 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col10 real payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col11 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col11 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row1 col11 real payment",
+      "passed": true
+    },
+    {
+      "check": "row1 source g positive",
+      "passed": true
+    },
+    {
+      "check": "row1 positive numerator uses Dmin1",
+      "passed": true
+    },
+    {
+      "check": "row1 complete positive norm upper",
+      "passed": true
+    },
+    {
+      "check": "row1 finite upper function above free bracket upper",
+      "passed": true
+    },
+    {
+      "check": "row1 actual retarded cross lowers complete numerator",
+      "passed": true
+    },
+    {
+      "check": "row2 col0 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col0 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col0 real payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col1 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col1 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col1 real payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col2 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col2 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col2 real payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col3 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col3 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col3 real payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col4 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col4 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col4 real payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col5 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col5 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col5 real payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col6 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col6 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col6 real payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col7 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col7 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col7 real payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col8 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col8 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col8 real payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col9 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col9 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col9 real payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col10 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col10 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col10 real payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col11 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col11 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row2 col11 real payment",
+      "passed": true
+    },
+    {
+      "check": "row2 source g positive",
+      "passed": true
+    },
+    {
+      "check": "row2 positive numerator uses Dmin1",
+      "passed": true
+    },
+    {
+      "check": "row2 complete positive norm upper",
+      "passed": true
+    },
+    {
+      "check": "row2 finite upper function above free bracket upper",
+      "passed": true
+    },
+    {
+      "check": "row2 actual retarded cross lowers complete numerator",
+      "passed": true
+    },
+    {
+      "check": "row3 col0 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col0 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col0 real payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col1 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col1 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col1 real payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col2 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col2 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col2 real payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col3 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col3 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col3 real payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col4 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col4 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col4 real payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col5 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col5 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col5 real payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col6 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col6 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col6 real payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col7 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col7 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col7 real payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col8 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col8 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col8 real payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col9 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col9 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col9 real payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col10 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col10 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col10 real payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col11 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col11 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row3 col11 real payment",
+      "passed": true
+    },
+    {
+      "check": "row3 source g positive",
+      "passed": true
+    },
+    {
+      "check": "row3 positive numerator uses Dmin1",
+      "passed": true
+    },
+    {
+      "check": "row3 complete positive norm upper",
+      "passed": true
+    },
+    {
+      "check": "row3 finite upper function above free bracket upper",
+      "passed": true
+    },
+    {
+      "check": "row3 actual retarded cross lowers complete numerator",
+      "passed": true
+    },
+    {
+      "check": "row4 col0 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col0 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col0 real payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col1 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col1 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col1 real payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col2 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col2 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col2 real payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col3 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col3 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col3 real payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col4 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col4 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col4 real payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col5 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col5 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col5 real payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col6 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col6 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col6 real payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col7 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col7 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col7 real payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col8 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col8 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col8 real payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col9 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col9 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col9 real payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col10 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col10 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col10 real payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col11 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col11 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row4 col11 real payment",
+      "passed": true
+    },
+    {
+      "check": "row4 source g positive",
+      "passed": true
+    },
+    {
+      "check": "row4 positive numerator uses Dmin1",
+      "passed": true
+    },
+    {
+      "check": "row4 complete positive norm upper",
+      "passed": true
+    },
+    {
+      "check": "row4 finite upper function above free bracket upper",
+      "passed": true
+    },
+    {
+      "check": "row4 actual retarded cross lowers complete numerator",
+      "passed": true
+    },
+    {
+      "check": "row5 col0 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col0 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col0 real payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col1 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col1 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col1 real payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col2 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col2 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col2 real payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col3 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col3 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col3 real payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col4 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col4 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col4 real payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col5 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col5 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col5 real payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col6 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col6 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col6 real payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col7 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col7 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col7 real payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col8 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col8 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col8 real payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col9 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col9 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col9 real payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col10 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col10 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col10 real payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col11 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col11 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row5 col11 real payment",
+      "passed": true
+    },
+    {
+      "check": "row5 source g positive",
+      "passed": true
+    },
+    {
+      "check": "row5 positive numerator uses Dmin1",
+      "passed": true
+    },
+    {
+      "check": "row5 complete positive norm upper",
+      "passed": true
+    },
+    {
+      "check": "row5 finite upper function above free bracket upper",
+      "passed": true
+    },
+    {
+      "check": "row5 actual retarded cross lowers complete numerator",
+      "passed": true
+    },
+    {
+      "check": "row6 col0 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col0 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col0 real payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col1 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col1 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col1 real payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col2 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col2 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col2 real payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col3 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col3 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col3 real payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col4 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col4 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col4 real payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col5 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col5 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col5 real payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col6 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col6 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col6 real payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col7 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col7 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col7 real payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col8 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col8 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col8 real payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col9 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col9 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col9 real payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col10 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col10 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col10 real payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col11 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col11 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row6 col11 real payment",
+      "passed": true
+    },
+    {
+      "check": "row6 source g positive",
+      "passed": true
+    },
+    {
+      "check": "row6 positive numerator uses Dmin1",
+      "passed": true
+    },
+    {
+      "check": "row6 complete positive norm upper",
+      "passed": true
+    },
+    {
+      "check": "row6 finite upper function above free bracket upper",
+      "passed": true
+    },
+    {
+      "check": "row6 actual retarded cross lowers complete numerator",
+      "passed": true
+    },
+    {
+      "check": "row7 col0 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col0 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col0 real payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col1 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col1 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col1 real payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col2 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col2 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col2 real payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col3 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col3 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col3 real payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col4 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col4 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col4 real payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col5 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col5 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col5 real payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col6 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col6 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col6 real payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col7 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col7 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col7 real payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col8 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col8 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col8 real payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col9 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col9 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col9 real payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col10 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col10 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col10 real payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col11 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col11 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row7 col11 real payment",
+      "passed": true
+    },
+    {
+      "check": "row7 source g positive",
+      "passed": true
+    },
+    {
+      "check": "row7 positive numerator uses Dmin1",
+      "passed": true
+    },
+    {
+      "check": "row7 complete positive norm upper",
+      "passed": true
+    },
+    {
+      "check": "row7 finite upper function above free bracket upper",
+      "passed": true
+    },
+    {
+      "check": "row7 actual retarded cross lowers complete numerator",
+      "passed": true
+    },
+    {
+      "check": "row8 col0 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col0 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col0 real payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col1 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col1 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col1 real payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col2 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col2 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col2 real payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col3 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col3 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col3 real payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col4 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col4 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col4 real payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col5 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col5 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col5 real payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col6 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col6 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col6 real payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col7 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col7 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col7 real payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col8 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col8 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col8 real payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col9 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col9 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col9 real payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col10 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col10 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col10 real payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col11 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col11 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row8 col11 real payment",
+      "passed": true
+    },
+    {
+      "check": "row8 source g positive",
+      "passed": true
+    },
+    {
+      "check": "row8 positive numerator uses Dmin1",
+      "passed": true
+    },
+    {
+      "check": "row8 complete positive norm upper",
+      "passed": true
+    },
+    {
+      "check": "row8 finite upper function above free bracket upper",
+      "passed": true
+    },
+    {
+      "check": "row8 actual retarded cross lowers complete numerator",
+      "passed": true
+    },
+    {
+      "check": "row9 col0 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col0 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col0 real payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col1 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col1 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col1 real payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col2 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col2 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col2 real payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col3 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col3 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col3 real payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col4 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col4 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col4 real payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col5 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col5 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col5 real payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col6 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col6 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col6 real payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col7 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col7 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col7 real payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col8 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col8 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col8 real payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col9 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col9 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col9 real payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col10 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col10 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col10 real payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col11 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col11 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row9 col11 real payment",
+      "passed": true
+    },
+    {
+      "check": "row9 source g positive",
+      "passed": true
+    },
+    {
+      "check": "row9 positive numerator uses Dmin1",
+      "passed": true
+    },
+    {
+      "check": "row9 complete positive norm upper",
+      "passed": true
+    },
+    {
+      "check": "row9 finite upper function above free bracket upper",
+      "passed": true
+    },
+    {
+      "check": "row9 actual retarded cross lowers complete numerator",
+      "passed": true
+    },
+    {
+      "check": "row10 col0 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col0 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col0 real payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col1 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col1 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col1 real payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col2 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col2 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col2 real payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col3 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col3 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col3 real payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col4 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col4 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col4 real payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col5 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col5 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col5 real payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col6 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col6 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col6 real payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col7 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col7 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col7 real payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col8 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col8 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col8 real payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col9 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col9 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col9 real payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col10 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col10 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col10 real payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col11 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col11 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row10 col11 real payment",
+      "passed": true
+    },
+    {
+      "check": "row10 source g positive",
+      "passed": true
+    },
+    {
+      "check": "row10 positive numerator uses Dmin1",
+      "passed": true
+    },
+    {
+      "check": "row10 complete positive norm upper",
+      "passed": true
+    },
+    {
+      "check": "row10 finite upper function above free bracket upper",
+      "passed": true
+    },
+    {
+      "check": "row10 actual retarded cross lowers complete numerator",
+      "passed": true
+    },
+    {
+      "check": "row11 col0 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col0 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col0 real payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col1 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col1 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col1 real payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col2 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col2 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col2 real payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col3 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col3 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col3 real payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col4 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col4 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col4 real payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col5 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col5 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col5 real payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col6 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col6 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col6 real payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col7 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col7 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col7 real payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col8 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col8 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col8 real payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col9 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col9 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col9 real payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col10 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col10 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col10 real payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col11 lower encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col11 upper encloses independent physical payment",
+      "passed": true
+    },
+    {
+      "check": "row11 col11 real payment",
+      "passed": true
+    },
+    {
+      "check": "row11 source g positive",
+      "passed": true
+    },
+    {
+      "check": "row11 positive numerator uses Dmin1",
+      "passed": true
+    },
+    {
+      "check": "row11 complete positive norm upper",
+      "passed": true
+    },
+    {
+      "check": "row11 finite upper function above free bracket upper",
+      "passed": true
+    },
+    {
+      "check": "row11 actual retarded cross lowers complete numerator",
+      "passed": true
+    }
+  ],
+  "metadata": [
+    {
+      "check": "actual native certified enclosure",
+      "passed": true
+    },
+    {
+      "check": "actual native12x12 shape",
+      "passed": true
+    },
+    {
+      "check": "source pin GEN4/volii_dressed_reference1_20261016/joint/prepare.py",
+      "passed": true
+    },
+    {
+      "check": "source pin GEN4/volii_dressed_reference1_20261016/joint/DERIVATION.md",
+      "passed": true
+    },
+    {
+      "check": "source pin GEN4/volii_dressed_reference1_20261016/kernel/COMBINATION_RETURN.json",
+      "passed": true
+    },
+    {
+      "check": "source pin GEN4/volii_dressed_reference1_20261016/kernel/VERIFICATION.json",
+      "passed": true
+    },
+    {
+      "check": "source pin GEN4/volii_dressed_reference1_20261016/kernel/DERIVATION.md",
+      "passed": true
+    },
+    {
+      "check": "source pin GEN4/volii_dressed_reference1_20261016/threshold/ACTUAL_RETURN.json",
+      "passed": true
+    },
+    {
+      "check": "source pin GEN4/volii_dressed_reference1_20261016/threshold/VERIFICATION.json",
+      "passed": true
+    },
+    {
+      "check": "source pin GEN4/volii_combined_evaluation1_20261016/reference/PENCIL_VERIFICATION.json",
+      "passed": true
+    },
+    {
+      "check": "source pin GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_relative_packet_gate_and_massive_dressing.json",
+      "passed": true
+    },
+    {
+      "check": "source pin GEN4/volii_combined_evaluation1_20261016/spectral/DERIVATION.md",
+      "passed": true
+    },
+    {
+      "check": "source pin GEN4/volii_combined_evaluation1_20261016/spectral/CONTROL_DERIVATION.md",
+      "passed": true
+    },
+    {
+      "check": "source pin GEN4/volii_quantum_motion_join1_20261016/field/R2_DERIVATION.md",
+      "passed": true
+    },
+    {
+      "check": "source pin CURRENT_REVISION/engines/SLC/gen5/algebra.py",
+      "passed": true
+    },
+    {
+      "check": "source pin GEN4/volii_combined_evaluation1_20261016/spectral/massive_sharp_j2_a100_upper_RETURN.json",
+      "passed": true
+    },
+    {
+      "check": "source pin GEN4/volii_combined_evaluation1_20261016/spectral/massive_sharp_j2_a1000_upper_RETURN.json",
+      "passed": true
+    },
+    {
+      "check": "source pin GEN4/volii_combined_evaluation1_20261016/spectral/massive_sharp_j2_a1000000_upper_RETURN.json",
+      "passed": true
+    },
+    {
+      "check": "actual native returned",
+      "passed": true
+    },
+    {
+      "check": "actual native output hash",
+      "passed": true
+    }
+  ],
+  "scope": "Actual whole-spectrum cross inside exact fullHamiltonian variational upper; unchanged controls and complete paidterms; upper-function differences are not actual binding signs"
+}

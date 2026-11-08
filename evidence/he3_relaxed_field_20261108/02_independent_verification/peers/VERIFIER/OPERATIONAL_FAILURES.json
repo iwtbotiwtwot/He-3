@@ -1,0 +1,25 @@
+{
+  "failures": [
+    {
+      "id": "custody_interpreter_name",
+      "command": "python - <<... custody only ...",
+      "returncode": 127,
+      "stderr": "/bin/bash: line 1: python: command not found",
+      "correction": "Use python3; no mathematical execution occurred."
+    },
+    {
+      "id": "attempt1_parser",
+      "version": "versions/replay_v1.py",
+      "stderr": "runs/attempt1.stderr.txt",
+      "launch": "runs/attempt1.launch.json",
+      "correction": "Remove one unmatched closing parenthesis in control-result serialization; separately seal v2."
+    },
+    {
+      "id": "universal_route_patch_context",
+      "type": "Atomic apply_patch context mismatch",
+      "stderr": "Failed to find expected lines: standalone method return field was on a combined return line.",
+      "effect": "No file changed. Corrected patch context and sealed v3 before execution."
+    }
+  ],
+  "unexpected_scientific_outcomes": []
+}

@@ -1,0 +1,18 @@
+{
+  "sealed_utc": "2026-11-08T15:05:43.341272+00:00",
+  "form": "verification",
+  "expected_outcome": null,
+  "question": "# Independent verification: shared field covariance\n\nVerify or break the frozen statement in CLAIM.json and STATEMENT.md from the actual source definitions. Rebuild the proof and exact arithmetic independently of the isotope-constructor/A1/previous CR2 code. Prior mathematical reports and outputs are supplied as claims, not an oracle. Preserve the original full spaces, source ordering, norm, signed terms and reference boundaries. Execute every registered control and report any unexpected outcome. Return HELD, HELD WITH CORRECTION or BROKE with a hypothesis map and an engine-free replay.\n\nWrite execution predictions and script hashes before computing; preserve every failed/corrected version and fresh output. No physical binding fit, source/trial/profile optimization, engine change, manuscript edit, new Duck window, peer messaging, Git write, push or publication is part of the verifier assignment. Director approval stays false. Next: use the actual verdict and limits as inputs to physical bridge/action construction.\n",
+  "claim_sha256": "29608884c569d7d05ab5772e1e0768174579f474b3afcf2d3a4126c6f9e875b1",
+  "statement_sha256": "654dc2a809b7b9b67df63142c2c744b2733c0bd20838d480901ebd472173b98c",
+  "predictions_sha256": "aa7d47651e3c1c9026bddd6d8bbf5c992626fa6639d039f33d0aa9d884587165",
+  "controls": [
+    "scalar_mean_only",
+    "diagonal_covariance_only",
+    "wrong_source_norm",
+    "independent_fields_substitution",
+    "entangled_product_factorization",
+    "omit_complex_mixed_order"
+  ],
+  "method": "One fresh separately authored proof/code verifier for this case. Lead outside research, no steering or scratch reads; preserve all outcomes. Standard exact host arithmetic selected; no Duck window."
+}

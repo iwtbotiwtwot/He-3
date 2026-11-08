@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "created_utc": "2026-11-08T14:24:03.449630+00:00",
+  "capsule": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_verification_20261108",
+  "archive": "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_verification_20261108.tar.gz",
+  "archive_sha256": "a8ceddf538edd96ad80b4289683107c9188477646066f79395dad2566b24f506",
+  "archive_bytes": 465831,
+  "archive_file_count": 120,
+  "source_bytes": 3285028,
+  "file_manifest_sha256": "5adbab66648f71e4f25f7bd9f7d8481f2b642cfd5c3f8dbc9a77084fd36e7765",
+  "archive_readback": "Every file read and SHA256 checked; original sizes and mtimes unchanged; originals retained.",
+  "public_case": "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification",
+  "withheld_reason": "Full private preparation and run custody; engine-free verification is retained in the case."
+}

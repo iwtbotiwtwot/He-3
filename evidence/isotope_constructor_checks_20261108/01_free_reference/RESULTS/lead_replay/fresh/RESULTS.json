@@ -1,0 +1,361 @@
+{
+  "adjacent": {
+    "compression": "12I24",
+    "dimension": 24,
+    "directly_coupled_omitted_addresses": [
+      0,
+      3,
+      5,
+      6,
+      9,
+      10,
+      12,
+      15,
+      17,
+      18,
+      20,
+      23,
+      24,
+      27,
+      29,
+      30,
+      33,
+      34,
+      36,
+      39,
+      40,
+      43,
+      45,
+      46,
+      48,
+      51,
+      53,
+      54,
+      57,
+      58,
+      60,
+      63
+    ],
+    "drift_kernel_dimension": 6,
+    "metric": "I24",
+    "omitted_addresses": 40,
+    "true_drift_rank": 18
+  },
+  "all_checks_passed": true,
+  "arithmetic": "integers and fractions.Fraction; no floating-point signs",
+  "breaking_controls": [
+    {
+      "id": "compressed_floor_as_full_lower",
+      "outcome": "FAIL_FULL_SOURCE_LOWER",
+      "rejected_mutation": true,
+      "witness": {
+        "claimed_lower": 12,
+        "energy": 0,
+        "norm_squared": 1,
+        "quadratic_form_H_minus_12I": -12,
+        "vector": [
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8",
+          "1/8"
+        ]
+      }
+    },
+    {
+      "id": "adjacent_invariance",
+      "outcome": "FAIL_INVARIANCE",
+      "rejected_mutation": true,
+      "witness": {
+        "drift_rank": 18,
+        "matrix_element": -2,
+        "omitted_tuple": [
+          0,
+          0
+        ],
+        "retained_tuple": [
+          0,
+          1
+        ]
+      }
+    },
+    {
+      "id": "omit_complement_response",
+      "outcome": "FAIL_RESOLVENT",
+      "rejected_mutation": true,
+      "witness": {
+        "compressed_diagonal": "1/13",
+        "defect_rank": 18,
+        "diagonal_defect": "3064/116025",
+        "full_diagonal": "11989/116025",
+        "nonzero_complement_response": true,
+        "retained_column": 0,
+        "self_energy_rank": 18,
+        "z": 1
+      }
+    },
+    {
+      "id": "all_omitted_addresses_dark",
+      "outcome": "FAIL_COMPLEMENT_CLASSIFICATION",
+      "rejected_mutation": true,
+      "witness": {
+        "cyclic_dimension": 47,
+        "dynamically_hidden_dimensions": 23,
+        "invariant_dark_dimensions": 17,
+        "no_omitted_coordinate_is_dark": true,
+        "omitted_address_00_couples_to_01": -2,
+        "omitted_addresses": 40
+      }
+    },
+    {
+      "id": "one_sided_baseline_shift",
+      "outcome": "FAIL_COMMON_ZERO",
+      "rejected_mutation": true,
+      "witness": {
+        "common_shift_result": 18,
+        "one_sided_adjacent_result": 0,
+        "one_sided_result": 6,
+        "original_adjacent_minus_all_free": 12,
+        "original_connected_minus_all_free": 18
+      }
+    }
+  ],
+  "check_count": 247,
+  "connected": {
+    "compression": "18I48",
+    "cost_above_primary_floor": 6,
+    "cost_against_all_free_geometric_floor": 18,
+    "dimension": 48,
+    "drift_rank_in_primary": 48,
+    "preparation_expectation": 18
+  },
+  "cyclic": {
+    "closure_dimension": 47,
+    "dark_dimension": 17,
+    "dark_multiplicities_by_4k": [
+      0,
+      0,
+      3,
+      11,
+      3,
+      0,
+      0
+    ],
+    "dimensions": [
+      24,
+      42,
+      46,
+      47,
+      47
+    ],
+    "dynamically_hidden_dimensions": 23,
+    "spectral_receiving_ranks": [
+      1,
+      6,
+      12,
+      9,
+      12,
+      6,
+      1
+    ]
+  },
+  "free_pair": {
+    "dimension": 64,
+    "floor": 0,
+    "metric": "I64",
+    "spectrum": {
+      "0": 1,
+      "12": 20,
+      "16": 15,
+      "20": 6,
+      "24": 1,
+      "4": 6,
+      "8": 15
+    }
+  },
+  "h1": {
+    "dimension": 8,
+    "event_count": 48,
+    "events_per_oriented_edge": 2,
+    "spectrum": {
+      "0": 1,
+      "12": 1,
+      "4": 3,
+      "8": 3
+    }
+  },
+  "limits": [
+    "Geometric labelled source only",
+    "tau is a nonnegative common kinetic coefficient when read as a cost",
+    "No physical binding, species Hamiltonian, trial optimization or unit assignment",
+    "Same inherited model and separately authored code: I1, not external verification"
+  ],
+  "named_fragment_chart": {
+    "He3_theorem_reproved": false,
+    "connected_dimension": 48,
+    "dimension": 144,
+    "omitted_independent_cell_coincidence_addresses": 48,
+    "raw_operator_and_maps_verified": true
+  },
+  "physical_bridge_conditions": [
+    "Declare one common self-adjoint Hamiltonian, domain, metric and additive reference for all endpoints.",
+    "Specify species/statistics/particle-number, moving-cell and asymptotic receiving maps and preserve their metrics.",
+    "Carry source complements, off-diagonal couplings and energy-dependent self-energy or rigorously bound them.",
+    "Supply physical tau/radius/unit law independently and use the same law at every endpoint.",
+    "Retain field, recoil, electrons, counterterms and gates in both preparation and fragment comparison.",
+    "A binding claim requires a same-Hamiltonian source upper below a rigorous full competing-channel lower; compression floors are not full lowers."
+  ],
+  "primary": {
+    "boundary_target_addresses": 256,
+    "compression": "I24 tensor h1 + 12I192",
+    "cyclic_dimension": 376,
+    "dimension": 192,
+    "drift_rank": 144,
+    "dynamically_hidden_dimensions": 184,
+    "earlier_omitted_addresses": 320,
+    "equal_local_digits_retained": 48,
+    "floor": 12,
+    "invariant_dark_dimension": 136,
+    "invariant_dark_multiplicities_by_4k": [
+      0,
+      0,
+      3,
+      20,
+      45,
+      45,
+      20,
+      3,
+      0,
+      0
+    ],
+    "spectrum": {
+      "12": 24,
+      "16": 72,
+      "20": 72,
+      "24": 24
+    },
+    "tensor_extension_status": "proved by invariant singleton factor and exact pair closure; not a separate 512-rank numerical fit",
+    "tuple_order": "pair-major, singleton a=0..7; ambient triple code 64a+8b+c"
+  },
+  "reference_ledger": {
+    "after_common_shift_minus_12tau": {
+      "adjacent_pair_floor": 0,
+      "all_free": -12,
+      "connected_preparation": 6,
+      "primary_floor": 0
+    },
+    "differences": {
+      "adjacent_pair_floor minus adjacent_pair_floor": 0,
+      "adjacent_pair_floor minus all_free": 12,
+      "adjacent_pair_floor minus connected_preparation": -6,
+      "adjacent_pair_floor minus primary_floor": 0,
+      "all_free minus adjacent_pair_floor": -12,
+      "all_free minus all_free": 0,
+      "all_free minus connected_preparation": -18,
+      "all_free minus primary_floor": -12,
+      "connected_preparation minus adjacent_pair_floor": 6,
+      "connected_preparation minus all_free": 18,
+      "connected_preparation minus connected_preparation": 0,
+      "connected_preparation minus primary_floor": 6,
+      "primary_floor minus adjacent_pair_floor": 0,
+      "primary_floor minus all_free": 12,
+      "primary_floor minus connected_preparation": -6,
+      "primary_floor minus primary_floor": 0
+    },
+    "endpoint_coefficients_of_tau": {
+      "adjacent_pair_floor": 12,
+      "all_free": 0,
+      "connected_preparation": 18,
+      "primary_floor": 12
+    }
+  },
+  "resolvent": {
+    "D_plus_z_LDL_pivots_positive": true,
+    "compressed_diagonal": "1/13",
+    "defect_rank": 18,
+    "diagonal_defect": "3064/116025",
+    "effective_LDL_pivots_positive": true,
+    "exact_schur_identity": true,
+    "full_diagonal": "11989/116025",
+    "self_energy_rank": 18,
+    "z": 1
+  },
+  "script_version": "independent-free-reference-002",
+  "three_free": {
+    "dimension": 512,
+    "floor": 0,
+    "metric": "I512",
+    "spectrum": {
+      "0": 1,
+      "12": 84,
+      "16": 126,
+      "20": 126,
+      "24": 84,
+      "28": 36,
+      "32": 9,
+      "36": 1,
+      "4": 9,
+      "8": 36
+    }
+  },
+  "verdict": "HELD"
+}

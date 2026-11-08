@@ -1,0 +1,146 @@
+{
+  "M": [
+    [
+      "3690368/3",
+      "-35840",
+      "0",
+      "6400/3"
+    ],
+    [
+      "-35840",
+      "3683968/3",
+      "16640/3",
+      "35840"
+    ],
+    [
+      "0",
+      "16640/3",
+      "40832/3",
+      "93184"
+    ],
+    [
+      "6400/3",
+      "35840",
+      "93184",
+      "3647104/3"
+    ]
+  ],
+  "M_leading_principal_minors": [
+    "3690368/3",
+    "13583637069824/9",
+    "553625244315680768/27",
+    "959520557272475134590976/81"
+  ],
+  "additional_receiving_reference_input": [
+    "physical PP/PN/NN/species-to-colour/current receiver",
+    "current/action normalization and clock/ruler/profile/geometry law",
+    "complete matter/recoil/electron/gate terms",
+    "connected, fragment and free atomic endpoints using one Hamiltonian and energy zero"
+  ],
+  "anticorrelated_e0": "922592",
+  "artifact_hashes": {
+    "EXECUTION_PREREGISTRATION_V002.json": "a233550b6eb40e3e6ccfb90797f5a817c1f9ac7f6ec83cb21878eab58c30b469",
+    "HYPOTHESES.md": "b089435dbe605a56c38b9838dc63114f651a19e0387de97b20d151ecdb0354fc",
+    "NOTES.md": "13f9e573b8f69bf3505c0bfad0251d23bc3f16c905953adbc50e5608dbe7ead6",
+    "REPORT.md": "de5bd8cfb82ea44012231d9eb17bda24a56ed5c103ff868b33eb34bfe2911c28",
+    "replay.py": "a81d2356d77a3ab76b6e59a1ed4db18b13fada5eae18441491f0b9b5d00cfedd"
+  },
+  "authoritative_exact_run": "attempts/run_v002",
+  "case": "02_shared_field_covariance",
+  "checks_passed": 108,
+  "checks_total": 108,
+  "completed_utc": "2026-11-08T15:19:54.101356+00:00",
+  "complex_order_e0_defect": "-461296/3",
+  "correlated_e0": "922592/3",
+  "custody_snapshot_hashes_authenticated": 22,
+  "director_approval": false,
+  "entangled_defect": "-1600/3",
+  "executed_versions": [
+    {
+      "checks_passed": 97,
+      "checks_total": 97,
+      "directory": "attempts/run_v001",
+      "verdict": "HELD",
+      "version": "001"
+    },
+    {
+      "checks_passed": 108,
+      "checks_total": 108,
+      "directory": "attempts/run_v002",
+      "verdict": "HELD",
+      "version": "002"
+    }
+  ],
+  "execution_preregistration": "EXECUTION_PREREGISTRATION_V002.json",
+  "execution_preregistration_sha256": "a233550b6eb40e3e6ccfb90797f5a817c1f9ac7f6ec83cb21878eab58c30b469",
+  "factor_three_scope": "Actual normalized D-current coefficient, common equal profile weight; both physical quadratures double both coefficients",
+  "failed_check_ids": [],
+  "fixed_input_hashes_authenticated": 25,
+  "fresh_output_guard_verified": true,
+  "hypotheses": "HYPOTHESES.md",
+  "hypotheses_proved": [
+    "full192 cube and receiving reconstruction; complete64 placement tensor and complements",
+    "actual full64 colour embeddings, metric-normalized signed six-current Gram and positivity",
+    "product-state ordered covariance identity and common-domain extension under bounded displacement maps",
+    "commuting joint-sector conditioned-density account for entangled states",
+    "factor3 under common equal profile weight; all six registered mutation witnesses"
+  ],
+  "independence": "I1: same inherited model, newly authored separate proof/code; no external verification",
+  "inherited_or_conditional": [
+    "one original shared completed Fock-field Hamiltonian",
+    "positive frequency and finite inverse-first profile norms/bounded displacement maps",
+    "product placement/internal state for scalar covariance factorization",
+    "scalar external common profiles for factor3; operator-valued profile products remain inside chi",
+    "physical source/current/species/action/profile/geometry/recoil/electron/gate and common atomic/reference assignments remain unprovided"
+  ],
+  "new_Duck_or_model_service": false,
+  "notes": "NOTES.md",
+  "physical_binding_or_profile_selection": false,
+  "physical_bridge_can_use": [
+    "one-field ordered covariance proof and explicit domain hypotheses",
+    "complete actual placement incidences and colour-current signed Gram",
+    "conditional internal density in each joint sector for entangled trials"
+  ],
+  "program_fields_consumed": false,
+  "proof_completed": true,
+  "proof_required_in_REPORT": false,
+  "registered_controls": {
+    "diagonal_covariance_only": {
+      "outcome": "FAIL_JOINT_PAYMENT",
+      "witness_nonzero": true
+    },
+    "entangled_product_factorization": {
+      "outcome": "FAIL_PRODUCT_HYPOTHESIS",
+      "witness_nonzero": true
+    },
+    "independent_fields_substitution": {
+      "outcome": "FAIL_HAMILTONIAN_TRANSFER",
+      "witness_nonzero": true
+    },
+    "omit_complex_mixed_order": {
+      "outcome": "FAIL_HERMITIAN_PAYMENT",
+      "witness_nonzero": true
+    },
+    "scalar_mean_only": {
+      "outcome": "FAIL_FIELD_IDENTITY",
+      "witness_nonzero": true
+    },
+    "wrong_source_norm": {
+      "outcome": "FAIL_NORMALIZED_GRAM",
+      "witness_nonzero": true
+    }
+  },
+  "report": "REPORT.md",
+  "script_sha256": "a81d2356d77a3ab76b6e59a1ed4db18b13fada5eae18441491f0b9b5d00cfedd",
+  "source_hashes_still_match": true,
+  "strengthened_D_profile_ratio_bound": {
+    "conditions": "actual normalized exterior D12,D23 source; separable scalar external profile Gram positive semidefinite and nonzero; common chi",
+    "interval": [
+      "1/3",
+      "3"
+    ],
+    "physical_binding_claim": false
+  },
+  "unexecuted_corrected_draft": "attempts/replay_v000_unexecuted.py",
+  "verdict": "HELD"
+}

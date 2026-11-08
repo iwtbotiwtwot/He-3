@@ -1,0 +1,58 @@
+{
+  "checked_utc": "2026-11-08T15:23:14.859417+00:00",
+  "attempt_output_seals": [
+    {
+      "path": "attempts/attempt_001/output/FAILED.json",
+      "matched": true
+    },
+    {
+      "path": "attempts/attempt_001/output/INPUT_AUTHENTICATION.json",
+      "matched": true
+    },
+    {
+      "path": "attempts/attempt_001/output/START.json",
+      "matched": true
+    },
+    {
+      "path": "attempts/attempt_002/output/CHECKS.json",
+      "matched": true
+    },
+    {
+      "path": "attempts/attempt_002/output/COMPLETE.json",
+      "matched": true
+    },
+    {
+      "path": "attempts/attempt_002/output/CYCLIC_AND_DARK_CERTIFICATES.json",
+      "matched": true
+    },
+    {
+      "path": "attempts/attempt_002/output/INPUT_AUTHENTICATION.json",
+      "matched": true
+    },
+    {
+      "path": "attempts/attempt_002/output/NESTED_MATRICES.json",
+      "matched": true
+    },
+    {
+      "path": "attempts/attempt_002/output/PAIR_MATRICES.json",
+      "matched": true
+    },
+    {
+      "path": "attempts/attempt_002/output/RESOLVENT.json",
+      "matched": true
+    },
+    {
+      "path": "attempts/attempt_002/output/RESULTS.json",
+      "matched": true
+    },
+    {
+      "path": "attempts/attempt_002/output/START.json",
+      "matched": true
+    }
+  ],
+  "all_attempt_output_seals_matched": true,
+  "delivered_script_matches_attempt_002": true,
+  "root_results_match_attempt_002": true,
+  "required_documents_present": true,
+  "status": "PASS"
+}

@@ -1,0 +1,7 @@
+{
+  "HE3_PLACEMENT.json": ["source.actions", "selected_seed.cycles", "partition", "placements", "placement_codes"],
+  "HE3_INDEPENDENT_FRAGMENTS.json": ["coordinate_tuples", "state_codes", "source_assignment", "full_source_H", "full_boundary", "allowed_adjacency", "full_collision_potential", "forbidden_target_codes", "full_block_uniform_frame", "connected_receiving_isometry", "connected_source_codes"],
+  "HE3_FRAGMENT_SPACE.json": ["states", "state_codes", "full_H", "boundary", "allowed_adjacency", "collision_potential", "forbidden_target_codes", "connected_injection", "connected_prepared_H"],
+  "program_fields": "excluded",
+  "prior_files": "opaque-byte hash authentication only"
+}

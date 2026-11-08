@@ -1,0 +1,2910 @@
+{
+  "status": "PASS",
+  "verdict": "HELD",
+  "method": "new standard-library host exact arithmetic and analytic proof; universal TT spectral paid bound; inherited moment/gate premises explicit",
+  "independence": "I1 same inherited model, separate code; not external verification",
+  "checks": [
+    {
+      "id": "hash:CLAIM.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:PREDICTIONS.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:PREREGISTRATION.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:RESULTS/INPUT_CUSTODY.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:STATEMENT.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:TARGET.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:prior/A1/RESEARCH_REPORT.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:prior/A1/RESULTS_INDEX.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:prior/A1/peers/ONE/REPORT.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:prior/A1/peers/TWO/REPORT.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:prior/CASE_AT_PREREGISTRATION.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:prior/learning_case/DERIVATION.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:prior/learning_case/MANIFEST.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:prior/learning_case/REPORT.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:prior/learning_case/RESULTS/COMPARISON.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:prior/learning_case/RESULTS/RECURRENCE.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:prior/learning_case/TRANSFER_MAP.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/CAPABILITIES_FULL.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/duck_gen6_local/runs/volii-missing-pieces-broad-20261016-01/native_returns/broad_atomic_full_translated_tensor_and_Pauli_response.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_join_exterior_response_source_algebra.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_actual_source_field_static_retarded_UV_join.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_full_source_quartic_counterterm.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_combined_evaluation1_20261016/reference/PENCIL_VERIFICATION.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_combined_evaluation1_20261016/spectral/CONTROL_DERIVATION.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_combined_evaluation1_20261016/spectral/DERIVATION.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_dressed_reference1_20261016/joint/ACTUAL_RETURN.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_dressed_reference1_20261016/joint/DERIVATION.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_dressed_reference1_20261016/joint/INTERFACE.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_dressed_reference1_20261016/joint/VERIFICATION.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_dressed_reference1_20261016/threshold/DERIVATION.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_fragment_action1_20261016/joint/DERIVATION.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_missing_pieces_broad1_20261016/atomic/RADIAL_SOURCE_PACKET.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_quantum_motion_join1_20261016/RUN_POLICY.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_quantum_motion_join1_20261016/field/ADAPTIVE_R1_VERIFICATION.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_quantum_motion_join1_20261016/field/DERIVATION.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_quantum_motion_join1_20261016/field/R1_VERIFICATION.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_DERIVATION.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_SOURCE_PACKET.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_VERIFICATION.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_quantum_motion_join1_20261016/field/SOURCE_PACKET.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_quantum_motion_join1_20261016/source/R2_DERIVATION.md",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/GEN4/volii_quantum_motion_join1_20261016/source/SOURCE_PACKET.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/TRIAL_FAMILY.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/light/COLOUR_64_CONSTRUCTION_PAYLOAD.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/light/COMPLETE_DC_PAIR.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/light/HE3_FRAGMENT_SPACE.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/light/HE3_INDEPENDENT_FRAGMENTS.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/light/HE3_PLACEMENT.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "hash:sources/light/INDEPENDENT_CONSTANTS.json",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "frozen_parameters",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "original_trial_gap",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "zero_changed_ledger",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "literal_D16",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "literal_R16",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "source_symmetry",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "source_vacuum_metric",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "pair_projector_owns_swap",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "swap_involution_12",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "positive_swap_square_12",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "floor_frame_12",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "swap_involution_23",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "positive_swap_square_23",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "floor_frame_23",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "swap_involution_13",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "positive_swap_square_13",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "floor_frame_13",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "helicity_images_12",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "helicity_images_23",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_old_gap_12",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_old_gap_23",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "original_vacuum_frame",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_G4",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "equal_self_drive",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "signed_contact_drive",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "crossing_vacuum_gram",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "internal_vacuum_gram",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_source_trace",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "positive_gram_construction",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_source_promotion_endpoint_0",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_source_promotion_endpoint_1",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "raw_G4_lane_0",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "raw_G4_lane_1",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "raw_G4_lane_2",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "raw_G4_lane_3",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "all_four_lanes_disjoint",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "placement_dimensions",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "placement_injection",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "literal_full_cube_rule",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "all_independent_cell_addresses",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "connected_first_moment",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "nonzero_full_placement_leakage",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(0, 1)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(0, 1)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(0, 1)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(0, 1)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(0, 2)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(0, 2)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(0, 2)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(0, 2)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(0, 4)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(0, 4)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(0, 4)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(0, 4)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(1, 0)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(1, 0)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(1, 0)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(1, 0)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(1, 3)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(1, 3)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(1, 3)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(1, 3)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(1, 5)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(1, 5)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(1, 5)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(1, 5)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(2, 0)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(2, 0)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(2, 0)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(2, 0)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(2, 3)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(2, 3)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(2, 3)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(2, 3)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(2, 6)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(2, 6)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(2, 6)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(2, 6)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(3, 1)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(3, 1)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(3, 1)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(3, 1)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(3, 2)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(3, 2)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(3, 2)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(3, 2)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(3, 7)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(3, 7)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(3, 7)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(3, 7)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(4, 0)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(4, 0)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(4, 0)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(4, 0)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(4, 5)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(4, 5)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(4, 5)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(4, 5)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(4, 6)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(4, 6)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(4, 6)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(4, 6)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(5, 1)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(5, 1)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(5, 1)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(5, 1)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(5, 4)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(5, 4)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(5, 4)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(5, 4)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(5, 7)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(5, 7)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(5, 7)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(5, 7)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(6, 2)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(6, 2)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(6, 2)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(6, 2)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(6, 4)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(6, 4)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(6, 4)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(6, 4)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(6, 7)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(6, 7)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(6, 7)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(6, 7)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(7, 3)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(7, 3)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(7, 3)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(7, 3)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(7, 5)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(7, 5)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(7, 5)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(7, 5)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "two_receiving_positions_(7, 6)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "receiving_distance_two_(7, 6)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "actual_complement_moment_(7, 6)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_Walsh_receiving_weights_(7, 6)",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "gate_scalar_range",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "unchanged_gate_probe",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "unchanged_retarded_geometry",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "mass_full_head_tail_100",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "mass_full_head_tail_1000",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "mass_full_head_tail_1000000",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "retarded_kernel_derived_0",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "universal_spectral_paid_bound_0",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "mass_row_custody_0",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "same_retarded_lower_0",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "all_complete_coefficients_positive_0",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "lighter_noncertifying_0",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "strict_actual_variance_0",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "retarded_kernel_derived_1",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "universal_spectral_paid_bound_1",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "mass_row_custody_1",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "same_retarded_lower_1",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "all_complete_coefficients_positive_1",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "lighter_noncertifying_1",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "strict_actual_variance_1",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "retarded_kernel_derived_2",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "universal_spectral_paid_bound_2",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "mass_row_custody_2",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "same_retarded_lower_2",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "all_complete_coefficients_positive_2",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "lighter_noncertifying_2",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "strict_actual_variance_2",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "retarded_kernel_derived_3",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "universal_spectral_paid_bound_3",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "mass_row_custody_3",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "same_retarded_lower_3",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "all_complete_coefficients_positive_3",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "lighter_noncertifying_3",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "strict_actual_variance_3",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "retarded_kernel_derived_4",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "universal_spectral_paid_bound_4",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "mass_row_custody_4",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "same_retarded_lower_4",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "all_complete_coefficients_positive_4",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "lighter_noncertifying_4",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "strict_actual_variance_4",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "retarded_kernel_derived_5",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "universal_spectral_paid_bound_5",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "mass_row_custody_5",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "same_retarded_lower_5",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "all_complete_coefficients_positive_5",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "lighter_noncertifying_5",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "strict_actual_variance_5",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "retarded_kernel_derived_6",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "universal_spectral_paid_bound_6",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "mass_row_custody_6",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "same_retarded_lower_6",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "all_complete_coefficients_positive_6",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "lighter_noncertifying_6",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "strict_actual_variance_6",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "retarded_kernel_derived_7",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "universal_spectral_paid_bound_7",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "mass_row_custody_7",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "same_retarded_lower_7",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "all_complete_coefficients_positive_7",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "lighter_noncertifying_7",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "strict_actual_variance_7",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "retarded_kernel_derived_8",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "universal_spectral_paid_bound_8",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "mass_row_custody_8",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "same_retarded_lower_8",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "all_complete_coefficients_positive_8",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_claim_interval_0",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "beyond_sufficient_interval_0",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "strict_actual_variance_8",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "retarded_kernel_derived_9",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "universal_spectral_paid_bound_9",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "mass_row_custody_9",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "same_retarded_lower_9",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "all_complete_coefficients_positive_9",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_claim_interval_1",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "beyond_sufficient_interval_1",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "strict_actual_variance_9",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "retarded_kernel_derived_10",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "universal_spectral_paid_bound_10",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "mass_row_custody_10",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "same_retarded_lower_10",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "all_complete_coefficients_positive_10",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_claim_interval_2",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "beyond_sufficient_interval_2",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "strict_actual_variance_10",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "retarded_kernel_derived_11",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "universal_spectral_paid_bound_11",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "mass_row_custody_11",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "same_retarded_lower_11",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "all_complete_coefficients_positive_11",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "full_claim_interval_3",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "beyond_sufficient_interval_3",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "strict_actual_variance_11",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "flip_signed_contact_gram_control",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "wrong_positive_norm_endpoint_control",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "negative_norm_endpoint_control",
+      "passed": true,
+      "evidence": null
+    },
+    {
+      "id": "projection_identity_cross_coefficient",
+      "passed": true,
+      "evidence": null
+    }
+  ],
+  "input_hashes": [
+    {
+      "path": "CLAIM.json",
+      "sha256": "e885f8f5d565393a05c229ec8b796e5fe47dddc457e10471e77dec394c5efa81"
+    },
+    {
+      "path": "PREDICTIONS.json",
+      "sha256": "23dd53faa26c76c48c20e9c36ecd363c0b117624c4c015e153586a42a1bc48e4"
+    },
+    {
+      "path": "PREREGISTRATION.json",
+      "sha256": "c8cf668f930044040ed5b1773c3d8c8364af3379d309c847d051ce1d969ed393"
+    },
+    {
+      "path": "RESULTS/INPUT_CUSTODY.json",
+      "sha256": "4c78b8b55abf9066e79768d570b175ddc1113d20feb4d469e04fd48eb5b4d317"
+    },
+    {
+      "path": "STATEMENT.md",
+      "sha256": "f64ed1058e159063a097e6754d9806151c9c61203a28a378aa448c937da944d5"
+    },
+    {
+      "path": "TARGET.md",
+      "sha256": "bf5bf7d2c645bf9c88d24111d2df115fd3b72d5486231e40fe704a6e74bdce03"
+    },
+    {
+      "path": "prior/A1/RESEARCH_REPORT.md",
+      "sha256": "e5fd3db1591499e556a01f90a5ec1cf76fd60c7331c1e8e3c807890741156713"
+    },
+    {
+      "path": "prior/A1/RESULTS_INDEX.md",
+      "sha256": "baa5f995f70793a7ef3bb68cdda53d321ee54fccc60591de6c32e643bca8a702"
+    },
+    {
+      "path": "prior/A1/peers/ONE/REPORT.md",
+      "sha256": "d3e1e5e0b2915c0d5cf77469b5180d867a51ba3df3dbef77a234389f30f08daa"
+    },
+    {
+      "path": "prior/A1/peers/TWO/REPORT.md",
+      "sha256": "b17a0368d75bdc46aefe7b0e01ea24826735b52ff29dbc27855dff7d6c2552c4"
+    },
+    {
+      "path": "prior/CASE_AT_PREREGISTRATION.json",
+      "sha256": "047c2299b3a63da487c4f87fdae452a155a028f5621cafe1c7ec062b3bb854e8"
+    },
+    {
+      "path": "prior/learning_case/DERIVATION.md",
+      "sha256": "05ecf30fed217a0f179e721a442687df1200851834f817a34ec3da6a7e44482b"
+    },
+    {
+      "path": "prior/learning_case/MANIFEST.json",
+      "sha256": "50de2d9deb6a0e0b6d9d4c0fce0b6914d6862713fae363c9ab699cb8b81692cc"
+    },
+    {
+      "path": "prior/learning_case/REPORT.md",
+      "sha256": "77bfd1e2289e5da7c8fa6d94e7d524c9f2175baa9dc781778fa9289be38d5f32"
+    },
+    {
+      "path": "prior/learning_case/RESULTS/COMPARISON.json",
+      "sha256": "0caf94ba7c8c25abb6ab1b6d632004ce94f9bbc186a8e0598a5aa46311f00bca"
+    },
+    {
+      "path": "prior/learning_case/RESULTS/RECURRENCE.json",
+      "sha256": "4ac67954890aea25ad25460eedc6cacf518df28827c339dc9cab92ce59db37cb"
+    },
+    {
+      "path": "prior/learning_case/TRANSFER_MAP.md",
+      "sha256": "74f45b1973e55e8d02587491614faa022d2bf1f5c93549330346476ed7f441cd"
+    },
+    {
+      "path": "sources/CAPABILITIES_FULL.json",
+      "sha256": "9f1f09953b0fab71fc3c556d55206b2b16871e2b279dd960f7c5934c06d3274d"
+    },
+    {
+      "path": "sources/GEN4/duck_gen6_local/runs/volii-missing-pieces-broad-20261016-01/native_returns/broad_atomic_full_translated_tensor_and_Pauli_response.json",
+      "sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6"
+    },
+    {
+      "path": "sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_join_exterior_response_source_algebra.json",
+      "sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6"
+    },
+    {
+      "path": "sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_actual_source_field_static_retarded_UV_join.json",
+      "sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6"
+    },
+    {
+      "path": "sources/GEN4/duck_gen6_local/runs/volii-quantum-motion-20261016-01/native_returns/quantum_motion_full_source_quartic_counterterm.json",
+      "sha256": "2c1cab9a35a2c0bfed1283b1f945daf8c959d08a4d52df1271e5bf33166e83a6"
+    },
+    {
+      "path": "sources/GEN4/volii_combined_evaluation1_20261016/reference/PENCIL_VERIFICATION.json",
+      "sha256": "60aa321e5d92820807713ab648a31e4f7663c4fd9c787776c5bac003bbac749f"
+    },
+    {
+      "path": "sources/GEN4/volii_combined_evaluation1_20261016/spectral/CONTROL_DERIVATION.md",
+      "sha256": "b4ccad19836a0e6223b87792edfae8b9e07ec29a15703f2e1bff7ad1ea8036f4"
+    },
+    {
+      "path": "sources/GEN4/volii_combined_evaluation1_20261016/spectral/DERIVATION.md",
+      "sha256": "755c3ce2b2d800944fb42a196b7b4f0a682a0143bf398c1f32391e6d15a83f36"
+    },
+    {
+      "path": "sources/GEN4/volii_dressed_reference1_20261016/joint/ACTUAL_RETURN.json",
+      "sha256": "f9b756af26454d26405a172c4a0c2741208c42b395add2970da4df0b0e462e32"
+    },
+    {
+      "path": "sources/GEN4/volii_dressed_reference1_20261016/joint/DERIVATION.md",
+      "sha256": "97685ff69bc6ec8a86bdf375726a77a2edc2aaa30155a0c5ba7484e2403b08c1"
+    },
+    {
+      "path": "sources/GEN4/volii_dressed_reference1_20261016/joint/INTERFACE.json",
+      "sha256": "0d879894c145965f62bf3a3f0885e6e916914a54b3bbfdf801a839a25acb2000"
+    },
+    {
+      "path": "sources/GEN4/volii_dressed_reference1_20261016/joint/VERIFICATION.json",
+      "sha256": "0c87960f7ff5b27b8df4a3ee5a872eaee2ae950c690bc1ce5a71d8e3fc30c348"
+    },
+    {
+      "path": "sources/GEN4/volii_dressed_reference1_20261016/threshold/DERIVATION.md",
+      "sha256": "3682b90b102744356cf9f7b4a5006242081a2e7a594cc3fbabedffb6580204bf"
+    },
+    {
+      "path": "sources/GEN4/volii_fragment_action1_20261016/joint/DERIVATION.md",
+      "sha256": "7592b40240ba931cbd1a0f82ce05ecaf141d327a72a09e185d9f14ff073e4735"
+    },
+    {
+      "path": "sources/GEN4/volii_missing_pieces_broad1_20261016/atomic/RADIAL_SOURCE_PACKET.json",
+      "sha256": "21e12021f78cc21828e0471051394f0b919c4a6cc5423c33e6ede121b70ea05c"
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/RUN_POLICY.json",
+      "sha256": "fddfbf7187e23468e507e0c9ac4464da7df05cbc213e4b4b2363fdf96c0ed462"
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/field/ADAPTIVE_R1_VERIFICATION.json",
+      "sha256": "e27cb1553a67eb35faa40a64ee504a564a8c58358f8b0d7c6316fbd46e00479c"
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/field/DERIVATION.md",
+      "sha256": "aacc836c34f1058e5cf3875c88ca6c6ef339a9c02c9b10b7759a0298d9ac33a8"
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/field/R1_VERIFICATION.json",
+      "sha256": "5125fd354b93f5b309c525629037196ad70b2024975f5cd09087ce089f8eb246"
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_DERIVATION.md",
+      "sha256": "718410fb27377377daa11ff069b1e42872742f4a8977c34ce893ccc6c08f8aed"
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_SOURCE_PACKET.json",
+      "sha256": "ed6e9821a606f17370a1b9bbffc3ad025fa5eec5b6afd84b110b9eeea7f9d188"
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/field/R2_VERIFICATION.json",
+      "sha256": "e8ff2d48294e32c4d1fbd8274fa5d96127112c4a3bd5559b42d4b36ca789283e"
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/field/SOURCE_PACKET.json",
+      "sha256": "cc0fc5af06e579f383847abc8fb695f92133d32590742d21c5f05f8cfb8275b5"
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/source/R2_DERIVATION.md",
+      "sha256": "3abc10b97e6fa3661f8f200adfb418528aae0ebb961a84e5d7ec14266150781c"
+    },
+    {
+      "path": "sources/GEN4/volii_quantum_motion_join1_20261016/source/SOURCE_PACKET.json",
+      "sha256": "66c8ab84a5f7bc84d487b5463b93a164af6a857cd235da8718a18d2cfc611a14"
+    },
+    {
+      "path": "sources/TRIAL_FAMILY.json",
+      "sha256": "bce4669c325d25eb8063202a58ddc2480678bc8025a2f954824ff4b84464b56e"
+    },
+    {
+      "path": "sources/light/COLOUR_64_CONSTRUCTION_PAYLOAD.json",
+      "sha256": "e51e8826e0570c8041aac43d9ddc7443641e738e67bd5164ff18dbb49da4b6e1"
+    },
+    {
+      "path": "sources/light/COMPLETE_DC_PAIR.json",
+      "sha256": "afbc60e193b31052399efe61f89a742df78e970f8ca47b1789f53e33f7298d24"
+    },
+    {
+      "path": "sources/light/HE3_FRAGMENT_SPACE.json",
+      "sha256": "109700aed3eb2f1a6b1345cea90f4e24e8be993484573fa2579338c2e1d15c2c"
+    },
+    {
+      "path": "sources/light/HE3_INDEPENDENT_FRAGMENTS.json",
+      "sha256": "b0ddbe2c99e5ddbf4941dc9c45ba9704915f2531f069aebc234ae252c3ed784f"
+    },
+    {
+      "path": "sources/light/HE3_PLACEMENT.json",
+      "sha256": "7580dc810549c9ba5eb18a30ac0ffaf50a010de41fad80c369307bfe88c03865"
+    },
+    {
+      "path": "sources/light/INDEPENDENT_CONSTANTS.json",
+      "sha256": "02c6f2f114a4781a70d7d11ca4ae4718a17019b301b648474f9a0974db9efd94"
+    }
+  ],
+  "raw_G4": [
+    [
+      "7380736/3",
+      "-71680",
+      "0",
+      "12800/3"
+    ],
+    [
+      "-71680",
+      "7367936/3",
+      "33280/3",
+      "71680"
+    ],
+    [
+      "0",
+      "33280/3",
+      "81664/3",
+      "186368"
+    ],
+    [
+      "12800/3",
+      "71680",
+      "186368",
+      "7294208/3"
+    ]
+  ],
+  "raw_G4_charpoly_ascending": [
+    "15352328916359602153455616/81",
+    "-134861316301424427008/9",
+    "163354428440576/9",
+    "-7374848",
+    "1"
+  ],
+  "full_source_TraceGsep": "176996352",
+  "eigenlane_isolations": [
+    {
+      "lane": 0,
+      "lower": "10322605480349274965114764577210627591324379878143375103018371841/803469022129495137770981046170581301261101496891396417650688",
+      "upper": "10322605480349274965114764578313894332317413403771591823534033665/803469022129495137770981046170581301261101496891396417650688",
+      "root_count": 1
+    },
+    {
+      "lane": 1,
+      "lower": "12314707036572187748666479544924252658733777163498234054717600657957/4820814132776970826625886277023487807566608981348378505904128",
+      "upper": "12314707036572187748666479544930872259179735364652003355040694628901/4820814132776970826625886277023487807566608981348378505904128",
+      "root_count": 1
+    },
+    {
+      "lane": 2,
+      "lower": "15795019379727689711177778134347777111915117973250027124803583453111/6427752177035961102167848369364650410088811975131171341205504",
+      "upper": "15795019379727689711177778134356603245843062241455052858567708747703/6427752177035961102167848369364650410088811975131171341205504",
+      "root_count": 1
+    },
+    {
+      "lane": 3,
+      "lower": "15106485681642569419946349900230600155610324548892502847261474398633/6427752177035961102167848369364650410088811975131171341205504",
+      "upper": "15106485681642569419946349900239426289538268817097528581025599693225/6427752177035961102167848369364650410088811975131171341205504",
+      "root_count": 1
+    }
+  ],
+  "placement_blocks": [
+    {
+      "pair": [
+        0,
+        1
+      ],
+      "visible_singletons": [
+        2,
+        4
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        0,
+        2
+      ],
+      "visible_singletons": [
+        1,
+        4
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        0,
+        4
+      ],
+      "visible_singletons": [
+        1,
+        2
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        1,
+        0
+      ],
+      "visible_singletons": [
+        3,
+        5
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        1,
+        3
+      ],
+      "visible_singletons": [
+        0,
+        5
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        1,
+        5
+      ],
+      "visible_singletons": [
+        0,
+        3
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        2,
+        0
+      ],
+      "visible_singletons": [
+        3,
+        6
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        2,
+        3
+      ],
+      "visible_singletons": [
+        0,
+        6
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        2,
+        6
+      ],
+      "visible_singletons": [
+        0,
+        3
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        3,
+        1
+      ],
+      "visible_singletons": [
+        2,
+        7
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        3,
+        2
+      ],
+      "visible_singletons": [
+        1,
+        7
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        3,
+        7
+      ],
+      "visible_singletons": [
+        1,
+        2
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        4,
+        0
+      ],
+      "visible_singletons": [
+        5,
+        6
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        4,
+        5
+      ],
+      "visible_singletons": [
+        0,
+        6
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        4,
+        6
+      ],
+      "visible_singletons": [
+        0,
+        5
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        5,
+        1
+      ],
+      "visible_singletons": [
+        4,
+        7
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        5,
+        4
+      ],
+      "visible_singletons": [
+        1,
+        7
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        5,
+        7
+      ],
+      "visible_singletons": [
+        1,
+        4
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        6,
+        2
+      ],
+      "visible_singletons": [
+        4,
+        7
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        6,
+        4
+      ],
+      "visible_singletons": [
+        2,
+        7
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        6,
+        7
+      ],
+      "visible_singletons": [
+        2,
+        4
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        7,
+        3
+      ],
+      "visible_singletons": [
+        5,
+        6
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        7,
+        5
+      ],
+      "visible_singletons": [
+        3,
+        6
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    },
+    {
+      "pair": [
+        7,
+        6
+      ],
+      "visible_singletons": [
+        3,
+        5
+      ],
+      "plus_weights": [
+        "1/4",
+        "1/4",
+        "1/4",
+        "1/4"
+      ],
+      "minus_weights": [
+        "0",
+        "1/2",
+        "1/2",
+        "0"
+      ]
+    }
+  ],
+  "mass_audit": {
+    "100": {
+      "rederived_majorant_lower": "1879549733428360849838706856071825863439016215729202453704700138432298940321497612069978290046153975155181668242904859912202055869865752419705306135864023271673539038133040047802703019054798886705037367894854239319853022026865433782445812155614238963147553636019597752566404187732901116206769614018732578853441399582870991794914426189383639171439980199144921821444982309303760493661501211298472228915250585599179178690037835365595218723521443036871116261420660509173450189949905849205742027757734925867380977100062961396012372228608979518137605776507425871563461369925990307892243016928139844788639458858081510654591432647789057340695451281480882115832346337790906296003791797647827421925252013986791509101209767298213167912221129551864764096564884910082769484421592430678961099239579655381615688294891245389051504751723891854053682716261023537706040951935919166468495956114845545240452874590618505193364630935178822496684086979100626953163463956217975544563930912288611/16090889980987623564853376521055058346327157413984228627975992913325367216543350922669395715340746226369856301443120545915301954303355017033909993422336264460986022864734674368470508383196884978095681181918614962225359984513905246427805436770442264132048946016291349956538264152083501930199518567340630953187058371957362509685102990427648963600248539797152722555299274558998567905040413610309092094160212049632608233547568197448599918765505032010105733607870398525747955864009719958646260451112615849396719913906267802184266895421380856579074411848242763917270233518829506822797141838408927203967772648855505001396872793984579384941054205121252244419251222433585467940332503986365777049274200275589292764545865075218385488332683380584812815791418758999631195655741839324557342576850952258477636840104483003700823408945597060000029941847974539450609146098020137234140329154861779794159822075044128480911851627305048022448536751434265896930949070774041331016865280000000000",
+      "rederived_majorant_upper": "1879549733428360849838706856071825863439016215729202453704700138432298940321497612069978290046153975155181668242904859912202055869865752419705306135864023271673539038133040047802703019055356721481188130302474885344116954145683521171552599721550627400510541628860895497728719621114097665623621208907787654885165520049889807808203475504589008979861703747136791346343093441952991455372021917962670010840701667471136882587309895206412397482855801611584074612232907987527549936884781522311584820209050065545027714800789403309861951463378513786066657539160745449511722577346222406701358535583606880383811014774417317209928964804445885474654440114526777446047441369660900334286298628199823888276263901570366851957542424448348146420638851401923552562221867612896438177036870091379298663729221119795174175681330783837459024656729791403795964896798985233016499379425179438026521240367529513721750918494594433354619223405361011998006160109750234561410267856812817383425047208288611/16090889980987623564853376521055058346327157413984228627975992913325367216543350922669395715340746226369856301443120545915301954303355017033909993422336264460986022864734674368470508383196884978095681181918614962225359984513905246427805436770442264132048946016291349956538264152083501930199518567340630953187058371957362509685102990427648963600248539797152722555299274558998567905040413610309092094160212049632608233547568197448599918765505032010105733607870398525747955864009719958646260451112615849396719913906267802184266895421380856579074411848242763917270233518829506822797141838408927203967772648855505001396872793984579384941054205121252244419251222433585467940332503986365777049274200275589292764545865075218385488332683380584812815791418758999631195655741839324557342576850952258477636840104483003700823408945597060000029941847974539450609146098020137234140329154861779794159822075044128480911851627305048022448536751434265896930949070774041331016865280000000000",
+      "inherited_upper": "27050957494117742387139974835643635260877757912202233119777518921894791395033/231584178474632390847141970017375815706539969331281128078915168015826259279872",
+      "inherited_upper_minus_rederived_upper": "24092871649086411826209028390216024170522517829936168659673170834036154435895770785321828123899749743028087841688993687554738630768653286518315251108134938952255057751028624595391709407366597556655702855034965916059212415967289411444326561415725567326014272071041977988323425320715180020267155443795014908008822387483601896317772176864594909380919269297293603997572491318545615861498489575427989884077080005073976736217784521686367722246511051293911549139711905839731592695191046419427324462319943222706865513984032483032040052379784760097200223473226352840995165627931179700862779290088716867600033663039678921745917624901005855003859031959348027522285338057381902472530908926323425013106429813503036624304195541302058932707487545614920833192332009801423015468350158750333294992942676409251149770405763099599532359386164819946921610852847898233340258657196835628205659210070387778017870807437521201001087871483892793310753559140581064783750445576613810107565023807/14215070866289947563074025966592497973810673746230031750479265537647356469102685341240792010899779472386613288129486261442146438475463603914935060236385691229668516521512582456200519990956743253707674466979784921762121491336667863181230860599763103157675287448893355749324387981885130687331479713291411777293863373544150708570722402368061243031350201087007298843025033806220724755846962761050225054853553957737724906761641330657631086437812431440033875644864127593415527170573113906996345672624703198719683199898669048888917653799100745958011195028789071728794810466372670252678568882875831781214834923143183135597714575352587796858350598748857980765363135436506789352597171202211781106280673033963107358170598749633215838603308691252583674329730180226259818989717342860754446439137978906999699382416048102953147966437339610436053090827678819289418729909768648218991702058950718483385844200357142909572678681800582160189601901893999349935024692076305764888047969495255975701394390212352823005923844310568118569615407263249125227888640000000000"
+    },
+    "1000": {
+      "rederived_majorant_lower": "107927536815220385721864126128287068869336737672124964309486687929436915063285414577929326396019636770041900043491772602671207319834364516831509837390054675452897870336999108333657203176748607734001364434400493583446094954733785429998968153604149460885224478063752413199447204445742703408507894926967996080607144746735063288676653482127262639991989241375854489110595322449234190803803091291508920202478197387658611475063853663210404797530556441124982052982725393095071629915418234865026733222231533766290297182375059775846278323577946239456135368281588669692884803768132565033270320303432353559765857492044587959747567991184640954407691010143573927099036383653541036782151559834747698928435690717350871656190128640561962024657960083084630035714485757041264378837819266242526534102574418542724465101700058783675799189466447691802465697247842291684799023198324925072758177670533418137955939793666516731442467185601326150972633583855284400271783401722204522740450169787397463170980905824746161988529581844373447589419771859522177335727088917780272543/8534592142874492640458556860204646056010584000562600173478272526408645778826769101897080894093173785508494328187492373946571489702457683396466252860060860998329543035138828131528353669019032596616758419088959818906178011751301229562418121399394903543090173716959082819713365101014394623157859377790900863652986943678842659323605670636861587544937326926274109556305589891709510368212487212855338435791618746604709637360029057253679325395361834745305130381895141455966814821775256915459871170654869254666738758999094534318481922248479543214071841236364725550078480498104716701662944842188498442839505046986654427588106215934221643060261832329492625249861650543771715749420226538152135237890132046051482809830356486730150750931895577064459135821312262527760876271963648809346537606354921286789729888765937866109438516353931344687722872895729459535406480923753319011318124775896185571508222321527099545010402293269133078343254843820800935805442122547758174247680512013754309796759135093228104118852691453056447777939276929816345885649664000000000000000",
+      "rederived_majorant_upper": "755492757706542700053048882898009482085357163704874750166406815506058405442997902045505284772137457390293300304442408218698451238840551617820568861730382728170285092358993758335600422237536129270426322081615348561905630130652464848702595784557881013516256505264300936296344242527440686559146153636676460896546605561397199925583919220728595074655450321302204017189906995214451856545942045705562298493376401526277357389559917381270575736372773164651815999336918708565859076968272715332579970412619752724048809644551327723920119470869139760963469433214152577420128734512596572284611281970467946044026459515512876936893803433180214811723323019971251402009259852812092137782688219584569510063482231631241281668823999916419408367024176115015651529502665301381288947965486198220896049361034951742204982527262460926646214915499001089971154078026758992903672793914344230100007378216952716082103684866863250001983156162214505756756223361386561810328621849933502484946683261379709297485875415972436341711706050753915642637327382778006354059726482212461907801/59742145000121448483209898021432522392074088003938201214347907684860520451787383713279566258652216498559460297312446617626000427917203783775263770020426026988306801245971796920698475683133228176317308933622718732343246082259108606936926849795764324801631216018713579737993555707100762362105015644536306045570908605751898615265239694458031112814561288483918766894139129241966572577487410489987369050541331226232967461520203400775755277767532843217135912673265990191767703752426798408219098194584084782667171312993661740229373455739356802498502888654553078850549363486733016911640613895319489099876535328906580993116743511539551501421832826306448376749031553806402010245941585767064946665230924322360379668812495407111055256523269039451213950749185837694326133903745541665425763244484449007528109221361565062766069614477519412814060110270106216747845366466273233079226873431273299000557556250689696815072816052883931548402783906745606550638094857834307219733763584096280168577313945652596728831968840171395134445574938508714421199547648000000000000000",
+      "inherited_upper": "93714837797885438559123619124460178642537508940800869151611399253580541185767/7410693711188236507108543040556026102609279018600996098525285376506440296955904",
+      "inherited_upper_minus_rederived_upper": "13713100957344685345395963582430059577368335478866826771010488891984055159815729866989411735797360133758866860657007766175119558313609953298484881569466091536229284592598135497061754941619798044260713915489954055819278984149703541433716244381744932444154025699382484423393076538682577378456847733536093586418969615634130717803989068936003000388261601043507846762796468545380161199438841470222248211277428813470667929553949355650846928302142635128079844285822130714185381458821284131133304039495451673035113611891694249330830593331405082668654204941117072932480356425516287486224847481577461257296785446245514315419467215578492218442833507448218459928601277503133749928456001117180252306386170035728929214308963339567069188181018956401002691334953973947501304485171846658693842880008670098810322337057387519136276759355539632543286690910985244052892049842828845653928964749800746466172455040779298721333917177839679013306031281341982241568453771357978575210255269170348200258819247474838192178119425418330717783666286227968367240855826343973087/52777616768514605189887172039305375896298615295764251594312614719165677382773456207795332451645544912645281697591807900004351287291112818509850847123853037613343583068832007337091398059251910821904669839527749371004915376209144227589443909288361695240373067071186003307470811224368149610562326075031093156893721004487287669052771961629696725705104390661065908807211440821900255157735096304390749333192390413247693902484116491468067796707865939534074065326519038661236195958609465438995719380318638949416841326134072342563290687684671356341647574219761058909134903819300954488782087202607759052907063193099169044924155845756766583353352469943457928564846171763916451019973220104498799700211732025236757152342543716632839101030002127467785664221891967524679956952747022155519475037121264014731483391626448889009205578413264925594481058469591987162627265231680867168725335974806550434686693353739041082234758715478368833156497014840599077397208698688271310389526086604080824848012241285810299605446622315135435932598492670104445055670446918705270396198697142675573358574025998402509233367712185573266029543424000000000000000"
+    },
+    "1000000": {
+      "rederived_majorant_lower": "1315666625724305710801761630596476173983540721354596352702032180864136549584448599570379425649986625807748198145719089970814346176565047926794737994461907309686183068415987857457724155390306826622640168146681344525044851565284341898858006112908991127040944826133485625647199336236259961102044236109307457625874042791280745141551277393396437590929177981513467404206585253610201001588258480848506380601333472771279606569222986770783526777304900299875960069859962638677606526871422032335653197906238045678396579872514641977328234668278318845341295459793479909411479182738908619681981732501446668933065838761871432526254739985112485740561685237254268100891558929706532181748845580708545073804532358402446767776067188191906740337529375275048051820946863266900244072901686569679293867564411404439384214380011800547652111540678802678997955405480029870987653391998922629067687256852866133923861602726382456393010814918904262688594358715138834805504828775220507305669406262837700280213430029675366506486510612764728491419073558275456344985589701992150683391822546031247831816795750346274628208436038752301373102596426305236180186715500126150052914534744162230472854768732672232281299724748488303012307575585758632759914484955097618833101542894034254621069265947635189279681086336705649118230855627002108106953971954167398743899902883417645225827681183630642144485390199207450930659484352982043145850460967230402411071422773020625439884698303479244419297947855795307819199656496994041323697113258479643563821386086313890937514682496853974834298724826130359464794054845055400380182939421142061496443814040651862347257907709786048213864055117167231251568679295476652553495765477809502094834468299256762510129429497422311315030867756566675217214589264128471903689872647564464242716638248288809271399746370536882158366915662349285752991330385361159695159969884751419240105031/84746403799707406215191718110698807181394134541701801810688243289256405238924312271871556743492652913480090637655511788413633641989420347084606495592376652910075079667541194693141776754350691887921291998141421978148722937154730634818222359237533279224287252909968291272728378361837354508828896153186866453309359141516774567510986181475329544326611319560793438744812888488855229989653031226510661557388440175987593344367599451216555472251172727270857452339332426172186166845261060147902802792825034585127473090229369553279822781552339859727523042415669428336844571141060770136718846206589082412106235610595303766655207322545640690657804261488674750847559437603842909507389128410061209172141560216984461197360026061288425539106303427238143629136875200311724496885357281076327816129914694201792385409356122363749801865814426968893814127477329317637447198154384333562171235814238210205532219249110854920341946030198129875246610228755693628594068607000340100043724955160244749376942028098259550851248599915343018378721675095095720761741979218463124858352673090809948533907030352453952194234056045600453927499711104549482734756299605957962300525796266677060977774900002459800351764189401152298884174138451311177313775335351723070928315518235786300220251299557496340316585314265232537282837383830163249418238942931207878476744671015728083741816376340990665323424224187319932982937632153263937218371953324076003770504324655931075031543577296557431289410836062869590328603805318102664301997780787427920225312857511048049161030043004056854048863269934052702912487071549140763817313403759015709222780886349773287020465799274687582482597790617027070868052630023318099577724830041809576454757360155006751946068401872285237472307798800004447418629317535813319173854025167736492316806876993705016081058225802377126069526595191203225461983086924370688000000000000000000000000000000",
+      "rederived_majorant_upper": "1315666625724305710801761630596476173983540721354596352702032180864136549584448599570379425649986625807748198145719089970814346176565047926794737994461907309686183068415987857457724155391146245542273261047401046388495202821902671046382542002937894704012183797783351589461832213686212570645526074941729117119584106640366567857485013946265370447095476457753627283158562564825008379283620441845754784796147547218013673944906948358184474941472987161631517706745421504505179652019008535353429015905417145811861151252626471891737041144857985801482200837943483167186566931462209964645272974022280431520058463866013359888886514129364526433106710752267339173713189026892641192839621432679203969238760149056977937889311497508776774546090110064177992793163037984752746163650376202770573122967906280770277014289816945962936167786886933083298234479267047797823203060637512425799195024883800617180649424919428332391962435554889600451722914918017354097055086944009948097836742184273130311884982516905605626505951375323900047453833031559910770629579162548784246997768727126208934620761322128677479478218315176721881378709415572264591810323887999550105706152359853495024760967773149626106769254543225122111013752811446676170199456837761230159063028599147661314310099403023488404988311416524265166167986188573169172097725945476388348943648197216977394101266731680729754633706885218191928567309686526733277378082417040267690777736434644257510475687721557893347296984978370797910590718297957912681499854099452802595702077208059069233345154778671839973360516183223431561166742882540774983649309449256813519961766231296200156053661430765130884083073005563563840071309589442260562731287057412620138547374173827735118739570603270682278450445014193183252700199526639151101191850753060205709431899356463033300567618218225102128534013112723589065976941512179768018829923134751419240105031/84746403799707406215191718110698807181394134541701801810688243289256405238924312271871556743492652913480090637655511788413633641989420347084606495592376652910075079667541194693141776754350691887921291998141421978148722937154730634818222359237533279224287252909968291272728378361837354508828896153186866453309359141516774567510986181475329544326611319560793438744812888488855229989653031226510661557388440175987593344367599451216555472251172727270857452339332426172186166845261060147902802792825034585127473090229369553279822781552339859727523042415669428336844571141060770136718846206589082412106235610595303766655207322545640690657804261488674750847559437603842909507389128410061209172141560216984461197360026061288425539106303427238143629136875200311724496885357281076327816129914694201792385409356122363749801865814426968893814127477329317637447198154384333562171235814238210205532219249110854920341946030198129875246610228755693628594068607000340100043724955160244749376942028098259550851248599915343018378721675095095720761741979218463124858352673090809948533907030352453952194234056045600453927499711104549482734756299605957962300525796266677060977774900002459800351764189401152298884174138451311177313775335351723070928315518235786300220251299557496340316585314265232537282837383830163249418238942931207878476744671015728083741816376340990665323424224187319932982937632153263937218371953324076003770504324655931075031543577296557431289410836062869590328603805318102664301997780787427920225312857511048049161030043004056854048863269934052702912487071549140763817313403759015709222780886349773287020465799274687582482597790617027070868052630023318099577724830041809576454757360155006751946068401872285237472307798800004447418629317535813319173854025167736492316806876993705016081058225802377126069526595191203225461983086924370688000000000000000000000000000000",
+      "inherited_upper": "58905168827072039397818131794805178777064436546461397718560401069104385889025/3794275180128377091639574036764685364535950857523710002444946112771297432041422848",
+      "inherited_upper_minus_rederived_upper": "659241124291769488366304257557199600795746869407810102852984093638002536971771824799246170810576257620726566342000816621595298393197698473768346393730244128137747617936728905152495779395427174845520018354267430366481733617373572277705199603980982888638128692873142747279164590606403370108189781003930096963273723057428929555789318090429774989370098787976144779634619375682814153177971670446008284670398681532761200276016319957001844887782552641104136125032772247426252820911945188549078659013122309924950222524391195888006908916586922522954723482627989268442578578770467390809767473544635200655624505773144497174265398282275011618892956505135253232863950954439781746609351138388281674274862755139296052214942695495981205376295437747180354956167299436955426384256641691356263621094931105685721624208924362440615357369860329959746551205347841960065482625464233440158707185094315181405753771682180892270629949770939108733616994154549568884271187435231983404884506530690992726414231036452735570562184629108737928897320238845841616630426479587664754218058861159787602647122645771762978947441081348541853573552158418702521682463662433541457797204574566895127745333035685683169286739797862370082061120963378525580923928272153073509901671625444783252018535257525575936976864557182764369841521370943401648537055543973332170356586482696805002619778344812591723827656591908610157163169132366441405426174018506537203769125918580893597868435165008164230334423794779567857938873728680792683174359878298538359220973753952820401115019445822767123151297568295891181113156739743350329062033704207084272256460150437091642109894167079152810996566336654497945375946584925894870703068140036093675151623538008525328213513775125927628668260095874685293246918707152016421406300672268359620847908016089607261940948062630282267860627758440551970160893310325331923367494890534080523/1169796365656537089348418005136451194328928438341880108501133436681652101054588063102575722098083814376853443533559159815881830705612833730242974644666252616823069701853856580194078879884695384001176379203912669713070208359106178989700087076007457830816686356974622570704191501273699317646305306693724398806969035063043281986243100443932547505349638904374352026253041549899658329949188588361616839804470434711569046478951024225643556403922640296591333740734478592006496749272352229339400271998344846182130005791928991143798880244983931339015836174849581996318493978416510463132247080585148431377720866805853630654236531010582218185014241088947897392733052750528914993266881026246423009315113716730371926234919254451105227398647380723621302065334649276942254105788747298742911210865333062043722094802786059174268184100712155177030200205440014576751421613125060159634181916643099031246318099145777806687817182342060359649175432940847183911876175787618178070152463541166320713810181014251418493303341702959829868269330264284590879649467794269084643388009533050193779348164642948533447319018253500506977018728770913010804956657165437042028171918690954543389238627696043941287150352601013328380317201340422939110043562158238413318847004058354087271063310501662482508755122163611193797328579438146080421040965538047544557999432132837332270086450658032646755575823489076202835799712441674279357627932283688198546518884225570996097830720494048653244267645601144099972547186064233818635584175922137429149944505416174061893878639669674821792368586463184283646666586396991011141674520758633182488078327673445989641763647509603405983899448211850004306270530120463413656477680655831323747434851785617033430628913450273855891621409744201836965888994966181048304744321318037990488449154963638460921539043460849395852912240791117667986863464500255004870147820513489463007751319832388200461086344787223371758554954434871296000000000000000000000000000000"
+    }
+  },
+  "rows": [
+    {
+      "row": 0,
+      "mR": "100",
+      "lane": 0,
+      "g_lower": "10322605480349274965114764577210627591324379878143375103018371841/803469022129495137770981046170581301261101496891396417650688",
+      "g_upper": "10322605480349274965114764578313894332317413403771591823534033665/803469022129495137770981046170581301261101496891396417650688",
+      "components": {
+        "packet_kinetic": "3/400",
+        "dressed_packet_kinetic": "2064521096069854993022952915662778866463482680754318364706806733/33772454463405157234187859630839416670683252940059702773953573870752497664",
+        "signed_paid_kernel": "51613027401746374825573822891569471661587067018857959117670168325/1209579453612491371743382423349556055232397963378017038431957597066303002116096",
+        "massive_recoil": "837709086232425292697395019020271766781241807703657560700464793521485650200394198152154426758897949949766905653388532845390649424776807357835/61102860327965743951424764789272383105412530092330852885188890916680415917640570182405082708030917416961642989182172309079105315470810400645328142336",
+        "full_source_one_boson_CT": "185858511673688695746891336232541667453375028334907510782730276138325/84612829139793038096456732704838836412948049379371250714891951787261702766067712",
+        "normal_vacuum_gate": "2660660123492169228254295847549305313762717/23789702660030325391043749478400000000000000000000",
+        "dressed_correlated_gate": "2064521096069854993022952915662778866463482680754318364706806733/337724544634051572341878596308394166706832529400597027739535738707524976640000"
+      },
+      "A": "47383042036634840157201490994354023269728744848230059319905328650476224188285425557021522638376851010137198666649817014661679115556017123127178993123208100766584125285043703948284898167/6317633127107971640313076858090116890910165289495980579482406104883453877129779421817983752352860079981808019009238538281912431603781136515668742397560523939945801318400000000000000000000",
+      "B": "11830665882789941592593275879853506097008661280168794987809591245220845/1209579453612491371743382423349556055232397963378017038431957597066303002116096",
+      "kappa_upper_used": "5/4584392",
+      "inherited_retarded_kappa_upper": "1397567382143039561/1982041545880347158249472",
+      "retarded_numerical_lower_required_for_certificate": false,
+      "D_min": "1",
+      "D_max": "6332335263501494383156598506356213517322581587848261288974254218436261637/6332335211888466981410223680782390625753109926261194270116295100766093312",
+      "F_full_upper": "2664467716257450465370908882262598549436633397065954708525547650525330185/1213009518548072994150803720056569558816023235902666250248691020822183770854346719232",
+      "C_cross_lower": "61935632882095649790688587463263765547946279268860250618110231046/6332335263501494383156598506356213517322581587848261288974254218436261637",
+      "C_cross_upper": "3390171053362224105975055418420507248524385781431337834834039469232955529265/346574148156592284043086777159019873947435210257904642928197434520623934529813348352",
+      "gap_at_r0": "47372017441657607893223518644942210114325087978940529139101449041394132684980944126250649669830788003169239891712579119580661763756077185815508143436012833827910563685043703948284898167/6317633127107971640313076858090116890910165289495980579482406104883453877129779421817983752352860079981808019009238538281912431603781136515668742397560523939945801318400000000000000000000",
+      "gap_at_r_infinity": "47380332231563827159784782121966029081441309258857492427766994649521555372662843514141824982909972668916517543240238910229812123888560378171081098522441119208449750885043703948284898167/6317633127107971640313076858090116890910165289495980579482406104883453877129779421817983752352860079981808019009238538281912431603781136515668742397560523939945801318400000000000000000000",
+      "positive_gate_gap_lower": "47383042036634840157201490994354023269728744848230059319905328650476224188285425557021522638376851010137198666649817014661679115556017123127178993123208100766584125285043703948284898167/6317633127107971640313076858090116890910165289495980579482406104883453877129779421817983752352860079981808019009238538281912431603781136515668742397560523939945801318400000000000000000000",
+      "changed_paid_epsilon_gap_lower": "47383042036634840157201490994354023269728744848230059319905328650476224188285425557021522638376851010137198666649817014661679115556017123127178993123208100766584125285043703948284898167/6317633127107971640313076858090116890910165289495980579482406104883453877129779421817983752352860079981808019009238538281912431603781136515668742397560523939945801318400000000000000000000",
+      "classification": "NONCERTIFYING_UPPER_ALL_POSITIVE_TAU",
+      "omitted_variance_lower_at_r1": "125910334700961210816898343390165036531603078546966274724847126945266057848/51910411796539136907477794120441736405558247347097293141974090318823948561403238797"
+    },
+    {
+      "row": 1,
+      "mR": "100",
+      "lane": 1,
+      "g_lower": "12314707036572187748666479544924252658733777163498234054717600657957/4820814132776970826625886277023487807566608981348378505904128",
+      "g_upper": "12314707036572187748666479544930872259179735364652003355040694628901/4820814132776970826625886277023487807566608981348378505904128",
+      "components": {
+        "packet_kinetic": "3/400",
+        "dressed_packet_kinetic": "12314707036572187748666479544930872259179735364652003355040694628901/1013173633902154717025635788925182500120497588201791083218607216122574929920",
+        "signed_paid_kernel": "61573535182860938743332397724654361295898676823260016775203473144505/7257476721674948230460294540097336331394387780268102230591745582397818012696576",
+        "massive_recoil": "333124616598826917255179948129329346641747520357675928487778315892905771875346245438030582476313904807972823597761548609807660475300676029648733/122205720655931487902849529578544766210825060184661705770377781833360831835281140364810165416061834833923285978364344618158210630941620801290656284672",
+        "full_source_one_boson_CT": "221726300193482240414739964206480355026531135240559320407507706793362505/507676974838758228578740396229033018477688296276227504289351710723570216596406272",
+        "normal_vacuum_gate": "2660660123492169228254295847549305313762717/23789702660030325391043749478400000000000000000000",
+        "dressed_correlated_gate": "12314707036572187748666479544930872259179735364652003355040694628901/10131736339021547170256357889251825001204975882017910832186072161225749299200000"
+      },
+      "A": "94800512152980902137102682149380365335942315097876215861313940096924762415654849425832870914178561965910237204650742988164342472905972945668133514777930663506760109849947380034020968209/12635266254215943280626153716180233781820330578991961158964812209766907754259558843635967504705720159963616038018477076563824863207562273031337484795121047879891602636800000000000000000000",
+      "B": "4704599843888709457810803847029486060046693481093369493729551609773677931/2419158907224982743486764846699112110464795926756034076863915194132606004232192",
+      "kappa_upper_used": "5/4584392",
+      "inherited_retarded_kappa_upper": "1397567382143039561/1982041545880347158249472",
+      "retarded_numerical_lower_required_for_certificate": false,
+      "D_min": "1",
+      "D_max": "37994072844865984749400085417092068408879955456243988880714545808069704377/37994011271330801888461342084694343754518659557567165620697770604596559872",
+      "F_full_upper": "3178668350406124727735401864862418274038200687426276699230060679955896531789/7278057111288437964904822320339417352896139415415997501492146124933102625126080315392",
+      "C_cross_lower": "73888242219433126491998877269545515952402662980989404328305603947742/37994072844865984749400085417092068408879955456243988880714545808069704377",
+      "C_cross_upper": "4044421091700049352400947351994886665331183941456011554171209813214848346155541/2079444888939553704258520662954119243684611261547427857569184607123743607178880090112",
+      "gap_at_r0": "94778462963026437609146737450556739025135001359297155499706180878760579409045886564291124977086435951974319654776267198002307769306093071044791815403540129629412986649947380034020968209/12635266254215943280626153716180233781820330578991961158964812209766907754259558843635967504705720159963616038018477076563824863207562273031337484795121047879891602636800000000000000000000",
+      "gap_at_r_infinity": "94813428948183203322463607091991013402156006527097836359954333559796956474768764408783507214192940116843057004545548094054848037135084244708255690730877789027455405849947380034020968209/12635266254215943280626153716180233781820330578991961158964812209766907754259558843635967504705720159963616038018477076563824863207562273031337484795121047879891602636800000000000000000000",
+      "positive_gate_gap_lower": "94800512152980902137102682149380365335942315097876215861313940096924762415654849425832870914178561965910237204650742988164342472905972945668133514777930663506760109849947380034020968209/12635266254215943280626153716180233781820330578991961158964812209766907754259558843635967504705720159963616038018477076563824863207562273031337484795121047879891602636800000000000000000000",
+      "changed_paid_epsilon_gap_lower": "94800512152980902137102682149380365335942315097876215861313940096924762415654849425832870914178561965910237204650742988164342472905972945668133514777930663506760109849947380034020968209/12635266254215943280626153716180233781820330578991961158964812209766907754259558843635967504705720159963616038018477076563824863207562273031337484795121047879891602636800000000000000000000",
+      "classification": "NONCERTIFYING_UPPER_ALL_POSITIVE_TAU",
+      "omitted_variance_lower_at_r1": "150209061817852411514420420472123389964650515964872178449796564371225893847896/311462973000281834286319711362762139657258348652148238517901399930136084915079024737"
+    },
+    {
+      "row": 2,
+      "mR": "100",
+      "lane": 2,
+      "g_lower": "15795019379727689711177778134347777111915117973250027124803583453111/6427752177035961102167848369364650410088811975131171341205504",
+      "g_upper": "15795019379727689711177778134356603245843062241455052858567708747703/6427752177035961102167848369364650410088811975131171341205504",
+      "components": {
+        "packet_kinetic": "3/400",
+        "dressed_packet_kinetic": "15795019379727689711177778134356603245843062241455052858567708747703/1350898178536206289367514385233576666827330117602388110958142954830099906560",
+        "signed_paid_kernel": "78975096898638448555888890671783016229215311207275264292838543738515/9676635628899930973947059386796448441859183707024136307455660776530424016928768",
+        "massive_recoil": "1281811193579339168875747547484293774255136728232583515498417113292789635404886563608630035811801027600723352136025920753093557035319814413077597/488822882623725951611398118314179064843300240738646823081511127333443327341124561459240661664247339335693143913457378472632842523766483205162625138688",
+        "full_source_one_boson_CT": "284389323931997053249755895309090641441404335657398226718511596002392515/676902633118344304771653861638710691303584395034970005719135614298093622128541696",
+        "normal_vacuum_gate": "2660660123492169228254295847549305313762717/23789702660030325391043749478400000000000000000000",
+        "dressed_correlated_gate": "15795019379727689711177778134356603245843062241455052858567708747703/13508981785362062893675143852335766668273301176023881109581429548300999065600000"
+      },
+      "A": "379196783655854510342314582433774333406203112848342624838794507944214047078819372077315174416956587955271212847281002101438295154907281558147618723589171373110985807218298858057226450961/50541065016863773122504614864720935127281322315967844635859248839067631017038235374543870018822880639854464152073908306255299452830249092125349939180484191519566410547200000000000000000000",
+      "B": "18102561145970247084152873275339162483838012733495945895834441021781174379/9676635628899930973947059386796448441859183707024136307455660776530424016928768",
+      "kappa_upper_used": "5/4584392",
+      "inherited_retarded_kappa_upper": "1397567382143039561/1982041545880347158249472",
+      "retarded_numerical_lower_required_for_certificate": false,
+      "D_min": "1",
+      "D_max": "50658760670204634489730345335149796789041108625400761436194653644672485011/50658681695107735851281789446259125006024879410089554160930360806128746496",
+      "F_full_upper": "4077005490044284172937707915751126644913401768572021151332057967399677824367/9704076148384583953206429760452556470528185887221330001989528166577470166834773753856",
+      "C_cross_lower": "94770116278366138267066668806086662671490707839500162748821500718666/50658760670204634489730345335149796789041108625400761436194653644672485011",
+      "C_cross_upper": "5187432338704116124560568690639964166026950243340421510340798681711278404367623/2772593185252738272344694217272158991579481682063237143425579476164991476238506786816",
+      "gap_at_r0": "379108586896036652230490803638479828162973857894026383392363471071557315052383520631148190668588083899527542647783098940790156340507762059654251926091609237601597314418298858057226450961/50541065016863773122504614864720935127281322315967844635859248839067631017038235374543870018822880639854464152073908306255299452830249092125349939180484191519566410547200000000000000000000",
+      "gap_at_r_infinity": "379245646719518267878829315942531241106168503734930309669891012628666854700103104130382292248362149575320269499003474068317207358812611383555543929397886384691741775218298858057226450961/50541065016863773122504614864720935127281322315967844635859248839067631017038235374543870018822880639854464152073908306255299452830249092125349939180484191519566410547200000000000000000000",
+      "positive_gate_gap_lower": "379196783655854510342314582433774333406203112848342624838794507944214047078819372077315174416956587955271212847281002101438295154907281558147618723589171373110985807218298858057226450961/50541065016863773122504614864720935127281322315967844635859248839067631017038235374543870018822880639854464152073908306255299452830249092125349939180484191519566410547200000000000000000000",
+      "changed_paid_epsilon_gap_lower": "379196783655854510342314582433774333406203112848342624838794507944214047078819372077315174416956587955271212847281002101438295154907281558147618723589171373110985807218298858057226450961/50541065016863773122504614864720935127281322315967844635859248839067631017038235374543870018822880639854464152073908306255299452830249092125349939180484191519566410547200000000000000000000",
+      "classification": "NONCERTIFYING_UPPER_ALL_POSITIVE_TAU",
+      "omitted_variance_lower_at_r1": "192660291095653762544223354104474807213077349300886991581722849426734200894408/415283938399453782836052827010653278180223816364401284702091236781188711567056684491"
+    },
+    {
+      "row": 3,
+      "mR": "100",
+      "lane": 3,
+      "g_lower": "15106485681642569419946349900230600155610324548892502847261474398633/6427752177035961102167848369364650410088811975131171341205504",
+      "g_upper": "15106485681642569419946349900239426289538268817097528581025599693225/6427752177035961102167848369364650410088811975131171341205504",
+      "components": {
+        "packet_kinetic": "3/400",
+        "dressed_packet_kinetic": "3021297136328513883989269980047885257907653763419505716205119938645/270179635707241257873502877046715333365466023520477622191628590966019981312",
+        "signed_paid_kernel": "75532428408212847099731749501197131447691344085487642905127998466125/9676635628899930973947059386796448441859183707024136307455660776530424016928768",
+        "massive_recoil": "1225934706178834305496096178899759192999861243034810110344752627455294302658131404094855531276046875120319821280147441759985155000833643766254275/488822882623725951611398118314179064843300240738646823081511127333443327341124561459240661664247339335693143913457378472632842523766483205162625138688",
+        "full_source_one_boson_CT": "271992274697974462406134029953810870343136530051841002101365922476516125/676902633118344304771653861638710691303584395034970005719135614298093622128541696",
+        "normal_vacuum_gate": "2660660123492169228254295847549305313762717/23789702660030325391043749478400000000000000000000",
+        "dressed_correlated_gate": "604259427265702776797853996009577051581530752683901143241023987729/540359271414482515747005754093430666730932047040955244383257181932039962624000"
+      },
+      "A": "379190979688998228879875697172349064698865088389307850680666194661993364028425090848884242110678765268009054774355324103894036907213480778418335518442253801631032000188523287439550669711/50541065016863773122504614864720935127281322315967844635859248839067631017038235374543870018822880639854464152073908306255299452830249092125349939180484191519566410547200000000000000000000",
+      "B": "17313437494330777314214571996215104794455783123393757824013372629207319925/9676635628899930973947059386796448441859183707024136307455660776530424016928768",
+      "kappa_upper_used": "5/4584392",
+      "inherited_retarded_kappa_upper": "1397567382143039561/1982041545880347158249472",
+      "retarded_numerical_lower_required_for_certificate": false,
+      "D_min": "1",
+      "D_max": "16886252409178714688042963059336208734385442367144546549524421978042404207/16886227231702578617093929815419708335341626470029851386976786935376248832",
+      "F_full_upper": "3899281386028533027837462232934981739394041900667611960002939093853732407025/9704076148384583953206429760452556470528185887221330001989528166577470166834773753856",
+      "C_cross_lower": "10070990454428379613297566600153733437073549699261668564840982932422/5628750803059571562680987686445402911461814122381515516508140659347468069",
+      "C_cross_upper": "4961302703414243705247589723512540154098998259190899356322962753653741150107225/2772593185252738272344694217272158991579481682063237143425579476164991476238506786816",
+      "gap_at_r0": "379102782929180370768051918377054559455635833434991609234235157789336632001989239402717258362310261212265384574857420943245898092813961279924968720944691666121643507388523287439550669711/50541065016863773122504614864720935127281322315967844635859248839067631017038235374543870018822880639854464152073908306255299452830249092125349939180484191519566410547200000000000000000000",
+      "gap_at_r_infinity": "379236751558213312928661656880271042507417072125825075795079731142629785127417564734723838193632071239949750753904223190866725527743469706365998261023214134616747916988523287439550669711/50541065016863773122504614864720935127281322315967844635859248839067631017038235374543870018822880639854464152073908306255299452830249092125349939180484191519566410547200000000000000000000",
+      "positive_gate_gap_lower": "379190979688998228879875697172349064698865088389307850680666194661993364028425090848884242110678765268009054774355324103894036907213480778418335518442253801631032000188523287439550669711/50541065016863773122504614864720935127281322315967844635859248839067631017038235374543870018822880639854464152073908306255299452830249092125349939180484191519566410547200000000000000000000",
+      "changed_paid_epsilon_gap_lower": "379190979688998228879875697172349064698865088389307850680666194661993364028425090848884242110678765268009054774355324103894036907213480778418335518442253801631032000188523287439550669711/50541065016863773122504614864720935127281322315967844635859248839067631017038235374543870018822880639854464152073908306255299452830249092125349939180484191519566410547200000000000000000000",
+      "classification": "NONCERTIFYING_UPPER_ALL_POSITIVE_TAU",
+      "omitted_variance_lower_at_r1": "6824513988047248886145135215791189648670336128753237698567021287748858287912/15380885562132753671651470625090291148442791801915646803018796399079355425253707663"
+    },
+    {
+      "row": 4,
+      "mR": "1000",
+      "lane": 0,
+      "g_lower": "10322605480349274965114764577210627591324379878143375103018371841/803469022129495137770981046170581301261101496891396417650688",
+      "g_upper": "10322605480349274965114764578313894332317413403771591823534033665/803469022129495137770981046170581301261101496891396417650688",
+      "components": {
+        "packet_kinetic": "3/4000",
+        "dressed_packet_kinetic": "2064521096069854993022952915662778866463482680754318364706806733/337724544634051572341878596308394166706832529400597027739535738707524976640",
+        "signed_paid_kernel": "51613027401746374825573822891569471661587067018857959117670168325/1209579453612491371743382423349556055232397963378017038431957597066303002116096",
+        "massive_recoil": "2902143894727486821555615096719886968054971521102450246287243784389352103574912605140102755258850604872011817032614451655364265896078790538165/1955291530494903806445592473256716259373200962954587292326044509333773309364498245836962646656989357342772575653829513890531370095065932820650500554752",
+        "full_source_one_boson_CT": "185858511673688695746891336232541667453375028334907510782730276138325/84612829139793038096456732704838836412948049379371250714891951787261702766067712",
+        "normal_vacuum_gate": "2660660123492169228254295847549305313762717/23789702660030325391043749478400000000000000000000",
+        "dressed_correlated_gate": "2064521096069854993022952915662778866463482680754318364706806733/337724544634051572341878596308394166706832529400597027739535738707524976640000"
+      },
+      "A": "151646107021833556231297697593117517389443972928906949160762426403381711800093994776170088990373280272428413951296567630508736711466072386966058339920993946768665861924460016976220256969/202164260067455092490018459458883740509125289263871378543436995356270524068152941498175480075291522559417856608295633225021197811320996368501399756721936766078265642188800000000000000000000",
+      "B": "11830665882789941592593275879853506097008661280168794987809591245220845/1209579453612491371743382423349556055232397963378017038431957597066303002116096",
+      "kappa_upper_used": "5/4584392",
+      "inherited_retarded_kappa_upper": "1397567382143039561/1982041545880347158249472",
+      "retarded_numerical_lower_required_for_certificate": false,
+      "D_min": "1",
+      "D_max": "6332335263501494383156598506356213517322581587848261288974254218436261637/6332335211888466981410223680782390625753109926261194270116295100766093312",
+      "F_full_upper": "2664467716257450465370908882262598549436633397065954708525547650525330185/1213009518548072994150803720056569558816023235902666250248691020822183770854346719232",
+      "C_cross_lower": "61935632882095649790688587463263765547946279268860250618110231046/6332335263501494383156598506356213517322581587848261288974254218436261637",
+      "C_cross_upper": "3390171053362224105975055418420507248524385781431337834834039469232955529265/346574148156592284043086777159019873947435210257904642928197434520623934529813348352",
+      "gap_at_r0": "151293319982562123784002582411939496416526953111641983375038278912754783694350588991502153996899264049453733153304954987916181453867994392992591149930745404731111890724460016976220256969/202164260067455092490018459458883740509125289263871378543436995356270524068152941498175480075291522559417856608295633225021197811320996368501399756721936766078265642188800000000000000000000",
+      "gap_at_r_infinity": "151559393259561140313963013676701703364246034068984808612335738372832309700171369404019764015433173353366618002190068288688992978107456548370925712696450536908365881124460016976220256969/202164260067455092490018459458883740509125289263871378543436995356270524068152941498175480075291522559417856608295633225021197811320996368501399756721936766078265642188800000000000000000000",
+      "positive_gate_gap_lower": "151646107021833556231297697593117517389443972928906949160762426403381711800093994776170088990373280272428413951296567630508736711466072386966058339920993946768665861924460016976220256969/202164260067455092490018459458883740509125289263871378543436995356270524068152941498175480075291522559417856608295633225021197811320996368501399756721936766078265642188800000000000000000000",
+      "changed_paid_epsilon_gap_lower": "151646107021833556231297697593117517389443972928906949160762426403381711800093994776170088990373280272428413951296567630508736711466072386966058339920993946768665861924460016976220256969/202164260067455092490018459458883740509125289263871378543436995356270524068152941498175480075291522559417856608295633225021197811320996368501399756721936766078265642188800000000000000000000",
+      "classification": "NONCERTIFYING_UPPER_ALL_POSITIVE_TAU",
+      "omitted_variance_lower_at_r1": "125910334700961210816898343390165036531603078546966274724847126945266057848/51910411796539136907477794120441736405558247347097293141974090318823948561403238797"
+    },
+    {
+      "row": 5,
+      "mR": "1000",
+      "lane": 1,
+      "g_lower": "12314707036572187748666479544924252658733777163498234054717600657957/4820814132776970826625886277023487807566608981348378505904128",
+      "g_upper": "12314707036572187748666479544930872259179735364652003355040694628901/4820814132776970826625886277023487807566608981348378505904128",
+      "components": {
+        "packet_kinetic": "3/4000",
+        "dressed_packet_kinetic": "12314707036572187748666479544930872259179735364652003355040694628901/10131736339021547170256357889251825001204975882017910832186072161225749299200",
+        "signed_paid_kernel": "61573535182860938743332397724654361295898676823260016775203473144505/7257476721674948230460294540097336331394387780268102230591745582397818012696576",
+        "massive_recoil": "1154070772460841038202201705125716424146212992453687898956149277969689499555400299250385359265846780626762589728435916578809570767354534568052067/3910583060989807612891184946513432518746401925909174584652089018667546618728996491673925293313978714685545151307659027781062740190131865641301001109504",
+        "full_source_one_boson_CT": "221726300193482240414739964206480355026531135240559320407507706793362505/507676974838758228578740396229033018477688296276227504289351710723570216596406272",
+        "normal_vacuum_gate": "2660660123492169228254295847549305313762717/23789702660030325391043749478400000000000000000000",
+        "dressed_correlated_gate": "12314707036572187748666479544930872259179735364652003355040694628901/10131736339021547170256357889251825001204975882017910832186072161225749299200000"
+      },
+      "A": "303411605807903081887032230817358472750795391589501367558079915603647099843256776062368573978919333124390816030661088207175887554023475092420000971340786185422739191096753126268114342063/404328520134910184980036918917767481018250578527742757086873990712541048136305882996350960150583045118835713216591266450042395622641992737002799513443873532156531284377600000000000000000000",
+      "B": "4704599843888709457810803847029486060046693481093369493729551609773677931/2419158907224982743486764846699112110464795926756034076863915194132606004232192",
+      "kappa_upper_used": "5/4584392",
+      "inherited_retarded_kappa_upper": "1397567382143039561/1982041545880347158249472",
+      "retarded_numerical_lower_required_for_certificate": false,
+      "D_min": "1",
+      "D_max": "37994072844865984749400085417092068408879955456243988880714545808069704377/37994011271330801888461342084694343754518659557567165620697770604596559872",
+      "F_full_upper": "3178668350406124727735401864862418274038200687426276699230060679955896531789/7278057111288437964904822320339417352896139415415997501492146124933102625126080315392",
+      "C_cross_lower": "73888242219433126491998877269545515952402662980989404328305603947742/37994072844865984749400085417092068408879955456243988880714545808069704377",
+      "C_cross_upper": "4044421091700049352400947351994886665331183941456011554171209813214848346155541/2079444888939553704258520662954119243684611261547427857569184607123743607178880090112",
+      "gap_at_r0": "302706031729360216992442000455002430804961351954971435986631620622393243631769964493032703991971300678441454434677862921990777038827319104473066591360289101347631248696753126268114342063/404328520134910184980036918917767481018250578527742757086873990712541048136305882996350960150583045118835713216591266450042395622641992737002799513443873532156531284377600000000000000000000",
+      "gap_at_r_infinity": "303824943254376719818581828980899210869633517324593223514572506415557309734902055516788935579379433954241049627294851595672065609355036661703910601835094202084988663096753126268114342063/404328520134910184980036918917767481018250578527742757086873990712541048136305882996350960150583045118835713216591266450042395622641992737002799513443873532156531284377600000000000000000000",
+      "positive_gate_gap_lower": "303411605807903081887032230817358472750795391589501367558079915603647099843256776062368573978919333124390816030661088207175887554023475092420000971340786185422739191096753126268114342063/404328520134910184980036918917767481018250578527742757086873990712541048136305882996350960150583045118835713216591266450042395622641992737002799513443873532156531284377600000000000000000000",
+      "changed_paid_epsilon_gap_lower": "303411605807903081887032230817358472750795391589501367558079915603647099843256776062368573978919333124390816030661088207175887554023475092420000971340786185422739191096753126268114342063/404328520134910184980036918917767481018250578527742757086873990712541048136305882996350960150583045118835713216591266450042395622641992737002799513443873532156531284377600000000000000000000",
+      "classification": "NONCERTIFYING_UPPER_ALL_POSITIVE_TAU",
+      "omitted_variance_lower_at_r1": "150209061817852411514420420472123389964650515964872178449796564371225893847896/311462973000281834286319711362762139657258348652148238517901399930136084915079024737"
+    },
+    {
+      "row": 6,
+      "mR": "1000",
+      "lane": 2,
+      "g_lower": "15795019379727689711177778134347777111915117973250027124803583453111/6427752177035961102167848369364650410088811975131171341205504",
+      "g_upper": "15795019379727689711177778134356603245843062241455052858567708747703/6427752177035961102167848369364650410088811975131171341205504",
+      "components": {
+        "packet_kinetic": "3/4000",
+        "dressed_packet_kinetic": "15795019379727689711177778134356603245843062241455052858567708747703/13508981785362062893675143852335766668273301176023881109581429548300999065600",
+        "signed_paid_kernel": "78975096898638448555888890671783016229215311207275264292838543738515/9676635628899930973947059386796448441859183707024136307455660776530424016928768",
+        "massive_recoil": "4440683037556912531540460944646700645425487168914756529578699005578737810114654624853257247412002307480980084790970063515100220742520394772629603/15642332243959230451564739786053730074985607703636698338608356074670186474915985966695701173255914858742180605230636111124250960760527462565204004438016",
+        "full_source_one_boson_CT": "284389323931997053249755895309090641441404335657398226718511596002392515/676902633118344304771653861638710691303584395034970005719135614298093622128541696",
+        "normal_vacuum_gate": "2660660123492169228254295847549305313762717/23789702660030325391043749478400000000000000000000",
+        "dressed_correlated_gate": "15795019379727689711177778134356603245843062241455052858567708747703/13508981785362062893675143852335766668273301176023881109581429548300999065600000"
+      },
+      "A": "1213628165100488342150300779777458368971945835433545946082418028814391161765032413875362376754367850867065045446153999653566330577819955806951208617617973518529959787477044758948189790127/1617314080539640739920147675671069924073002314110971028347495962850164192545223531985403840602332180475342852866365065800169582490567970948011198053775494128626125137510400000000000000000000",
+      "B": "18102561145970247084152873275339162483838012733495945895834441021781174379/9676635628899930973947059386796448441859183707024136307455660776530424016928768",
+      "kappa_upper_used": "5/4584392",
+      "inherited_retarded_kappa_upper": "1397567382143039561/1982041545880347158249472",
+      "retarded_numerical_lower_required_for_certificate": false,
+      "D_min": "1",
+      "D_max": "50658760670204634489730345335149796789041108625400761436194653644672485011/50658681695107735851281789446259125006024879410089554160930360806128746496",
+      "F_full_upper": "4077005490044284172937707915751126644913401768572021151332057967399677824367/9704076148384583953206429760452556470528185887221330001989528166577470166834773753856",
+      "C_cross_lower": "94770116278366138267066668806086662671490707839500162748821500718666/50658760670204634489730345335149796789041108625400761436194653644672485011",
+      "C_cross_upper": "5187432338704116124560568690639964166026950243340421510340798681711278404367623/2772593185252738272344694217272158991579481682063237143425579476164991476238506786816",
+      "gap_at_r0": "1210805868786316882571939858328034201188609676895426219796624848889375736919085167598018896806575721083267599062221098512825888517035331855163471097695985182229528017877044758948189790127/1617314080539640739920147675671069924073002314110971028347495962850164192545223531985403840602332180475342852866365065800169582490567970948011198053775494128626125137510400000000000000000000",
+      "gap_at_r_infinity": "1215191783137728583318772252057679415370838343804351860677506178716881005646111839573510147359345822708634858301273102593691521102790510220004815203496853889114150763477044758948189790127/1617314080539640739920147675671069924073002314110971028347495962850164192545223531985403840602332180475342852866365065800169582490567970948011198053775494128626125137510400000000000000000000",
+      "positive_gate_gap_lower": "1213628165100488342150300779777458368971945835433545946082418028814391161765032413875362376754367850867065045446153999653566330577819955806951208617617973518529959787477044758948189790127/1617314080539640739920147675671069924073002314110971028347495962850164192545223531985403840602332180475342852866365065800169582490567970948011198053775494128626125137510400000000000000000000",
+      "changed_paid_epsilon_gap_lower": "1213628165100488342150300779777458368971945835433545946082418028814391161765032413875362376754367850867065045446153999653566330577819955806951208617617973518529959787477044758948189790127/1617314080539640739920147675671069924073002314110971028347495962850164192545223531985403840602332180475342852866365065800169582490567970948011198053775494128626125137510400000000000000000000",
+      "classification": "NONCERTIFYING_UPPER_ALL_POSITIVE_TAU",
+      "omitted_variance_lower_at_r1": "192660291095653762544223354104474807213077349300886991581722849426734200894408/415283938399453782836052827010653278180223816364401284702091236781188711567056684491"
+    },
+    {
+      "row": 7,
+      "mR": "1000",
+      "lane": 3,
+      "g_lower": "15106485681642569419946349900230600155610324548892502847261474398633/6427752177035961102167848369364650410088811975131171341205504",
+      "g_upper": "15106485681642569419946349900239426289538268817097528581025599693225/6427752177035961102167848369364650410088811975131171341205504",
+      "components": {
+        "packet_kinetic": "3/4000",
+        "dressed_packet_kinetic": "604259427265702776797853996009577051581530752683901143241023987729/540359271414482515747005754093430666730932047040955244383257181932039962624",
+        "signed_paid_kernel": "75532428408212847099731749501197131447691344085487642905127998466125/9676635628899930973947059386796448441859183707024136307455660776530424016928768",
+        "massive_recoil": "4247105566053636715907879211891103822466063281595890051244262106690327751894518736812034123309730243804968591746999102542010706231436338808985725/15642332243959230451564739786053730074985607703636698338608356074670186474915985966695701173255914858742180605230636111124250960760527462565204004438016",
+        "full_source_one_boson_CT": "271992274697974462406134029953810870343136530051841002101365922476516125/676902633118344304771653861638710691303584395034970005719135614298093622128541696",
+        "normal_vacuum_gate": "2660660123492169228254295847549305313762717/23789702660030325391043749478400000000000000000000",
+        "dressed_correlated_gate": "604259427265702776797853996009577051581530752683901143241023987729/540359271414482515747005754093430666730932047040955244383257181932039962624000"
+      },
+      "A": "1213608037755357539763401114187671327154025960861487894389140204866178554722916702556467300111260956363596487247876003519757313513128709765241116811252912359570203810984972661597115571377/1617314080539640739920147675671069924073002314110971028347495962850164192545223531985403840602332180475342852866365065800169582490567970948011198053775494128626125137510400000000000000000000",
+      "B": "17313437494330777314214571996215104794455783123393757824013372629207319925/9676635628899930973947059386796448441859183707024136307455660776530424016928768",
+      "kappa_upper_used": "5/4584392",
+      "inherited_retarded_kappa_upper": "1397567382143039561/1982041545880347158249472",
+      "retarded_numerical_lower_required_for_certificate": false,
+      "D_min": "1",
+      "D_max": "16886252409178714688042963059336208734385442367144546549524421978042404207/16886227231702578617093929815419708335341626470029851386976786935376248832",
+      "F_full_upper": "3899281386028533027837462232934981739394041900667611960002939093853732407025/9704076148384583953206429760452556470528185887221330001989528166577470166834773753856",
+      "C_cross_lower": "10070990454428379613297566600153733437073549699261668564840982932422/5628750803059571562680987686445402911461814122381515516508140659347468069",
+      "C_cross_upper": "4961302703414243705247589723512540154098998259190899356322962753653741150107225/2772593185252738272344694217272158991579481682063237143425579476164991476238506786816",
+      "gap_at_r0": "1210785741441186080185040192738247159370689802323368168103347024941163129876969456279123820163468826579799040863943102379016871452344085813453379291330924023269772041384972661597115571377/1617314080539640739920147675671069924073002314110971028347495962850164192545223531985403840602332180475342852866365065800169582490567970948011198053775494128626125137510400000000000000000000",
+      "gap_at_r_infinity": "1215072737570240229324551824841174617027689440430039098050373372246544029890675866903334374765766747465698758593440774302883349370088355459566324573843643015113113148584972661597115571377/1617314080539640739920147675671069924073002314110971028347495962850164192545223531985403840602332180475342852866365065800169582490567970948011198053775494128626125137510400000000000000000000",
+      "positive_gate_gap_lower": "1213608037755357539763401114187671327154025960861487894389140204866178554722916702556467300111260956363596487247876003519757313513128709765241116811252912359570203810984972661597115571377/1617314080539640739920147675671069924073002314110971028347495962850164192545223531985403840602332180475342852866365065800169582490567970948011198053775494128626125137510400000000000000000000",
+      "changed_paid_epsilon_gap_lower": "1213608037755357539763401114187671327154025960861487894389140204866178554722916702556467300111260956363596487247876003519757313513128709765241116811252912359570203810984972661597115571377/1617314080539640739920147675671069924073002314110971028347495962850164192545223531985403840602332180475342852866365065800169582490567970948011198053775494128626125137510400000000000000000000",
+      "classification": "NONCERTIFYING_UPPER_ALL_POSITIVE_TAU",
+      "omitted_variance_lower_at_r1": "6824513988047248886145135215791189648670336128753237698567021287748858287912/15380885562132753671651470625090291148442791801915646803018796399079355425253707663"
+    },
+    {
+      "row": 8,
+      "mR": "1000000",
+      "lane": 0,
+      "g_lower": "10322605480349274965114764577210627591324379878143375103018371841/803469022129495137770981046170581301261101496891396417650688",
+      "g_upper": "10322605480349274965114764578313894332317413403771591823534033665/803469022129495137770981046170581301261101496891396417650688",
+      "components": {
+        "packet_kinetic": "3/4000000",
+        "dressed_packet_kinetic": "2064521096069854993022952915662778866463482680754318364706806733/337724544634051572341878596308394166706832529400597027739535738707524976640000",
+        "signed_paid_kernel": "51613027401746374825573822891569471661587067018857959117670168325/1209579453612491371743382423349556055232397963378017038431957597066303002116096",
+        "massive_recoil": "1824164455665699321089544755347552197754827841448306482288907885897737952422052307958064496490497966667811320784242371582861026719395912079875/1001109263613390748900143346307438724799078893032748693670934788778891934394623101868524875088378550959499558734760711111952061488673757604173056284033024",
+        "full_source_one_boson_CT": "185858511673688695746891336232541667453375028334907510782730276138325/84612829139793038096456732704838836412948049379371250714891951787261702766067712",
+        "normal_vacuum_gate": "2660660123492169228254295847549305313762717/23789702660030325391043749478400000000000000000000",
+        "dressed_correlated_gate": "2064521096069854993022952915662778866463482680754318364706806733/337724544634051572341878596308394166706832529400597027739535738707524976640000"
+      },
+      "A": "89207929604543955570076955358123661560429076815016142365458603053105116811467282221868780104503448161236921374912138733868234366576294045464196212187365552070872687187995452707339927503/103508101154537007354889451242948475140672148103102145814239741622410508322894306047065845798549259550421942583447364211210853279396350140672716675441631624232072008800665600000000000000000000",
+      "B": "11830665882789941592593275879853506097008661280168794987809591245220845/1209579453612491371743382423349556055232397963378017038431957597066303002116096",
+      "kappa_upper_used": "5/4584392",
+      "inherited_retarded_kappa_upper": "1397567382143039561/1982041545880347158249472",
+      "retarded_numerical_lower_required_for_certificate": false,
+      "D_min": "1",
+      "D_max": "6332335263501494383156598506356213517322581587848261288974254218436261637/6332335211888466981410223680782390625753109926261194270116295100766093312",
+      "F_full_upper": "2664467716257450465370908882262598549436633397065954708525547650525330185/1213009518548072994150803720056569558816023235902666250248691020822183770854346719232",
+      "C_cross_lower": "61935632882095649790688587463263765547946279268860250618110231046/6332335263501494383156598506356213517322581587848261288974254218436261637",
+      "C_cross_upper": "3390171053362224105975055418420507248524385781431337834834039469232955529265/346574148156592284043086777159019873947435210257904642928197434520623934529813348352",
+      "gap_at_r0": "-91419034502429457445022017405023076573085069624646339925304912147882073329156479528113936554192858001799647196793534273520057523639638868951005062819887971156760567212004547292660072497/103508101154537007354889451242948475140672148103102145814239741622410508322894306047065845798549259550421942583447364211210853279396350140672716675441631624232072008800665600000000000000000000",
+      "gap_at_r_infinity": "44810483321067005894718790153226880659084380534880181570994331411811241651083091680902392935168705601597395432384475722159442886964984684756291073221139703597282517587995452707339927503/103508101154537007354889451242948475140672148103102145814239741622410508322894306047065845798549259550421942583447364211210853279396350140672716675441631624232072008800665600000000000000000000",
+      "positive_gate_gap_lower": "89207929604543955570076955358123661560429076815016142365458603053105116811467282221868780104503448161236921374912138733868234366576294045464196212187365552070872687187995452707339927503/103508101154537007354889451242948475140672148103102145814239741622410508322894306047065845798549259550421942583447364211210853279396350140672716675441631624232072008800665600000000000000000000",
+      "changed_paid_epsilon_gap_lower": "89207929604543955570076955358123661560429076815016142365458603053105116811467282221868780104503448161236921374912138733868234366576294045464196212187365552070872687187995452707339927503/103508101154537007354889451242948475140672148103102145814239741622410508322894306047065845798549259550421942583447364211210853279396350140672716675441631624232072008800665600000000000000000000",
+      "unique_zero": {
+        "r_lower": "379876576372755144659349977025323/1298074214633706907132624082305024",
+        "r_upper": "1519506305491020578637399908101293/5192296858534827628530496329220096",
+        "tau_lower": "420898980971158519242611602677515032548845700786178226591831431163888693993887072780892471068898283467495450852579742634362159582227/1663645578411154214071762491641077646385547068727809704170294374559122495676340238279498805479354039932145018616462435384957310699411865600",
+        "tau_upper": "107750139128616580926108570285444039799239734080594141974004253398712605070308756782931724707399590949249143570070043645038832397665331/425893268073255478802371197860116443187306288080304196821647951222737953885819632334179938251190070807603684739330066038919556959598154874880",
+        "gap_at_lower": "-86112100142410098354116962554849542087757507544174011957050146873622498710789926059205427289566459788330169920149530149135969554363440405864759616389248344095885129753787242978625564283817436540953786698976692332573943698651642333951892193556558873940699030375495685767114204841989593077200618266257616964727293560727372933365285527201577697326651185633049033731382017259399921323084518843261373032436097183577964891614437420678552702774362393/674737608575356592173236332309112164967973122520311919984679946932313297742978201217478034320958824523289069490727513847819130248159886738427571668481154373961906243935515118955111250075906714530724277511085643229517503123994903315743795890085786222457032739770552415333901170919261018812178174274394487617484725940317331067910232475182054966737981703644967998322316507822165601054899187419021878054870917252186150742339686716242288753348960989910878779894818406400000000000000000000",
+        "gap_at_upper": "3705445471471921237504800163838800180821945394101375403175129464494338050171988360826429141349979120516208767562677208342952967604998161535795346993958283104992803051993784003727570384482198128122220080029134708482569911478881923507214653706754562990511954385352862412876138559389710731701597818505026276828998897753949125478182933599636853253227135044580784941985682423536072468714226924582732941594335417429335841800068898942680606201318494165667983/67446532709154243564357787769821574132183459916335956302335583925967831526085914189658110575292418358659925813522392794850308561163019774551857798247240175292227042111676042720163210886429414303895566720973074809379893263204794444314895944227126778928332850131599253176666908862393532979284069076002541747814855116046474046213768157796451172070472142309380409791799663806434936197361516030450683154562316074100095923236650275577345625273572414625199970770172483408075161600000000000000000000"
+      },
+      "claim_ceiling_witness": {
+        "tau": "63247/250000000000",
+        "r_lower": "759709164758382933791597835943771/2596148429267413814265248164610048",
+        "r_upper": "1519418329516765867583195671887543/5192296858534827628530496329220096",
+        "tau_at_lower": "6733330974928021141176828751370221670147549540520925164528408765092385296777828332872796790374809271862876947947008221250029315127507/26615218804559983640239176369512476980141451870514357711428803917873093204204457938282450064529848803455802921838710397188979013703014809600",
+        "tau_at_upper": "107733295598848338258829260021923738167663122810617947288279996395929852629816152900859396550090083311525177821322819603175924670735331/425843500872959738243826821912200197351280883641946566792366076423524087734430599553485554787770448736329307140655147544135487784966034554880",
+        "gap_upper": "-3366639964734846646631821727751607703706154699374553866536249013202932228807992357125157095330202632302423084071273779318968036678575553439875403698715726247959351580052924076115163925085587615841801754870938474105254588740681293007220026085817954482742404889122875114718841058726765162169795825099994965651138945655389181620172945760917688788520888355844481825232008942161196239959954401229243613648499351513796933470641945316148667683671554049211814076568730425172350833713/209606851485554805491419223323248715840835391916469521146011280576298424485994575845021446652889391449614771561573634766259344421669163212624783189510036701089798465999005140868928543596090065784287294094041047651263426511686747132380898396357042930236933934676832358751585750854962092699251506560205740918034679470764396010054096898564429812827710232596278777035492887938363954472654432001486298096207665557133560620124966051890105425750178602589348138336085501542400000000000000000000"
+      },
+      "beyond_control": {
+        "point": {
+          "r": "1",
+          "delta": "203/335233665",
+          "tau": "203/335233665",
+          "p": "41209/90541",
+          "S1": "812/585",
+          "S2": "362164/342225",
+          "S3": "202168988/200201625"
+        },
+        "gap": "222899099925558223816236274375945104044302684044335977083613078521578171702838687588979268631619770028928387189688544138111524222987557299713217335358772721582092420872870571234114943277193/851975180602994107538095073180708898882872451036633762197007313294060894005743033073398976767858955359523009404355254822476533342711358007877130955560069899054184704438278553600000000000000000000",
+        "classification": "NONCERTIFYING_UPPER"
+      },
+      "classification": "CERTIFIES_CLAIM_INTERVAL",
+      "omitted_variance_lower_at_r1": "125910334700961210816898343390165036531603078546966274724847126945266057848/51910411796539136907477794120441736405558247347097293141974090318823948561403238797"
+    },
+    {
+      "row": 9,
+      "mR": "1000000",
+      "lane": 1,
+      "g_lower": "12314707036572187748666479544924252658733777163498234054717600657957/4820814132776970826625886277023487807566608981348378505904128",
+      "g_upper": "12314707036572187748666479544930872259179735364652003355040694628901/4820814132776970826625886277023487807566608981348378505904128",
+      "components": {
+        "packet_kinetic": "3/4000000",
+        "dressed_packet_kinetic": "12314707036572187748666479544930872259179735364652003355040694628901/10131736339021547170256357889251825001204975882017910832186072161225749299200000",
+        "signed_paid_kernel": "61573535182860938743332397724654361295898676823260016775203473144505/7257476721674948230460294540097336331394387780268102230591745582397818012696576",
+        "massive_recoil": "725399897045216726787161392432610651536818200249808844280603859151181807229691729680864420772857897591979526901315601986419884319060373343711525/2002218527226781497800286692614877449598157786065497387341869577557783868789246203737049750176757101918999117469521422223904122977347515208346112568066048",
+        "full_source_one_boson_CT": "221726300193482240414739964206480355026531135240559320407507706793362505/507676974838758228578740396229033018477688296276227504289351710723570216596406272",
+        "normal_vacuum_gate": "2660660123492169228254295847549305313762717/23789702660030325391043749478400000000000000000000",
+        "dressed_correlated_gate": "12314707036572187748666479544930872259179735364652003355040694628901/10131736339021547170256357889251825001204975882017910832186072161225749299200000"
+      },
+      "A": "178582690736633131546203173444095522405612631898421796524268488673658191741749945585582894913676927401905812117137529084496487731159306402946866277494475002709319583852731073597052901881/207016202309074014709778902485896950281344296206204291628479483244821016645788612094131691597098519100843885166894728422421706558792700281345433350883263248464144017601331200000000000000000000",
+      "B": "4704599843888709457810803847029486060046693481093369493729551609773677931/2419158907224982743486764846699112110464795926756034076863915194132606004232192",
+      "kappa_upper_used": "5/4584392",
+      "inherited_retarded_kappa_upper": "1397567382143039561/1982041545880347158249472",
+      "retarded_numerical_lower_required_for_certificate": false,
+      "D_min": "1",
+      "D_max": "37994072844865984749400085417092068408879955456243988880714545808069704377/37994011271330801888461342084694343754518659557567165620697770604596559872",
+      "F_full_upper": "3178668350406124727735401864862418274038200687426276699230060679955896531789/7278057111288437964904822320339417352896139415415997501492146124933102625126080315392",
+      "C_cross_lower": "73888242219433126491998877269545515952402662980989404328305603947742/37994072844865984749400085417092068408879955456243988880714545808069704377",
+      "C_cross_upper": "4044421091700049352400947351994886665331183941456011554171209813214848346155541/2079444888939553704258520662954119243684611261547427857569184607123743607178880090112",
+      "gap_at_r0": "-182671237477313694483994772082197953861415660980903168057258541728316188539497577914382538403715684924167325026273816930280096049272559425883536272520032043745946924947268926402947098119/207016202309074014709778902485896950281344296206204291628479483244821016645788612094131691597098519100843885166894728422421706558792700281345433350883263248464144017601331200000000000000000000",
+      "gap_at_r_infinity": "390211463331135752499597433176953439250733008265452046248474984371685656264133026248808034349248552285225413593624383994539652060918829876308597090580179533781049247852731073597052901881/207016202309074014709778902485896950281344296206204291628479483244821016645788612094131691597098519100843885166894728422421706558792700281345433350883263248464144017601331200000000000000000000",
+      "positive_gate_gap_lower": "178582690736633131546203173444095522405612631898421796524268488673658191741749945585582894913676927401905812117137529084496487731159306402946866277494475002709319583852731073597052901881/207016202309074014709778902485896950281344296206204291628479483244821016645788612094131691597098519100843885166894728422421706558792700281345433350883263248464144017601331200000000000000000000",
+      "changed_paid_epsilon_gap_lower": "178582690736633131546203173444095522405612631898421796524268488673658191741749945585582894913676927401905812117137529084496487731159306402946866277494475002709319583852731073597052901881/207016202309074014709778902485896950281344296206204291628479483244821016645788612094131691597098519100843885166894728422421706558792700281345433350883263248464144017601331200000000000000000000",
+      "unique_zero": {
+        "r_lower": "693955270011743659634278223929281/5192296858534827628530496329220096",
+        "r_upper": "346977635005871829817139111964641/2596148429267413814265248164610048",
+        "tau_lower": "15806351102526944557955511495074736156665111162301107457200045469622307826266418882770123878421210853075146266601015024674889235799299/107619152742220604505468690867723313901947348482749362661817619528589026541229168529053929532087941492360402059492378405012269457781062369280",
+        "tau_upper": "987896943907934034872219468442174138624619893600304200907085243264047346362769378720036504635459909398813685033608374221060605380227/6726197046388787781591793179232721473895752948998468040381339013722028900770567939925258100916078641802981908752449319459975921936294215680",
+        "gap_at_lower": "-4959233539721780496870930573574122191771956913829156314930271091710246613598471496157099139463091372077151891792187293274092234706500128554011678670823083916139677375091485196247511855199221808461686009614658658022971638084119760816879579038018092971445934211290781983026849076191051135454711339462464647395862241871926123872560883463245578666175467548924313214773062627024571964995973365212942552574595371200089484950342036589912636819496858107865567/7896086898564476818588729128156085067080170837016121818471630146292399535381413314049787363085792572178059514797536712517934263144422617029817168443475823484818739355842509027621369224241576542959029532931404482944344541750692236434502159992943530933452330783535344911367630200130265643390711306094831617851359159544454708818917018858831618745180029513914903748146063420893062528641918705010842984305039774472309258639258170820027266735773984926904726085264452596898201600000000000000000000",
+        "gap_at_upper": "165397812041289542093047189248990693763052590316303640599877857822826385025842099665111070463051009041116356668308519881825713943435377213632344351059003440408193326173339952964038664361006522595688490978753878115843195086346119499666335291263475040506212565062837463004526694113942070654323815585112637411738103184475388598625350075537228326703539057959077338112948002187025061533458592221551460687594512069205418881011074718115681007515352198751/705583745531445794144724059143853625992554876696547280976619878905505965079532864117308910132632167880091906059858257717912565661002905048855062045282770325938291344243534684888773024180899319368902232520772603455822047466771432944485873304446241205328061969400290507852634176225043263643643765312702159347816398301916826393953783737651000855858826355540596612421316531655875905365522970437866517252177056383822622048064928738488883839682215757764341580219249013555200000000000000000000"
+      },
+      "claim_ceiling_witness": {
+        "tau": "29333/200000000000",
+        "r_lower": "692584619712759260405510237867699/5192296858534827628530496329220096",
+        "r_upper": "173146154928189815101377559466925/1298074214633706907132624082305024",
+        "tau_at_lower": "15737835091024554433059745516634549499510478791147673567694554159706045826592791891886208152305641013135352967312942327390193107364275/107304640446081576606959707610094791527035387043727449842236140059858182210623936220382653210977333385203847845629837155205452172252055339008",
+        "tau_at_upper": "61475918324314665754139630924353903961495834965753747843398901764665319774070761213195705586018597769345647928338074590205043943475/419158751742506158620936357851933674886398488322640769716775342511520427907806761759126521576167700561171018554814183525631519368656453632",
+        "gap_upper": "-715479895356513885843982022535514542734785685786677049150689711878463674223266592372380622768777800517362681899673450911374545629535432053482310162592415570682970146941960662585647558030671945617489180154240134646182104226097350261912476883061636439632071276408973361444347208410417346718019844543590356930752057194347540654811845548810809687068327355691139044775334635163508740642617281769958213397155911656552177674911136570219027954361090951380488731136969718578400688153/604886260137942390343209495568673588327913258765739470031854742649662075256480241571504130610950380506040514394527252995154602974395229810071484885713273669559095712426481878597600686807645951687428788565625344591706306072974388447732539943176242036278148373445405089629659787863035296916458689138697478880197638884135636348632536251355295370646722199971333061927864478906852826631908330475828780356021166085370033048197507227501192119781301389362328166700836454400000000000000000000"
+      },
+      "beyond_control": {
+        "point": {
+          "r": "1",
+          "delta": "203/335233665",
+          "tau": "203/335233665",
+          "p": "41209/90541",
+          "S1": "812/585",
+          "S2": "362164/342225",
+          "S3": "202168988/200201625"
+        },
+        "gap": "203963242077336502514582500083768097189702063031701437218298153110768361363811942964222060295914441951489284960064922138436665509787949820544156738148908894621360282065453587888849312307501/154904578291453474097835467851037981615067718370297047672183147871647435273771460558799813957792537338095092618973682694995733335038428728704932901010921799828033582625141555200000000000000000000",
+        "classification": "NONCERTIFYING_UPPER"
+      },
+      "classification": "CERTIFIES_CLAIM_INTERVAL",
+      "omitted_variance_lower_at_r1": "150209061817852411514420420472123389964650515964872178449796564371225893847896/311462973000281834286319711362762139657258348652148238517901399930136084915079024737"
+    },
+    {
+      "row": 10,
+      "mR": "1000000",
+      "lane": 2,
+      "g_lower": "15795019379727689711177778134347777111915117973250027124803583453111/6427752177035961102167848369364650410088811975131171341205504",
+      "g_upper": "15795019379727689711177778134356603245843062241455052858567708747703/6427752177035961102167848369364650410088811975131171341205504",
+      "components": {
+        "packet_kinetic": "3/4000000",
+        "dressed_packet_kinetic": "15795019379727689711177778134356603245843062241455052858567708747703/13508981785362062893675143852335766668273301176023881109581429548300999065600000",
+        "signed_paid_kernel": "78975096898638448555888890671783016229215311207275264292838543738515/9676635628899930973947059386796448441859183707024136307455660776530424016928768",
+        "massive_recoil": "2791224849569202742224717583080421052754000107199524855567057512493902196950238676712995953795102702877362882230837039905202111080879741244978725/8008874108907125991201146770459509798392631144261989549367478310231135475156984814948199000707028407675996469878085688895616491909390060833384450272264192",
+        "full_source_one_boson_CT": "284389323931997053249755895309090641441404335657398226718511596002392515/676902633118344304771653861638710691303584395034970005719135614298093622128541696",
+        "normal_vacuum_gate": "2660660123492169228254295847549305313762717/23789702660030325391043749478400000000000000000000",
+        "dressed_correlated_gate": "15795019379727689711177778134356603245843062241455052858567708747703/13508981785362062893675143852335766668273301176023881109581429548300999065600000"
+      },
+      "A": "714305250031759651666467940770779440137653784821186089713789273351220525216999185429769835351706815550296377394380963900754652515271420231569314682757153849525786522282481182358182310649/828064809236296058839115609943587801125377184824817166513917932979284066583154448376526766388394076403375540667578913689686826235170801125381733403533052993856576070405324800000000000000000000",
+      "B": "18102561145970247084152873275339162483838012733495945895834441021781174379/9676635628899930973947059386796448441859183707024136307455660776530424016928768",
+      "kappa_upper_used": "5/4584392",
+      "inherited_retarded_kappa_upper": "1397567382143039561/1982041545880347158249472",
+      "retarded_numerical_lower_required_for_certificate": false,
+      "D_min": "1",
+      "D_max": "50658760670204634489730345335149796789041108625400761436194653644672485011/50658681695107735851281789446259125006024879410089554160930360806128746496",
+      "F_full_upper": "4077005490044284172937707915751126644913401768572021151332057967399677824367/9704076148384583953206429760452556470528185887221330001989528166577470166834773753856",
+      "C_cross_lower": "94770116278366138267066668806086662671490707839500162748821500718666/50658760670204634489730345335149796789041108625400761436194653644672485011",
+      "C_cross_upper": "5187432338704116124560568690639964166026950243340421510340798681711278404367623/2772593185252738272344694217272158991579481682063237143425579476164991476238506786816",
+      "gap_at_r0": "-730710462824027652454323841334394464930459386696113768612318848256676995907990908570091897917863633753996171179264420158351682606456043083752295517300874336295279512917518817641817689351/828064809236296058839115609943587801125377184824817166513917932979284066583154448376526766388394076403375540667578913689686826235170801125381733403533052993856576070405324800000000000000000000",
+      "gap_at_r_infinity": "1514877685098763129923861748243955196370618070673814362398922023426020592329665142881428385100428398434040559215361669244852201300195279715015886652743903588631566234282481182358182310649/828064809236296058839115609943587801125377184824817166513917932979284066583154448376526766388394076403375540667578913689686826235170801125381733403533052993856576070405324800000000000000000000",
+      "positive_gate_gap_lower": "714305250031759651666467940770779440137653784821186089713789273351220525216999185429769835351706815550296377394380963900754652515271420231569314682757153849525786522282481182358182310649/828064809236296058839115609943587801125377184824817166513917932979284066583154448376526766388394076403375540667578913689686826235170801125381733403533052993856576070405324800000000000000000000",
+      "changed_paid_epsilon_gap_lower": "714305250031759651666467940770779440137653784821186089713789273351220525216999185429769835351706815550296377394380963900754652515271420231569314682757153849525786522282481182358182310649/828064809236296058839115609943587801125377184824817166513917932979284066583154448376526766388394076403375540667578913689686826235170801125381733403533052993856576070405324800000000000000000000",
+      "unique_zero": {
+        "r_lower": "352327584679637300698179869502755/2596148429267413814265248164610048",
+        "r_upper": "704655169359274601396359739005511/5192296858534827628530496329220096",
+        "tau_lower": "1021760123092417874441031620731533926885795792564669753238763440686414545585160412183236488161997805333436460765041043955552371549555/6880936998977019489417425698621297073539651165334494968344912358384835702845419523221099507690047454854341723602995537270869309482694868992",
+        "tau_upper": "16348161969478685991056505931704594045451324792600195817429144950885848563816589184973240796404060669602803328799944174225585547921699/110094991983632311830678811177940986278380772672113142003799018024112804721665330841098442796352608338461172713113812922556561201297526620160",
+        "gap_at_lower": "-236516524598307248522956372337697871543508381644477738218252772183966018975060704721553550339404417748490853481024550942520603542807196144190690739802565678547650069521579658939256380201289872455461055300932190812719830367595306649754348925967060166456771262528682160745002104559052658928562728629008984115911007252033678231745527134876787020767007750770973872966594391094140755418325288234501522102310634758390277744239718961186757471913049257259/523471604258023105422803455642669973302911253836284174254725983669491690406530523367509911580283585580469082292254468641028388797630664846266230556523554897718359308531395706709203438163993136706175950361932084435078183577868783325135831853205623192476489638564153288216538614085813366898342337329150039124226235939888200476439387024196859491174056977971851862188390494109175004361080505587490908488431514078375663870734822493448704572824950570391325177229463466803200000000000000000000",
+        "gap_at_upper": "30367094111097714241965729600806223210597139746357347819820652424880590829719136103430963777020837035184841131313610207107871915072889724204753047939215112146824581705550745341864191563980638995984216812428612761398762628318926666954707676232665724109617287252377880528942924083776968877075227377166284404450521697419367766262124898087359860167228217116478989257159732123264849308064313406914001354853642434326060843291219660973284713583609547618648411/78421909199819551051116693053975613734005903891518444266397051919871808396609418098189975641399120167344354056772361801328800386158254919489478364712803276471130111097533022986083004542300704384724052007570697389673009481066295989864335646985922999284338216955449487574474310668044751004961780992306536109329681828864492396185811503904176510322050364572383484620820486852854891075516703258725159980048342100361670493324557604112693841843079600337038787984670593696084787200000000000000000000"
+      },
+      "claim_ceiling_witness": {
+        "tau": "74141/500000000000",
+        "r_lower": "175816728975057488288248843932849/1298074214633706907132624082305024",
+        "r_upper": "703266915900229953152995375731397/5192296858534827628530496329220096",
+        "tau_at_lower": "63582682604076409339993362763598736373803802672138715909755263330037871490986939567778130073852461846203647305165309496835982080579/428795690670994519496590029562581719607823056789785593366331350517616866141403257651402601149125306429992672492678942948221830596940267520",
+        "tau_at_upper": "16277166746643560791038300867481327576373894745635626033797114212821681608898497688501218016691378835772203611513856322113945122899027/109771696811774596991127047568021152876061402925772655787934356219675182421761882834339994711054617987302016783173739576926744537980899164160",
+        "gap_upper": "-18861887509043906956576960572997867805861556254678729333343019051756460335815864037359237465621142315680393904525065506784995791934840541219219414842673835691239561005372456176675875835090425350671531060955307327471987085350388818295342104789605686032392823768943507569224883868004999303780854622810484504012853198552595557673921760019243055996145320005190221696240304012801275233609108868250473490606035269875935855706879607910129783772009753762800372747624844450101040901391977/16183505674969206136463105118940098461510310180210972098627036371433236891943734448235179184632205808219254963465831081297744893100261263490860254213457712758041509127296984431623554003787435002658363133201196241624653337507199096088568479927534327973809359512365883510342295226646056327097856490228311096224983459559479655967429636033487333198004543876720606950450119960111584884080072184167567465363342746213780966155051475005258200488640864167169097906762337065369600000000000000000000"
+      },
+      "beyond_control": {
+        "point": {
+          "r": "1",
+          "delta": "203/335233665",
+          "tau": "203/335233665",
+          "p": "41209/90541",
+          "S1": "812/585",
+          "S2": "362164/342225",
+          "S3": "202168988/200201625"
+        },
+        "gap": "8699452282261601780711724502387749885561247634777256753337908517898566391682164937467848179499987272557874414848391134967759161683189131423714290680438688427432727371515742611990198598951919/6815801444823952860304760585445671191062979608293070097576058506352487152045944264587191814142871642876184075234842038579812266741690864063017047644480559192433477635506228428800000000000000000000",
+        "classification": "NONCERTIFYING_UPPER"
+      },
+      "classification": "CERTIFIES_CLAIM_INTERVAL",
+      "omitted_variance_lower_at_r1": "192660291095653762544223354104474807213077349300886991581722849426734200894408/415283938399453782836052827010653278180223816364401284702091236781188711567056684491"
+    },
+    {
+      "row": 11,
+      "mR": "1000000",
+      "lane": 3,
+      "g_lower": "15106485681642569419946349900230600155610324548892502847261474398633/6427752177035961102167848369364650410088811975131171341205504",
+      "g_upper": "15106485681642569419946349900239426289538268817097528581025599693225/6427752177035961102167848369364650410088811975131171341205504",
+      "components": {
+        "packet_kinetic": "3/4000000",
+        "dressed_packet_kinetic": "604259427265702776797853996009577051581530752683901143241023987729/540359271414482515747005754093430666730932047040955244383257181932039962624000",
+        "signed_paid_kernel": "75532428408212847099731749501197131447691344085487642905127998466125/9676635628899930973947059386796448441859183707024136307455660776530424016928768",
+        "massive_recoil": "2669550268382705965450982889211447673937704396294345983712459044784355027895897995101417363417560717420380894420547424658180198083358176683066875/8008874108907125991201146770459509798392631144261989549367478310231135475156984814948199000707028407675996469878085688895616491909390060833384450272264192",
+        "full_source_one_boson_CT": "271992274697974462406134029953810870343136530051841002101365922476516125/676902633118344304771653861638710691303584395034970005719135614298093622128541696",
+        "normal_vacuum_gate": "2660660123492169228254295847549305313762717/23789702660030325391043749478400000000000000000000",
+        "dressed_correlated_gate": "604259427265702776797853996009577051581530752683901143241023987729/540359271414482515747005754093430666730932047040955244383257181932039962624000"
+      },
+      "A": "714277125179471138607730201636079248414416533531529805804059432764298455064025283021722144729041682334301876514250952389609686481950192244995490219652943228296780813642014205002225279399/828064809236296058839115609943587801125377184824817166513917932979284066583154448376526766388394076403375540667578913689686826235170801125381733403533052993856576070405324800000000000000000000",
+      "B": "17313437494330777314214571996215104794455783123393757824013372629207319925/9676635628899930973947059386796448441859183707024136307455660776530424016928768",
+      "kappa_upper_used": "5/4584392",
+      "inherited_retarded_kappa_upper": "1397567382143039561/1982041545880347158249472",
+      "retarded_numerical_lower_required_for_certificate": false,
+      "D_min": "1",
+      "D_max": "16886252409178714688042963059336208734385442367144546549524421978042404207/16886227231702578617093929815419708335341626470029851386976786935376248832",
+      "F_full_upper": "3899281386028533027837462232934981739394041900667611960002939093853732407025/9704076148384583953206429760452556470528185887221330001989528166577470166834773753856",
+      "C_cross_lower": "10070990454428379613297566600153733437073549699261668564840982932422/5628750803059571562680987686445402911461814122381515516508140659347468069",
+      "C_cross_upper": "4961302703414243705247589723512540154098998259190899356322962753653741150107225/2772593185252738272344694217272158991579481682063237143425579476164991476238506786816",
+      "gap_at_r0": "-730738587676316165513061580469094656653696637985770052522048688843599066060964810978139588540528766969990672059394431669496648639777271070326119980405084957524285221557985794997774720601/828064809236296058839115609943587801125377184824817166513917932979284066583154448376526766388394076403375540667578913689686826235170801125381733403533052993856576070405324800000000000000000000",
+      "gap_at_r_infinity": "1464203430399408193916894056229763663730118072629746080355441131511421740956717428617664367836006726610664805443413593350140045245288787739501864666107038866266361664842014205002225279399/828064809236296058839115609943587801125377184824817166513917932979284066583154448376526766388394076403375540667578913689686826235170801125381733403533052993856576070405324800000000000000000000",
+      "positive_gate_gap_lower": "714277125179471138607730201636079248414416533531529805804059432764298455064025283021722144729041682334301876514250952389609686481950192244995490219652943228296780813642014205002225279399/828064809236296058839115609943587801125377184824817166513917932979284066583154448376526766388394076403375540667578913689686826235170801125381733403533052993856576070405324800000000000000000000",
+      "changed_paid_epsilon_gap_lower": "714277125179471138607730201636079248414416533531529805804059432764298455064025283021722144729041682334301876514250952389609686481950192244995490219652943228296780813642014205002225279399/828064809236296058839115609943587801125377184824817166513917932979284066583154448376526766388394076403375540667578913689686826235170801125381733403533052993856576070405324800000000000000000000",
+      "unique_zero": {
+        "r_lower": "179261425405596017741484113539551/1298074214633706907132624082305024",
+        "r_upper": "717045701622384070965936454158205/5192296858534827628530496329220096",
+        "tau_lower": "66371579562763551690868541105158133193552979343252017976043620777198638615819935374138570996532807390996070368300235911703207539075/441437296650808001464140816571417928157059286675226945332765633784071266127177760375492036150848777695217535824762531070908349581526827008",
+        "tau_upper": "16991124368067469232862346522920534668626436295806317393526732330761933510200756775015377795025170587255846769445499494136105039299315/113007947942606848374820049042283226702552078837533232282386881144632729878552098509930774204729189650357067533306851920656050453471488376832",
+        "gap_at_lower": "-243683183648323126181243180014190877498032024792058569325656657144776055943527083378931753906524804982414326967609422882240009601430816266605438319501620923502597782543291763117086694511827239385885664939735793535558889468747002145440494202606705984833108249053024240421057220501371588220987159530120244019484530719293139552259748104557778917990705493548784304830493666033872675450291039686728354389623508955469759528854007110779635228468216559/658850119648034900039271401368089603614129010868672629814230538386579662878684001286090711430491344411792643216729528761285868694297437198966341707685539462118882116234528675551821377285651501678933491101080836918983164245317118932354323510735337041221994412765601086628609202172342346271621994924012444064113577762922820193929400518413910143411547516435994122915272963223368531275079318786475673654513591557758551179827015512846560801257152801952928584699163443200000000000000000000",
+        "gap_at_upper": "14356388033245627404885655459251297249435113368918329866875597902096748778098468691940488181401920395982068110326046489395012686839564272755023269302168582447997902440147206778194227225556645324919263209081622881084169430330534561446575466770610556008148771069334897810364250784545743228218751990011141600818350557525353905897088464307563852450153897978747262785759918596711999305496671829801908367445194069548302579507325479908977714478944878811133967/32394872465925148231142825276598387436113350887585652817497965656500036861470063821997019205613935380864245133238363121068648011466781909961410572761687385475524695520764685324798215360380289645685275701688270578382217584531464763653272888833966858234612221707080450051190042211159171549870355795274462076237888428853553155798547869465064774541338323953995803602131606821290361901368652243358932068318154726178848471714779267497135110345761515413349406948782485220517478400000000000000000000"
+      },
+      "claim_ceiling_witness": {
+        "tau": "75071/500000000000",
+        "r_lower": "357817435390721927999257691058587/2596148429267413814265248164610048",
+        "r_upper": "715634870781443855998515382117175/5192296858534827628530496329220096",
+        "tau_at_lower": "1057316571951117335672116055374939853165469961748850951528088000980680148634414091309860795104405537333995682885263649853162715384275/7042110614958621409546403107557781721499518997803129423347395675572054315397662734444154547760294435344470901456716647837502946980803903488",
+        "tau_at_upper": "16917065151217877370753856885999090066287435531903829675556144784126498700241008502226605094309952930343167062110276425490641348386275/112673769839337942552742449720924744182066208478285030252889279023012637358920747868659568671165285678802967841329426823026084201132921454592",
+        "gap_upper": "-14528845668871708849935910749902332145870803849733165160336524777669729875018047337416775616545910878835553432422910829253112863837451157158004507429834735942992427954167236766489398140307912724189761534952285259512456638260577717505176756604877355192593132177752502312516562084510332038124875604987075857533862712015179179117442411177878370142504467663551496268025245596599421599114617693679487520575027911210591018374739761710819915400614730214433790237773450949765771474154799863/12658651102889197613288418859560979376059221300128794347285284993564588410908254916646566925336379311565479340655212448899502915281302122938424376160363739962711231645458455190422998436567634144543092867654811522220434246105366837310399594280743060756721806403669553685466103570185322938742834700737850869871558402106557510391532300016476347145911616011973283377787938705032751101644337322981147245966173600571166503196856336273067412179174178290297491199265891923945062400000000000000000000"
+      },
+      "beyond_control": {
+        "point": {
+          "r": "1",
+          "delta": "203/335233665",
+          "tau": "203/335233665",
+          "p": "41209/90541",
+          "S1": "812/585",
+          "S2": "362164/342225",
+          "S3": "202168988/200201625"
+        },
+        "gap": "8396375346891447662830456591515357840198747780274077372363685004379495563023491524145244265149541644380741015357475100865568992548395528944722374951183943880793634450243258921373316274733169/6815801444823952860304760585445671191062979608293070097576058506352487152045944264587191814142871642876184075234842038579812266741690864063017047644480559192433477635506228428800000000000000000000",
+        "classification": "NONCERTIFYING_UPPER"
+      },
+      "classification": "CERTIFIES_CLAIM_INTERVAL",
+      "omitted_variance_lower_at_r1": "6824513988047248886145135215791189648670336128753237698567021287748858287912/15380885562132753671651470625090291148442791801915646803018796399079355425253707663"
+    }
+  ],
+  "breaking_controls": {
+    "drop_incidence_variance": {
+      "classification": "FAIL_IDENTITY",
+      "r": "1",
+      "p": "41209/90541",
+      "actual_positive_witnesses": [
+        {
+          "row": 0,
+          "omitted_term_lower": "125910334700961210816898343390165036531603078546966274724847126945266057848/51910411796539136907477794120441736405558247347097293141974090318823948561403238797"
+        },
+        {
+          "row": 1,
+          "omitted_term_lower": "150209061817852411514420420472123389964650515964872178449796564371225893847896/311462973000281834286319711362762139657258348652148238517901399930136084915079024737"
+        },
+        {
+          "row": 2,
+          "omitted_term_lower": "192660291095653762544223354104474807213077349300886991581722849426734200894408/415283938399453782836052827010653278180223816364401284702091236781188711567056684491"
+        },
+        {
+          "row": 3,
+          "omitted_term_lower": "6824513988047248886145135215791189648670336128753237698567021287748858287912/15380885562132753671651470625090291148442791801915646803018796399079355425253707663"
+        },
+        {
+          "row": 4,
+          "omitted_term_lower": "125910334700961210816898343390165036531603078546966274724847126945266057848/51910411796539136907477794120441736405558247347097293141974090318823948561403238797"
+        },
+        {
+          "row": 5,
+          "omitted_term_lower": "150209061817852411514420420472123389964650515964872178449796564371225893847896/311462973000281834286319711362762139657258348652148238517901399930136084915079024737"
+        },
+        {
+          "row": 6,
+          "omitted_term_lower": "192660291095653762544223354104474807213077349300886991581722849426734200894408/415283938399453782836052827010653278180223816364401284702091236781188711567056684491"
+        },
+        {
+          "row": 7,
+          "omitted_term_lower": "6824513988047248886145135215791189648670336128753237698567021287748858287912/15380885562132753671651470625090291148442791801915646803018796399079355425253707663"
+        },
+        {
+          "row": 8,
+          "omitted_term_lower": "125910334700961210816898343390165036531603078546966274724847126945266057848/51910411796539136907477794120441736405558247347097293141974090318823948561403238797"
+        },
+        {
+          "row": 9,
+          "omitted_term_lower": "150209061817852411514420420472123389964650515964872178449796564371225893847896/311462973000281834286319711362762139657258348652148238517901399930136084915079024737"
+        },
+        {
+          "row": 10,
+          "omitted_term_lower": "192660291095653762544223354104474807213077349300886991581722849426734200894408/415283938399453782836052827010653278180223816364401284702091236781188711567056684491"
+        },
+        {
+          "row": 11,
+          "omitted_term_lower": "6824513988047248886145135215791189648670336128753237698567021287748858287912/15380885562132753671651470625090291148442791801915646803018796399079355425253707663"
+        }
+      ]
+    },
+    "positive_gate_baseline": {
+      "classification": "NONCERTIFYING_UPPER_ALL_ROWS",
+      "identity_baseline": "epsilon*p",
+      "proof": "gap=A+B*(1-p)+(epsilon*p-delta)>=A>0"
+    },
+    "truncate_placement": {
+      "classification": "FAIL_INVARIANCE",
+      "full_leakage_rank": 48,
+      "leakage_Gram_diagonal": [
+        "12"
+      ],
+      "one_pair_leakage_Gram": [
+        [
+          12,
+          8
+        ],
+        [
+          8,
+          12
+        ]
+      ]
+    },
+    "flip_signed_contact_gram": {
+      "classification": "FAIL_SOURCE_HYPOTHESIS",
+      "defect": [
+        [
+          "3690368/3",
+          "-35840",
+          "0",
+          "6400/3"
+        ],
+        [
+          "-35840",
+          "3683968/3",
+          "16640/3",
+          "35840"
+        ],
+        [
+          "0",
+          "16640/3",
+          "40832/3",
+          "93184"
+        ],
+        [
+          "6400/3",
+          "35840",
+          "93184",
+          "3647104/3"
+        ]
+      ],
+      "trace_defect": "3687424",
+      "new_contact_drive_gram": [
+        [
+          "1845184/3",
+          "-17920",
+          "0",
+          "3200/3"
+        ],
+        [
+          "-17920",
+          "1841984/3",
+          "8320/3",
+          "17920"
+        ],
+        [
+          "0",
+          "8320/3",
+          "20416/3",
+          "46592"
+        ],
+        [
+          "3200/3",
+          "17920",
+          "46592",
+          "1823552/3"
+        ]
+      ]
+    },
+    "wrong_norm_endpoint": {
+      "classification": "FAIL_NORMALIZED_BOUND",
+      "auxiliary_trial": "(|0>+epsilon|1>)/sqrt(1+epsilon^2)",
+      "actual_D": "328385156402/328385156401",
+      "D_interval": [
+        "1",
+        "328385156403/328385156401"
+      ],
+      "positive_operator": "I",
+      "actual_expectation": "1",
+      "positive_numerator_upper": "328385156402/328385156401",
+      "wrong_positive_upper": "328385156402/328385156403",
+      "negative_operator": "-I",
+      "actual_negative_expectation": "-1",
+      "valid_negative_upper": "-328385156402/328385156403",
+      "wrong_negative_upper": "-328385156402/328385156401"
+    },
+    "changed_paid_ledger": {
+      "classification": "NONCERTIFYING_UPPER_ALL_ROWS",
+      "added_payment": "1/573049",
+      "proof": "gap_changed=A+B*(1-p)+epsilon-delta>=A>0"
+    },
+    "beyond_sufficient_interval": {
+      "classification": "NONCERTIFYING_UPPER_ALL_FOUR_HEAVY_LANES",
+      "r": "1"
+    }
+  },
+  "inherited_premises": [
+    "sharp-profile inverse moments and full TT mode Gram",
+    "Gaussian-averaged full retarded cross lower at mean0/ell1/Delta3epsilon",
+    "normal-EDGE gate overlap and complete correlated gate bound"
+  ],
+  "boundary": "Conditional mathematical sufficient upper for the frozen recipient and zero changed ledger; no actual-energy lower from noncertifying rows and no physical tau/species/ruler assignment."
+}

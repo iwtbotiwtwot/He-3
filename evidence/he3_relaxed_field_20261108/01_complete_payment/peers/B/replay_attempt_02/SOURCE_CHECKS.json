@@ -1,0 +1,16 @@
+{
+  "Gcross_row_sum_upper": "4504704",
+  "Gcross_trace": "88498176",
+  "Gtotal_row_sum_upper": "9009408",
+  "Gtotal_trace": "176996352",
+  "both_contact_Hex_gap3": true,
+  "both_contact_helicity_images": true,
+  "cross_vacuum_metric_equals_G4": true,
+  "full_source_dimension": 64,
+  "internal_vacuum_metric_equals_G4": true,
+  "signed_cross_Gram_minus_G4_over4": true,
+  "swaps_symmetric_involutions": true,
+  "total_gram_is_complete_four_current_Gram": true,
+  "trial_gram_6I": true,
+  "vacuum_Hex_minus3": true
+}

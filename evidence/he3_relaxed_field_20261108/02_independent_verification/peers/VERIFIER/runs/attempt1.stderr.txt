@@ -1,0 +1,4 @@
+  File "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_verification_20261108/verifier/replay.py", line 458
+    'leakage_Gram_diagonal':list(dict.fromkeys(leakgram[i][i] for i in range(48)))),
+                                                                                  ^
+SyntaxError: closing parenthesis ')' does not match opening parenthesis '{' on line 457

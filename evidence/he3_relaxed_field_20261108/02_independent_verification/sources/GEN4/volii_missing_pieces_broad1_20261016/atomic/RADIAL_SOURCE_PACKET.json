@@ -1,0 +1,99 @@
+{
+  "schema": "SHARP_J2_SPATIAL_PROFILE_NEW_TRANSLATION_EXTENSION_V1",
+  "new_assumption": "HomogeneousCartesianplane-waveexp(ikn.d)extensionoforiginalconcentricrayTTcarrier;notrecovereduniquemulticenterlaw",
+  "original_source": "GEN4/samland_emission_carrier1/DERIVATION.md",
+  "original_radial_density": "2omega*j2(omegaR)^2/(kappa*pi),kappa4/5",
+  "mu0": "1/(4R)",
+  "spectral_radial_mu2_mu4": "UV_DIVERGENT,noTaylorintegration",
+  "C_coefficients": [
+    "2/5",
+    "-1",
+    "0",
+    "1/2",
+    "0",
+    "-3/40"
+  ],
+  "H_coefficients": [
+    "1",
+    "-5/2",
+    "0",
+    "5/4",
+    "0",
+    "-3/16"
+  ],
+  "coordinate": "delta=abs(d)/R",
+  "near_domain": "0<=delta<=2",
+  "far_domain": "delta>=2",
+  "profile_coefficient_columns": {
+    "interior": [
+      "delta^0",
+      "delta^1",
+      "delta^2",
+      "delta^3",
+      "delta^4",
+      "delta^5"
+    ],
+    "exterior": [
+      "delta^-1",
+      "delta^-2",
+      "delta^-3",
+      "delta^-4",
+      "delta^-5"
+    ]
+  },
+  "mode_order": [
+    "plus",
+    "cross",
+    "xz",
+    "yz",
+    "q0"
+  ],
+  "source_mode_norm": "eachindividualTrQ\u00b2 normalized1;completefivebyfiveGramdiagonalbyexactazimuthalorthogonality",
+  "shape": [
+    31,
+    12
+  ],
+  "layout": [
+    {
+      "name": "InteriorPair",
+      "row": 0,
+      "rows": 5,
+      "cols": 12
+    },
+    {
+      "name": "ExteriorPair",
+      "row": 5,
+      "rows": 5,
+      "cols": 10
+    },
+    {
+      "name": "DifferencePair",
+      "row": 10,
+      "rows": 5,
+      "cols": 11
+    },
+    {
+      "name": "BoundaryPair",
+      "row": 15,
+      "rows": 5,
+      "cols": 10
+    },
+    {
+      "name": "OriginPair",
+      "row": 20,
+      "rows": 5,
+      "cols": 8
+    },
+    {
+      "name": "Hcolumn",
+      "row": 25,
+      "rows": 6,
+      "cols": 1
+    }
+  ],
+  "both_helicities": true,
+  "full_frequency_and_exterior": true,
+  "all_self_CT_free_background": "SAMEcompleteGramonce",
+  "physical_EM_dictionary": false,
+  "C13_used": false
+}

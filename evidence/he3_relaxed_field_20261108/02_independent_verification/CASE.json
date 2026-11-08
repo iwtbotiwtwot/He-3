@@ -1,0 +1,75 @@
+{
+  "case_id": "he3_relaxed_field_20261108/02_independent_verification",
+  "campaign": "he3_relaxed_field_20261108",
+  "tier": "verification",
+  "constitution_revision": 2,
+  "types": {
+    "EXACT": 8
+  },
+  "credit": {
+    "proposed_by": [
+      "Sean Brady"
+    ],
+    "directed_by": "Sean Brady",
+    "executed_with": [
+      "New source-first proof audit and separately authored exact-rational verification"
+    ]
+  },
+  "independence": "I1",
+  "reproducibility": "R2",
+  "reviewed_and_approved": false,
+  "withheld": [
+    "withheld/he3_relaxed_field_verification_20261108.tar.gz"
+  ],
+  "appeal_of": null,
+  "verifies": "he3_relaxed_field_20261108/01_complete_payment",
+  "method": {
+    "instrument": "Plain Python standard-library exact reconstruction; analytical quadratic-form proof audit",
+    "form": "verification",
+    "window_start_utc": "2026-11-08T13:55:20.010146+00:00",
+    "window_end_utc": "2026-11-08T14:26:28.799425+00:00",
+    "peers": [
+      "VERIFIER"
+    ],
+    "peer_reports": [
+      "peers/VERIFIER/REPORT.md"
+    ],
+    "time_semantics": "Preregistration-to-finalization envelope; no timed Duck window.",
+    "model_configuration": "Fresh context with same parent model/effort inherited; no override. Exact model ID not captured.",
+    "independence_scope": "New proof reconstruction and separately authored source-first host code; prior implementations excluded. No external review.",
+    "reproducibility_scope": "Isolated standard-library exact replay from the case; moment and complete gate premises retained explicitly.",
+    "primary_bound": "Universal spectral kappa<=3Delta*bU; historical numerical retarded-cross lower unnecessary to certificate.",
+    "primary_execution": "peers/VERIFIER/runs/attempt3/EXECUTION.json",
+    "lead_replay": "RESULTS/lead_replay/fresh/EXECUTION.json",
+    "checks_passed": 285,
+    "duck_windows": 0
+  },
+  "edges": [
+    {
+      "type": "USES",
+      "from_type": "EXACT",
+      "to_type": "EXACT",
+      "source": "he3_relaxed_field_20261108/01_complete_payment",
+      "target": "he3_relaxed_field_20261108/02_independent_verification",
+      "source_file": "TRANSFER_MAP.md",
+      "numerical_coefficients_transferred": true
+    },
+    {
+      "type": "DERIVES",
+      "from_type": "EXACT",
+      "to_type": "EXACT",
+      "source": "frozen_source_and_named_moment_gate_premises",
+      "target": "verified_conditional_complete_certificate",
+      "source_file": "DERIVATION.md"
+    }
+  ],
+  "verdict": "HELD",
+  "history_entry": "H002910",
+  "hypotheses": "peers/VERIFIER/HYPOTHESES.md",
+  "source_custody_correction": {
+    "case": "he3_relaxed_field_20261108/01_complete_payment",
+    "receipt": "supplemental_sources/recovered_native_results/EXTRACTION_RECEIPT.json",
+    "scientific_statement_changed": false,
+    "post_verification": true
+  }
+}

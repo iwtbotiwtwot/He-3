@@ -1,0 +1,8 @@
+{
+  "exception": "primary_complete_boundary",
+  "exception_type": "AssertionError",
+  "failed_utc": "2026-11-08T15:15:01.123155+00:00",
+  "registration_sha256": "2218f0e36e440b8be45cafc9b36b42855facc3a1acea8711016dd4e617450706",
+  "script_sha256": "2b12a273110c786727ccc4c7d1314f6aba970a0c37d3c08d628adb526dc0c210",
+  "traceback": "Traceback (most recent call last):\n  File \"/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/free_reference/verifier/attempts/attempt_001/replay.py\", line 553, in main\n    result = audit(args.case, args.out)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/free_reference/verifier/attempts/attempt_001/replay.py\", line 388, in audit\n    require('primary_complete_boundary', bd_primary == independent['full_boundary'])\n  File \"/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/isotope_constructor_cr2_20261108/free_reference/verifier/attempts/attempt_001/replay.py\", line 236, in require\n    raise AssertionError(name)\nAssertionError: primary_complete_boundary\n"
+}

@@ -1,0 +1,35 @@
+{
+  "status": "PASS",
+  "required_files": {
+    "REPORT.md": {
+      "sha256": "aafcb6b2a528c970af2460e15403e6e4a5a48c9959e90f7d155a0e9768cabe51",
+      "bytes": 16670
+    },
+    "RESULTS.json": {
+      "sha256": "ff19f16a5b8f3cec992c9391e690ede3f0d1102213cb7e47a8a963a0518da799",
+      "bytes": 98711
+    },
+    "NOTES.md": {
+      "sha256": "0eb6f64ef03071e013963ad401e61bc788840656135315c7bf22e21ccb2137c3",
+      "bytes": 4361
+    },
+    "SOURCE_OPERATION_MAP.json": {
+      "sha256": "5bad386d40a0601f0dfad2ff67c90ee223800ee9eb32ec4a00316a834646b1fc",
+      "bytes": 123242
+    },
+    "replay.py": {
+      "sha256": "f12995c08e3946a1f3970a1e1a37ac59c185324af16181ccc0d6ef0d33dc8b14",
+      "bytes": 13763
+    }
+  },
+  "all12_rows": true,
+  "intrinsic_successes": 4,
+  "intrinsic_noncertifying": 8,
+  "positive_gate_noncertifying": 12,
+  "native_attempts_passed": 3,
+  "native_operations": 12,
+  "python_syntax": "PASS",
+  "source_binding": "Exact capsule binding retained in each native job",
+  "independent_host_replay": "replay_003_engine_free; only frozen public inputs",
+  "no_other_learner_read": true
+}

@@ -1,0 +1,14 @@
+{
+  "started_utc": "2026-11-08T14:04:39.188635+00:00",
+  "command": [
+    "python3",
+    "-I",
+    "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_verification_20261108/verifier/replay.py",
+    "--case",
+    "/home/lilhelper/SAM_Research_Overflow/Courtroom_II/campaigns/he3_relaxed_field_20261108/02_independent_verification",
+    "--out",
+    "/home/lilhelper/SAM_Research_Overflow/ironclad/campaigns/he3_relaxed_field_verification_20261108/verifier/runs/attempt2"
+  ],
+  "finished_utc": "2026-11-08T14:04:39.525786+00:00",
+  "returncode": 0
+}

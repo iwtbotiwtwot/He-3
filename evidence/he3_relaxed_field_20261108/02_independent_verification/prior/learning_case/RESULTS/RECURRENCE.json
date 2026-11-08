@@ -1,0 +1,90 @@
+{
+  "tier": "learning",
+  "independence": "I1",
+  "replicas": [
+    "A",
+    "B"
+  ],
+  "label_semantics": "FORCED means observed in both blind same-model replicas, not physical truth or external verification.",
+  "findings": [
+    {
+      "id": "complete_payment",
+      "label": "FORCED",
+      "statement": "Both replicas bound the complete retained intrinsic trial, including separate full field and quadratic crossing CT, with the original norm and fragment lower.",
+      "replicas": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "id": "heavy_controls",
+      "label": "FORCED",
+      "statement": "Both certify a nonempty conditional interval for all four heaviest mass/lane controls.",
+      "replicas": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "id": "lighter_controls",
+      "label": "FORCED",
+      "statement": "Both constructed uppers are noncertifying for every lighter control; no actual-energy lower bound follows.",
+      "replicas": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "id": "positive_gate",
+      "label": "FORCED",
+      "statement": "The mandatory epsilon*p identity baseline prevents certification by both constructed positive-gate uppers.",
+      "replicas": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "id": "projector_variance",
+      "label": "FORCED",
+      "statement": "Scalar mean substitution loses the strictly positive p*(1-p)*C_cross term for finite positive tau.",
+      "replicas": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "id": "source_transfer",
+      "label": "FORCED",
+      "statement": "Full-source positive swap decomposition licenses transfer of the signed old source/field account.",
+      "replicas": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "id": "direct_signed_bound_A",
+      "label": "SINGLE-RUN LEAD",
+      "statement": "A derives A_i+B_i*(1-p)-delta by the contact-drive/parity identity and uniform complete CT allowance.",
+      "replicas": [
+        "A"
+      ]
+    },
+    {
+      "id": "rowsum_cauchy_bound_B",
+      "label": "SINGLE-RUN LEAD",
+      "statement": "B derives refined P_i+Q_i*(1-p)-delta using full-source row-sum norms and Cauchy on the signed residual-cross term.",
+      "replicas": [
+        "B"
+      ]
+    },
+    {
+      "id": "drop_variance_shortcut",
+      "label": "REFUTED IN-RUN",
+      "statement": "Replacing P by p while keeping only the scalar-mean field omits a nonzero term in both replicas.",
+      "replicas": [
+        "A",
+        "B"
+      ]
+    }
+  ]
+}

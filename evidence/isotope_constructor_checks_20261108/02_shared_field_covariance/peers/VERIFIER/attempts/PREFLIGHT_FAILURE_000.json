@@ -1,0 +1,9 @@
+{
+  "recorded_utc": "2026-11-08T15:17:44.227463+00:00",
+  "stage": "Read-only custody preflight before mathematical execution",
+  "attempt": "python - <<PY ... fixed-file hashing/schema inspection ... PY",
+  "exit_code": 127,
+  "stderr": "/bin/bash: line 1: python: command not found",
+  "correction": "Used python3; no mathematical execution occurred",
+  "artifacts_modified": false
+}

@@ -1,0 +1,20 @@
+{
+  "sealed_utc": "2026-11-08T13:55:20.010146+00:00",
+  "form": "verification",
+  "expected_outcome": null,
+  "question": "# Independent verification of the complete relaxed He-3 payment\n\nVerify or break the shared conditional statement in CLAIM.json using STATEMENT.md, the full retained source definitions and inherited scalar enclosures. Rebuild the proof and at least one complete sufficient bound without reading or running any prior learner implementation. Audit the common norm, source promotion, full field/self/mixed counterterms, sharp continuum, recoil/gates and fragment LOWER. Preserve all controls and do not change the trial or select physical tau. Register the execution/script hashes before computing, retain every failed/corrected attempt, and return HELD, HELD WITH CORRECTION or BROKE with a hypothesis map and an engine-free fresh replay.\n\nPREDICTIONS.json seals the prior claims and controls before this verification. This is a test of their truth under named hypotheses, never an instruction to reproduce a desired answer. Prior A1 and CR2 mathematical reports are supplied; their code and old result implementations are excluded. No new Duck window, manuscript or engine change, parameter optimization, physical binding fit, push or publication is part of this case. Approval remains false. Next: compare the independently rebuilt proof and controls with the shared statement.\n",
+  "statement_sha256": "f64ed1058e159063a097e6754d9806151c9c61203a28a378aa448c937da944d5",
+  "claim_sha256": "e885f8f5d565393a05c229ec8b796e5fe47dddc457e10471e77dec394c5efa81",
+  "predictions_sha256": "23dd53faa26c76c48c20e9c36ecd363c0b117624c4c015e153586a42a1bc48e4",
+  "controls": [
+    "drop_incidence_variance",
+    "positive_gate_baseline",
+    "truncate_placement",
+    "flip_signed_contact_gram",
+    "wrong_norm_endpoint",
+    "changed_paid_ledger",
+    "beyond_sufficient_interval"
+  ],
+  "source_case_manifest_sha256": "50de2d9deb6a0e0b6d9d4c0fce0b6914d6862713fae363c9ab699cb8b81692cc",
+  "method": "Fresh isolated-context verifier rebuilds proof, source arithmetic and signed complete account from the frozen packet, without prior code. Lead outside research until delivery; retain explicit expected controls and all discrepancies."
+}

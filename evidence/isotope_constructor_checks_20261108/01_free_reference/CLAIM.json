@@ -1,0 +1,31 @@
+{
+  "type": "EXACT",
+  "kind": "VERIFICATION_TARGET",
+  "source": "Isotope-constructor completed TWO report and original source definitions.",
+  "statement": "The retained adjacent H2 template is a noninvariant compression of an earlier complete geometric free pair. Its normalized supported preparations pay12*tau against that parent floor; all complement and reference costs must travel before an all-free comparison.",
+  "h1": "6I8-2A_cube",
+  "free_pair": "h1 tensor I8+I8 tensor h1",
+  "free_pair_dimension": 64,
+  "free_pair_floor": 0,
+  "adjacent_dimension": 24,
+  "compressed_pair": "12I24",
+  "omitted_complement": 40,
+  "true_drift_rank": 18,
+  "cyclic_dimensions": [
+    24,
+    42,
+    46,
+    47
+  ],
+  "dynamically_hidden": 23,
+  "invariant_dark": 17,
+  "three_free_dimension": 512,
+  "primary_dimension": 192,
+  "earlier_omitted_addresses": 320,
+  "primary_floor": 12,
+  "connected_dimension": 48,
+  "connected_compression": "18I48",
+  "additional_connected_preparation_cost": "6*tau relative to primary floor",
+  "reference_scope": "Geometric species-independent source law. No physical proton/neutron/atom Hamiltonian or binding energy is assigned by these floors.",
+  "comparison_scope": "A compression upper or floor is not a lower for the unreduced source. Common energy shifts act on every endpoint and preserve energy differences. Conditional transfer to additional source/field/electron terms needs one declared common Hamiltonian and metric."
+}

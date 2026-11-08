@@ -1,0 +1,26 @@
+{
+  "alpha": {
+    "value": "0.0072973525643",
+    "uncertainty": "0.0000000000011"
+  },
+  "electron_rest_MeV": {
+    "value": "0.51099895069",
+    "uncertainty": "0.00000000016"
+  },
+  "h_J_s": {
+    "value": "0.000000000000000000000000000000000662607015",
+    "exact": true
+  },
+  "c_m_s": {
+    "value": "299792458",
+    "exact": true
+  },
+  "e_J_eV": {
+    "value": "0.0000000000000000001602176634",
+    "exact": true
+  },
+  "source": "2022 CODATA, current primary NIST table verified 2026-10-06",
+  "url": "https://physics.nist.gov/cuu/Constants/Table/allascii.txt",
+  "role": "Independent physical constants for the common unit map; not fitted to isotope binding.",
+  "uncertainty_scope": "Quoted standard uncertainties retained as reference metadata; central decimal controls are exact specified mathematical inputs, not guaranteed enclosures of nature"
+}
